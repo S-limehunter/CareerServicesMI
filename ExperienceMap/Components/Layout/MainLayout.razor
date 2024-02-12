@@ -5,35 +5,61 @@
 <div class="page">
 
     <main>
-        <div class="top-row px-4">
+       <!-- <div class="top-row px-1">
             <a href="https://learn.microsoft.com/aspnet/core/" target="_blank">About</a>
-        </div>
+        </div> 
 
-    <div class="rz-p-sm-12">
-        <RadzenRow>
-            <RadzenColumn Size="3">
-                <RadzenAccordion>
-                    <Items>
-                        <RadzenAccordionItem Text="Orders" Icon="account_balance_wallet" CollapseTitle="Collapse orders."
-                                             ExpandTitle="Expand orders." CollapseAriaLabel="Collapse the order details."
-                                             ExpandAriaLabel="Expand the order details.">
-                            Details for Orders
-                        </RadzenAccordionItem>
-                        <RadzenAccordionItem Text="Employees" Icon="account_box" CollapseTitle="Collapse employees."
-                                             ExpandTitle="Expand employees." CollapseAriaLabel="Collapse the employee details."
-                                             ExpandAriaLabel="Expand the employee details.">
-                            Details for Employees
-                        </RadzenAccordionItem>
-                        <RadzenAccordionItem Text="Customers" Icon="accessibility" CollapseTitle="Collapse customers."
-                                             ExpandTitle="Expand customers." CollapseAriaLabel="Collapse the customer details."
-                                             ExpandAriaLabel="Expand the customer details.">
-                            Details for Customers
-                        </RadzenAccordionItem>
-                    </Items>
-                </RadzenAccordion>
-            </RadzenColumn> 
-        </RadzenRow>
-    </div>
+        <div class="rz-background-color-base-400">
+             <a style="float:right; margin:10px" href="https://learn.microsoft.com/aspnet/core/" target="_blank">About</a>
+            <RadzenRow>
+                <RadzenColumn Size="3">
+                    <RadzenAccordion>
+                        <Items>
+                            <RadzenAccordionItem Text="Orders" Icon="account_balance_wallet" CollapseTitle="Collapse orders."
+                                                 ExpandTitle="Expand orders." CollapseAriaLabel="Collapse the order details."
+                                                 ExpandAriaLabel="Expand the order details.">
+                                Details for Orders
+                            </RadzenAccordionItem>
+                            <RadzenAccordionItem Text="Employees" Icon="account_box" CollapseTitle="Collapse employees."
+                                                 ExpandTitle="Expand employees." CollapseAriaLabel="Collapse the employee details."
+                                                 ExpandAriaLabel="Expand the employee details.">
+                                Details for Employees
+                            </RadzenAccordionItem>
+                            <RadzenAccordionItem Text="Customers" Icon="accessibility" CollapseTitle="Collapse customers."
+                                                 ExpandTitle="Expand customers." CollapseAriaLabel="Collapse the customer details."
+                                                 ExpandAriaLabel="Expand the customer details.">
+                                Details for Customers
+                            </RadzenAccordionItem>
+                        </Items>
+                    </RadzenAccordion>
+                </RadzenColumn> 
+            </RadzenRow>
+        </div> -->
+        <RadzenLayout Style="grid-template-columns: 1fr auto; grid-template-areas: 'rz-header rz-header' 'rz-body rz-sidebar'">
+    <RadzenHeader>
+        <RadzenStack Orientation="Orientation.Horizontal" JustifyContent="JustifyContent.End" AlignItems="AlignItems.Center" Gap="1rem">
+            <RadzenLabel Text="Header" />
+            <RadzenSidebarToggle @onclick="@(() => sidebarExpanded = !sidebarExpanded)" Class="rz-m-0" />
+        </RadzenStack>
+    </RadzenHeader>
+    <RadzenSidebar @bind-Expanded="@sidebarExpanded">
+        <RadzenPanelMenu>
+            <RadzenPanelMenuItem Text="Home" Icon="home" />
+            <RadzenPanelMenuItem Text="Users" Icon="account_box" />
+        </RadzenPanelMenu>
+        <div class="rz-p-4">
+            Sidebar
+        </div>
+    </RadzenSidebar>
+    <RadzenBody>
+        <div class="rz-p-4">
+            Body
+        </div>
+    </RadzenBody>
+</RadzenLayout>
+
+        <MainLayout/>
+
 
         <article class="content px-4">
             @Body
@@ -49,5 +75,5 @@
 </div>
 
 @code {
-
+    bool sidebarExpanded = true;
 }
