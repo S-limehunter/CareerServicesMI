@@ -1,0 +1,24 @@
+@page "/addcourse"
+@using AntDesign
+@rendermode InteractiveServer
+
+  <div>
+    @for (int i = 0; i < isChecked.Count; i++) {
+    var local = i;
+    <Checkbox @bind-Checked="isChecked[local]">
+      @(names[local])    
+    </Checkbox>
+    }
+    @if (isChecked[2]) {
+      <p>the third one has been checked</p>
+    }
+  </div>
+  
+  @code{
+    public List<string> names = new() {"oeb", "tro", "tree"};
+    public List<bool> isChecked = new() {true, true, false};
+}
+
+  
+
+  
