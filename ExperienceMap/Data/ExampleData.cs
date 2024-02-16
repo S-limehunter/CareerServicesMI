@@ -10,5 +10,11 @@ public static class Seed{
                 new() {ID = "skill4"}
             ]
         );
+
+        db.Courses.AddRange(
+            [
+                new() {ID = "course1"}
+            ]
+        );
     }
 }

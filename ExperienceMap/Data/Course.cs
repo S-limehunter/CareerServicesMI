@@ -1,5 +1,6 @@
 namespace ExperienceMap.Data;
 
 public class Course {
-    List<Skill> Outcomes { get; set; }
+    public string ID {get; set;}
+    public List<Skill> Outcomes { get; set; }
 }
