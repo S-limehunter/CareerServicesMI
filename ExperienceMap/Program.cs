@@ -1,4 +1,5 @@
 using ExperienceMap.Components;
+using ExperienceMap.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,6 +10,9 @@ builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
 
 builder.Services.AddAntDesign();
+
+builder.Services.AddHttpClient();
+builder.Services.AddSqlite<CourseContext>("Data Source=courses.db");
 
 
 //app.MapRazorComponents<App>()
@@ -28,8 +32,21 @@ app.UseHttpsRedirection();
 
 app.UseStaticFiles();
 app.UseAntiforgery();
+app.MapControllerRoute(
+    name: "default", 
+    pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.MapRazorComponents<App>()
     .AddInteractiveServerRenderMode();
+
+using (var scope = app.Services
+    .GetRequiredService<IServiceScopeFactory>()
+    .CreateScope())
+{
+    var db = scope.ServiceProvider.GetRequiredService<CourseContext>();
+    if (db.Database.EnsureCreated()){
+        Seed.Init(db);
+    }
+}
 
 app.Run();

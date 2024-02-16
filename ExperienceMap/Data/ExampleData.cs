@@ -10,11 +10,14 @@ public static class Seed{
                 new() {ID = "skill4"}
             ]
         );
+        db.SaveChanges();
 
         db.Courses.AddRange(
             [
-                new() {ID = "course1"}
+                new() {ID = "course1", Outcomes = [.. db.Skills]},
+                new() {ID = "course2", Outcomes = [.. db.Skills]}
             ]
         );
+        db.SaveChanges();
     }
 }

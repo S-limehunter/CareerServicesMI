@@ -13,7 +13,14 @@ public class CourseController : Controller {
     }
 
     [HttpGet]
-    public async Task<ActionResult<List<Course>>> GetCourses(){
-        return await _db.Courses.ToListAsync();
+    public Tuple<List<Course>, List<Skill>> GetData(){
+        return new(_db.Courses.Include(x => x.Outcomes).ToList(), _db.Skills.ToList());
     }
+    
+    /*public async Task<ActionResult<Tuple<List<Course>,List<Skill>>>> GetData(){
+        var courses = await _db.Courses.ToListAsync();
+        var skills = await _db.Skills.ToListAsync();
+        return new Tuple<List<Course>,List<Skill>>(courses, skills);
+    }*/
+    
 }
