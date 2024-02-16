@@ -2,19 +2,25 @@
 @using AntDesign
 @inject IconService iconService
 
-<div class="page">
+<div class="page" style="background-color: white;">
     <main>
         <div style="margin-top: 8px;">
             <GridRow>
                 <GridCol Span="2">
-            <Button Type="primary" OnClick="ToggleCollapsed" Style="margin-bottom: 8px; margin-left: 8px;" Icon="menu-unfold"/>
+                <Button Type="primary" OnClick="ToggleCollapsed" Style="margin: 16px 16px;" Icon="menu-unfold"/>
                 </GridCol>
                 <GridCol Span="20">
-                    <h1 Style="text-align:center">MI Experience Map</h1>
+                    <div class="header">
+
+                        <!--DO A uhh EMBEDDED LINK-->
+                        <img src="image/MI_logo.png" alt="logo" />
+                        <img src="image/MUN_logo.png" alt="logo" style="float: right" />
+                        <i<h1 Style="text-align:center; color: rgba(0, 86, 158, 1)">MI Experience Map</h1></i>
+                    </div>
                 </GridCol>
             </GridRow>    
                 <Layout>
-                    <Sider @bind-Collapsed=@collapse NoTrigger>
+                    <Sider @bind-Collapsed=@collapse NoTrigger style="background-color: white">
                         <Menu DefaultSelectedKeys="@(new[] {"1"})"
                             DefaultOpenKeys="@(new[] {"sub1"})"
                             Mode="MenuMode.Inline"
@@ -32,17 +38,19 @@
                                  </MenuItem> 
                         </Menu>
                     </Sider>
-                    <Content Class="site-layout-background" Style="padding: 24px; margin: 0; min-height: 800px; text-align: left;">
-                        <article class="content px-4" Style="min-length: 100%;">
-                            @Body
-                        </article>
-                    </Content>
+                    <div style="margin: 24px;">
+                        <Content Class="site-layout-background" style="background-color: white; min-width: 100vh; min-height: 100vh; text-align: left;">
+                            <article class="content px-4" style="min-length: 100%;">
+                                @Body
+                            </article>
+                        </Content>
+                    </div>
                 </Layout>
         </div>
     </main>  
-    <Footer Style="text-align: left; position: fixed; bottom: 0; width: 100%;">
-        Copyright 2024 Fisheries and Marine Institute of Memorial University of Newfoundland
-        <br/>Newfoundland and Labrador, Canada
+    <Footer Style="text-align: left; position: fixed; bottom: 0; width: 100%; padding: 10px;">
+        <small>Copyright 2024 Fisheries and Marine Institute of Memorial University of Newfoundland
+        <br/>Newfoundland and Labrador, Canada</small>
     </Footer>
 </div>
 
