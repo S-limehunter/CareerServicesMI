@@ -1,4 +1,5 @@
 using ExperienceMap.Data;
+using System.Linq;
 
 public static class Seed{
     public static void Init(CourseContext db){
@@ -12,11 +13,13 @@ public static class Seed{
         );
         db.SaveChanges();
 
-        db.Courses.AddRange(
-            [
-                new() {ID = "course1", Outcomes = [.. db.Skills]},
-                new() {ID = "course2", Outcomes = [.. db.Skills]}
-            ]
+        db.Courses.Add(
+            new() {ID = "course1", Outcomes = [.. db.Skills]}
+        );
+        db.SaveChanges();
+
+        db.Courses.Add(
+            new() {ID = "course2", Outcomes = [.. db.Skills]}
         );
         db.SaveChanges();
     }
