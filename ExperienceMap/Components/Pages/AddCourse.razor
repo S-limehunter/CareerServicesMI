@@ -1,8 +1,13 @@
 @page "/addcourse"
 @using AntDesign
 @rendermode InteractiveServer
+@inject NavigationManager NavigationManager
+@inject HttpClient HttpClient
+@inject CourseService CService
 
-  <div>
+@using ExperienceMap.Data
+
+  <!-- <div>
     @for (int i = 0; i < isChecked.Count; i++) {
     var local = i;
     <Checkbox @bind-Checked="isChecked[local]">
@@ -13,10 +18,64 @@
       <p>the third one has been checked</p>
     }
   </div>
+  -->
+  
+  <div style="overflow: scroll; height: 1000px; margin-bottom: 24px;">
+    <GridRow>
+      <GridCol Span="8">
+    <Dropdown Trigger="@(new Trigger[] { Trigger.Click })">
+      <Overlay>
+          <Menu>
+                @foreach (var course in allCourses) 
+                {
+                  <MenuDivider />
+                  <MenuItem @onclick="@(() => addedCourses.Add(course))">
+                    @course.ID
+                  </MenuItem>
+	  			      }
+          </Menu>
+      </Overlay>
+      <ChildContent>
+        <Button>
+          <a class="ant-dropdown-link" @onclick:preventDefault style="text-decoration: none;">
+                Courses <Icon Type="down"/>
+          </a>
+          </Button>
+      </ChildContent>
+    </Dropdown>
+    </GridCol>
+
+    <GridCol>
+    <div>
+    this is where it would show up
+    @foreach (var crs in addedCourses) {
+      <p>Skills for @crs.ID</p>
+        @foreach (var skls in crs.Outcomes) {
+          <p><Checkbox> @skls.ID </Checkbox>
+          <br/>
+          </p>
+        }
+    }
+      <Button Type="@ButtonType.Primary" HtmlType="submit">
+        Submit
+      </Button>
+      </div>
+      </GridCol>
+    </GridRow>
+  </div>
+
   
   @code{
     public List<string> names = new() {"oeb", "tro", "tree"};
     public List<bool> isChecked = new() {true, true, false};
+
+    private List<Course> allCourses;
+
+    private List<Course> addedCourses = [];
+
+    protected override async Task OnInitializedAsync(){
+      allCourses = await CService.GetCoursesAsync();
+    }
 }
 
   

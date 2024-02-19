@@ -13,6 +13,7 @@ builder.Services.AddAntDesign();
 
 builder.Services.AddHttpClient();
 builder.Services.AddSqlite<CourseContext>("Data Source=courses.db");
+builder.Services.AddScoped<CourseService>();
 
 
 //app.MapRazorComponents<App>()
