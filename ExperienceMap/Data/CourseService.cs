@@ -9,7 +9,7 @@ class CourseService(CourseContext _db)
         return await db.Courses.Include(x => x.Outcomes).ToListAsync();
     }
 
-    public async Task<List<Skill>> getSkillsAsync() {
-        return await db.Skills.ToListAsync();
+    public async Task<List<SoftSkill>> getSoftSkillsAsync() {
+        return await db.SoftSkills.ToListAsync();
     }
 }

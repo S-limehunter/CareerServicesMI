@@ -22,7 +22,7 @@
   
   <div style="overflow: scroll; height: 1000px; margin-bottom: 24px;">
     <GridRow>
-      <GridCol Span="8">
+      <GridCol Span="6">
     <Dropdown Trigger="@(new Trigger[] { Trigger.Click })">
       <Overlay>
           <Menu>
@@ -45,27 +45,41 @@
     </Dropdown>
     </GridCol>
 
-    <GridCol>
-    <div>
-    this is where it would show up
-    @foreach (var crs in addedCourses) {
-      <p>Skills for @crs.ID</p>
-        @foreach (var skls in crs.Outcomes) {
-          <p><Checkbox> @skls.ID </Checkbox>
-          <br/>
-          </p>
-        }
-    }
-      <Button Type="@ButtonType.Primary" HtmlType="submit">
-        Submit
-      </Button>
+    <GridCol Span="18">
+      
+      <div style="overflow-wrap: break-word; padding: 16px">
+        this is where it would show up
+        @foreach (var crs in addedCourses) {
+          <Collapse>
+            <Panel Header="@crs.ID">
+              <p>Skills for @crs.ID</p>
+                <Collapse>
+                  <Panel Header="Technical Skills">  
+                @foreach (var skls in crs.Outcomes) {
+                <p>@if(skls is SoftSkill) {
+                    <Checkbox>@skls.ID</Checkbox>  
+                  } else {
+                    @skls.ID
+                  } 
+                  <br/>
+                  </p>
+                }
+                  </Panel>
+                </Collapse>
+            </Panel>
+          </Collapse>
+        }  
       </div>
-      </GridCol>
+      <Button Type="@ButtonType.Primary" HtmlType="submit" @onclick='() => NavigationManager.NavigateTo("myskills")' style="position: relative; bottom: 0;">
+          Submit
+        </Button> 
+    </GridCol>
     </GridRow>
   </div>
 
   
   @code{
+
     public List<string> names = new() {"oeb", "tro", "tree"};
     public List<bool> isChecked = new() {true, true, false};
 
