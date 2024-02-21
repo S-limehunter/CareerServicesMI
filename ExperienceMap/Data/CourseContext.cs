@@ -4,6 +4,5 @@ namespace ExperienceMap.Data;
 public class CourseContext : DbContext {
     public CourseContext(DbContextOptions o) : base(o){}
 
-    public DbSet<Course> Courses { get; set; }
-    public DbSet<Skill> Skills { get; set; }
+    public DbSet<Degree> Degrees { get; set; }
 }

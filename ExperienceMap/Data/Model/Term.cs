@@ -5,8 +5,9 @@ public enum TermNo {
 }
 
 
-public class Term(TermNo tn)
+public class Term
 {
-    public TermNo TermNo { get; private set;} = tn;
+    public string ID { get; set; } = "defaultID";
+    public TermNo TermNo { get; set;}
     public List<Course> Courses { get; set; } = [];
 }

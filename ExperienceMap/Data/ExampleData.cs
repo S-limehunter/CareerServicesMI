@@ -1,18 +1,20 @@
 using ExperienceMap.Data;
 
 public static class Seed{
+
+    //new() {"Diploma of Technology", "Technician Diplomas", "Technical Certificates", "Bachelor Degrees", "Undergraduate Certificate", "Advanced Diplomas", "Post-Graduate Certificates", "Graduate Diplomas", "Master’s Degrees", "Doctor of Philosophy (Ph.D)"};
+    //public List<string> programs = new() {"Marine Engineering", "Marine Environmental", "Marine Engineering Systems Design", "Nautical Science", "Naval Architecture", "Ocean Mapping", "Underwater Vehicles"};
     public static void Init(CourseContext db){
         
-        db.SoftSkills.AddRange(
+/*db.SoftSkills.AddRange(
             [
                 new() {ID = "skill1"},
                 new() {ID = "skill2"},
                 new() {ID = "skill3"},
                 new() {ID = "skill4"}
             ]
-        );
-        db.SaveChanges();
-
+        );*/
+/*
         //MREK 1101
         string[] MREK1101 = ["Understand the construction and operation of Diesel Engines for ship propulsion and ship service generation systems",
             "Ability to identify how engines are classified in broad categories",
@@ -55,16 +57,26 @@ public static class Seed{
             "Awareness of management and unions responsibility in workplace and workers' safety",
             "Knowledge of provincial and federal regulations for air quality and workplace hazards",
             "Familiarity with techniques for investigating, confirming and documenting complaints",
-        ];
+        ];*/
 
-        db.Courses.AddRange(
-            [
-                new() {ID = "MREK 1101: Marine Engineering Knowledge I", Outcomes = MREK1101.Select(x => new Skill() {ID = x}).ToList()},
-                new() {ID = "MENV 1100: Sampling I", Outcomes = MENV1100.Select(x => new Skill() {ID = x}).ToList()},
-                new() {ID = @"MENV 2300: Environmental Applications of
-                            Industial Hygiene", Outcomes = MENV2300.Select(x => new Skill() {ID = x}).ToList()}
-            ]
+        db.Degrees.Add(
+            new() {
+                Programs = [new() {
+                    ID = "Arkansas",
+                    Terms = [new() {
+                        ID = "father",
+                        TermNo = TermNo.T1,
+                        Courses = [new() {
+                            ID = "son",
+                            Outcomes = [new() {
+                                ID = "holy spirit"
+                            }]
+                        }]
+                    }]
+                }]
+            }
         );
+
         db.SaveChanges();
 
     }

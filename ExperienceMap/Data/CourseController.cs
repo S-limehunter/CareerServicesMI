@@ -12,17 +12,19 @@ public class CourseController : Controller {
         _db = db;
     }
 
-
+/*
     [HttpGet]
-    public async Task<ActionResult<Tuple<List<CourseViewModel>,List<SkillViewModel>>>> GetJson(){
+    public async Task<ActionResult<List<CourseViewModel>>> GetJson(){
         var courses = (await _db.Courses.Include(x => x.Outcomes).ToListAsync()).Select(x => new CourseViewModel(x)).ToList();
-        var skills = (await _db.SoftSkills.ToListAsync()).Select(x => new SkillViewModel(x)).ToList();
-        return new Tuple<List<CourseViewModel>,List<SkillViewModel>>(courses, skills);
+        //var skills = (await _db.SoftSkills.ToListAsync()).Select(x => new SkillViewModel(x)).ToList();
+        return courses;
     }
 
-    /*public Tuple<List<Course>, List<Skill>> GetData(){
+    NO.
+
+    public Tuple<List<Course>, List<Skill>> GetData(){
         return new(_db.Courses.Include(x => x.Outcomes).ToList(), _db.SoftSkills.ToList());
-    }*/
+    }
 
     public class CourseViewModel(Course _c){
         public string ID { get; set; } = _c.ID;
@@ -32,4 +34,5 @@ public class CourseController : Controller {
     public class SkillViewModel(Skill _s) {
         public string ID { get; set; } = _s.ID;
     }
+*/
 }

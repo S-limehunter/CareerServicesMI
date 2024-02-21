@@ -22,33 +22,39 @@
   
   <div style="overflow: scroll; height: 1000px; margin-bottom: 24px;">
     <GridRow>
-      <GridCol Span="6">
-    <Dropdown Trigger="@(new Trigger[] { Trigger.Click })">
+      <GridCol Span="8">
+    <Dropdown Trigger="@(new Trigger[] { Trigger.Hover })">
       <Overlay>
           <Menu>
-                @foreach (var course in allCourses) 
-                {
-                  <MenuDivider />
-                  <MenuItem @onclick="@(() => addedCourses.Add(course))">
-                    @course.ID
-                  </MenuItem>
-	  			      }
+                <!-- for each type of program ... submenu -->
+                @foreach (var degree in allDegrees){
+                  <SubMenu Title=@(degree.ID)>
+                  <!-- for each specialty .. menuitem -->
+                    @foreach (var program in degree.Programs) {
+                    <SubMenu Title=@(program.ID)>
+                      @foreach (var term in program.Terms) {
+                        <MenuItem @onclick='() => AddCourses(term)' style="position: relative; bottom: 0;">
+                        @term.ID
+                        </MenuItem>
+                      }
+                    </SubMenu>
+                    }
+                  </SubMenu>
+                  }
           </Menu>
       </Overlay>
       <ChildContent>
         <Button>
           <a class="ant-dropdown-link" @onclick:preventDefault style="text-decoration: none;">
-                Courses <Icon Type="down"/>
+                Program of Study <Icon Type="down"/>
           </a>
           </Button>
       </ChildContent>
     </Dropdown>
     </GridCol>
-
-    <GridCol Span="18">
-      
-      <div style="overflow-wrap: break-word; padding: 16px">
-        this is where it would show up
+    
+    <GridCol Span="16">
+      <div style="overflow-wrap: break-word; padding: 10px;">
         @foreach (var crs in addedCourses) {
           <Collapse>
             <Panel Header="@crs.ID">
@@ -56,23 +62,16 @@
                 <Collapse>
                   <Panel Header="Technical Skills">  
                 @foreach (var skls in crs.Outcomes) {
-                <p>@if(skls is SoftSkill) {
-                    <Checkbox>@skls.ID</Checkbox>  
-                  } else {
-                    @skls.ID
-                  } 
+                <p>@skls.ID 
                   <br/>
-                  </p>
+                </p>
                 }
                   </Panel>
                 </Collapse>
             </Panel>
           </Collapse>
-        }  
+        } 
       </div>
-      <Button Type="@ButtonType.Primary" HtmlType="submit" @onclick='() => NavigationManager.NavigateTo("myskills")' style="position: relative; bottom: 0;">
-          Submit
-        </Button> 
     </GridCol>
     </GridRow>
   </div>
@@ -83,12 +82,18 @@
     public List<string> names = new() {"oeb", "tro", "tree"};
     public List<bool> isChecked = new() {true, true, false};
 
-    private List<Course> allCourses;
+    public List<string> programs = new() {"Marine Engineering", "Marine Environmental", "Marine Engineering Systems Design", "Nautical Science", "Naval Architecture", "Ocean Mapping", "Underwater Vehicles"};
+    public List<string> degrees = new() {"Diploma of Technology", "Technician Diplomas", "Technical Certificates", "Bachelor Degrees", "Undergraduate Certificate", "Advanced Diplomas", "Post-Graduate Certificates", "Graduate Diplomas", "Master's Degrees", "Doctor of Philosophy (Ph.D)"};
+    private List<Degree> allDegrees;
 
     private List<Course> addedCourses = [];
 
+    public void AddCourses(Term term){
+      addedCourses.AddRange(term.Courses);
+    }
+
     protected override async Task OnInitializedAsync(){
-      allCourses = await CService.GetCoursesAsync();
+      allDegrees = await CService.GetDegreesAsync();
     }
 }
 
