@@ -7,7 +7,7 @@
         <div style="margin-top: 8px;">
             <GridRow>
                 <GridCol Span="2">
-                    <Button Type="primary" OnClick="ToggleCollapsed" Style="margin: 16px 16px;" Icon="menu-unfold"/>
+                    <Button Type="primary" OnClick="ToggleCollapsed" Style="margin: 16px 16px; background-color: rgba(0, 86, 158, 1);" Icon="menu-unfold"/>
                 </GridCol>
                 <GridCol Span="20">
                     <div class="header">
@@ -19,8 +19,8 @@
                     </div>
                 </GridCol>
             </GridRow>    
-                <Layout>
-                    <Sider @bind-Collapsed=@collapse NoTrigger style="background-color: white">
+                <Layout style="background-image: url('/image/wave_background.svg'); padding-bottom: 60px;">
+                    <Sider @bind-Collapsed=@collapse NoTrigger style="background-color: white;">
                         <Menu DefaultSelectedKeys="@(new[] {"1"})"
                             DefaultOpenKeys="@(new[] {"sub1"})"
                             Mode="MenuMode.Inline"
@@ -43,8 +43,8 @@
                                  </MenuItem> 
                         </Menu>
                     </Sider>
-                    <div style="margin: 30px; min-width: 90%;">
-                        <Content Class="site-layout-background" style="background-color: white; min-width: 100vh; min-height: 100vh; text-align: left;">
+                    <div style="margin: 80px; min-width: 83%;">
+                        <Content Class="site-layout-background" style="border-radius: 25px; background-color: white; min-width: 100vh; min-height: 100vh; text-align: left; overflow-wrap: break-word; padding: 20px;">
                             <article class="content px-4" style="min-length: 100%;">
                                 @Body
                             </article>
@@ -53,9 +53,10 @@
                 </Layout>
         </div>
     </main>  
-    <Footer Style="text-align: left; position: fixed; bottom: 0; width: 100%; padding: 10px;">
-        <small>Copyright 2024 Fisheries and Marine Institute of Memorial University of Newfoundland
-        <br/>Newfoundland and Labrador, Canada</small>
+
+    <Footer style="text-align: left; position: absolute; bottom: 0; width: 100%; padding: 10px;">
+        <small style="text-color: white">Copyright 2024 Fisheries and Marine Institute of Memorial University of Newfoundland
+        <br/>Newfoundland and Labrador, Canada</small> 
     </Footer>
 </div>
 
