@@ -2,7 +2,7 @@ using ExperienceMap.Data;
 
 public static class Seed{
 
-    //new() {"Diploma of Technology", "Technician Diplomas", "Technical Certificates", "Bachelor Degrees", "Undergraduate Certificate", "Advanced Diplomas", "Post-Graduate Certificates", "Graduate Diplomas", "Master’s Degrees", "Doctor of Philosophy (Ph.D)"};
+    //new() {"Diploma of Technology", "Technician Diplomas", "Technical Certificates", "Bachelor Degrees", "Undergraduate Certificate", "Advanced Diplomas"};
     //public List<string> programs = new() {"Marine Engineering", "Marine Environmental", "Marine Engineering Systems Design", "Nautical Science", "Naval Architecture", "Ocean Mapping", "Underwater Vehicles"};
     public static void Init(CourseContext db){
         
@@ -59,22 +59,89 @@ public static class Seed{
             "Familiarity with techniques for investigating, confirming and documenting complaints",
         ];*/
 
+        Course[] courses = (new List<string> {
+            "CMSK 1105 (Technical Communications I)",
+            "ELTK 1102 (Electrotechnology)",
+            "ENGR 1105 (Engineering Graphics)",
+            "MATH 1114 (Pre-Calculus)",
+            "MREK 1101 (Marine Engineering Knowledge I)",
+            "PHYS 1103 (Physics)",
+            "WKPR 1110 (Fitting Shop 1)",
+            "CMSK 1205 (Technical Communications II)",
+            "ELTK 1202 (Electrotechnology)",
+            "ENGR 1102 (Engineering Drawing)",
+            "FLDS 2105 (Fluid Mechanics)",
+            "MATH 1214 (MENG Mathematics)",
+            "MREK 1201 (Marine Engineering Knowledge II)",
+            "WKPR 1200 (Fitting Shop II)",
+            "MTPR 1300 (Materials & Processes)",
+            "SFTY 1102 (Marine Basic First Aid)",
+            "SFTY 1114 (BASIC SAFETY - STCW'95 VI/I)",
+            "WKPR 1109 (Welding Shop I)",
+            "ELTK 2119 (Marine Electrical Systems)",
+            "FLDS 3105 (Hydraulics and Pneumatics)",
+            "MECH 2111 (Statics and Dynamics)",
+            "MREK 2111 (Marine Engineering Knowledge III)",
+            "TRMO 2105 (Thermodynamics)",
+            "WKPR 1117 (Machine Shop I)",
+            "BSMG 3113 (Personal Resource Management)",
+            "MECH 2207 (Theory of Machines)",
+            "MREK 2209 (Marine Engineering Knowledge IV)",
+            "MTPR 2108 (Strength of Materials)",
+            "NARC 2228 (Shipbuilding)",
+            "TRMO 2204 (Thermodynamics)",
+            "WKPR 2113 (Welding Shop II)",
+            "WKPR 2117 (Machine Shop II)",
+            "ELTK 2303 (Electro-Maintenance)",
+            "NARC 2318 (Shipbuilding - Mechanical)",
+            "SFTY 1123 (Oil and Chemical Tanker Familiarization)",
+            "SFTY 1124 (Confined Space Entry Awareness)",
+            "SFTY 1129 (Security Awareness for Seafarers with DSD)",
+            "SFTY 1137 (Fall Protection (Offshore))",
+            "WKPR 2217 (Machine Shop III)",
+            "ELTK 3203 (Rotating AC Machines)",
+            "ELTR 3123 (Electronic Devices & Digital Systems)",
+            "MREK 3107 (Marine Engineering Knowledge V)",
+            "MTPR 3104 (Strength of Materials)",
+            "NARC 3110 (Rudders and Propulsion)",
+            "TRMO 3107 (Thermodynamics)",
+            "CNTL 3205 (Marine Process Measurements and Controls)",
+            "ELTK 3204 (DC Machines and Transformers)",
+            "MREK 3206 (Marine Engineering Knowledge VI)",
+            "MREK 3207 (Industrial Chemistry)",
+            "BSMG 3401 (Marine Law and Environmental Stewardship)",
+            "CNTL 3401 (Marine Automatic Control Systems)",
+            "ELTK 3400 (Shipboard Voltage Distribution Systems)",
+            "MREK 3400 (Marine Engineering Knowledge VII)",
+            "MREK 340AM (Propulsion Plant Simulator Training)",
+            "NARC 3400 (Naval Architecture - Ship Stability)",
+            "BSMG 3301 (Leadership and Teamwork)",
+            "MREK 340BM (Propulsion Plant Simulator Training)",
+            "SFTY 1106 (Marine Advanced First Aid)",
+            "SFTY 1117 (Survival Craft - STCW'95 VI/2)",
+            "SFTY 1118 (Advanced Firefighting - STCW'95 VI/3 & Officer Certification)",
+        }).Select(x => new Course() {ID = x}).ToArray();
+
+        List<Term> terms = [
+            new() {Courses = courses[..7].ToList(), TermNo = TermNo.T1, ID = "1"},
+            new() {Courses = courses[7..14].ToList(), TermNo = TermNo.T2, ID = "2"},
+            new() {Courses = courses[14..18].ToList(), TermNo = TermNo.TS1, ID = "3"},
+            new() {Courses = courses[18..24].ToList(), TermNo = TermNo.T3, ID = "4"},
+            new() {Courses = courses[24..32].ToList(), TermNo = TermNo.T4, ID = "5"},
+            new() {Courses = courses[32..39].ToList(), TermNo = TermNo.TS2, ID = "6"},
+            new() {Courses = courses[39..45].ToList(), TermNo = TermNo.T5, ID = "7"},
+            new() {Courses = courses[45..49].ToList(), TermNo = TermNo.T6, ID = "8"},
+            new() {Courses = courses[49..55].ToList(), TermNo = TermNo.T7, ID = "9"},
+            new() {Courses = courses[55..60].ToList(), TermNo = TermNo.TS3, ID = "10"},
+        ];
+
         db.Degrees.Add(
-            new() {
-                Programs = [new() {
-                    ID = "Arkansas",
-                    Terms = [new() {
-                        ID = "father",
-                        TermNo = TermNo.T1,
-                        Courses = [new() {
-                            ID = "son",
-                            Outcomes = [new() {
-                                ID = "holy spirit"
-                            }]
-                        }]
-                    }]
-                }]
-            }
+            new() {ID = "Diploma of Technology",
+            Programs = [ new() {
+                ID = "Marine Engineering",
+                Terms = terms
+                }
+            ]}
         );
 
         db.SaveChanges();
