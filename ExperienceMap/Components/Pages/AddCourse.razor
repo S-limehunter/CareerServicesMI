@@ -33,7 +33,7 @@
                     @foreach (var program in degree.Programs) {
                     <SubMenu Title=@(program.ID)>
                       @foreach (var term in program.Terms) {
-                        <MenuItem @onclick='() => AddCourses(program, term)' style="position: relative; bottom: 0;">
+                        <MenuItem @onclick='() => AddTerms(program, term)' style="position: relative; bottom: 0;">
                         @term.ID
                         </MenuItem>
                       }
@@ -44,7 +44,7 @@
           </Menu>
       </Overlay>
       <ChildContent>
-        <Button>
+        <Button Size="large">
           <a class="ant-dropdown-link" @onclick:preventDefault style="text-decoration: none;">
                 Program of Study <Icon Type="down"/>
           </a>
@@ -55,22 +55,26 @@
     
     <GridCol Span="16">
       <div style="overflow-wrap: break-word; padding: 10px;">
-        @foreach (var crs in addedCourses) {
-          <Collapse>
-            <Panel Header="@crs.ID">
-              <p>Skills for @crs.ID</p>
-                <Collapse>
-                  <Panel Header="Technical Skills">  
-                @foreach (var skls in crs.Outcomes) {
-                <p>@skls.ID 
-                  <br/>
-                </p>
-                }
-                  </Panel>
-                </Collapse>
-            </Panel>
-          </Collapse>
-        } 
+        @foreach (var term in addedTerms) {
+          <Button Size="large" icon="close" @onclick="() => Delete(term)" style="margin: 20px 0px 20px" />
+          @term.ID
+          @foreach (var crs in term.Courses) {
+            <Collapse>
+              <Panel Header="@crs.ID">
+                <p>Skills for @crs.ID</p>
+                  <Collapse>
+                    <Panel Header="Technical Skills">  
+                  @foreach (var skls in crs.Outcomes) {
+                  <p>@skls.ID 
+                    <br/>
+                  </p>
+                  }
+                    </Panel>
+                  </Collapse>
+              </Panel>
+            </Collapse>
+          } 
+        }
       </div>
     </GridCol>
     </GridRow>
@@ -88,6 +92,20 @@
 
     private List<Course> addedCourses = [];
 
+    private List<Term> addedTerms = [];
+
+      public void Delete(Term term) {
+        addedTerms.Remove(term);
+      }
+      public void AddTerms(Program program, Term term) {
+        foreach (Term t in program.Terms) {
+          if (t.TermNo <= term.TermNo) {
+            addedTerms.Add(t);
+
+          }
+        }
+      }
+      /*
     public void AddCourses(Program program, Term term){
       foreach (Term t in program.Terms){
         if (t.TermNo <= term.TermNo){
@@ -95,6 +113,7 @@
         }
       }
     }
+    */
 
     protected override async Task OnInitializedAsync(){
       allDegrees = await CService.GetDegreesAsync();
