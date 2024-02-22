@@ -34,7 +34,7 @@
                     <SubMenu Title=@(program.ID)>
                       @foreach (var term in program.Terms) {
                         <MenuItem @onclick='() => AddCourses(program, term)' style="position: relative; bottom: 0;">
-                        @term.ID
+                        @term.TermNo
                         </MenuItem>
                       }
                     </SubMenu>

@@ -1,3 +1,5 @@
+using Microsoft.EntityFrameworkCore;
+
 namespace ExperienceMap.Data;
 
 public class Program

@@ -5,4 +5,5 @@ public class Course {
     public List<Skill> Outcomes { get; set; } = [];
 
     public virtual List<Term> Terms { get; set; } = [];
+    public List<TermCourse> TermCourses { get ; set; }
 }
