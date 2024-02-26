@@ -3,7 +3,7 @@
 @inject IconService iconService
 
 <div class="page" style="background-color: white;">
-    <main>
+
         <div style="margin-top: 8px;">
             <GridRow>
                 <GridCol Span="2">
@@ -19,7 +19,7 @@
                     </div>
                 </GridCol>
             </GridRow>    
-                <Layout style="background-image: url('/image/wave_background.svg'); padding-bottom: 60px;">
+                <Layout Class="site-layout" style="background-image: url('/image/wave_background.svg'); padding-bottom: 60px;">
                     <Sider @bind-Collapsed=@collapse NoTrigger style="background-color: white;">
                         <Menu DefaultSelectedKeys="@(new[] {"1"})"
                             DefaultOpenKeys="@(new[] {"sub1"})"
@@ -43,16 +43,16 @@
                                  </MenuItem> 
                         </Menu>
                     </Sider>
-                    <div style="margin: 80px; min-width: 83%;">
-                        <Content Class="site-layout-background" style="border-radius: 25px; background-color: white; min-width: 100vh; min-height: 100vh; text-align: left; overflow-wrap: break-word; padding: 20px;">
+                     <div style="margin: 80px; min-width: 83%;">  
+                        <div class="site-layout-background" style="position: relative; border-radius: 25px; background-color: white; min-width: 100vh; min-height: 100vh; text-align: left; overflow-wrap: break-word; padding: 20px;">
                             <article class="content px-4" style="min-length: 100%;">
                                 @Body
                             </article>
-                        </Content>
-                    </div>
+                        </div>
+                        </div> 
                 </Layout>
         </div>
-    </main>  
+
 
     <Footer style="text-align: left; position: absolute; bottom: 0; width: 100%; padding: 10px;">
         <small style="text-color: white">Copyright 2024 Fisheries and Marine Institute of Memorial University of Newfoundland

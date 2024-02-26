@@ -57,7 +57,7 @@
       <div style="overflow-wrap: break-word; padding: 10px;">
         @foreach (var term in addedTerms) {
           <Button Size="large" icon="close" @onclick="() => Delete(term)" style="margin: 20px 0px 20px" />
-          @term.ID
+          @term.TermLabel
           @foreach (var crs in term.Courses) {
             <Collapse>
               <Panel Header="@crs.ID">
@@ -99,7 +99,7 @@
       }
       public void AddTerms(Program program, Term term) {
         foreach (Term t in program.Terms) {
-          if (t.TermNo <= term.TermNo) {
+          if (t.TermNo <= term.TermNo && !addedTerms.Contains(t)) {
             addedTerms.Add(t);
 
           }
