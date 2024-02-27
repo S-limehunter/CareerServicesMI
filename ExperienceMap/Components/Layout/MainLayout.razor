@@ -15,11 +15,11 @@
                         <!--DO A uhh EMBEDDED LINK-->
                         <a href="https://www.mi.mun.ca" <img src="image/MI_logo.png" alt="logo" style="margin-top: 8px" /></a>
                         <a href="https://www.mun.ca" <img src="image/MUN_logo.png" alt="logo" style="float: right; margin-top: 8px;" /></a>
-                        <h1 Style="font-weight: bold; font-size: 50px; text-align:center; color: rgba(0, 86, 158, 1);">MI Experience Map</h1>
+                        <h1 style="font-weight: bold; font-size: 50px; text-align:center; color: rgba(0, 86, 158, 1);">MI Experience Map</h1>
                     </div>
                 </GridCol>
             </GridRow>    
-                <Layout Class="site-layout" style="background-image: url('/image/wave_background.svg'); padding-bottom: 60px;">
+                <Layout Class="site-layout" style="background-image: url('/image/wave_background.svg'); padding-bottom: 60px; width: 100vw;">
                     <Sider @bind-Collapsed=@collapse NoTrigger style="background-color: white;">
                         <Menu DefaultSelectedKeys="@(new[] {"1"})"
                             DefaultOpenKeys="@(new[] {"sub1"})"
@@ -43,9 +43,9 @@
                                  </MenuItem> 
                         </Menu>
                     </Sider>
-                     <div style="margin: 80px; min-width: 83%;">  
-                        <div class="site-layout-background" style="position: relative; border-radius: 25px; background-color: white; min-width: 100vh; min-height: 100vh; text-align: left; overflow-wrap: break-word; padding: 20px;">
-                            <article class="content px-4" style="min-length: 100%;">
+                     <div style="margin: 80px; width: 100vw;">  
+                        <div class="site-layout-background" style="border-radius: 25px; background-color: white; text-align: left; overflow-wrap: break-word; padding: 20px; min-height: 100vh;">
+                            <article>
                                 @Body
                             </article>
                         </div>
