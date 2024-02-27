@@ -5,4 +5,5 @@ public class CourseContext : DbContext {
     public CourseContext(DbContextOptions o) : base(o){}
 
     public DbSet<Degree> Degrees { get; set; }
+    public DbSet<Course> Courses { get; set; }
 }

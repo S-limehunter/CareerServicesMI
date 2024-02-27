@@ -2,14 +2,21 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ExperienceMap.Data;
 
-internal class TermIndices {
-    public int[] Indices { get; set; } = [];
-}
-
 public class ControllerJson(DbContext db)
 {
-    private static readonly string JsonPath = Path.Combine(Directory.GetCurrentDirectory(), "ExampleData.json");
+    //private static readonly string JsonPath = Path.Combine(Directory.GetCurrentDirectory(), "ExampleData.json");
     private readonly DbContext _db = db;
 
-    
+    static void ParseCourseText(string path){
+        try {
+            using (var file = new StreamReader(path)) {
+                Console.WriteLine(file.ReadToEnd());
+                string CourseName = "";
+                string OutcomeString = "";
+                string[] Outcomes = [];
+            } 
+        } catch (NotSupportedException) {
+            Console.WriteLine("File format not supprted.");
+        }
+    }
 }
