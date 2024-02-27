@@ -7,7 +7,7 @@ public class ControllerJson(DbContext db)
     //private static readonly string JsonPath = Path.Combine(Directory.GetCurrentDirectory(), "ExampleData.json");
     private readonly DbContext _db = db;
 
-    static void ParseCourseText(string path){
+    public static void ParseCourseText(string path){
         try {
             using (var file = new StreamReader(path)) {
                 Console.WriteLine(file.ReadToEnd());
