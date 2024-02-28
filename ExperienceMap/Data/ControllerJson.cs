@@ -16,25 +16,27 @@ public class ControllerJson(DbContext db)
                 string[] Outcomes = [];
                 bool flag = false;
 
-                string currentLine = "";
+                string? currentLine = "";
                 do {
                     currentLine = file.ReadLine(); 
-                    if (currentLine.Contains("MAJOR TOPICS")) {
-                        string dud = file.ReadLine();
-                        CourseName += file.ReadLine();
-                        CourseName += file.ReadLine();
-                    }  
+                    if (!String.IsNullOrWhiteSpace(currentLine) && currentLine.Length > 1) {
+                        if (currentLine.Contains("MAJOR TOPICS")) {
+                            string? dud = file.ReadLine();
+                            CourseName += file.ReadLine();
+                            CourseName += file.ReadLine();
+                        }  
 
-                    if (currentLine.Contains("COURSE OBJECTIVES")) {
-                        flag = true;
-                    }
-                    if (!String.IsNullOrWhiteSpace(currentLine)) {
+                        if (currentLine.Contains("LEARNING OBJECTIVES")) {
+                            flag = true;
+                        }
+                        
                         if (Char.IsDigit(currentLine[0]) && (currentLine[1] == ')' || (currentLine[1] == '.' && flag))){
                             OutcomeString += currentLine + '*';
                         }
                     }
-                    Console.WriteLine(OutcomeString);
+
                 } while (currentLine != null);
+                Console.WriteLine(OutcomeString);
                 //Outcomes = OutcomeString.Split('*'); 
             } 
         } catch (NotSupportedException) {
