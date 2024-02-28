@@ -9,6 +9,8 @@ main {
     flex: 1;
 }
 
+
+
 .header img {
     float: left;
     width: 100px;
@@ -82,6 +84,7 @@ main {
         padding-left: 2rem !important;
         padding-right: 1.5rem !important;
     }
+    
 }
 
 #blazor-error-ui {
