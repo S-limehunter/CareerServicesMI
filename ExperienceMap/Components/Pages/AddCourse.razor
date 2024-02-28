@@ -34,7 +34,7 @@
                     <SubMenu Title=@(program.ID)>
                       @foreach (var term in program.Terms) {
                         <MenuItem @onclick='() => AddTerms(program, term)' style="position: relative; bottom: 0;">
-                        @term.ID
+                        @term.TermLabel
                         </MenuItem>
                       }
                     </SubMenu>
@@ -54,7 +54,8 @@
     </GridCol>
     
     <GridCol Span="16">
-      <div style="overflow-wrap: break-word; padding: 10px; border: 1px solid rgb(225, 226, 227); border-radius: 15px; margin-top: 10px; min-height: 100vh; background-color: rgb(225, 226, 227);">
+      <div style="overflow-wrap: break-word; padding: 10px; border: 1px solid #f8f8f8; border-radius: 15px; margin-top: 10px; min-height: 100vh; background-color: #f8f8f8;">
+        <h3 style="margin-left: 5px">Selected Terms</h3>
         @foreach (var term in addedTerms) {
           <Button Size="large" icon="close" @onclick="() => Delete(term)" style="margin: 20px 10px 20px 0px" />
           <b>@term.TermLabel</b>

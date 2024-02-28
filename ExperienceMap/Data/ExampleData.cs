@@ -123,16 +123,16 @@ public static class Seed{
         }).Select(x => new Course() {ID = x}).ToArray();
 
         List<Term> terms = [
-            new() {Courses = courses[..7].ToList(), TermNo = TermNo.T1, ID = "1"},
-            new() {Courses = courses[7..14].ToList(), TermNo = TermNo.T2, ID = "2"},
-            new() {Courses = courses[14..18].ToList(), TermNo = TermNo.TS1, ID = "3"},
-            new() {Courses = courses[18..24].ToList(), TermNo = TermNo.T3, ID = "4"},
-            new() {Courses = courses[24..32].ToList(), TermNo = TermNo.T4, ID = "5"},
-            new() {Courses = courses[32..39].ToList(), TermNo = TermNo.TS2, ID = "6"},
-            new() {Courses = courses[39..45].ToList(), TermNo = TermNo.T5, ID = "7"},
-            new() {Courses = courses[45..49].ToList(), TermNo = TermNo.T6, ID = "8"},
-            new() {Courses = courses[49..55].ToList(), TermNo = TermNo.T7, ID = "9"},
-            new() {Courses = courses[55..60].ToList(), TermNo = TermNo.TS3, ID = "10"},
+            new() {Courses = courses[..7].ToList(), TermNo = TermNo.T1, ID = 1},
+            new() {Courses = courses[7..14].ToList(), TermNo = TermNo.T2, ID = 2},
+            new() {Courses = courses[14..18].ToList(), TermNo = TermNo.TS1, ID = 3},
+            new() {Courses = courses[18..24].ToList(), TermNo = TermNo.T3, ID = 4},
+            new() {Courses = courses[24..32].ToList(), TermNo = TermNo.T4, ID = 5},
+            new() {Courses = courses[32..39].ToList(), TermNo = TermNo.TS2, ID = 6},
+            new() {Courses = courses[39..45].ToList(), TermNo = TermNo.T5, ID = 7},
+            new() {Courses = courses[45..49].ToList(), TermNo = TermNo.T6, ID = 8},
+            new() {Courses = courses[49..55].ToList(), TermNo = TermNo.T7, ID = 9},
+            new() {Courses = courses[55..60].ToList(), TermNo = TermNo.TS3, ID = 10},
         ];
 
         db.Degrees.Add(
