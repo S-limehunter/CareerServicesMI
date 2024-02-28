@@ -10,10 +10,17 @@ public class ControllerJson(DbContext db)
     public static void ParseCourseText(string path){
         try {
             using (var file = new StreamReader(path)) {
-                Console.WriteLine(file.ReadToEnd());
+                //Console.WriteLine(file.ReadToEnd());
                 string CourseName = "";
                 string OutcomeString = "";
                 string[] Outcomes = [];
+
+                string currentLine = "";
+                do {
+                    currentLine = file.ReadLine(); 
+                    if (currentLine.Contains("MAJOR TOPICS")) {
+                    }  
+                } while (currentLine != null);
             } 
         } catch (NotSupportedException) {
             Console.WriteLine("File format not supprted.");
