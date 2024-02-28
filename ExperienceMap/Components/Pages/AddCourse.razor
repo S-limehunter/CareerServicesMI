@@ -44,7 +44,7 @@
           </Menu>
       </Overlay>
       <ChildContent>
-        <Button Size="large">
+        <Button Size="large" style="margin-top: 10px;">
           <a class="ant-dropdown-link" @onclick:preventDefault style="text-decoration: none;">
                 Program of Study <Icon Type="down"/>
           </a>
@@ -54,23 +54,19 @@
     </GridCol>
     
     <GridCol Span="16">
-      <div style="overflow-wrap: break-word; padding: 10px;">
+      <div style="overflow-wrap: break-word; padding: 10px; border: 1px solid rgb(225, 226, 227); border-radius: 15px; margin-top: 10px; min-height: 100vh; background-color: rgb(225, 226, 227);">
         @foreach (var term in addedTerms) {
-          <Button Size="large" icon="close" @onclick="() => Delete(term)" style="margin: 20px 0px 20px" />
-          @term.TermLabel
+          <Button Size="large" icon="close" @onclick="() => Delete(term)" style="margin: 20px 10px 20px 0px" />
+          <b>@term.TermLabel</b>
           @foreach (var crs in term.Courses) {
             <Collapse>
               <Panel Header="@crs.ID">
                 <p>Skills for @crs.ID</p>
-                  <Collapse>
-                    <Panel Header="Technical Skills">  
                   @foreach (var skls in crs.Outcomes) {
                   <p>@skls.ID 
                     <br/>
                   </p>
                   }
-                    </Panel>
-                  </Collapse>
               </Panel>
             </Collapse>
           } 

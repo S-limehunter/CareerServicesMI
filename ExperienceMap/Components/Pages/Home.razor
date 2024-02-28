@@ -1,10 +1,10 @@
 ﻿@page "/"
 @rendermode InteractiveServer
 
-<h1><b>Welcome to MI's Career Services Web App</b></h1>
+<h1 style="margin: 10px 0px 0px 5px"><b>Welcome to MI's Career Services Web App</b></h1>
 
 <br/>
-<font style="font-size: 20px">
+<font style="font-size: 20px; margin: 10px 0px 0px 5px;">
 <p>This site has been designed to help students become familiar
     with the skills gained during their program to prepare
     for their next exciting career opportunity!
@@ -14,14 +14,38 @@
     letter are ready to send out to employers.
 </p>
 <br/>
-<p style="margin-left:10%; margin-right:10%;">
-    <Icon Type="caret-right" Theme="outline"/>Check out the <Icon Type="solution" style="color: #0099ff;" /><font color="#0099ff"> Program Review</font> page to see what technical skills you 
-    can add to your resume.
+
+<p style="margin-left:10%; margin-right:5%;">
+    <GridRow>
+        <div>
+        <GridCol Span="2">
+            <Icon Type="solution" style="color: #0099ff; font-size: 50px; margin-right: 10px;" />
+        </GridCol>
+        </div>
+        <div>
+        <GridCol Span="24" style="margin-top: 10px;">
+            Check out the<font color="#0099ff"> Program Review</font> page to see 
+            what technical skills you can add to your resume.
+        </GridCol>
+        </div>
+    </GridRow>
 </p>
 <br/>
-<p style="margin-left:10%; margin-right:10%;">
-    <Icon Type="caret-right" Theme="outline"/><i>Additional resources lorem ipsum </i> is available on 
-    the <Icon Type="paper-clip" style="color: #0099ff;"/> <font color="#0099ff">Resources page</font>.
+    
+<p style="margin-left:10%; margin-right:5%;">
+    <GridRow>
+        <div>
+        <GridCol Span="2">
+            <Icon Type="paper-clip" style="color: #0099ff; font-size: 50px; margin-right: 10px;"/>
+        </GridCol>
+        </div>
+        <div>
+        <GridCol Span="24" style="margin-top: 10px;">
+            <i>Additional resources lorem ipsum </i> is available on 
+            the <font color="#0099ff">Resources page</font>.
+        </GridCol>
+        </div>
+    </GridRow>
 </p>
 </font>
 
