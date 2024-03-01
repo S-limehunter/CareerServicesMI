@@ -166,9 +166,10 @@ public static class Seed{
                 ID = "ExampleProgram",
                 }]
             });
+        db.SaveChanges();
 
         Program toMod = db.Degrees.ToList()[0].Programs[0];
-        toMod.AddCourseToTerm(db, TermNo.T6, "MENV1100");
+        toMod.AddCourseToTerm(db, TermNo.T6, "MENV 1100");
         db.SaveChanges();
     }
 }

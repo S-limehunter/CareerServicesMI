@@ -11,6 +11,7 @@ public class TextToCourse
             using (var file = new StreamReader(path)) {
                 //Console.WriteLine(file.ReadToEnd());
                 string CourseName = "";
+                string CourseTitle = "";
                 string OutcomeString = "";
                 string[] Skills = [];
                 bool flag = false;
@@ -22,7 +23,7 @@ public class TextToCourse
                         if (currentLine.Contains("MAJOR TOPICS")) {
                             string? dud = file.ReadLine();
                             CourseName += file.ReadLine();
-                            CourseName += file.ReadLine();
+                            CourseTitle += file.ReadLine();
                         }  
 
                         if (currentLine.Contains("LEARNING OBJECTIVES")) {
@@ -37,7 +38,7 @@ public class TextToCourse
                 } while (currentLine != null);
                 //Console.WriteLine(OutcomeString);
                 Skills = OutcomeString.Split('*'); 
-                db.Courses.Add(new() {ID = CourseName, Outcomes = Skills.Select(x => new Skill() {ID = x}).ToList()});
+                db.Courses.Add(new() {ID = CourseName, Title = CourseTitle, Outcomes = Skills.Select(x => new Skill() {ID = x}).ToList()});
             } 
         } catch (NotSupportedException) {
             Console.WriteLine("File format not supprted.");
