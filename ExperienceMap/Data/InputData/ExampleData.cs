@@ -137,9 +137,9 @@ public static class Seed{
 
         db.Degrees.Add(
             new() {ID = "Diploma of Technology",
-            Programs = [ new() {
+            Programs = [ new(0) {
                 ID = "Marine Engineering",
-                Terms = terms
+//                Terms = terms
                 }
             ]}
         );
@@ -155,21 +155,20 @@ public static class Seed{
         if (termQuery is not null && toAdd is not null){
             termQuery.ToList()[0].Courses.Add(toAdd);
         }
+        db.SaveChanges();
     }
 
     public static void SeededInit(CourseContext db){
-        TextToCourse.ParseCourseText("MENV1100", db);
+        TextToCourse.ParseCourseText("MENV1100.txt", db);
         db.Degrees.Add(new() {
             ID = "ExampleDegree",
-            Programs = [new() {
+            Programs = [new(9) {
                 ID = "ExampleProgram",
-                Terms = [new() {
-                    ID = 0,
-                    Courses = []
                 }]
-            }]
-        });
+            });
 
-        
+        Program toMod = db.Degrees.ToList()[0].Programs[0];
+        toMod.AddCourseToTerm(db, TermNo.T6, "MENV1100");
+        db.SaveChanges();
     }
 }
