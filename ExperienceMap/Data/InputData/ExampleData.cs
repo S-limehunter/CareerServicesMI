@@ -1,10 +1,10 @@
-using ExperienceMap.Data;
+namespace ExperienceMap.Data.Input;
 
 public static class Seed{
 
     //new() {"Diploma of Technology", "Technician Diplomas", "Technical Certificates", "Bachelor Degrees", "Undergraduate Certificate", "Advanced Diplomas"};
     //public List<string> programs = new() {"Marine Engineering", "Marine Environmental", "Marine Engineering Systems Design", "Nautical Science", "Naval Architecture", "Ocean Mapping", "Underwater Vehicles"};
-    public static void Init(CourseContext db){
+    public static void ManualInit(CourseContext db){
         
 /*db.SoftSkills.AddRange(
             [
@@ -146,5 +146,30 @@ public static class Seed{
 
         db.SaveChanges();
 
+    }
+
+    public static void AddCourseToTerm(this Program p, CourseContext db, TermNo t, string CourseNo){
+        Course? toAdd = db.Courses.Find(CourseNo);
+        var termQuery = p.Terms.Where(x => x.TermNo == t);
+
+        if (termQuery is not null && toAdd is not null){
+            termQuery.ToList()[0].Courses.Add(toAdd);
+        }
+    }
+
+    public static void SeededInit(CourseContext db){
+        TextToCourse.ParseCourseText("MENV1100", db);
+        db.Degrees.Add(new() {
+            ID = "ExampleDegree",
+            Programs = [new() {
+                ID = "ExampleProgram",
+                Terms = [new() {
+                    ID = 0,
+                    Courses = []
+                }]
+            }]
+        });
+
+        
     }
 }

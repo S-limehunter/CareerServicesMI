@@ -1,5 +1,6 @@
 using ExperienceMap.Components;
 using ExperienceMap.Data;
+using ExperienceMap.Data.Input;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -45,9 +46,9 @@ using (var scope = app.Services
     .CreateScope())
 {
     var db = scope.ServiceProvider.GetRequiredService<CourseContext>();
-    //ControllerJson.ParseCourseText("MENV1100.txt");
+    //TextToCourse.ParseCourseText("MENV1100.txt");
     if (db.Database.EnsureCreated()){
-        Seed.Init(db);
+        Seed.ManualInit(db);
     }
 }
 

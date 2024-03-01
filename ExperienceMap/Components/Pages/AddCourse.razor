@@ -19,11 +19,13 @@
     }
   </div>
   -->
+
+  <h1>Program Review</h1>
   
   <div style="overflow: scroll; height: 1000px; margin-bottom: 24px;">
     <GridRow>
       <GridCol Span="8">
-    <Dropdown Trigger="@(new Trigger[] { Trigger.Hover })">
+    <Dropdown Trigger="@(new Trigger[] { Trigger.Hover })" style="position: absolute;">
       <Overlay>
           <Menu>
                 <!-- for each type of program ... submenu -->
@@ -51,11 +53,14 @@
           </Button>
       </ChildContent>
     </Dropdown>
+
+    <img src="image/jellyfish.png" width="250" style="bottom: 0; opacity: 0.3; margin: 100px 0px 0px 20px;"/>
+
     </GridCol>
     
     <GridCol Span="16">
-      <div style="overflow-wrap: break-word; padding: 10px; border: 1px solid #f8f8f8; border-radius: 15px; margin-top: 10px; min-height: 100vh; background-color: #f8f8f8;">
-        <h3 style="margin-left: 5px">Selected Terms</h3>
+      <div style="overflow-wrap: break-word; padding: 10px; border: 1px solid #ececf2; border-radius: 15px; margin-top: 10px; min-height: 100vh; background-color: #ececf2;">
+        <h3 style="color: rgb(69, 69, 70)"><center>Selected Terms</center></h3>
         @foreach (var term in addedTerms) {
           <Button Size="large" icon="close" @onclick="() => Delete(term)" style="margin: 20px 10px 20px 0px" />
           <b>@term.TermLabel</b>

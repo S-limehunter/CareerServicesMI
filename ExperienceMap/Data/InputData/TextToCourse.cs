@@ -1,13 +1,12 @@
 using Microsoft.EntityFrameworkCore;
 
-namespace ExperienceMap.Data;
+namespace ExperienceMap.Data.Input;
 
-public class ControllerJson(CourseContext db)
+public class TextToCourse
 {
     //private static readonly string JsonPath = Path.Combine(Directory.GetCurrentDirectory(), "ExampleData.json");
-    private readonly CourseContext _db = db;
 
-    public void ParseCourseText(string path){
+    public static void ParseCourseText(string path, CourseContext db){
         try {
             using (var file = new StreamReader(path)) {
                 //Console.WriteLine(file.ReadToEnd());
@@ -38,7 +37,7 @@ public class ControllerJson(CourseContext db)
                 } while (currentLine != null);
                 //Console.WriteLine(OutcomeString);
                 Skills = OutcomeString.Split('*'); 
-                _db.Courses.Add(new() {ID = CourseName, Outcomes = Skills.Select(x => new Skill() {ID = x}).ToList()});
+                db.Courses.Add(new() {ID = CourseName, Outcomes = Skills.Select(x => new Skill() {ID = x}).ToList()});
             } 
         } catch (NotSupportedException) {
             Console.WriteLine("File format not supprted.");
