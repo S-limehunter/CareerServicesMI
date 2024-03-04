@@ -11,33 +11,33 @@ public class TextToCourse
         try {
             using (var file = new StreamReader(path)) {
                 //Console.WriteLine(file.ReadToEnd());
-                string? CourseName = "";
-                string? CourseTitle = "";
+                string CourseName = "";
+                string CourseTitle = "";
                 string OutcomeString = "";
-                string[] Skills = [];
+                List<string> Skills = [];
 
                 string? currentLine = "";
 
                 {
                     string? dud = file.ReadLine();
-                    CourseName = file.ReadLine();
-                    CourseTitle = file.ReadLine();
+                    CourseName = file.ReadLine() ?? "NAME_ERR";
+                    CourseTitle = file.ReadLine() ?? "TITLE_ERR";
                 }                
                 do {
                     currentLine = file.ReadLine(); 
                     if (!String.IsNullOrWhiteSpace(currentLine) && currentLine.Length > 1) {
                         if (char.IsDigit(currentLine[0]) && currentLine[1] == ')') {
-                            OutcomeString += currentLine.Remove(0, 2);
+                            OutcomeString += currentLine.Remove(0, 5);
                             string s = OutcomeString.Substring(0).ToLower() + OutcomeString.Substring(1);
-                            OutcomeString += s;
+                            OutcomeString = s;
 
                             OutcomeString = "An understanding of " + OutcomeString;
-                            Skills.Append(OutcomeString);
+                            Skills.Add(OutcomeString);
                         }
                         if (currentLine[0] == '*') {
 
-                            OutcomeString += currentLine.Remove(0);
-                            Skills.Append(OutcomeString);
+                            OutcomeString += currentLine.Remove(0,1);
+                            Skills.Add(OutcomeString);
                         }
                         OutcomeString = "";
                     }
