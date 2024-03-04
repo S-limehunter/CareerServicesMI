@@ -159,7 +159,7 @@ public static class Seed{
     }
 
     public static void SeededInit(CourseContext db){
-        TextToCourse.ParseCourseText("MENV1100.txt", db);
+        TextToCourse.ParseCourseText("AQUA0006.txt", db);
         db.Degrees.Add(new() {
             ID = "ExampleDegree",
             Programs = [new(9) {
@@ -169,7 +169,7 @@ public static class Seed{
         db.SaveChanges();
 
         Program toMod = db.Degrees.ToList()[0].Programs[0];
-        toMod.AddCourseToTerm(db, TermNo.T6, "MENV 1100");
+        toMod.AddCourseToTerm(db, TermNo.T6, "AQUA 0006");
         db.SaveChanges();
     }
 }

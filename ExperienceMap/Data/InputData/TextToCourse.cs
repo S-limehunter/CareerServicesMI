@@ -1,3 +1,4 @@
+using AntDesign;
 using Microsoft.EntityFrameworkCore;
 
 namespace ExperienceMap.Data.Input;
@@ -10,34 +11,40 @@ public class TextToCourse
         try {
             using (var file = new StreamReader(path)) {
                 //Console.WriteLine(file.ReadToEnd());
-                string CourseName = "";
-                string CourseTitle = "";
+                string? CourseName = "";
+                string? CourseTitle = "";
                 string OutcomeString = "";
                 string[] Skills = [];
-                bool flag = false;
 
                 string? currentLine = "";
+
+                {
+                    string? dud = file.ReadLine();
+                    CourseName = file.ReadLine();
+                    CourseTitle = file.ReadLine();
+                }                
                 do {
                     currentLine = file.ReadLine(); 
                     if (!String.IsNullOrWhiteSpace(currentLine) && currentLine.Length > 1) {
-                        if (currentLine.Contains("MAJOR TOPICS")) {
-                            string? dud = file.ReadLine();
-                            CourseName += file.ReadLine();
-                            CourseTitle += file.ReadLine();
-                        }  
+                        if (char.IsDigit(currentLine[0]) && currentLine[1] == ')') {
+                            OutcomeString += currentLine.Remove(0, 2);
+                            string s = OutcomeString.Substring(0).ToLower() + OutcomeString.Substring(1);
+                            OutcomeString += s;
 
-                        if (currentLine.Contains("LEARNING OBJECTIVES")) {
-                            flag = true;
+                            OutcomeString = "An understanding of " + OutcomeString;
+                            Skills.Append(OutcomeString);
                         }
-                        
-                        if (Char.IsDigit(currentLine[0]) && (currentLine[1] == ')' || (currentLine[1] == '.' && flag))){
-                            OutcomeString += currentLine + '*';
+                        if (currentLine[0] == '*') {
+
+                            OutcomeString += currentLine.Remove(0);
+                            Skills.Append(OutcomeString);
                         }
+                        OutcomeString = "";
                     }
 
                 } while (currentLine != null);
                 //Console.WriteLine(OutcomeString);
-                Skills = OutcomeString.Split('*'); 
+                //Skills = OutcomeString.Split('*'); 
                 db.Courses.Add(new() {ID = CourseName, Title = CourseTitle, Outcomes = Skills.Select(x => new Skill() {ID = x}).ToList()});
             } 
         } catch (NotSupportedException) {
