@@ -159,8 +159,19 @@ public static class Seed{
     }
 
     public static void SeededInit(CourseContext db){
-        TextToCourse.ParseCourseText("AQUA0006.txt", db);
-        TextToCourse.ParseProgramText("schmeletron2.txt", db);
+        string TextPath = Path.Join(Directory.GetCurrentDirectory(), "TextFiles");
+        Console.WriteLine(TextPath);
+
+        foreach (var file in Directory.GetFiles(Path.Join(TextPath, "CourseDocs"))){
+            TextToCourse.ParseCourseText(file, db);
+        }
+
+        foreach (var file in Directory.GetFiles(Path.Join(TextPath, "ProgramDocs"))){
+            TextToCourse.ParseProgramText(file, db);
+        }
+
+        //TextToCourse.ParseCourseText("AQUA0006.txt", db);
+        //TextToCourse.ParseProgramText("schmeletron2.txt", db);
         /*db.Degrees.Add(new() {
             ID = "ExampleDegree",
             Programs = [new(9) {

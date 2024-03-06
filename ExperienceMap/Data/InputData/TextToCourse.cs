@@ -10,7 +10,9 @@ public class TextToCourse
     public static void ParseCourseText(string path, CourseContext db){
         try {
             using (var file = new StreamReader(path)) {
-                //Console.WriteLine(file.ReadToEnd());
+                Console.WriteLine("Currently Parsing: ");
+                Console.WriteLine(path);
+
                 string CourseName = "";
                 string CourseTitle = "";
                 string OutcomeString = "";
@@ -45,7 +47,7 @@ public class TextToCourse
                 } while (currentLine != null);
                 //Console.WriteLine(OutcomeString);
                 //Skills = OutcomeString.Split('*'); 
-                db.Courses.Add(new() {ID = CourseName, Title = CourseTitle, Outcomes = Skills.Select(x => new Skill() {ID = x}).ToList()});
+                db.Courses.Add(new() {ID = CourseName, Title = CourseTitle, Outcomes = Skills});
             } 
         } catch (NotSupportedException) {
             Console.WriteLine("File format not supprted.");
@@ -56,6 +58,9 @@ public class TextToCourse
         
         try {
             using (var file = new StreamReader(path)){
+                Console.WriteLine("Currently Parsing: ");
+                Console.WriteLine(path);
+
                 string programName = "";
                 string degreeName = "";
                 int termCounter = 0;
