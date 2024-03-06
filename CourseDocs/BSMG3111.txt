@@ -1,0 +1,108 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for .NET.
+BSMG 3111
+(Environmental Assessment)
+
+TYPE & PURPOSE:	This is an advanced level course that will use discussion and analysis of relevant, recent and real-world projects and their assessments, with a particular focus on EA requirements and experiences in marine-related industries, to enable students to develop an understanding of the environmental assessment (EA) process, particularly as it applies to proposed developments and key issues in the marine environment.
+
+CALENDAR ENTRY:	EA Definitions and Concepts; Provincial and Federal EA Processes; EA Stages and Components (including Case Studies); Issues in EA Practice; Post EA Requirements
+
+PREREQUISITE: 	BSMG 2104 (Policy and Law)
+
+SCHEDULE:	Duration: 	13 weeks
+Lectures:  	  3 hours/week = 39 hours
+
+COURSE AIMS:	To enable students to develop an understanding of:
+1)  EA, including its origins, rationale, definition, key concepts and principles.
+2)  Provincial and Federal EA processes and requirements.
+3)  The various stages involved in conducting an EA, including its analytical and consultative components, and to explore key issues in contemporary EA practice.
+4)  Post-EA requirements and processes, including permitting and environmental compliance and effects monitoring.
+
+EVALUATION:	Assignments				 30%
+Midterm Examination			 35%
+Final Examination			 35% 
+Total:					100%
+NOTE:
+Students must receive a passing grade of 50% in the final examination in order to receive a passing grade for the course.
+
+MAJOR TOPICS:		1.0  	EA Definitions and Concepts 
+2.0  	Provincial and Federal EA Processes 
+3.0  	EA Stages and Components (including Case Studies)
+4.0  	Issues in EA Practice
+5.0  	Post EA Requirements
+
+COURSE OUTLINE:
+1.0  EA Definitions and Concepts 
+1.1  EA Definitions
+1.2  EA Origins and Rationale
+1.3  EA Components and Application
+2.0  Provincial and Federal EA Processes 
+2.1  Newfoundland and Labrador EA Legislation and Regulations
+2.2  Canadian (Federal) EA Legislation and Regulations
+2.3  Other Applicable EA Processes
+2.4  EA Harmonization 
+3.0  EA Stages and Components (including Case Studies)
+4.0  Issues in EA Practice
+4.1  EA Objectives, Outcomes and Effectiveness
+4.2  Public and Indigenous Consultation  
+4.3  Cumulative Effects
+4.4  Strategic and Regional Assessments
+5.0  Post EA Requirements
+5.1  Permitting
+5.2  Compliance and Enforcement
+5.3  Effects Monitoring 
+
+LEARNING OBJECTIVES:
+THE EXPECTED LEARNING OUTCOME IS THAT THE STUDENT WILL BE ABLE TO:
+1.0  EA Definitions and Concepts 
+1.1  EA Definitions
+* Define EA and identify its key components and principles.
+1.2  EA Origins and Rationale
+* Describe the rationale for EA and its origins and evolution.
+1.3  EA Components and Application
+* List and define the major stages and aspects of an EA.
+2.0  Provincial and Federal EA Processes 
+2.1  Newfoundland and Labrador EA Legislation and Regulations
+* Identify the legislative basis for provincial EA in Newfoundland and Labrador.
+* Describe the main objectives, stages and possible outcomes of the provincial EA process.
+2.2  Canadian (Federal) EA Legislation and Regulations
+* Identify the legislative basis for federal EA in Canada.
+* Describe the main objectives, stages and possible outcomes of the federal EA process.
+2.3  Other Applicable EA Processes
+* Identify and describe other EA processes that may apply to proposed developments offshore Newfoundland and Labrador.
+2.4  EA Harmonization 
+* Discuss the principle of ‘”one project - one assessment” and the ways this is achieved through inter-jurisdictional EA cooperation in Canada.
+3.0  EA Stages and Components (including Case Studies)
+* Identify and describe the main stages of conducting an EA for a major development activity, including each of the components listed below: 
+* Project Description
+* Screening and Scoping
+* Consultation
+* Existing Environment
+* Effects Analysis
+* Effects Management
+* Residual Effects Evaluation
+* Review and Decision-making 
+* Monitoring and Follow-up
+4.0  Issues in EA Practice
+4.1  EA Objectives, Outcomes and Effectiveness
+* Discuss key issues and evolving views around how EAs should be conducted and their potential uses and outcomes.
+4.2  Public and Indigenous Consultation  
+* Describe the principles of and requirements for consultation in EA, including:
+* when and how it is carried out,
+* typical EA participants and interests in the marine sector, and 
+* key consultation benefits and outcomes. 
+4.3  Cumulative Effects
+* Define cumulative effects, and identify approaches to, and key challenges in, their assessment and management. 
+4.4  Strategic and Regional Assessments
+* Define strategic and regional assessments and discuss their rationale, perceived benefits over project-specific EA, and current application in Canada.
+5.0  Post EA Requirements
+5.1  Permitting
+* Identify the relationship of EA to subsequent regulatory requirements, and key permits required for developments in the marine environment. 
+5.2  Compliance and Enforcement
+* Describe and discuss how compliance with EA commitments and obligations is typically enforced and tracked.
+5.3  Effects Monitoring 
+* Define “environmental effects monitoring (EEM)”.
+* Describe some of the methods and environmental parameters that current marine EEM programs have used and focused on.
+
+
+
+©Marine Institute	School of Fisheries	UGSC Approved – Rev. Oct./2021

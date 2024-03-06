@@ -183,5 +183,4 @@ BSMG 3301 (Leadership and Teamwork)
 MREK 340BM (Propulsion Plant Simulator Training)
 SFTY 1106 (Marine Advanced First Aid)
 SFTY 1117 (Survival Craft - STCW’95 VI/2)
-
 SFTY 1118 (Advanced Firefighting - STCW’95 VI/3 & Officer Certification)

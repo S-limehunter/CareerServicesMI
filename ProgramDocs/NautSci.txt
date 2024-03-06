@@ -1,0 +1,158 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for .NET.
+3.1.4 Diploma of Technology - Nautical Science
+ 
+
+Program Overview: Refer to Nautical Science Overview
+
+ 
+
+Admission Requirements: See Section 1.2.5 - Admission Requirements for Diplomas of Technology and Technician Diplomas of this Calendar. As per Section 1.2.1 - Non-Academic Requirements of the Calendar, proof of physical fitness through a valid medical certificate and a criminal records check are required.
+
+ 
+
+Credit Earned: Diploma of Technology
+
+ 
+
+Program Length: 4 years (6 academic terms, 3 technical sessions, 2 sea phase work terms)
+
+ 
+
+Normal Start: Fall Semester
+
+ 
+
+Tuition and Fees: Programs and Fees
+
+ 
+
+Academic Department: School of Maritime Studies
+
+ 
+
+Contact: Admissions Officer
+(709) 778-0380
+1-800-563-5799 (ext. 380)
+email: admissions@mi.mun.ca
+
+ 
+
+Program Structure
+
+ 
+
+ 
+
+Fall Semester
+
+ (13 weeks)
+
+Winter Semester
+
+ (13 weeks)
+
+Technical Session
+
+Summer Semester/Session
+
+Year 1
+
+TERM 1
+CMSK 1105 (Technical Communications I)
+ELTK 1102 (Electrotechnology)
+ENGR 1105 (Engineering Graphics)
+MATH 1114 (Pre-Calculus)
+NASC 1104 (Seamanship I)
+PHYS 1104 (Physics)
+
+TERM 2
+CMSK 1205 (Technical Communications II)
+ELTK 1203 (Electrical Technology – Alternating Current)
+MATH 1212 (NASC Mathematics II)
+NASC 1204 (Seamanship II)
+ONGR 1201 (Meteorology I)
+PHYS 1204 (Physics)
+
+Technical Session 1
+
+(6 Weeks: Late April – Mid-June)
+NASC 1303 (Shipboard Skills)
+NASC 2107 (Restricted Operator’s Certificate - Maritime Commercial)
+SFTY 1102 (Marine Basic First Aid)
+SFTY 1114 (Basic Safety - STCW’95 VI/I)
+SFTY 1117 (Survival Craft - STCW” 95 VI/2)
+SFTY 1124 (Confined Space Entry Awareness)
+SFTY 1129 (Security Awareness Training for Seafarers with Designated Security Duties)
+
+Work Term 1
+
+(8 weeks: June - August)
+WKTM 1102 (Sea Phase I - Nautical Science) 
+
+Year 2
+
+TERM 3
+MREK 2112 (Marine Engineering Knowledge I)
+NARC 2102 (Ship Building)
+NASC 2101 (Stability I)
+NASC 2108 (Navigation)
+NASC 2112 (Introduction to Cargo Operations)
+NASC 2113 (Electronic Positioning Systems 1 (EPS 1))
+
+TERM 4
+MREK 2212 (Marine Engineering Knowledge II)
+NARC 2202 (Ship Building)
+NASC 2104 (Principles of Cargo Operations and Navigation)
+NASC 2200 (Navigation)
+NASC 2209 (Navigation Safety)
+NASC 2213 (Electronic Positioning Systems 2 (EPS 2))
+NASC 3108 (Stability)
+
+Technical Session 2 
+
+(4 Weeks: Late April – May)
+BSMG 3301 (Leadership and Teamwork)
+NASC 2210 (ECDIS)
+NASC 2307 (Communications)
+
+ 
+
+Work Term 2
+
+(15 months)
+
+WKTM 2102 (Sea Phase II -Nautical Science)
+
+Year 3
+
+Work Term 2
+
+WKTM 2102 (Sea Phase II)
+
+Year 4
+
+Term 5
+
+BSMG 3122 (Law and Environment)
+MREK 3112 (Marine Engineering Knowledge III)
+NASC 3100 (Navigation)
+NASC 3102 (Cargo Operations)
+NASC 3210 (Navigation Systems and Instruments)
+ONGR 3101 (Meteorology II)
+
+Term 6
+BSMG 3205 (Ship Management)
+NASC 3200 (Navigation)
+NASC 3208 (Stability III)
+NASC 3209 (Advanced Navigation Safety)
+NASC 3211 (Seamanship III)
+NASC 3212 (Navigation Systems and Instruments)
+
+Technical Session 3
+
+(6 Weeks: Late April – Mid- June)
+NASC 2300 (Navigation Systems - SEN)
+NASC 3303 (Bridge Watchkeeping)
+NASC 3310 (Transport Canada OOW Exam Preparation)
+SFTY 1106 (Marine Advanced First Aid)
+SFTY 1118 (Advanced Firefighting (STCW” 95 VI/3) & Officer Certification)

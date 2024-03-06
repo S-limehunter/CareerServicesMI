@@ -1,0 +1,287 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for .NET.
+BSMG 3122 
+(Law and Environment)
+
+TYPE AND PURPOSE: 	The purpose of this course is to provide the student with knowledge about and 					opportunities for practical use of various IMO and Transport Canada conventions and				regulations related to the law of the sea and protection of the marine environment. 
+
+CALENDAR ENTRY: 	Introduction to Maritime Law; Law of the Sea; IMO Conventions on Safety of Life at Sea 				and Protection of the Marine Environment; Anti-Pollution Procedures and All Associated				Equipment; Pollution-prevention Requirements
+
+PREREQUISITES:	NASC 1204 (Seamanship II); WKTM 2102 (Sea Phase II) 
+
+SCHEDULE:		Duration:	13 weeks
+			Lectures: 	  4 hours/week = 52 hours total
+
+COURSE AIMS: 		This course will:
+1)  Provide an introduction to maritime law.
+2)  Provide an introduction to various regulations related to the protection of the marine environment and requirements for the prevention of shipboard pollution.
+3)  Provide an opportunity for students to use various IMO conventions and Transport Canada regulations.
+
+EVALUATION:	Assignments	20%
+Tests	30%
+Final Examinations	50%
+Total	100%
+
+NOTE:
+1)  The final examination shall cover all of the course content and consists of 50 multiple-choice questions worth 2 marks each.
+2)  The following open-book resources will be allowed in the examination room as required:
+a)  Arctic Shipping Pollution Prevention Regulations;
+b)  Ballast Water Control and Management Regulations;
+c)  Fire and Boat Drills Regulations;
+d)  Canada Labour Code;
+e)  Canada Shipping Act-2001;
+f)  Vessel Fire Safety Regulations;
+g)  Life-Saving Equipment Regulations;
+h)  Marine Occupational Safety and Health Regulations;
+i)  Marine Personnel Regulations;
+j)  Pollutant Discharge Reporting Regulations, 1995;
+k)  Vessel Pollution and Dangerous Chemicals Regulations;
+l)  Safety and Health Committees and Representatives Regulations;
+m)  Shipping Safety Control Zones Order;
+n)  Vessel Certificates Regulations;
+o)  International Convention on Load Lines, 1966, as amended;
+p)  Special Trade Passenger Ships Agreement, 1971, and rules, 1971;
+q)  Protocol and Rules on Space Requirements for Special Trade Passenger Ships 1973;
+r)  Athens Convention relating to the Carriage of Passengers and their Luggage by sea 1974;
+s)  International Convention on Tonnage Measurements of Ships 1969;
+t)  International Convention for the Prevention of Pollution from Ships, 1973, and the Protocol of 1978 relating thereto (MARPOL 73/78) and its Annexes;
+u)  International Convention for the Safety of Life at Sea, 1974, as amended (SOLAS);
+v)  The International Safety Management (ISM) Code;
+w)  International Ship and Shore Facility Security (ISPS) Code;
+x)  The International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 2010 (STCW 2010);
+3)  The examination is of three hours duration.
+
+In order to pass this course, students must achieve a grade of at least 70%. 
+In addition, students must achieve a minimum of 50% of the marks allocated for term work and 50% of the marks allocated for the final exam.
+Students who fail to achieve 50% of the allocated marks in either component cannot receive a final grade greater than 69%.
+
+MAJOR TOPICS: 	1.0	Introduction to Maritime Law
+	2.0	Law of the Sea
+	3.0	IMO Conventions on Safety of Live at Sea and Protection of the Marine Environment
+	4.0	Anti-Pollution Procedures and all Associated Equipment
+	5.0	Pollution-prevention Requirements
+COURSE OUTLINE: 
+1.0  Introduction to Maritime Law
+
+2.0  Law of the Sea
+2.1.  Conventions on the Law of the Sea
+2.2.  Territorial Sea and Contiguous Zone
+2.3.  International Straits
+2.4.  Exclusive Economic Zone and Continental Shelf
+2.5.  High Seas
+2.6.  Protection and Preservation of the Marine Environment
+
+3.0  IMO Conventions on Safety of Live at Sea and Protection of the Marine Environment
+3.1.  Basic Working Knowledge of the Relevant IMO Conventions Concerning Safety of Life and Protection of the Marine Environment
+3.2.  Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter [London Dumping Convention (LDC)]
+3.3.  International Convention Relating to Intervention on the High Seas in Cases of Oil Pollution Casualties, 1969 
+3.4.  International Convention on Civil Liability for Oil Pollution Damage, 1969 
+3.5.  International Convention on Tonnage Measurements of Ships, 1969 
+3.6.  International Convention for the Control and Management of Ship’s Ballast Water and Sediments, 2004
+3.7.  International Convention on the Control of Harmful Anti-fouling Systems on Ships, 2001
+
+4.0  Anti-Pollution Procedures and all Associated Equipment
+4.1.  Control of Discharge of Oil
+4.2.  Oil Record Book (Part I machinery space operations and Part II - Cargo/Ballast operations)
+4.3.  Shipboard Oil Pollution Emergency Plan (SOPEP)
+4.4.  Shipboard Marine Pollution Emergency Plan (SMPEP) for oil and/or Noxious Liquid Substances
+4.5.  Vessel Response Plan (VRP)
+4.6.  Overview of Anti-pollution Equipment, Sewage Plant, Incinerator, Comminutor, Ballast Water Treatment Plan
+4.7.  Volatile Organic Compound Management Plan
+4.8.  Garbage Management Plan (GMP)
+
+5.0  Pollution-prevention Requirements
+5.1.  Precautions during Fueling
+5.2.  Precautions to Prevent Pollution of the Marine Environment
+5.3.  Canadian Regulations
+5.3.1  Vessel Pollution and Dangerous Chemicals Regulations
+5.3.2  Arctic Shipping Pollution Prevention Regulations
+5.3.3  Shipping Safety Control Zones Order
+5.3.4  Ballast Water Control and Management Regulations
+LEARNING OBJECTIVES: 
+THE EXPECTED LEARNING OUTCOME IS THAT THE STUDENT WILL BE ABLE TO:
+1.0  Introduction to Maritime Law
+* List the main originators of international conventions concerned with maritime law.
+* Describe flag state jurisdiction, coastal state jurisdiction and port state jurisdiction.
+* State the significance of the “no more favorable treatment” clause in the SOLAS, MARPOL, STCW and ILO Minimum Standards in Merchant Ships conventions.
+* Distinguish between private and public international law.
+* Explain how public maritime law is enforced through survey, inspection, and certification, penal sanctions and administrative procedures.
+* Discuss the importance of keeping up to date with developments in new and amended legislation.
+
+2.0  Law of the Sea
+2.1.  Conventions on the Law of the Sea
+* Identify the legal status of UNCLOS and the Geneva Conventions.
+* Discuss how these conventions address pollution of the marine environment.
+* Define dumping and force majeure.
+2.2.  Territorial Sea and Contiguous Zone
+* State the legal status of the territorial sea and its breadth.
+* Define internal waters.
+* State the legal status of road steads.
+* Explain the right of innocent passage.
+* Discuss matters on which coastal State laws or regulations may affect innocent passage.
+* State the obligations during innocent passage in a territorial sea.
+* State the obligations of nuclear-powered ships and ships carrying dangerous or noxious substances.
+* Explain the additional rights of a coastal State regarding ships proceeding to internal waters or calling at a port facility.
+* List the charges which may be levied on ships passing through a territorial sea.
+* Explain the criminal jurisdiction of a coastal state on board foreign ship passing through the territorial sea.
+* Discuss the coastal state’s obligation to facilitate contact between consular authority of the flag state and the ship’s crew went taking measures to arrest a ship.
+* Explain the civil jurisdiction of a coastal state on board a foreign vessel passing through the territorial sea.
+* Describe the extent of the contiguous zone and the control a coastal state may exercise therein.
+2.3.  International Straits
+* State the legal status of waters forming straits used for international navigation.
+* Explain the right of transit passage.
+* Define transit passage.
+* State the duties of ships in transit passage.
+* State the meaning of "generally accepted international regulations, procedures and practices.
+* State the duty of ships in transit passage regarding sea lanes and traffic separation scheme (TSS).
+* Discuss matters on which coastal State laws or regulations may affect transit passage.
+* State the obligations of ships during transit passage.
+* Explain the application of innocent passage to straits used for international navigation.
+* Define archipelago and archipelagic state.
+* Explain the right of innocent passage through archipelagic waters.
+* Describe how sea lanes should be defined and how ships should follow them.
+* Explain how archipelagic state may designate TSS for any sea lanes.
+* State how ships must respect established sea lanes and TSS.
+2.4.  Exclusive Economic Zone and Continental Shelf
+* Define exclusive economic zone (EEZ) and continental shelf.
+* Describe the breadth of the EEZ.
+* Explain the coastal state's jurisdiction over artificial islands, installations and structures within its exclusive economic zone.
+* Explain the establishment of safety zones around artificial islands, installations and structures.
+* Describe the breath of the safety zones around artificial islands, installations and structures.
+* State the obligations of ships regarding safety zones.
+2.5.  High Seas
+* Explain the freedom of the high seas.
+* Explain the nationality of ships.
+* List the documents issued when a state grants the right to fly its flag.
+* Explain the status of ships regarding nationality.
+* State the duties of the flag state with respect to ships flying its flag.
+* State who may withdraw a master's certificate or a certificate of competency or a license.
+2.6.  Protection and Preservation of the Marine Environment
+* Explain the rights of coastal zone states to adopt laws and regulations for the prevention, reduction, and control of pollution in respect of their exclusive economic zones.
+* Describe the enforcement by flag states of measures for the prevention, reduction and control of pollution from ships.
+* Describe the enforcement by port states of measures for the prevention, reduction and control of pollution from ships.
+* Describe the enforcements by coastal states of measures for the prevention, reduction and control of pollution from ships.
+* Explain the measures relating to seaworthiness of vessels to avoid pollution.
+* Define maritime casualty.
+
+3.0  IMO Conventions on Safety of Live at Sea and Protection of the Marine Environment
+3.1.  Basic Working Knowledge of the Relevant IMO Conventions Concerning Safety of Life and Protection of the Marine Environment
+* Demonstrate awareness of the layout, application and content, and basic working knowledge of the following international conventions and codes:
+a.  MARPOL 73/78 – International Convention for the Prevention of Pollution from ships, 1973, and the Protocol of 1978 relating thereto and its Annexes;
+b.  International Convention on Load Lines, 1966 as amended;
+c.  SOLAS - International Convention for the Safety of Life at Sea, 1974 as amended;
+d.  ISM - The International Safety Management Code;
+e.  ISPS - International Ship and Shore Facility Security Code;
+f.  STCW 2010 – The International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 2010;
+g.  Special Trade Passenger Ships Agreement, 1971, and rules, 1971;
+h.  Protocol and Rules on space Requirements for Special Trade Passenger Ships 1973;
+i.  Athens Convention relating to the Carriage of Passengers and their Luggage by sea 1974;
+j.  Code of Safe Working Practices for Merchant Seamen.
+
+3.2.  Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter [London Dumping Convention (LDC)]
+* State the aims of the Convention.
+* Define dumping; wastes or other matter; special permit; general permit for the purposes of the Convention.
+* Explain prohibited dumping.
+* State the requirement of a Special Permit for dumping of wastes listed in Annex II.
+* State the requirement of a general permit prior to the dumping of all other wastes.
+* Explain the application of Article IV.
+* Discuss dumping in the case of force majeure.
+* State the regulations on the incineration of wastes at sea.
+* Discuss how the appropriate authority of a Contacting Party should issue prior special or general permits in respect of matter intended for dumping; loaded in its territory and loaded by a vessel flying its flag when the loading occurs in the territory of a state not party to the convention.
+3.3.  International Convention Relating to Intervention on the High Seas in Cases of Oil Pollution Casualties, 1969 
+* Discuss the rights of Parties to the Convention to intervene on the high seas following a maritime casualty.
+3.4.  International Convention on Civil Liability for Oil Pollution Damage, 1969 
+* Define, for the purpose of the Convention: ship; owner; oil; pollution damage; preventive measures; incident.
+* List the occurrences to which the Convention applies.
+* Explain liability.
+* List the exceptions to liability.
+3.5.  International Convention on Tonnage Measurements of Ships, 1969 
+* Outline the content of the International Convention on Tonnage Measurements of Ships, 1969.
+* Outline the content of the Vessel Registration and Tonnage Regulations.
+* State the requirement of a tonnage certificate for registering a vessel.
+* State the requirement for Panama and Suez tonnage measurements.
+* Outline the content of TP 13430 - Standards for the Tonnage Measurements of Ships.
+3.6.  International Convention for the Control and Management of Ship’s Ballast Water and Sediments, 2004
+* Define ballast water, ballast water management and sediments.
+* List the conditions where the application of this Convention may be exempted.
+* Discuss the application of the Convention.
+* State the management and control requirement based on section B regulation B1-B6.
+* Outline the content of the Annex sections A, B, C, D and F.
+* List the various methods of ballast exchange.
+* State the standards that need to be observed in ballast water exchange.
+3.7.  International Convention on the Control of Harmful Anti-fouling Systems on Ships, 2001
+* Define anti-fouling system.
+* Describe the control of waste material based on Annex I of the Convention.
+
+4.0  Anti-Pollution Procedures and all Associated Equipment
+4.1.  Control of Discharge of Oil
+* Explain the control of discharge of oil as stated in Regulation 9 of MARPOL 73/78.
+* Define Particularly Sensitive Sea Areas.
+* Discuss methods for prevention of oil pollution and discharge provisions for oil and oily waste from machinery spaces outside special areas and within special areas.
+* Describe bilge water holding tank; oily water separator; oil discharge monitoring and control system and oil filtering equipment as stated in Regulation 16 of MARPOL 73/78.
+* Discuss the prevention of oil pollution as stated in Regulation 13F in the event of collision or stranding and Regulation 13G in the event of collision or stranding measures for existing tankers of MARPOL 73/78.
+* State the requirements for retention of oil on board as stated in Regulation 15 of MARPOL 73/78.
+4.2.  Oil Record Book (Part I machinery space operations and Part II - Cargo/Ballast operations)
+* State the requirements for the provision of Oil Record books.
+* List the various operations during which the Oil Record book has to be completed.
+* State the various operations during which the Oil Record book has to be completed:
+a.  machinery space operations (all ships);
+b.  cargo/ballast operations (oil tankers).
+* State the entries required for accidental or other exceptional discharge of oil.
+4.3.  Shipboard Oil Pollution Emergency Plan (SOPEP)
+* Define a Shipboard Oil Pollution Emergency Plan.
+* Describe the content of a SOPEP.
+* State which vessels must carry a SOPEP.
+* Discuss the guidelines for the development of a Shipboard Oil Pollution Emergency Plan.
+* Identify an International Oil Pollution Prevention (IOPP) certificate.
+4.4.  Shipboard Marine Pollution Emergency Plan (SMPEP) for oil and/or Noxious Liquid Substances
+* Describe the content of SMPEP.
+* State which vessels are required to carry a SMPE.
+4.5.  Vessel Response Plan (VRP)
+* Define a Vessel Response Plan.
+* State which vessels are required to carry a VRP.
+4.6.  Overview of Anti-pollution Equipment, Sewage Plant, Incinerator, Comminutor, Ballast Water Treatment Plan
+* Describe the operating procedures of anti-pollution equipment such as: sewage plant, incinerator, communitor and ballast water treatment plant.
+4.7.  Volatile Organic Compound Management Plan
+* Define volatile organic compounds (VOC).
+* State when VOC emissions from the fuel/petroleum industry sources occur.
+* State when VOC emissions from ships occur.
+* State when VOC emissions from ships occur.
+* Explain the aim of the VOC Management Plan.
+4.8.  Garbage Management Plan (GMP)
+* Describe the content and key points in a typical garbage management plan.
+* State which vessels are required to carry a GMP.
+* State which vessels are to be provided with a Garbage Record Book (GRB).
+* List the various operations during which the GRB has to be completed.
+* List the various entries that need to be made in the GRB.
+* State the disposal criteria for cargo residues/cargo hold washing water residues.
+
+5.0  Pollution-prevention Requirements
+5.1.  Precautions during Fueling
+* Identify precautions to be taken during fueling.
+5.2.  Precautions to Prevent Pollution of the Marine Environment
+* Identify precautions to be taken to prevent pollution of the marine environment by oil, sewage, garbage, antifouling systems or other pollutant and air pollution.
+* Describe the appropriate action in response to pollution incidents onboard and at sea.
+* Explain the importance of proactive measures to protect the marine environment.
+* Discuss the need for taking proactive measures to protect the marine environment.
+* State the proactive measures that can be taken onboard ships to protect the marine environment for shipboard operations including bunkering; and loading/discharging oil; chemicals and hazardous cargoes; tank cleaning; cargo hold washing; pumping out bilges (hold in engine room); ballast water exchange; purging and gas freeing; disposal of other garbage; discharge of sewage.
+5.3.  Canadian Regulations
+5.3.1  Vessel Pollution and Dangerous Chemicals Regulations
+* Demonstrate basic knowledge of the content, application and ability to use Vessel Pollution and Dangerous Chemicals Regulations.
+* Demonstrate a basic knowledge of anti-pollution equipment required by MARPOL Convention and Canadian regulations.
+* Identify the statutory requirements to report pollution incidents as contained in the Vessel Pollution and Dangerous Chemicals Regulations.
+5.3.2  Arctic Shipping Pollution Prevention Regulations
+* State the application of the Arctic Waters Pollution Prevention Regulations.
+* State the purpose of the Arctic Waters Pollution Prevention Regulations.
+* State the content of major sections of the Arctic Waters Pollution Prevention Regulations, including carrying out a transfer operation, taking on bunkers and reporting a spill.
+* Cite appropriate sections of the Arctic Waters Pollution Prevention Regulations when formulating answers to specific questions.
+5.3.3  Shipping Safety Control Zones Order
+* State the application of the Shipping Safety Control Zones Order.
+* State the purpose of the Shipping Safety Control Zones Order.
+* Describe a process to identify the limits of the zones.
+5.3.4  Ballast Water Control and Management Regulations
+* State the purpose of Ballast Water Control and Management Regulations.
+* State the application of Ballast Water Control and Management Regulations.
+* Outline the contents of Ballast Water Control and Management Regulations.
+* Cite appropriate sections of the Ballast Water Control and Management Regulations when formulating answers to specific questions.
+©Marine Institute	School of Maritime Studies
+	UGSC Approved –  Rev. March/2022

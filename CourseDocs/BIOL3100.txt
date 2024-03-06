@@ -1,0 +1,230 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for .NET.
+BIOL 3100
+(Marine Biology)
+
+TYPE AND PURPOSE: 	This is an intermediate level course which develops the student's understanding of the types of living organisms which inhabit the marine environment. Morphologies, functions, adaptations, and interactions between species and with the marine environment is emphasized throughout the course.
+
+CALENDAR ENTRY: 	Taxonomic Classification and Identification; Marine Organisms: Function and Environment; Marine Invertebrates; Marine Chordates; Protists
+
+PREREQUISITES: 	SC 1807 (Safety in Science Lab (Lab Safety)); SC 1808 (WHMIS); and 
+BIOL 1100 (Biology)
+
+SCHEDULE:		Duration:  	13 weeks 
+Lectures:   	 3 hours per week = 39 total hours
+Laboratories:   	 2 hours once per week = 26 total hours
+
+COURSE AIMS: 		To enable the student to:
+
+1)  Become familiar with the taxonomic classification system for marine organisms and investigate associated adaptations.
+2)  Identify how marine organisms respond to changes in the chemical and physical aspects of their environment. 
+3)  Identify the major phyla of marine invertebrates and their structures and associated functions.
+4)  Investigate marine chordates including bony and cartilaginous fishes, marine mammals, and seabirds.
+5)  Become familiar with the major groups of protists 
+
+EVALUATION: 		Laboratory 				 15%
+Laboratory Exam 			 15%
+Assignments 				 10%
+Midterm Exam 				 20%
+Final Examination 			 40%
+Total 					100%
+
+NOTES: 	
+1.  Students MUST submit ALL written laboratory reports to successfully pass the course.  Failure to do so will result in a maximum grade of 45% in the course.
+2.  A minimum average mark of 5/10 for the laboratory component of the course is required in addition to achieving an overall pass mark in the course. 
+3.  Attendance in all laboratory classes is mandatory. Failure to attend, without a satisfactory documented reason, for example a medical certificate issued by a doctor, will mean that the maximum grade possible for this course will be 45 percent.
+	
+
+MAJOR TOPICS: 	1.0 	Taxonomic Classification and Identification
+2.0 	Marine Organisms: Function and Environment
+3.0 	Marine Invertebrates
+4.0 	Marine Chordates
+5.0 	Protists
+
+
+COURSE OUTLINE:
+1.0  Taxonomic Classification and Identification
+1.1  Taxonomic Classification
+1.2  Adaptations
+
+2.0  Marine Organisms: Function and Environment
+2.1  Temperature
+2.2  Salinity
+2.3  Oxygen
+2.4  Light
+2.5  Measures of Physiological Response to Environmental Change
+
+3.0  Marine Invertebrates
+3.1  Porifera
+3.2  Cnidaria
+3.3  Ctenophora
+3.4  Platyhelminthes
+3.5  Nematoda
+3.6  Mollusca
+3.7  Echinodermata
+3.8  Arthropoda
+3.9  Invertebrate Characteristics
+
+4.0  Marine Chordates
+4.1  Invertebrate Chordates
+4.2  Vertebrate Chordates: Bony Fishes (Actinopterygii)
+4.3  Vertebrate Chordates: Cartilaginous Fishes (Chondrichthyes)
+4.4  Vertebrate Chordates: Marine Mammals
+4.5  Vertebrate Chordates: Seabirds
+
+5.0  Protists
+5.1  Plankton
+5.2  Seaweeds and Algae
+LEARNING OBJECTIVES:
+THE EXPECTED LEARNING OUTCOME IS THAT THE STUDENT WILL BE ABLE TO:
+1.0  Taxonomic Classification and Identification
+1.1  Taxonomic Classification
+* Identify three ways in which marine organisms can be classified by habitat and mobility.
+* Classify plankton by type, location of life cycle and size.
+* Define taxonomy.
+* Discuss taxonomic classification and list the major taxonomic classification levels used to group marine organisms.
+* List and discuss the three Domains of life.
+1.2  Adaptations
+* Define adaptation.
+* List and discuss the four categories of adaptations.
+* Describe ecological adaptations.
+* Identify and discuss specific examples of adaptations that marine organism’s exhibit.
+* Define adaptive response.
+
+2.0  Marine Organisms: Function and Environment
+2.1  Temperature
+* Explain how temperature affects the latitudinal distribution of most marine species.
+* Discuss temperature regulation in marine organisms.
+* Explain how temperature affects metabolic rates and behaviour.
+* Discuss how extreme seasonal changes in temperature effect individuals of a species.
+* Define homeotherm, poikilotherm, eurythermal and stenothermal.
+2.2  Salinity
+* Explain how marine organisms osmoregulate to changes in salinity.
+* Define euryhaline and stenohaline.
+2.3  Oxygen
+* Outline the main factors effecting the consumption rate of oxygen in marine species.
+* Discuss how organisms that require large amounts of oxygen have increased their blood's capacity for oxygen transport.
+* Explain the Bohr effect in deep diving mammals.
+* Describe the mechanism of oxygen extraction from water in fish
+2.4  Light
+* Review the importance of sunlight to the marine environment.
+* Discuss the various methods marine organisms use light to detect images.
+* Explain light's importance as a cue in behavioural adaption.
+* Outline the role of bioluminescence in the marine environment.
+2.5  Measures of Physiological Response to Environmental Change
+* Discuss the parameters used to measure physiological response to environmental change by marine organisms.
+
+3.0  Marine Invertebrates
+3.1  Porifera
+* Describe the general characteristics of the Phylum Porifera.
+* Describe the three body plans of sponges based on canal systems.
+* Outline the identifying characteristics of the different classes of sponges.
+* Recall the classification of the Phylum Porifera.
+* Recall the distinguishing characteristics of the Phylum Porifera.
+* Describe different types of sponge reproduction.
+* Describe the three different classes of sponges.
+3.2  Cnidaria
+* Describe the general characteristics of the Phylum Cnidaria.
+* Outline the five classes of cnidarians and their key biological features.
+* Describe the different body plans of Cnidarians.
+* Outline the identifying characteristics of the different classes of Cnidarians.
+* Recall the classification of the Phylum Cnidaria.
+* Recall the distinguishing characteristics of the Phylum Cnidaria.
+3.3  Ctenophora
+* Describe the general characteristics of the Phylum Ctenophora.
+* Recall the classification of the Phylum Ctenophora.
+* Outline the two classes of ctenophores and their key biological features.
+* Recall the distinguishing characteristics of the Phylum Ctenophora.
+* Describe the body plans of Ctenophores.
+* Compare and contrast characteristics of Ctenophores and Cnidarians.
+* Define statocyst.
+3.4  Platyhelminthes
+* Describe the general characteristics of the Phylum Platyhelminthes.
+* Recall the classification of the Phylum Platyhelminthes.
+* Outline the four classes of the Phylum Platyhelminthes and their key biological features.
+* Recall the distinguishing characteristics of the Phylum Platyhelminthes.
+* Discuss the differences between parasitic and free-living flatworms.
+* Describe how some marine flatworms are successful parasites.
+3.5  Nematoda
+* Describe the general characteristics of the Phylum Nematoda.
+* Recall the classification of the Phylum Nematoda.
+* Outline Classes Chromodorea and Enoplea and their key biological features.
+* Recall the distinguishing characteristics of the Phylum Nematoda.
+* Discuss locomotion, digestion, reproduction, and the nervous system in Nematodes.
+3.6  Mollusca
+* Describe the general characteristics of the Phylum Mollusca.
+* Recall the classification of the Phylum Mollusca.
+* Outline five classes of the Phylum Mollusca and their key biological features.
+* Recall the distinguishing characteristics of the Phylum Mollusca.
+* Discuss the structures and functions of each class of mollusc.
+* Define mantle, foot, radula, torsion, crystalline style, chromatophores and metanephridia.
+3.7  Echinodermata
+* Discuss the general characteristics of the Phylum Echinodermata.
+* Recall the classification of the Phylum Echinodermata.
+* Outline four major classes of the Phylum Echinodermata and their key biological features.
+* Recall the distinguishing characteristics of the Phylum Echinodermata.
+* Discuss the structures and functions of each class of Echinoderms.
+* Explain how the water vascular system works and label a diagram.
+* Define ossicles, tubercules, pedicellariae, Aristotle’s lantern and cuverian tubules.
+3.8  Arthropoda
+* Discuss the general biology and physiology of the Phylum Arthropoda.
+* Recall the classification of the Phylum Arthropoda.
+* Outline the two marine Subphyla of the Phylum Arthropoda and their key biological features.
+* Recall the distinguishing characteristics of the Phylum Arthropoda.
+* Discuss the structures and functions of each class of marine Arthropods.
+* Discuss the process of molting and the structure of the Arthropod exoskeleton.
+* Describe arthropod segmentation and associated structures and their functions.
+3.9  Invertebrate Characteristics
+* List and describe the characteristics used to group invertebrates into different taxa.
+* Define endoderm, ectoderm, and mesoderm.
+* Define diploblastic and triploblastic.
+* Define acoelomate, coelomate and pseudocoelomate.
+* Explain the different types of animal symmetry.
+* Distinguish between filter and deposit feeders.
+* Recall invertebrate larvae.
+* Match structures and functions of invertebrates with specific taxa.
+* Identify structures, symmetry, orientation of invertebrate specimens.
+* Describe the functions of identified invertebrate structures.
+* Highlight multiple uses of cilia by marine invertebrates.
+
+4.0  Marine Chordates
+4.1  Invertebrate Chordates
+* Discuss the general biology and physiology of Urochordates and Cephalochordates.
+* Recall the classification of the invertebrate Subphyla.
+* Recall the distinguishing characteristics of the Phylum Chordata.
+* Label a diagram of generalized chordate with the distinguishing characteristics and describe their functions.
+* Define endostyle, and myomeres.
+4.2  Vertebrate Chordates: Bony Fishes (Actinopterygii)
+* Discuss the common characteristics of vertebrate chordates.
+* Recall the classification of the Subphylum Vertebrata.
+* Recall the evolutionary history of bony fishes.
+* Describe various functions of the bony fish body.
+* Discuss various reproductive strategies in fish.
+4.3  Vertebrate Chordates: Cartilaginous Fishes (Chondrichthyes)
+* Recall the evolutionary history of cartilaginous fishes.
+* Recall various structures and functions of the cartilaginous fish body.
+4.4  Vertebrate Chordates: Marine Mammals 
+* Discuss the adaptations of marine mammals that allow them to be successful in the marine environment.
+* Recall the different Orders of marine mammals and their characteristics.
+* Recall the different Orders of marine mammals and their characteristics.
+4.5  Vertebrate Chordates: Seabirds
+* Distinguish between the major groups of seabirds.
+
+5.0  Protists
+5.1  Plankton
+* Recall that protists are animal-like, plant-like and fungal-like.
+* Recall that plankton can be classified by type, location of life cycle and size.
+* Distinguish between the major groups of protozoans and their method of locomotion.
+* Recall characteristics of the major protozoan phyla.
+
+* Distinguish between the major groups of phytoplankton and zooplankton in the marine environment.
+* Discuss the general characteristics of the different types of phytoplankton and zooplankton.
+5.2  Seaweeds and Algae
+* Recall seaweed classification.
+* Recall the structures and functions of a generalized seaweed thallus.
+* Label a diagram of a seaweed thallus.
+* Discuss several ways that seaweeds differ from terrestrial plants.
+* Distinguish between the major Divisions of marine algae and the characteristics used to classify them.
+
+
+©Marine Institute	School of Fisheries
+	UGSC Approved – Rev. May/2022

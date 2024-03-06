@@ -1,0 +1,130 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for .NET.
+BIOL 2300
+(Fish Identification)
+
+TYPE AND PURPOSE:	This is an intermediate level course that develops the student's understanding of the types of fish that inhabit marine and freshwater habitats of North America. The focus of the course is identification of species and general fish health.
+
+CALENDAR ENTRY: 	Fish Characteristics and Classification; Fish Identification; Fish Health
+
+PREREQUISITES: 	BIOL 1100 (Biology)
+
+SCHEDULE: 		Duration:     	48 hours 
+Lecture:	     	 6 total hours
+Laboratory: 	42 total hours
+
+COURSE AIMS: 		To enable participants to:
+1.  Identify major marine and freshwater species. 
+2.  Identify general fish meristic, morphometric and composite characteristics.
+3.  Examine the external and internal anatomy of various marine and freshwater fish species.
+4.  Identify disease symptoms in fish.
+
+
+EVALUATION: 		Laboratory 		40%
+Assignments 		20%
+Quiz 			10%
+Final Examination 	30%
+Total			100%
+
+NOTES: 	
+1.  Students MUST submit ALL written laboratory reports to successfully pass the course.  Failure to do so will result in a maximum grade of 45% in the course.
+2.  A minimum average mark of 5/10 for the laboratory component of the course is required in addition to achieving an overall pass mark in the course. 
+3.  Attendance in all laboratory classes is mandatory. Failure to attend, without a satisfactory documented reason, for example a medical certificate issued by a doctor, will mean that the maximum grade possible for this course will be 45 percent.
+
+
+MAJOR TOPICS:		1.0  Fish Characteristics and Classification
+2.0  Fish Identification
+3.0  Fish Health
+
+
+COURSE OUTLINE:
+
+1.0  Fish Characteristics and Classification
+1.1  General Fish Characteristics
+1.2  Classification of Fish
+2.0  Fish Identification
+2.1  Meristic Characteristics
+2.2  Morphometric Characteristics
+2.3  Composite Characteristics
+2.4  External Anatomy
+2.5  Internal Anatomy
+2.6  Larval Fish
+3.0  Fish Health
+3.1  Stressors
+3.2  Diseases
+3.3  Environmental Factors
+3.4  Pathogens
+3.5  Fish Sampling
+
+ 
+
+
+LEARNING OBJECTIVES:
+THE EXPECTED LEARNING OUTCOME IS THAT THE STUDENT WILL BE ABLE TO:
+1.0  Fish Characteristics and Classification
+1.1  General Fish Characteristics
+* Identify distinguishing characteristics of fish.
+1.2  Classification of Fish
+* Explain the classification of fish in the animal kingdom.
+* Discuss major groups of fish.
+2.0  Fish Identification
+2.1  Meristic Characteristics
+* Identify and examine meristic characteristics of various freshwater and marine fish species
+2.2  Morphometric Characteristics
+* Identify and examine morphometric characteristics of various freshwater and marine fish species.
+2.3  Composite Characteristics
+* Identify and examine composite characteristics of various freshwater and marine fish species.
+2.4  External Anatomy
+* Discuss common anatomical terms.
+* Identify and examine various body and tail shapes of fish.
+* Identify the habitats and life style associated various fish body shapes.
+* Identify and examine gill coverings, gill structure, gill function, and placement in fish.
+* Identify and examine the lateral line system in fish.
+* Identify four scale types of fish.
+* Distinguish between fins, rays and spines of fish.
+* Explain the function of fins, rays and spines.
+2.5  Internal Anatomy
+* Differentiate between the different types of fish skeletons.
+* Identify and examine the major internal organs of fish.
+* List and identify the function of major fish organs.
+* Describe the function of the muscular system of fish.
+* Describe the function of the circulatory system of fish.
+* Describe the function of the feeding and digestive system of fish.
+* Describe the function of the nervous system of fish.
+* Describe and examine the reproductive organs of fish.
+* Discuss buoyancy in fish.
+2.6  Larval Fish
+* Discuss and examine external larval fish characteristics.
+3.0  Fish Health
+3.1  Stressors 
+* Define stress.
+* Describe the stress response in fish.
+* Discuss potential stressors in fish.
+* Discuss the effects of stress and diseases
+3.2  Disease
+* Define fish health.
+* Define disease.
+* Discuss external barriers against disease.
+* Discuss the interaction between host, pathogen and environment
+* Discuss types of disease.
+* Describe disease transmission.
+* Identify external indicators of fish health and/or disease.
+* Discuss gill condition as an indicator of fish health.
+* Discuss body shape/condition as an indicator of fish health.
+* Discuss eye condition as an indicator of fish health.
+3.3  Environmental Factors
+* Discuss temperature, salinity, pH, turbidity, toxicants, available oxygen and other potential stressors in fish.
+3.4  Pathogens
+* Describe different types of pathogens (e.g., fungal diseases, parasites, bacterial diseases, viruses).
+3.5  Fish Sampling
+* Discuss the objectives of fish sampling.
+* Discuss the types of data collected. 
+* State examples of fish sampling protocols.
+* Explain random sampling of fish for statistical analyses.
+* Demonstrate how to measure fish length and weight.
+* Demonstrate how to take samples of organs and muscles.
+* Remove and preserve a fish otolith and scale.
+* Demonstrate sampling of fish kidney.
+
+
+©Marine Institute		School of Fisheries		UGSC Approved – Rev. Feb./2022
+

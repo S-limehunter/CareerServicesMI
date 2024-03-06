@@ -1,0 +1,469 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for .NET.
+BIOL 2102
+(Microbiology)
+
+
+
+©Marine Institute
+School of Fisheries
+
+TYPE AND PURPOSE: CALENDER ENTRY:
+
+
+PREREQUISITES: SCHEDULE:
+
+COURSE AIMS:
+
+
+
+
+
+
+
+
+MAJOR TOPICS:
+
+This course is designed to prepare the students for the Sanitation and Food Microbiology courses.
+
+Introduction to Microbiology; History of Microbiology; Microscopy and Staining; Prokaryotic Microorganisms; Microbial Growth; Viruses; Fungi; Protozoa; Algae; Microbial Genetics; Classification of Prokaryotic Microorganisms; Control of Microbial Growth; Interaction of Microbes and Host; Aquatic Microbiology
+
+BIOL 1100 (Mircobiology)
+
+Lectures:	39 hours
+Laboratory:	39 hours
+
+1)  To provide the student with knowledge of the nature, characteristics, and importance of microorganisms.
+
+2)  To introduce the student to the diversity of microbial life.
+
+3)  To prepare the student to understand the modern concepts of microbiology in order to comprehend current advances that are affecting and will affect our daily lives.
+
+4)  To develop awareness and competency in basic microbiological techniques and applications.
+
+1.0 Introduction to Microbiology
+
+2.0 History of Microbiology
+
+3.0 Microscopy and Staining
+
+4.0 Prokaryotic Microorganisms
+
+5.0 Microbial Growth
+
+6.0 Viruses
+
+7.0 Fungi
+
+8.0 Protozoa
+
+9.0 Algae
+
+10.0 Microbial Genetics
+
+11.0 Classification of Prokaryotic Microorganisms
+
+12.0 Control of Microbial Growth
+
+13.0 Interaction of Microbes and Host
+
+14.0 Aquatic Microbiology
+
+
+©Marine Institute
+School of Fisheries
+
+2	BIOL 2102 (Microbiology)
+
+COURSE OUTLINE:
+1.0  Introduction to Microbiology
+1.1  Nature of Microorganisms
+1.2  Importance of Microorganisms
+1.3  Prokaryotic and Eukaryotic Microorganisms
+1.4  Five-Kingdom Classification
+1.5  Nomenclature
+
+2.0  History of Microbiology
+2.1  First Observations
+2.2  Spontaneous Generation Theory
+2.3  Germ Theory of Disease
+2.4  Modern Developments
+
+3.0  Microscopy and Staining
+3.1  Microscopes
+3.2  Staining Techniques
+
+4.0  Prokaryotic Microorganisms
+4.1  Shape, Arrangement, Size
+4.2  Surface-associated Structures
+4.3  Cell Wall
+4.4  Cell Membranes
+4.5  Internal Structures
+4.6  Endospores
+
+5.0  Growth
+5.1  Bacterial Reproduction
+5.2  Requirements for Growth
+5.3  Culture Media
+5.4  Pure Culture
+5.5  Growth Phases
+5.6  Preservation of Cultures
+5.7  Measurement of Growth
+
+6.0  Viruses
+6.1  Characteristics
+6.2  Structure
+6.3  Isolation and Cultivation
+6.4  Multiplication
+6.5  Effects of Viral Infection on Host Cell
+6.6  Viral Diseases
+
+
+©Marine Institute
+School of Fisheries
+
+BIOL 2102 (Microbiology)	3
+
+7.0  Fungi
+7.1  Characteristics
+7.2  Structure
+7.3  Reproduction
+7.4  Classification
+7.5  Cultivation
+
+8.0  Protozoa
+8.1  Characteristics
+8.2  Structure
+8.3  Reproduction
+8.4  Classification
+
+9.0  Algae
+9.1  Characteristics
+9.2  Structure
+9.3  Reproduction
+
+10.0  Microbial Genetics
+10.1  Genetic Material
+10.2  Mutation
+10.3  Gene Transfer
+10.4  Genetic Engineering
+
+11.0  Classification of Prokaryotic Organisms
+11.1  Criteria for Classification
+11.2  Classification System
+
+12.0  Control of Microbial Growth
+12.1  Introduction
+12.2  Physical Methods of Control
+12.3  Chemical Agents
+12.4  Chemotherapeutic Agents
+
+13.0  Interaction of Microorganisms and Host
+13.1  Normal Flora
+13.2  Pathogens and Disease
+13.3  Host Defenses
+
+14.0  Aquatic Microbiology
+14.1  Aquatic Micro Flora
+14.2  Water Pollution
+14.3  Water Treatment
+14.4  Sewage Treatment
+14.5  Water Analysis
+
+
+©Marine Institute
+School of Fisheries
+
+4	BIOL 2102 (Microbiology)
+
+LEARNING OBJECTIVES:
+THE EXPECTED LEARNING OUTCOME IS THAT THE STUDENT WILL BE ABLE TO:
+
+1.0  Introduction to Microbiology
+1.1  Nature of Microorganisms
+* Define microorganism and microbiology.
+* List the important properties of microorganisms.
+* List the major groups of organisms.
+1.2  Importance of Microorganisms
+* List at least five beneficial activities of microorganisms.
+* List three harmful activities of microorganisms.
+1.3  Prokaryotic and Eukaryotic Microorganisms
+* Distinguish between eukaryote and prokaryotes.
+* Compare and contrast the following structures of prokaryotes and eukaryotes: overall cell structure, flagella, nucleus.
+1.4  Five-Kingdom Classification System
+* List the major characteristics used to differentiate the five kingdoms of living organisms.
+1.5  Nomenclature
+* Define binomial nomenclature and discuss its purpose.
+* Provide the rationale for the system of scientific names.
+
+2.0  History of Microbiology
+2.1  First Observations
+* Describe how and when microorganisms were first observed by Leeuwenhock.
+2.2  Spontaneous Generation Theory
+* Compare the theories of spontaneous generation and biogenesis.
+* Discuss the contributions of scientists trying to prove these theories.
+2.3  Germ Theory of Disease
+* Describe the germ theory of disease.
+* Identify the contributions of Lister, Pasteur and Koch.
+2.4  Modern Developments
+* Discuss the importance of microorganisms in genetic engineering technique.
+
+3.0  Microscopy and Staining
+3.1  Microscopes
+* Define “resolution” and “magnification”.
+* Describe different parts and functions of a compound microscope.
+* Diagram the path of light through a compound microscope.
+* Discuss the applications of phase-contrast, dark-field, fluorescence and electron microscopes.
+* Demonstrate the use of a light microscope.
+3.2  Staining Techniques
+* Discuss the importance of staining microorganisms.
+* Differentiate between acidic and basic dyes.
+* Compare simple, differential and special staining techniques.
+* Perform gram staining, acid-staining, and endospore staining on given specimens.
+
+
+©Marine Institute
+School of Fisheries
+
+BIOL 2102 (Microbiology)	5
+
+4.0  Prokaryotic Microorganisms
+4.1  Shape Arrangement and Size
+* Identify three basic shapes of bacteria.
+* Differentiate the different arrangements of bacteria.
+* List the units of measurements used for microorganisms.
+* State the size of bacteria.
+* Identify the shapes, and arrangements of bacteria.
+* Determine the size of the given bacteria.
+4.2  Surface-associated Structure
+* Describe the structure, chemistry and functions of flagella, pili and glycocalyx.
+* Identify flagella and capsula of stained bacterial cells.
+4.3  Cell-wall
+* Describe the structure, chemistry and functions of the cell wall.
+* Explain the difference between gram positive and gram negative cell walls
+4.4  Cell-membrane
+* Describe the structure, chemistry and functions of cell membrane.
+* Define the following: simple diffusion, osmosis, facilitated diffusion and active transport.
+4.5  Internal Structures
+* Describe the structure, chemistry and functions of cytoplasm, mesosomes, DNA and cytoplasmic granules.
+4.6  Endospore
+* List the bacterial genera-producing spores.
+* Discuss the importance of spores.
+* Discuss the structure and chemistry of spores.
+* Discuss the importance of spores in food industry.
+* Stain endospores in a given sample.
+
+5.0  Microbial Growth
+5.1  Bacterial Reproduction
+* Define “bacterial growth”.
+* Describe how bacteria multiply by binary fission.
+* Define “generation time” and discuss its importance.
+* Determine the generation time of the given bacteria from the given data on growth.
+5.2  Requirements for Growth
+* List the nutritional factors required for growth and discuss the importance of each factor.
+* List the physical factors required for growth.
+* Discuss the importance of each physical factor required for growth.
+* Explain how microorganisms are classified on the basis of oxygen requirement and temperature requirement.
+* Determine oxygen and temperature requirements of microorganisms.
+* Determine the effects of physical factors on growth.
+5.3  Culture Media
+* Define “medium”.
+* List different forms of media.
+* Distinguish between chemically defined and complex media.
+
+
+©Marine Institute
+School of Fisheries
+
+6	BIOL 2102 (Microbiology)
+
+* Justify the use of selective and differential media.
+* Prepare media for cultivation of microorganisms.
+5.4  Pure Culture
+* State the importance of a pure culture in the microbiology laboratory.
+* Describe methods to isolate pure culture.
+* Isolate a pure culture of bacteria from a given specimen.
+5.5  Growth Phases
+* Compare four different phases of growth and their relation to generation time.
+5.6  Preservation of Cultures
+* Describe methods of culture preservation.
+* Preserve a given culture by using an appropriate method.
+5.7  Measurements of Growth
+* Discuss the direct methods of measuring growth including plate count, microscopic counts, filtration, electronic counters
+* Discuss the indirect methods of measuring growth including turbidity, dry weight, metabolic activity determination.
+* Measure the growth of bacteria in a given sample using an appropriate method.
+
+6.0  Viruses
+6.1  Characteristics
+* Describe the general properties, host range, and importance of viruses.
+6.2  Structure
+* Illustrate the structure of a virus particle.
+* List functions of nucleic acid, capsid, capsomere and spikes.
+6.3  Isolation and Cultivation
+* Outline a method to isolate viruses.
+* Discuss three methods of viruses cultivation.
+6.4  Multiplication
+* Discuss the multiplication cycle of DNA and RNA viruses.
+6.5  Effects of Viral Infection on Host
+* List the effects of animal viral infection on host cells.
+6.6  Viral Diseases
+* Differentiate between acute, slow and latent viral infections.
+* Discuss the role of viruses in cancer.
+
+7.0  Fungi
+7.1  Characteristics
+* Discuss the general properties and importance of fungi.
+7.2  Structure
+* Describe the morphology of yeasts and molds.
+* Define “dimorphic fungi”.
+7.3  Reproduction
+* Discuss the sexual and asexual methods of reproduction of fungi.
+* Describe different types of asexual and sexual spores of fungi.
+
+
+©Marine Institute
+School of Fisheries
+
+BIOL 2102 (Microbiology)	7
+
+7.4  Cultivation
+* List the growth requirements of molds.
+* Name the media used for cultivation of molds.
+* Cultivate molds present in a given sample.
+7.5  Classification
+* List the defining characteristics of four phyla of fungi.
+* Identify the mold in a given sample.
+
+8.0  Protozoa
+8.1  Characteristics
+* Describe the general properties of molds.
+8.2  Structure
+* Describe the morphology of protozoa.
+8.3  Reproduction
+* Describe the methods of reproduction of protozoa.
+8.4  Classification
+* List the defining characteristics of the four phyla of protozoa.
+* Identify the protozoa in a given sample.
+
+9.0  Algae
+9.1  Characteristics
+* Describe the general characteristics of algae.
+9.2  Structure
+* Describe the structure of algae.
+* Identify the algae in a given sample.
+9.3  Reproduction
+* Discuss the method of algal reproduction.
+
+10.0  Microbial Genetics
+10.1  Genetic Material
+* Describe the structure and function of DNA.
+10.2  Mutations
+* Define “mutation”.
+* List types of mutations.
+* Describe the action of mutagens on DNA.
+10.3  Gene Transfer Mechanisms
+* Compare and contrast the three methods of gene transfer.
+10.4  Genetic Engineering
+* Outline how recombinant DNA is produced and list its potential uses.
+
+11.0  Classification of Prokaryotic Organisms
+11.1  Criteria for Classification
+* List the methods used for classifying and identifying bacteria.
+
+
+©Marine Institute
+School of Fisheries
+
+8	BIOL 2102 (Microbiology)
+
+11.2  Classification System
+* List major characteristics of each of the 19 groups of bacteria outlined in Bergey’s Manual.
+* Identify groups that contain species important in foods.
+* Identify an unknown bacteria to its genus and species using Bergey’s Manual.
+* Use multitest systems (API 20 E and enterotube) to identify bacteria.
+
+12.0  Control of Microbial Growth
+12.1  Introduction
+* Define terms related to destruction and suppression of microbial growth.
+* Discuss the factors that influence the control of growth.
+12.2  Physical Methods of Control
+* Describe the physical methods of microbial growth control and their standard uses.
+* Sterilize the given samples/objects using an appropriate method.
+* Use the steam sterilization apparatus efficiently.
+12.3  Chemical Methods
+* List qualities of an ideal disinfectant.
+* Describe the modes of action and the preferred uses of disinfectants.
+* Determine the phenol coefficient of a chemical agent.
+* Use an appropriate disinfectant to disinfect a given object.
+12.4  Chemotherapeutic Agents
+* List two types of chemotherapeutic agents.
+* Define “antibiotic”.
+* List properties of an ideal chemotherapeutic agent.
+* Discuss the mode of action of different agents and their antimicrobial activities.
+* Describe the non-medical uses of antibiotics.
+* Evaluate the effectiveness of an antibiotic against a specific bacteria.
+
+13.0  Interaction of Microbes and Host
+13.1  Normal flora
+* Define “normal flora”.
+* Describe how normal flora is acquired.
+* Describe the beneficial and harmful activities of normal flora.
+13.2  Pathogens and Diseases
+* Define the following terms: “pathogen” and “disease”.
+* Define terms related to severity of disease, incidence and location in the body.
+* Describe the properties of pathogens.
+* Describe the general steps of disease production by microbes.
+* List a few viral, fungal, protozoan and bacterial diseases of humans.
+13.3  Host Defences
+* Describe the external defences of the host.
+* Describe the role of phagocytes, fever, interferon and inflammation in non-specific defenses
+* Define “antigen” and “antibody”.
+* Describe the general properties of antigen.
+* Describe the general structure and functions of antibodies.
+
+
+©Marine Institute
+School of Fisheries
+
+BIOL 2102 (Microbiology)	9
+
+* Distinguish between humoral and cellular immunity.
+* Explain how each of the following techniques is used in identification of food associated bacteria: agglutination, precipitation, immune-fluorescence.
+* Define “vaccine”.
+* List types of vaccines and their uses
+
+14.0  Aquatic Microbiology
+14.1  Aquatic Micro Flora
+* Describe the fresh and seawater habitats of microorganisms.
+* Identify the microorganisms present in the given sample.
+14.2  Water Pollution
+* List types of water pollution and effects of pollution
+14.3  Water Treatment
+* Outline a method to purify water.
+14.4  Sewage Treatment
+* Outline methods of sewage treatment.
+14.5  Water Analysis
+* Suggest experiments to test water for bacteriological quality.
+
+
+
+
+
+
+©Marine Institute
+School of Fisheries
+
+
+EVALUATION:
+
+Mid-term Exam	30%
+
+Laboratory	40%
+
+
+©Marine Institute
+School of Fisheries
+
+
+Final Exam		30% Total	100%©Marine Institute
+School of Fisheries
+

@@ -1,0 +1,320 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for .NET.
+BSMG 3113
+(Personnel Resource Management)
+
+TYPE AND PURPOSE: 	This course will provide students with business and organization management knowledge as it pertains to the marine sector.
+
+CALENDAR ENTRY: 	Seafaring; Marine Terminology; Human Resources; Marine Engineering Diploma Program Requirements; Personnel Resource Management; Employee Relations; National and International Regulations; International Safety Management Code; Maritime English
+
+PREREQUISITES: 	None
+
+SCHEDULE: 		Duration:	13 weeks
+Lectures:	3 hours/week = 39 hours total
+
+COURSE AIMS:	1)	To provide students with an understanding of employment practices in the 	marine industry.
+2)	To provide students with an understanding of the marine engineering 	diploma program work term requirements, program standards, and 	Transport Canada certification requirements.
+3)	To enable students to understand how the Criminal Code of Canada, labour 	unions and employment legislation affect the seafarer.
+4)	To help students understand how the International Maritime Organization 	affects the seafarer.
+5)	To enable the student to recognize the requirement for effective		 communication in maritime English.
+
+EVALUATION:	Assignments				20%
+Midterm				30%
+Final Examination			50%
+Total					100%
+Note:
+1)  In order to pass this course, the student must get, at minimum, an overall grade of 60%.
+2)  Students must attend, at minimum, 90% of course time, in accordance with Marine Institute and Transport Canada requirements. Attendance records will be submitted to Transport Canada, and they will make a final determination regarding eligibility for sea credits upon program completion.
+MAJOR TOPICS:		1.0	Seafaring
+	2.0	Marine Terminology
+	3.0	Human Resources
+	4.0	Marine Engineering Diploma Program Requirements
+	5.0	Personnel Resource Management
+	6.0	Employee Relations
+	7.0	National and International Regulations
+	8.0	International Safety Management Code (ISM)
+	9.0	Maritime English
+
+COURSE OUTLINE:
+1.0  Seafaring
+1.1.  The Seafarer
+1.2.  The Seafaring Tradition
+1.3.  The Ship's Complement
+2.0  Marine Terminology
+2.1.  Ship Components
+2.1.1.  Deck Equipment
+2.1.2.  Machinery Space Equipment
+2.1.3.  Ships' Structures
+2.2.  Ship Types
+2.3.  Watchkeeping
+3.0  Human Resources
+3.1.  Personal Responsibilities
+3.2.  Housekeeping
+3.2.1.  Personal Hygiene
+3.2.2.  Living Area
+3.2.3.  Work Area
+3.3.  Employees as Assets
+3.4.  Employees as Human Beings
+3.5.  Human Resource Development
+3.6.  Management Strategies
+4.0  Marine Engineering Diploma Program Requirements
+4.1.  Workterm Preparedness
+4.1.1.  Sea Training Manual
+4.1.2.  Sea Phases
+4.1.3.  Workterm Placement Requirements
+4.1.4.  Marine Industry's Demands
+4.1.5.  Sexual Harassment
+4.1.6.  Critical Incident Stress
+4.1.7.  International Health Issues
+4.2.  Graduation and Transport Canada Requirements
+4.2.1.  Graduation Requirements
+4.2.2.  Transport Canada Requirements
+5.0  Personnel Resource Management
+6.0  Employee Relations
+6.1.  Canada Criminal Code
+6.2.  Labour Unions
+6.3.  Substance Abuse
+6.4.  Industrial Safety
+6.5.  Canadian Labour Code
+7.0  National and International Regulations
+8.0  International Safety Management Code (ISM)
+9.0  Maritime English
+9.1.  Common Language
+9.2.  Traditional and Communicative Approaches
+9.3.  Language Skills Application
+
+LEARNING OBJECTIVES:
+THE EXPECTED LEARNING OUTCOME IS THAT THE STUDENT WILL BE ABLE TO:
+
+1.0  Seafaring
+1.1.  The Seafarer
+* Describe characteristics of individuals who choose a seagoing career.
+* State the number of years Statistics Canada says the average seafarer spends at sea.
+* Compare and contrast engineering and navigation officers.
+1.2.  The Seafaring Tradition
+* Trace the evolution of the marine engineering occupation.
+* Describe the changes that have taken place with respect to crewing and crew discipline within the last century.
+* Describe the changes that have taken place in the past century with regard to shipboard living conditions, health, labour rights, and status.
+1.3.  The Ship's Complement
+* Identify the occupational classifications and the associated duties for a ship's complement.
+* Relate how recent legislation, cutbacks and downsizing of crews have affected the marine engineer's responsibilities and training requirements.
+
+2.0  Marine Terminology
+2.1.  Ship Components
+2.1.1.  Deck Equipment
+* Define deck equipment terminology.
+2.1.2.  Machinery Space Equipment
+* Identify terminology related to machinery spaces.
+2.1.3.  Ships' Structures
+* Identify the overall layout of ship's structures.
+2.2.  Ship Types
+* Identify the unique characteristics of the following vessel types:
+a)  Crude and product tankers 
+b)  FPSO
+c)  Supply/anchor handling vessels
+d)  Cargo Ships
+e)  LPG/LNG vessels
+f)  Car Ferries
+g)  Specialized Vessels
+2.3.  Watchkeeping
+* Explain the importance of effective watchkeeping duties in machinery spaces.
+* Identify the various watchkeeping shifts.
+* Explain why and how machinery spaces are permitted to go unsupervised.
+* Explain the function of the "dead man" button.
+* Review Transport Canada's "Standard for Engineering Watchkeeping on Ships".
+* State the importance, ordinance and arrangements of watchkeeping, and the need to:
+a)  wear appropriate clothes, safety shoes and a safety helmet
+b)  carry a torch lamp
+c)  maintain bodily functions
+
+3.0  Human Resources
+3.1.  Personal Responsibilities
+* Describe the importance of punctuality and reliability.
+* Identify reasons for crew members being disciplined.
+* Describe the importance of respecting a ship's property.
+* Explain the importance of respecting the property of others.
+* Explain the importance of respecting one's own property.
+3.2.  Housekeeping
+3.2.1.  Personal Hygiene
+* Describe the importance of personal hygiene for employees when aboard a ship.
+3.2.2.  Living Area
+* Describe the importance of clean and tidy living quarters aboard ship.
+3.2.3.  Work Area
+* Explain how a clean and tidy work area relates to a safer and more efficient work environment.
+3.3.  Employees as Assets
+* Define "human capital".
+* Describe human capital as a system of inputs, processes and outputs.
+* Describe the importance of training in terms of career development, occupational specialization and employer/employee investment.
+3.4.  Employees as Human Beings
+* Explain how the following affect the marine engineer:
+a)  workload and work environment
+b)  balance between time on and off ship
+c)  benefits package
+d)  job advancement
+e)  team work
+3.5.  Human Resource Development
+* Describe the tools whereby the employer can maintain a motivated and productive employee.
+* Compare the loyalties that exist between employee and employer.
+* Describe employee advancement opportunities within the ship's structure.
+* Indicate the requirements for advancement to shore-based positions.
+* Describe the advancement process within Transport Canada's certification process.
+3.6.  Management Strategies
+* Identify methods of performance appraisal.
+* Describe methods of setting and achieving performance standards.
+* Describe the following elements in strategic human resource planning:
+a)  Demand
+b)  Supply
+c)  final result
+
+4.0  Marine Engineering Diploma Program Requirements
+4.1.  Workterm Preparedness
+4.1.1.  Sea Training Manual
+* Identify the purpose of the Sea Training Manual with respect to Transport Canada requirements.
+* Describe how the Sea Training manual is structured.
+* Emphasize the importance of completing the Sea Training Manual on time.
+* Explain the importance of a good appraisal from the vessel's Chief Engineer.
+
+* Describe how the Sea Training Manual and the Chief Engineer's appraisal determine the workterm grade.
+* Describe the repercussions of failing the Sea Training Manual and Chief Engineer's appraisal.
+4.1.2.  Sea Phases
+* Explain how the sea phases and workterms are structured within the Marine Engineering Diploma Program to satisfy the Marine Institute and Transport Canada requirements.
+4.1.3.  Workterm Placement Requirements
+* Explain workterm requirements as outlined by the Marine Institute's Placement Office.
+4.1.4.  Marine Industry's Demands
+* Explain the marine industry expectations for workterm cadets.
+* Explain how expectations for workterm cadets differ among different employers.
+* Discuss the expectations of marine employers for workterm cadets and graduates.
+4.1.5.  Sexual Harassment
+* Recognise sexual harassment in the workplace.
+* Discuss sexual harassment within the marine sector.
+* Explain that sexual harassment is not to be tolerated.
+4.1.6.  Critical Incident Stress
+* Demonstrate self-defence as it relates to protecting personal safety.
+* Examine examples of critical incident stress.
+4.1.7.  International Health Issues
+* Discuss precautions regarding health issues for international work placements.
+4.2.  Graduation and Transport Canada Requirements
+4.2.1.  Graduation Requirements
+* Explain the Marine Engineering Diploma Program requirements concerning course evaluations and minimum class attendance.
+* Explain that the program requires a minimum pass mark of 60% for each course.
+* Explain the role of the Registration Office regarding Transport Canada's confirmation of the students' sea time of 180 days.
+* Explain the necessity of submitting an Application to Graduate form to the Registration Office during Term 7.
+4.2.2.  Transport Canada Requirements
+* Explain Transport Canada's requirement for the Marine Engineering Diploma Training Certificate.
+* Explain Transport Canada's requires completion of the Sea Training Manual.
+
+5.0  Personnel Resource Management
+* Describe the relationship between the cadet engineer and ship's complement.
+* Describe the relationship between marine engineers and other crew members, particularly navigation officers.
+* Describe the relationship of the Chief Engineer to the Captain.
+* Describe the relationship of the Chief Engineer with company shore based management.
+* Describe how the Chief Engineer deals with Transport Canada Safety and Security inspectors and Classification Society surveyors.
+
+
+6.0  Employee Relations
+6.1.  Canada Criminal Code
+* Identify where the student can access a copy of the Criminal Code of Canada.
+* Describe how the code applies to the seafarer regarding the following:
+a)  rights of the accused
+b)  passport offenses
+c)  unseaworthy vessels
+d)  dangerous operation of a vessel
+e)  trade unions
+f)  use of force
+g)  crimes against personnel and property
+6.2.  Labour Unions
+* Explain the role of collective agreements in labour relations.
+* Discuss the advantages and disadvantages of the union and non-union vessels.
+* Describe how unions affect the shipping industry.
+6.3.  Substance Abuse
+* List employee rights with respect to testing for substance abuse.
+* Identify pre-employment conditions and safety critical positions on board a ship.
+* Identify the legislation concerning substance abuse.
+6.4.  Industrial Safety
+* Identify unsafe working practices in ship operations.
+* Explain how to correct unsafe working practices in ship operations.
+* Discuss the Canada Labour Code as it pertains to seafarers.
+* Explain Marine Occupational Safety and Health (MOSH) regulations as they pertain to safe working practices.
+6.5.  Canadian Labour Code
+* Explain the Canada Labour Code is an Act of Parliament of the Canadian Government to consolidate certain statutes respecting labour.
+* State the objective of the code is to facilitate production by controlling strikes/lockouts, occupational safety and health and some employment standards.
+* Explain the code applies to industries in which the Federal Government, instead of the provinces, has jurisdiction - including shipping.
+
+7.0  National and International Regulations
+* Identify the Canada Shipping Act and compliance to its regulations.
+* Define the composition and function of the International Maritime Organization (IMO).
+* Explain the process by which international agreements and conventions are ratified and implemented into national legislation.
+* Specify how IMO's conventions (SOLAS, MARPOL, STCW, etc.) affect the mariner.
+* Explain how IMO's Code of Safe Working Practices for Merchant Seaman affects the Canadian Seaman. (Reference the Code of Safe Working Practices for Merchant Seaman Learning Objectives - Competence 4.6, IMO Model 7.04) Course 7.04.
+* Explain that this Code of Safe Working Practices or its equivalent is intended primarily for merchant seamen.
+* Explain that there should always be an adequate number of copies to allow the Master, Safety Officer and any members of the Safety Committee to have their own, leaving at least one available for general reference.
+* Explain that this Code is addressed to everyone on a ship regardless of rank or rating because the recommendations can be effective only if they are understood by all and if all cooperate in their implementation.
+* Explain that the Code is arranged in sections which deal with broad areas of concern.
+* State that the introduction gives the regulatory framework for health and safety on board ships and overall safety responsibilities under that framework.
+* State that Section 1 is largely concerned with safety management and the statutory duties underlying the advice in the remainder of the Code. All working on board are required to be aware of these duties and of the principles governing the guidance on safe practice which they are required to follow.
+* State that Section 2 begins with a chapter setting out the areas that should be covered in introducing a new recruit to the safety procedures on board. It goes on to explain what individuals can do to improve their personal health and safety.
+* State that Section 3 is concerned with various working practices common to all ships.
+* State that Section 4 covers safety for specialist ship operation.
+* Outline and describe the contents of the COSWP for merchant seaman.
+* Describe safe working practices and personal shipboard safety including:
+* working aloft
+* working over the side
+* working in enclosed spaces
+* permit to work systems such as:
+* hot work permit
+* cold work permit
+* entry in enclosed space permit
+* working aloft permit
+* working overside permit
+* electrical isolation permit
+* line handling
+* lifting techniques and methods of preventing back injury
+* electrical safety
+* mechanical safety
+* chemical and biohazard safety
+* personal safety equipment
+* Describe the role of a safety officer.
+* Explain the topics discussed in the safety committee meeting.
+* Describe the use of:
+* portable O2 analysers
+* explosimeter
+* multi gas detectors
+* other portable gas measuring instruments
+
+8.0  International Safety Management Code (ISM)
+* Explain that the purpose of the ISM Code is:
+* To ensure safety at sea
+* To prevent human injury or loss of life
+* To avoid damage to the ship and to the environment
+* Explain in order to comply with the ISM Code, each ship must have a working Safety Management System (SMS).
+* List and explain the elements that comprise the SMS.
+* Explain the ISM Code requires the ship to be maintained in conformity with the provisions of relevant rules and regulations and with any additional requirements which may be established by the shipping company.
+* State that safety measures taken for repair and maintenance be identified through proper risk assessment.
+* State that safety measures, based on SMS, are to be applied to identified risks.
+* Explain that tool box talks are effective for taking necessary safety measures.
+* Explain that safety measures include the following:
+* Protective equipment
+* Proper lighting
+* Check lists
+* Anti-slipping measures
+* Safety procedures
+* Safety barriers
+* Safe working platform
+* Mechanical/electrical isolation
+* Explain that special safety measures may be required in accordance with machinery features.
+* Present a case study of an ISM system in operation.
+
+9.0  Maritime English
+9.1.  Common Language
+* Describe the importance of fluency in the English language.
+* Explain authentic and meaningful communication in English is the goal of the maritime industry.
+* Demonstrate that effective communication skills involve listening, speaking, writing and reading.
+* Demonstrate, with the use of case studies, the possible disastrous effects of communication breakdown.
+9.2.  Traditional and Communicative Approaches
+* Compare the differences between the traditional approach and communicative approach to learning a language.
+9.3.  Language Skills Application
+* Apply effective communication skills to explain, describe or demonstrate the design features of shipboard equipment.
+* Explain the purpose for the use of the Phonetic alphabet.
+
+
+©Marine Institute	School of Maritime Studies
+	UGSC Approved – Rev. Oct./2022

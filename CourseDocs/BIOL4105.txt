@@ -1,0 +1,494 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for .NET.
+BIOL 4105
+(Water and Wastewater Microbiology)
+
+TYPE AND PURPOSE:	This course is designed to provide an overview of microorganisms related to water and wastewater, the microbiology of water and wastewater treatment processes, and the techniques for monitoring the microbiological safety and quality of water.
+
+CALENDER ENTRY:	Fundamentals of Microbiology; Microorganisms in the Environment; Staining and Cultural Methods; Microbial Growth; Control of Microbial Growth; Microbial Indicators of Pollution; Microbiological Aspects of Drinking Water Distribution; Water and Wastewater Treatment; Activated Sludge Process; Bulking and Foaming in Activated Sludge Plants; Waste Stabilization Ponds; Sludge Microbiology; Anaerobic Digestion of Wastewater and Sludge; Biological Aerosols and Bioodors from Wastewater Treatment Plants; Public Health Aspects of Wastewater and Biosolids Disposal; Water and Wastewater Disinfection; Methods of Isolation and Identification of Microorganisms
+
+PREREQUISITES:	SC 1807 (Safety in Science Lab (Lab Safety)) and SC 1808 (WHMIS)
+SCHEDULE:	Duration: 		13 weeks
+Lectures: 		  3 hours per week = 39 total hours
+Laboratories: 	  3 hours once per week = 39 total hours
+
+COURSE AIMS:	The aims of this course are to enable the students to develop:
+1)  Knowledge of the nature and characteristics of microorganisms related to water and wastewater.
+2)  Awareness and competency in basic microbiological techniques and applications.
+3)  Competency in various water and wastewater testing microbiological methods.
+4)  A comprehensive understanding of the microbiological aspects related to water and wastewater treatment, including a knowledge of water and wastewater disinfection techniques.
+
+EVALUATION:	Assignments	10%
+Mid-term Exam	30%
+Laboratory	25%
+Final Exam 	35%
+Total	100%
+
+NOTES:
+1.  Students MUST submit ALL written laboratory reports to successfully pass the course. Failure to do so will result in a maximum grade of 60% in the course.
+2.  A minimum average mark of 6.5/10 for the laboratory component of the course is required in addition to achieving an overall pass mark in the course.
+
+3.  Attendance in all laboratory classes is mandatory. Failure to attend, without a satisfactory documented reason, for example a medical certificate issued by a doctor, will mean that the maximum grade possible for this course will be 60 percent.
+
+MAJOR TOPICS:	1.0 	Fundamentals of Microbiology
+
+2.0 	Microorganisms in the Environment
+
+3.0 	Staining and Cultural Methods
+
+4.0 	Microbial Growth
+
+5.0 	Control of Microbial Growth
+
+6.0 	Microbial Indicators of Pollution
+
+7.0 	Microbiological Aspects of Drinking Water Distribution
+
+8.0 	Water and Wastewater Treatment
+
+9.0 	Activated Sludge Process
+
+10.0 	Bulking and Foaming in Activated Sludge Plants
+
+11.0 	Waste Stabilization Ponds
+
+12.0 	Sludge Microbiology
+
+13.0 	Anaerobic Digestion of Wastewater and Sludge
+
+14.0 	Biological Aerosols and Bioodors from Wastewater Treatment Plants
+
+15.0 	Public Health Aspects of Wastewater and Biosolids Disposal
+
+16.0	 Water and Wastewater Disinfection
+
+17.0 	Methods of Isolation and Identification of Microorganisms
+
+
+©Marine Institute	School of Fisheries
+	GSC Approved – Rev. March/2021
+2		BIOL 4105 (Water and Wastewater Microbiology)
+COURSE OUTLINE:
+1.0  Fundamentals of Microbiology
+1.1  Definitions
+1.2  Importance of Microorganisms
+1.3  Prokaryotic and Eukaryotic Microorganisms
+1.4  Five-Kingdom Classification System
+1.5  Nomenclature
+
+2.0  Microorganisms in the Environment
+2.1  Prokaryotes
+2.1.1  Shape, Arrangement and Size
+2.1.2  Surface-associated Structures
+2.1.3  Cell Wall
+2.1.4  Cell Membranes
+2.1.5  Internal Structures
+2.1.6  Endospores
+2.1.7  Bacterial Pathogens
+2.2  Eukaryotes
+2.2.1  Fungi
+2.2.1.1  General Characteristics
+2.2.1.2  Structure
+2.2.1.3  Important Fungal Groups
+2.2.2  Protozoa
+2.2.2.1  General Characteristics
+2.2.2.2  Structure
+2.2.2.3  Importance of Protozoa
+2.2.2.4  Protozoan Pathogens
+2.2.3  Algae
+2.2.3.1  General Characteristics
+2.2.3.2  Structure
+2.2.3.3  Importance of Algae
+2.2.4  Helminths
+2.2.4.1  General Characteristics
+2.2.4.2  Helminth Pathogens
+2.3  Viruses
+2.3.1  General Characteristics
+2.3.2  Structure
+2.3.3  Viral Pathogens
+
+3.0  Staining and Cultural Methods
+3.1  Staining Techniques
+3.2  Culture Media
+3.3  Pure Culture
+3.4  Preservation of Cultures
+
+4.0  Microbial Growth
+4.1  Bacterial Reproduction
+4.2  Requirements for Growth
+
+4.3  Growth Phases
+4.4  Measurements of Growth
+5.0  Control of Microbial Growth
+5.1  Introduction
+5.2  Physical Methods
+5.3  Chemical Agents
+
+6.0  Microbial Indicators of Pollution
+6.1  Introduction
+6.2  Bacterial Indicators
+6.3  Detection of Indicator Organisms
+6.4  Bacteriophages
+
+7.0  Microbiological Aspects of Drinking Water Distribution
+7.1  Introduction
+7.2  Biofilms in Distribution Systems
+7.3  Pathogens in Distribution System
+7.4  Other Biological Problems with Water Treatment and Distribution Systems
+7.5  Drinking Water Quality at the Consumer Tap
+
+8.0  Water and Wastewater Treatment
+8.1  Introduction
+8.2  History
+8.3  Overview
+
+9.0  Activated Sludge Process
+9.1  Introduction
+9.2  Description of Activated Sludge Process
+9.3  Biology of Activated Sludge Process
+9.4  Nutrient Removal
+9.5  Pathogen Removal
+
+10.0  Bulking and Foaming in Activated Sludge Plants
+10.1  Introduction
+10.2  Filamentous Bulking
+10.3  Control of Sludge Bulking
+10.4  Foaming in Activated Sludge
+10.5  Microbiology of Bulking and Foaming
+
+11.0  Waste Stabilization Ponds
+11.1  Introduction
+11.2  Stabilization Ponds
+
+12.0  Sludge Microbiology
+12.1  Sludge Processing
+12.2  Pathogens and Parasites in Sludge
+
+
+13.0  Anaerobic Digestion of Wastewater and Sludge
+13.1  Introduction
+13.2  Process Description
+13.3  Process Microbiology
+13.4  Factors Controlling Anaerobic Digestion
+13.5  Anaerobic Treatment of Wastewater
+
+14.0 	Biological Aerosols and Bioodors from Wastewater Treatment Plants
+
+15.0  Public Health Aspects of Wastewater and Biosolids Disposal
+15.1  Introduction
+15.2  Pathogens in Biosolids
+
+16.0  Water and Wastewater Disinfection
+16.1  Public Drinking Water Systems
+16.2  General Types of Contaminants
+16.3  Harmful Health Effects from Contaminated Water
+
+17.0  Methods of Isolation and Identification of Microorganisms
+17.1  Immunological Methods
+17.2  Molecular Methods
+
+
+©Marine Institute	School of Fisheries
+	GSC Approved – Rev. March/2021
+2		BIOL 4105 (Water and Wastewater Microbiology)
+LEARNING OBJECTIVES:
+THE EXPECTED LEARNING OUTCOME IS THAT THE STUDENT WILL BE ABLE TO:
+
+1.0  Fundamentals of Microbiology
+1.1  Definitions
+* Define “microorganism” and “microbiology.”
+* List the important properties of microorganisms.
+* List the major groups of organisms.
+1.2  Importance of Microorganisms
+* List at least five beneficial activities of microorganisms.
+* List five harmful activities of microorganisms.
+1.3  Prokaryotic and Eukaryotic Microorganisms
+* Distinguish between eukaryotes and prokaryotes.
+* Compare and contrast the following structures of prokaryotes and eukaryotes: overall cell structure, flagella, and nucleus.
+1.4  Five-Kingdom Classification System
+* Identify the major characteristics used to differentiate the five kingdoms of living organisms.
+1.5  Nomenclature
+* Define “binomial nomenclature” and discuss its purpose.
+* Provide the rationale for the system of scientific names.
+* Discuss the rules for writing the names of microorganisms.
+* Discuss the meanings of scientific names of selected bacteria.
+
+2.0  Microorganisms in the Environment
+2.1  Prokaryotes
+2.1.1  Shape, Arrangement and Size
+* Identify three basic shapes of bacteria.
+* Differentiate between the different arrangements of bacteria.
+* List the units of measurements used for microorganisms.
+* State the size of bacteria.
+* Identify the shapes and arrangements of bacteria.
+2.1.2  Surface-associated Structures
+* Describe the structure, chemistry and functions of flagella, pili and glycocalyx.
+* Identify flagella and capsule of stained bacterial cells.
+2.1.3  Cell Wall
+* Describe the structure, chemistry and functions of the cell wall.
+* Explain the difference between gram positive and gram-negative cell walls.
+2.1.4  Cell Membranes
+* Describe the structure, chemistry and functions of cell membrane.
+* Define the following: simple diffusion, osmosis, facilitated diffusion and active transport.
+2.1.5  Internal Structures
+* Describe the structure, chemistry and functions of cytoplasm, mesosomes, DNA and cytoplasmic granules.
+2.1.6  Endospores
+* List the bacterial genera-producing spores.
+* Discuss the conditions under which bacteria produce endospores.
+* Discuss the importance of spores.
+* Describe the structure and chemistry of spores.
+
+
+©Marine Institute	School of Fisheries
+	GSC Approved – Rev. March/2021
+2		BIOL 4105 (Water and Wastewater Microbiology)
+2.1.7  Bacterial Pathogens
+* Describe the properties, disease produced by, symptoms, and control of disease produced by waterborne bacterial pathogens.
+2.2  Eukaryotes
+2.2.1  Fungi
+2.2.1.1  General Characteristics
+* Discuss the general properties and importance of fungi.
+2.2.1.2  Structure
+* Describe the morphology of yeasts and molds.
+* Define “dimorphic fungi.”
+2.2.1.3  Important Fungal Groups
+* List the defining characteristics of four important phyla of fungi and give two examples of molds of each group.
+2.2.2  Protozoa
+2.2.2.1  General Characteristics
+* Describe the general properties of protozoa.
+2.2.2.2  Structure
+* Describe the morphology of protozoa.
+* List the defining characteristics of the different phyla of protozoa and give three examples of protozoa in each phylum.
+2.2.2.3  Importance of Protozoa
+* Discuss waterborne diseases produced by protozoa.
+* Discuss four beneficial activities of protozoa.
+* Discuss two harmful activities of protozoa.
+2.2.2.4  Protozoan Pathogens
+* Describe the properties, disease produced by, symptoms, and control of disease produced by waterborne protozoan pathogens.
+2.2.3  Algae
+2.2.3.1  General Characteristics
+* Describe the general characteristics of algae.
+2.2.3.2  Structure
+* Describe the structure of algae.
+2.2.3.3  Importance of Algae
+* Discuss the beneficial activities of algae.
+* Discuss the harmful activities of algae.
+* Discuss the red tides and algal blooms and their effect on water quality.
+2.2.4  Helminths
+2.2.4.1  General Characteristics
+* Describe the properties of helminths.
+2.2.4.2  Helminth Pathogens
+* Describe the properties, disease produced by, symptoms, and control of disease produced by waterborne helminth pathogens.
+
+2.3  Viruses
+2.3.1  General Characteristics
+* Describe the general properties, host range, and importance of viruses.
+2.3.2  Structure
+* Illustrate the structure of a virus particle.
+* List the functions of nucleic acid, capsid, capsomere and spikes.
+2.3.3  Viral Pathogens
+* Differentiate between acute, slow and latent viral infections.
+* Describe the properties, disease produced by, symptoms, and control of disease produced by waterborne viral pathogens.
+
+3.0  Staining and Cultural Methods
+3.1  Staining Techniques
+* Discuss the importance of staining microorganisms.
+* Compare simple, differential and special staining techniques.
+* Perform gram staining, acid-fast staining, and endospore staining on given specimens.
+3.2  Culture Media
+* Define “medium.”
+* List different forms of media.
+* Discuss selective, differential, enrichment, and reducing media giving two examples of each type of medium.
+* Justify the use of selective and differential media.
+3.3  Pure Culture
+* State the importance of a pure culture in the microbiology laboratory.
+* Describe methods to isolate pure culture.
+3.4  Preservation of Cultures
+* State the importance of culture preservation.
+* Describe methods of culture preservation and discuss the advantages and disadvantages of each method.
+
+4.0  Microbial Growth
+4.1  Bacterial Reproduction
+* Define “bacterial growth.”
+* Describe how bacteria multiply by binary fission.
+* Define “generation time” and discuss its importance.
+* List the generation times of water associated bacteria.
+4.2  Requirements for Growth
+* List the nutritional factors required for growth and discuss the importance of each factor.
+* List the physical factors required for growth.
+* Discuss the importance of each physical factor required for growth.
+* Explain how microorganisms are classified on the basis of oxygen requirement and temperature requirement.
+* Determine oxygen and temperature requirements of microorganisms.
+* Determine the effects of physical factors on growth.
+* Define halophiles, xerophiles and osmophiles and give three examples of each type of microorganism.
+* State the importance of halophiles, xerophiles, and osmophiles.
+
+4.3  Growth Phases
+* Compare four different phases of growth and their relation to generation time.
+4.4  Measurements of Growth
+* Discuss the direct methods of measuring growth including plate count, microscopic counts, filtration, and electronic counters.
+* Discuss the indirect methods of measuring growth including turbidity, dry weight, and metabolic activity determination.
+* Measure the growth of bacteria in a given sample using an appropriate method.
+5.0  Control of Microbial Growth
+5.1  Introduction
+* State the importance of microbial growth control methods
+* Define the following key terms related to microbial control: sterilization, disinfection, antisepsis, sanitization, biocide, germicide, bacteriostasis, and asepsis.
+* Distinguish between microbicidal and microbistatic agents
+* Identify the conditions that may limit the effectiveness of an antimicrobial agent.
+* Describe the general ways in antimicrobial agents may kill microorganisms or inhibit their growth.
+5.2  Physical Methods
+* Identify physical methods of microbial growth control.
+* Compare the effectiveness of moist heat (boiling, autoclaving, pasteurization) and dry heat.
+* Explain how the autoclave and the hot-air sterilizing oven kill microorganisms and why moist heat is more effective than dry heat.
+* Describe how low temperatures, high pressure, desiccation, and osmotic pressure suppress microbial growth.
+* Explain how microbiological filters and filtration processes are used to remove microorganisms from liquids and air.
+* Identify the ionizing and non-ionizing radiation that can kill microorganisms and describe their practical uses.
+* Explain how desiccation and high osmotic pressure affect microbial growth, and survival.
+5.3  Chemical Agents
+* Identify the methods of action and preferred uses of the following chemical agents: halogens, alcohols, aldehydes, heavy metals, phenols and phenolics, surface active agents.
+
+6.0  Microbial Indicators of Pollution
+6.1  Introduction
+* Define “indicator organism”
+* List the characteristics of ideal indicator organisms.
+6.2  Bacterial Indicators
+* List the indicators of fecal pollution in water.
+6.3  Detection of Indicator Organisms
+* Detect and enumerate coliforms, fecal coliforms, E. coli, streptococci and bacteriophages in an environmental sample using traditional and rapid methods.
+6.4  Bacteriophages
+* Identify phages used as indicators in wastewater.
+
+
+7.0  Microbiological Aspects of Drinking Water Distribution
+7.1  Introduction
+* Identify the causes of water quality deterioration during storage and transfer of water through a distribution system.
+* List the factors that promote the growth of bacteria in the distribution system.
+7.2  Biofilms in Distribution Systems
+* Explain the term “biofilms.”
+* Explain how biofilms are formed in the distribution system.
+* Identify the processes that contribute to biofilm development on surfaces exposed to water flow.
+* List advantages and disadvantages of biofilms in drinking water.
+7.3  Pathogens in Distribution System
+* Explain the significance of pathogens present in a distribution system.
+* Give an account of conditions that enable the growth of pathogens and indicators in a distribution system.
+7.4  Other Biological Problems with Water Treatment and Distribution Systems
+* Identify biological problems related to drinking water and distribution systems.
+7.5  Drinking Water Quality at the Consumer Tap
+* Describe the effect of service lines on drinking water quality.
+* Identify the advantages and the potential concerns with point of use devices for water treatment.
+
+8.0  Water and Wastewater Treatment
+8.1  Introduction
+* State objectives of water and wastewater treatment.
+8.2  History
+* Outline the historical developments of water and wastewater treatment processes.
+8.3  Overview
+* List the hazards present in water/wastewater.
+* Briefly describe the water and wastewater treatment processes.
+
+9.0  Activated Sludge Process
+9.1  Introduction
+* State the objectives of activated sludge process.
+9.2  Description of Activated Sludge Process
+* Describe the components of activated sludge process.
+* Define and explain secondary clarifier, MLSS, MLVSS, HRT, F/M and SRT.
+* Discuss the modifications of the conventional activated sludge process.
+9.3  Biology of Activated Sludge Process
+* Identify the microorganisms that play an important role in the activated sludge process and their desired characteristics.
+* Discuss the process of organic matter oxidation in the activated sludge process.
+* Discuss the attributes of microorganisms that allow good settleability.
+* Define the term “SVI.”
+* Identify the microorganisms present in an activated sludge floc using appropriate techniques.
+9.4  Nutrient Removal
+* Explain how the activated sludge process removes nutrients.
+9.5  Pathogen Removal
+* Discuss the effects of the activated sludge process on pathogens.
+
+10.0  Bulking and Foaming in Activated Sludge Plants
+10.1  Introduction
+* Identify the problems related to solid separation in activated sludge plants.
+10.2  Filamentous Bulking
+* Identify the causes of filamentous bulking in activated sludge process.
+* List the organisms that cause filamentous bulking and the conditions that lead to their proliferation.
+10.3  Control of Sludge Bulking
+* Describe various approaches for controlling sludge bulking.
+10.4  Foaming in Activated Sludge
+* Identify the causes of foaming and the methods to control foaming.
+* List the microorganisms responsible for scum formation in activated sludge.
+10.5  Microbiology of Bulking and Foaming
+* Identify different types of activated sludge flocs and the problems (if any) caused by these flocs.
+
+11.0  Waste Stabilization Ponds
+11.1  Introduction
+* Describe the process that occurs in waste stabilization ponds.
+* Classify different types of waste stabilization ponds.
+11.2  Stabilization Ponds
+* Describe the following aspects related to various types of waste stabilization ponds:
+a.  Description of pond system
+b.  Biology of the pond system
+c.  Pathogen removal process
+
+12.0  Sludge Microbiology
+12.1  Sludge Processing
+* Define the term “sludge.”
+* Identify various physical, chemical and biological treatments available for processing sludges generated by biological treatment processes.
+12.2  Pathogens and Parasites in Sludge
+* List the pathogens and parasites found in sludge.
+* Identify the types of treatments to reduce pathogen levels in sewage sludges.
+* Explain the effects of sludge treatment processes on inactivation of pathogens and parasites.
+* Discuss the epidemiological significance of the pathogens present in sludge.
+
+13.0  Anaerobic Digestion of Wastewater and Sludge
+13.1  Introduction
+* Identify the objectives of anaerobic digestion of wastewater and sludge.
+* Discuss the advantages and disadvantages of anaerobic sludge digestion process.
+13.2  Process Description
+* Briefly describe the sludge processing and treatment systems typically used in wastewater treatment.
+13.3  Process Microbiology
+* Identify the microorganisms involved in the transformation of organic compounds to methane.
+
+13.4  Factors Controlling Anaerobic Digestion
+* List and discuss the factors that affect anaerobic digestion.
+13.5  Anaerobic Treatment of Wastewater
+* Discuss the microbiological aspects of the main types of anaerobic systems used in wastewater treatment.
+
+14.0  Biological Aerosols and Bioodors from Wastewater Treatment Plants
+* Explain how biological aerosols and bioodors are produced from wastewater treatment plants.
+* Identify the health hazards of biological aerosols generated by wastewater treatment operations.
+* Identify the odor-causing compounds and the preventative and treatment methods for odor control in wastewater treatment plants.
+* Classify different types of odors associated with wastewater treatment plants.
+15.0  Public Health Aspects of Wastewater and Biosolids Disposal
+15.1  Introduction
+* Discuss the public health aspects regarding the disposal of wastewater effluents and biosolids in the environment.
+15.2  Pathogens in Biosolids
+* Identify the factors governing the transport of microbial pathogens through soils and water.
+* Discuss the factors affecting the persistence of pathogens in soil.
+
+16.0  Water and Wastewater Disinfection
+16.1  Public Drinking Water Systems
+* List the common sources of drinking water.
+* Define “potable” or “safe drinking water.”
+16.2  General Types of Contaminants
+* Name common contaminants of drinking water.
+16.3  Harmful Health Effects from Contaminated Water
+* Discuss the harmful health effects of drinking unsafe water.
+
+17.0  Methods of Isolation and Identification of Microorganisms
+17.1  Immunological Methods
+* Discuss advantages and disadvantages of immunological methods for isolation and identification of microorganisms from water.
+* Define” antibody” and “antigen.”
+* Define “monoclonal antibody” and identify their advantage over conventional antibody
+* production.
+* Explain different types of antigen-antibody reactions.
+* Explain how immunoprecipitation and immunodiffusion tests are used for identification of an unknown microorganism or microbial toxins.
+* Discuss how agglutination tests are used for identification of an unknown microorganism.
+* Explain how fluorescent antibody technique works to identify unknown microorganisms.
+* Explain how indirect ELISA test works to detect an unknown antigen.
+17.2  Molecular Methods
+* Discuss the advantages and disadvantages of molecular methods for identification of unknown microorganisms.
+* Describe nucleic acid hybridization.
+* Define “nucleic acid probe” and explain how DNA probes are used to identify unknown microorganisms.
+
+* Diagram the southern blotting and discuss its use for identification of an unknown microorganism.
+* Outline the steps in polymerase chain reaction and discuss its use for identification of an unknown microorganism.
+* Describe the manufacture and use of microarrays.©Marine Institute	School of Fisheries
+	GSC Approved – Rev. March/2021

@@ -1,0 +1,190 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for .NET.
+BSMG 3205
+(Ship Management)
+
+TYPE AND PURPOSE:	The purpose of this course is to introduce the student to generic 						management principles and techniques used to manage shipboard 					personnel. The course also provides the student with knowledge and 					practical opportunities to use various Transport Canada regulations 					related to shipboard management.
+CALENDAR ENTRY:	Basic Principles of Management; Shipboard Personnel Management; 					Canada Shipping Act, 2001 (CSA 2001); Canada Labour Code (CLC); 					Canadian Regulations and Vessel Documentation
+PREREQUISITES: 		NASC 1204 (Seamanship II); WKTM 2102 (Sea Phase II)
+SCHEDULE:	Duration:	13 weeks
+Lectures:	4 hours/week = 52 hours total
+COURSE AIMS:		This course will:
+1)  Provide an introduction to basic principles of management
+2)  Provide an introduction to shipboard personnel management
+3)  Provide an opportunity for students to use various Transport Canada regulations
+
+EVALUATION:		Assignments				20%
+Tests					30%
+Final Examination			50% 
+Total					100%
+
+NOTE:
+
+1)  The final examination shall cover all of the course content and consists of 50 multiple-choice questions worth 2 marks each.
+2)  The following open-book resources will be allowed in the examination room as required:
+a)  Arctic Shipping Pollution Prevention Regulations;
+b)  Ballast Water Control and Management Regulations;
+c)  Fire and Boat Drills Regulations;
+d)  Canada Labour Code;
+e)  Canada Shipping Act-2001
+f)  Vessel Fire Safety Regulations;
+g)  Life-Saving Equipment Regulations;
+h)  Marine Occupational Safety and Health Regulations
+i)  Marine Personnel Regulations;
+j)  Pollutant Discharge Reporting Regulations, 1995;
+k)  Vessel Pollution and Dangerous Chemicals Regulations;
+l)  Safety and Health Committees and Representatives Regulations;
+m)  Shipping Safety Control Zone Order;
+n)  Vessel Certificates Regulations;
+o)  International Convention on Load Lines, 1966, as amended;
+p)  Special Trade Passenger Ships Agreement, 1971, and rules, 1971;
+q)  Protocol and Rules on Space Requirements for Special Trade Passenger Ships 1973;
+r)  Athens Convention relating to the Carriage of Passengers and their Luggage by sea 1974
+s)  International Convention on Tonnage Measurements of Ships, 1969;
+t)  International Convention for the Prevention of Pollution from ships, 1973, and the Protocol of 1978 relating thereto (MARPOL 73/78) and its Annexes;
+u)  International Convention for the Safety of Life at Sea, 1974, as amended (SOLAS)
+v)  The International Safety Management (ISM) Code
+w)  International Ship and Shore Facility Security (ISPS) Code;
+x)  The International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 2010 (STCW 2010)
+3)  The examination if of three hours duration
+
+In order to pass this course, students must achieve a grade level of at least 70%. In addition, students must achieve a minimum of 50% of the marks allocated for term work and 50% of the marks allocated for the final exam. Students who fail to achieve 50% of the allocated marks in either component cannot receive a final grade greater than 69%. Students must attend, at minimum, 90% of course time, in accordance with Marine Institute and Transport Canada requirements. Not meeting this attendance requirement may impact program completion.
+
+
+
+
+
+
+
+
+COURSE OUTLINE:
+1.0  Basic Principles of Management
+1.1  Management Styles
+1.2  Planning
+1.3  Discipline
+1.4  Coaching and Delegating
+1.5  Time Management
+1.6  Budgeting Basics
+
+2.0  Shipboard Personnel Management
+2.1  Safety and Familiarization Training
+2.2  Task and Workload Management Techniques
+2.3  Effective Resource Management Techniques
+2.4  Decision Making Techniques
+2.5  Management in the Multi-ethnic Environment
+2.6  Major Stressors in the Marine Environment
+2.7  Harassment in the Workplace
+
+3.0 Canada Shipping Act, 2001 (CSA 2001)
+
+4.0  Canada Labour Code (CLC)
+4.1  CLC as an Enabling Act
+4.2  Marine Occupational Health and Safety Regulations (MOHS)
+4.3  Safety and Health Committees and Representatives Regulations
+
+5.0  Canadian Regulations and Vessel Documentation
+5.1  Marine Personnel Regulations
+5.2  Vessel Certificates Regulations
+
+
+©Marine Institute	School of Maritime Studies
+	UGSC Approved –  Rev. March/2022
+6		BSMG 3205 (Ship Management)
+
+LEARNING OBJECTIVES:
+THE EXPECTED LEARNING OUTCOME IS THAT THE STUDENT WILL BE ABLE TO:
+
+1.0  Basic Principles of Management
+1.1  Management Styles
+* Define "management" in terms of achieving objectives through people.
+* Differentiate between the autocratic and democratic styles of leadership/management.
+1.2  Planning
+* Identify the elements of planning.
+* Explain why the planning process is undertaken.
+* Discuss the elements of personal planning.
+* Explain the importance of personal planning for seafarers.
+1.3  Discipline
+* Discuss discipline in terms of motivation.
+* Describe how "praising" and "reprimanding" are carried out.
+1.4  Coaching and Delegating
+* Discuss different coaching styles.
+* Explain which coaching style is appropriate at which stage of development of various team members.
+* Describe why delegation of duties and responsibilities is so important and when it is appropriate.
+1.5  Time Management
+* Outline the various approaches used in time management and the role of modern technology in aiding the process.
+1.6  Budgeting Basics
+* Discuss the major elements of the budgeting process.
+
+2.0  Shipboard Personnel Management
+2.1  Safety and Familiarization Training
+* State the basic safety and familiarization training required for all members of the complement
+* Describe the organization and training of crews for emergencies and related drills
+* Describe emergency procedure plans and station bills for tankers, passengers and cargo vessels
+* Demonstrate practical knowledge of organization and training of the crew for routine operations and maintenance.
+2.2  Task and Workload Management techniques
+* Demonstrate ability to apply task and workload management techniques with reference to:
+* Planning and coordination;
+* Personnel assignment;
+* Time and resource constraints;
+* Prioritization.
+2.3  Effective Resource Management techniques
+* Demonstrate ability to apply effective resource management techniques with reference to:
+* Allocation, assignment, and prioritization of resources;
+* Effective communication onboard and ashore;
+* Decisions reflecting consideration of team experience;
+* Assertiveness and leadership including motivation;
+* Obtaining and maintaining situational awareness.
+
+2.4  Decision Making Techniques
+* Demonstrate knowledge and ability to apply decision making techniques with reference to:
+* Situation and risk assessment;
+* Identifying and considering generated options;
+* Selecting course of action;
+* Evaluating outcome effectiveness.
+2.5  Management in the Multi-ethnic Environment
+* Identify the major safety challenges facing ship managers in terms of multi-ethnic crews .
+* Identify other management issues that may have to be resolved related to these crews.
+2.6  Major Stressors in the Marine Environment
+* Define "deprivation" and "inhibition"
+* Explain why managers have to be aware of possible deprivation and inhibition conditions on board a ship at sea.
+* Outline other issues that impact negatively on seafarers as they pursue their careers at sea.
+2.7  Harassment in the Workplace
+* Discuss the nature and forms of harassment in the workplace.
+* Outline the various laws and codes dealing with harassment in the workplace.
+
+3.0  Canada Shipping Act, 2001 (CSA 2001)
+* State the objectives of CSA 2001.
+* State the application of CSA 2001.
+* Outline the contents of CSA 2001.
+* Cite appropriate sections of CSA 2001 Parts 1 to 6, 7, and 8 when formulating answers to specific questions.
+
+4.0  Canada Labour Code (CLC)
+4.1  CLC as an Enabling Act
+* State how the Canada Labour Code is an enabling act.
+* Discuss the Canada Labour Code as it pertains to seafarers.
+* Give an overview of Part II of the Canada Labour Code
+4.2  Marine Occupational Health and Safety Regulations (MOHS)
+* Explain how the MOHS Regulations are enabled by the CLC.
+* State the purpose of MOHS Regulations.
+* State the application of MOHS Regulations.
+* Outline the contents of MOHS Regulations.
+* Explain MOHS regulations as they pertain to safe working practices.
+* Cite appropriate sections of the MOHS Regulations when formulating answers to specific questions.
+4.3  Safety and Health Committees and Representatives Regulations
+* Explain how the Safety and Health Committees and Representatives Regulations are enabled by the CLC.
+* State the purpose of Safety and Health Committees and Representatives Regulations.
+* State the application of Safety and Health Committees and Representatives Regulations.
+* Outline the contents of Safety and Health Committees and Representatives Regulations.
+* Cite appropriate sections of the Safety and Health Committees and Representatives Regulations when formulating answers to specific questions.
+5.0  Canadian Regulations and Vessel Documentation
+5.1  Marine Personnel Regulations
+* State the purpose of Marine Personnel Regulations.
+* State the application of Marine Personnel Regulations.
+* Outline the contents of Marine Personnel Regulations.
+* Cite appropriate sections of the Marine Personnel Regulations when formulating answers to specific questions.
+5.2  Vessel Certificates Regulations
+* State the purpose of Vessel Certificates Regulations.
+* State the application of Vessel Certificates Regulations.
+* Outline the contents of Vessel Certificates Regulations.
+* Cite appropriate sections of the Vessel Certificates Regulations when formulating answers to specific questions.©Marine Institute	School of Maritime Studies
+	UGSC Approved –  Rev. March/2022
+

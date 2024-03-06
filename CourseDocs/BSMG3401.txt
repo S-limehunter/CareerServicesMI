@@ -1,0 +1,501 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for .NET.
+BSMG 3401
+(Marine Law and Environmental Stewardship)
+
+TYPE AND PURPOSE: 	This course addresses complex international and national environmental issues, marine law and professional ethics as related to the responsibilities of the Marine Engineer employed in the global merchant marine service.
+
+CALENDAR ENTRY: 	Maritime Legislation Originators; International Conventions and Legislation; Anti-pollution/Safety Procedures and Plans; Maritime Law; Canadian Marine Environmental Issues; Pollution Response Remedies; Ship Management; Canada Shipping Act; Canadian Marine Acts and Regulations.
+
+PREREQUISITES: 	None
+
+SCHEDULE: 	Duration:	13 weeks
+Lectures: 	 6 hours/week = 78 hours total
+
+COURSE AIMS:	1)	To enable students to become aware of complex marine				environmental/safety issues.
+2)	To enable students to appreciate the need to incorporate Maritime Law 	and Environmental Stewardship into shipboard decisions.
+3)	To enable students to show knowledge of marine law, its principles, 	legislation, rights, and liabilities within the realm of the marine engineer's 	responsibilities.
+4)	To enable students to locate areas within the International Maritime 	Organization Conventions/Regulations and Canada Shipping 	Act/Regulations that pertain to the responsibilities of the marine engineer.
+
+EVALUATION:	Assignments				20%
+Topic Tests				30%
+Final Examination			50% 
+Total					100%
+NOTES:
+1)  In order to pass this course, the student must get, at minimum, an overall grade of 60%.
+2)  Students must attend, at minimum, 90% of course time, in accordance with Marine Institute and Transport Canada requirements. Attendance records will be submitted to Transport Canada, and they will make a final determination regarding eligibility for sea credits upon program completion.
+
+MAJOR TOPICS:	1.0 	Maritime Legislation Originators
+2.0 	International Conventions and Legislation
+3.0 	Anti-pollution Procedures and Plans
+4.0 	Maritime Law
+5.0 	Canadian Marine Environmental Issues
+6.0 	Ship Management
+7.0 	Canada Shipping Act
+8.0 	Canadian Marine Acts and Regulations
+COURSE OUTLINE:
+1.0  Maritime Legislation Originators
+1.1  International Maritime Organization (IMO)
+1.2  IMO Structure
+1.3  International Labour Organization (ILO)
+
+2.0  International Conventions and Legislations
+2.1  Conventions, Protocols, Codes, Circulars and Notices
+2.2  International Conventions and their Governing Area
+2.3  US Legislation
+2.4  Statutory and Trade Certificates to be Carried on Board Ships
+
+3.0  Anti-Pollution Procedures and Plans
+3.1  MARPOL 73/78 and PROTOCOL of 1997
+3.1.1  ANNEX I -Oil
+3.1.1.1  Oil Discharge Control
+3.1.1.2  Oil Record Book (Part 1 Machinery Space and Part 2 Cargo/Ballast)
+3.1.1.3  Shipboard Oil Pollution Emergency Plan (SOPEP); Shipboard Marine Pollution Emergency Plan (SMPEP); Vessel Response Plan (VRP)
+3.1.1.4  Vessel Response Plan (VRP)
+3.1.2  ANNEX II Noxious Liquid Substances in Bulk
+3.1.3  ANNEX III Harmful Substances Carried by Sea in Packaged Form
+3.1.4  ANNEX  IV Sewage
+3.1.5  ANNEX V Garbage
+3.1.6  ANNEX VI- Air Pollution
+3.2  INTERNATIONAL CONVENTION on the CONTROL of HARMFUL ANTIFOULING SYSTEM on SHIPS
+3.3  BALLASAT WATER MANAGEMENT CONVENTION
+3.4  Marine Environmental Protection Practices
+
+4.0  Maritime Law
+4.1  Maritime Law
+4.2  Law of the Sea
+4.3  International Convention on Load Lines
+4.4  International Convention for the Safety of Life at Sea General Provisions
+4.5  Maritime Fraud
+
+5.0  Canadian Marine Environmental Issues
+5.1  Salvage
+5.2  Ballast Micro-Organisms
+5.3  National Acts
+
+6.0  Ship Management
+
+7.0  Canada Shipping Act
+7.1  Seaworthiness
+7.2  Certificates
+7.3  Seaman
+
+8.0  Canadian Marine Acts and Regulations
+
+LEARNING OBJECTIVES:
+THE EXPECTED LEARNING OUTCOME IS THAT THE STUDENT WILL BE ABLE TO:
+
+1.0  Maritime Legislation Originators
+1.1.  International Maritime Organization (IMO)
+* Describe IMO as a specialized agency of the United Nations.
+* Describe why and when IMO was formed.
+* IMO co-operation with other UN agencies.
+1.2.  IMO STRUCTURE
+* Describe how the IMO is structured.
+* Describe IMO committee and sub-committees.
+1.3.  International Labour Organization (ILO)
+* Describe ILO role in maritime legislation.
+
+2.0  International Conventions and Legislations
+2.1.  Conventions, Protocols, Codes, Circulars and Notices
+* Define conventions, protocols, code, circular and notices with regards to maritime legislation.
+2.2.  International Conventions and their Governing Area
+* Identify various maritime conventions, regulations and their governing area relevant to the following list:
+* Convention for the Prevention of Marine Pollution by Dumping of Waste and other Matter, London Dumping Convention (LDC)
+* International Convention Relating to the Intervention on the High Seas of Oil Pollution Casualties, 1969
+* International Convention on Civil Liability for Oil Pollution Damage, 1969 (CLC 1969)
+* Oil Pollution Preparedness, Response and Cooperation Convention (OPRC) as amended (OPRCHNS Protocol)
+* International Health Regulations (IHR) 2005
+* List the certificates and other documents required to be carried on board ships by the international conventions:
+* International Convention for the Prevention of Pollution from Ships, (MARPOL) 1973/78
+* International Convention for the Safety of Life at Sea, (SOLAS) 1974
+* International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, (STCW) 1978 as amended in 1995 and 2010
+* International Convention on Load Lines, (LL) 1966
+* International Convention on Tonnage Measurement of Ships, (TONNAGE) 1969
+* Convention on Facilitation of International Maritime Traffic, (FAL) 1965
+* International Convention on Civil Liability for Oil Pollution Damage, (CLC) 1969
+* International Convention on the Establishment of an International Fund for Compensation for Oil Pollution Damage, (FUND) 1971
+* Convention on the International Regulations for Preventing Collisions at Sea, (COLREG) 1972
+* Convention on the International Mobile Satellite Organization, (INMARSAT) 1976
+* International Convention on Maritime Search and Rescue, (SAR) 1979
+* International Convention on Salvage, (SALVAGE) 1989
+* International Convention on the Control of Harmful Anti-Fouling Systems on Ships, (AFS) 2001
+
+* International Convention for the Control and Management of Ships¡¦ Ballast Water and Sediments, (BWM) 2004
+* ILO maritime labour convention, (MLC) 2006
+* Define for the purposes of the International Health Regulations (IHR) 2005
+* arrival of a ship
+* baggage
+* container or freight container
+* diseases subject to the regulations
+* disinsecting
+* epidemic
+* free pratique
+* health administration
+* health authority
+* infected person
+* in quarantine
+* international voyage
+* isolation
+* medical examination
+* ship
+* suspect
+* valid certificate
+* State that a health authority should, if requested, issue, free of charge to the carrier, a certificate specifying the measures applied to a ship or container, the parts treated, methods used and the reasons why they have been applied .
+* State that, except in an emergency constituting a grave danger to public health, a ship which is not infected or suspected of being infected with a disease subject to the regulations should not be refused free pratique on account of any other epidemic disease and should not be prevented from discharging or loading cargo or stores, or taking on fuel or water.
+* State that a health authority may take all practicable measures to control the discharge from any ship of sewage and refuse which might contaminate the waters of a port, river or canal.
+* Describe the measures which the health authority of a port may take with respect to departing travelers.
+* State that no health measures should be applied by a State to any ship which passes through waters within its jurisdiction without calling at a port or on the coast.
+* Describe the measures which may be applied to a ship which passes through a canal or waterway in a territory of a State on its way to a port in the territory of another State.
+* State that, whenever possible, States should authorize granting of free pratique by radio.
+* Explain that the master should make known to port authorities, as long as possible before arrival, any case of illness on board, in the interests of the patient and the health authorities and to facilitate clearance of the ship.
+* State that, on arrival of a ship, an infected person may be removed and isolated and that such removal should be compulsory if required by the master.
+* State that a ship should not be prevented for health reasons from calling at any port, but if the port is not equipped for applying the health measures which in the opinion of the health authority of the port are required, the ship may be ordered to proceed at its own risk to the nearest suitable port convenient to it.
+* Explain the actions open to a ship which is unwilling to submit to the measures required by the health authority of a port.
+* Describe the measures concerning cargo and goods describes the measures concerning baggage.
+* Plague
+* State that, for the purposes of the regulations, the incubation period of plague is six days.
+* State that vaccination against plague should not be required as a condition of admission of any person to a territory.
+* State that during the stay of a ship in a port infected by plague, special care should be taken to prevent the introduction of rodents on board.
+* State that ships should be permanently kept free of rodents and the plague vector or be periodically derailed.
+* Describe the requirements for the issue of a Ship Sanitation Control Certificate or a Ship Sanitation Control Exemption Certificate and states their periods of validity.
+* State the conditions in which a ship on arrival is to be regarded as infected, suspected or healthy.
+* Describe the measures which may be applied by a health authority on the arrival of an infected or suspected ship
+* Cholera
+* Describe the measures which may be applied by a health authority on the arrival of a healthy ship from an infected area.
+* State that, for the purposes of the regulations, the incubation period of cholera is five days.
+* Describe the measures to be taken by the health authority if a case of cholera is discovered upon arrival or a case has occurred on board
+* Yellow fever
+* State that, for the purposes of the regulations, the incubation period of yellow fever is six days.
+* State that vaccination against yellow fever may be required of any person leaving an infected area on an international voyage.
+* State that every member of the crew of a ship using a port in an infected area must be in possession of a valid certificate of vaccination against yellow fever.
+* State the conditions in which a ship on arrival is to be regarded as infected, suspected or healthy.
+* Describe the measures which may be applied by a health authority on the arrival of an infected or suspected ship.
+* Documents
+* State that bills of health or any other certificates concerning health conditions of a port are not required from any ship.
+* Describe the master's obligations concerning a Maritime  Declaration of Health.
+* State that the master and  the ship's surgeon,  1f one is  carried,  must supply any information required by the health authority as to health conditions on board during the voyage.
+* State that no health document, other than those provided for in the regulations, should be required in international traffic.
+2.3.  US Legislation
+* Identify OPA 90 and other US Legislation.
+2.4.  Statutory and Trade Certificates to be Carried on Board Ships
+* Identify statutory and trade certificates to be carried on board ships, including the following:
+* SOLAS certificate, documents, manuals and plans
+* MARPOL certificates, documents, manuals and plans
+* Load Line certificate
+* Tonnage certificate
+* AFS certificates
+* STCW certificates
+* Special trade passenger ship agreement certificate
+* Bulk chemical code certificate
+* Gas carrier code certificate
+* ILO certificates
+* Liability convention certificate
+* IHR certificate
+* Flag certificate (Registry, minimum manning, CSR, Radio License etc.)
+* Class certificate
+* Documents and manuals regarding structure, operation and maintenance of ships
+* Logs and records
+* Equipment certificates
+* Equipment test certificate including lifting gear
+
+3.0  Anti-Pollution Procedures and Plans
+3.1.  MARPOL 73/78 and PROTOCOL of 1997
+3.1.1.  ANNEX I Oil
+* Describe what surveys and inspections are required under MARPOL 73/78.
+* Describe the steps that may have to be taken if the surveyor finds the condition of the ship or its equipment in unsatisfactory.
+* State the condition of the ship and equipment must conform to the provisions of the Convention.
+* State the International Oil Pollution Prevention (IOPP) Certificate is awarded after a successful survey and available on board at all times.
+* State that the IOPP Certificate lists the condition under which oily mixtures may be discharged into the sea from an oil tanker.
+* State that the IOPP Certificate lists the conditions under which oil mixtures may be discharged into the sea from the machinery bilges.
+* Explain that the provisions do not apply to oily mixtures from the machinery spaces where the oil content without dilution is not more than 15 ppm and the  discharge of clean and segregated ballast.
+* Explain that residues which cannot be discharged overboard in compliance with regulations must be retained on board or discharged ashore to reception facilities.
+* List the special areas for the purposes of ANNEX I.
+* State that any discharge into the sea of oil or oily mixture from any ship of 400 gross tons and above is prohibited.
+* Describe the conditions under which an oil tanker may discharge oily mixtures through an Oil Discharge Monitoring and Control System (ODMCS).
+* Describe the conditions under which a ship, other than an oil tanker, may discharge oily mixtures in a special area.
+* Describe the conditions in which processed bilge water from machinery spaces may be discharged in a special area.
+* Describe the exceptional circumstances in which the regulations on the discharge of oily mixtures do not apply.
+* State that ballast water should not normally be caries in cargo tanks of tankers provided with segregated ballast tanks.
+* Explain the exceptions in which ballast may be carried in cargo tanks.
+
+* Explain that every oil tanker with crude oil washing systems should be provided with an Operations and Equipment Manual.
+* State that, in new ships of 400 gross tonnage and above and in new oil tankers of 150    gross tonnage and above, no ballast water should normally be carried in any fuel oil tank.
+* Explain that a new chapter 8, Ship-to-Ship (STS), has been added to MARPOL ANNEX I to help prevent marine pollution during ship-to-ship oil transfer.
+* Explain that tankers of 150 gross tons and above,involved in STS operations, are required to have on board a STS operations plan approved by the ship's flag administration describing how STS operations are to be conducted.
+3.1.1.1.  Oil Discharge Control
+* Explain the control of oil as outlined in Regulation 9 of MARPOL 73/78.
+* Give the location Particularly Sensitive Sea Areas (PSSA).
+* Explain, in brief, the prevention of oil pollution as stated in Regulation   13F in the event of collision or stranding and regulation 13 G in the event  of collision or stranding under "measures for existing tankers¨ of MARPOL 73/78.
+* Describe the retention of oil on board as stated in Regulation 15 of MARPOL 73/78.
+3.1.1.2.  Oil Record Book (Part 1 - Machinery Space and Part II - Cargo/Ballast)
+* State that the Oil Record Book Part 1 is to be carried on Oil Tankers of 150 tons GT and every ship of 400 tons GT and above other than an Oil Tanker.
+* State oil tankers of 150 GT and above must have an Oil Record Book Part II.
+* List the various entries that need to be made in the Oil Record Book with respect to:
+* For machinery space operations (all ships)
+* For cargo/ballast operations (oil tankers)
+* Maintenance completed (all ships)
+* Describe the entries that are required for accidental or other exceptional discharge of oil.
+* Explain that each completed operation is to be signed by the officer in charge of the operation and each completed page is to be signed by the Master of the ship.
+* State the Oil Record Book is to be kept on board readily available for inspection for a period of three years after the last entry.
+* Explain that the competent authority of the Government of a Party to the convention may inspect the Oil Record Book and make a copy of any entry, while the ship is in its port or offshore terminals, and may require the master of the ship to certify that the copy is a true copy of such entry.
+3.1.1.3.  Shipboard Oil Pollution Emergency Plan (SOPEP); Shipboard Marine Pollution Emergency Plan (SMPEP); Vessel Response Plan (VRP).
+* State that SOPEP is advise form the owners to the master on how to react  in case of an oil spill in order to prevent or mitigate the negative effect of a spill on the environment.
+* State that SOPEP contains operational aspects for various oil spill scenarios and lists the communication protocol in the event of a spill.
+
+* State the safety precautions necessary when dealing with pollution cleanup.
+* Explain the techniques for containment/removal and disposal of spilled oil.
+* Describe the equipment available for pollution clean-up.
+* Explain that SOPEP is compulsory for all ships of 400 GT and Oil Tankers of 150 GT and more.
+* State that the required contents are described in MARPOL ANNEX I
+* Explain that "Guidelines for the development of a Shipboard Oil Pollution Emergency Plan¨ are published by IMO under MEPC.54(32) 1992 as amended by MEPC.86(44) 2000.
+* State that the SOPEP is an integral part of the IOPP certificate and its existence is verified in the Supplement to the IOPP certificate.
+* Describe the SOPEP consists of the following chapters:
+* Ship identification data
+* Table of contents
+* Record of changes
+* Section 1: Preamble
+* Section 2: Reporting requirements
+* Section 3: Steps to control discharges
+* Section 4: National and local coordination
+* Minimum appendices:
+- List of Coastal State Contacts
+- List of Port Contacts
+- List of Ship Interest Contacts
+* Ship's drawings:
+- General Arrangement Plan
+- Tanks Plan
+- Fuel Oil Piping Diagram
+* Further appendices may be supplied at owners discretion
+* Explain that according to MARPOL, SOPEP should contain the following appendices:
+* Coastal state contacts (annually published, updated quarterly on the Internet)
+* Blank form for listing of Port Contact Addresses to be up to date by the Master
+* Ship contact list (24 hours contact phone numbers to owners/managers, charterer, coast guard, insurance, P&I Club, etc.)
+* Explain that IMO requires ships above 150 GRT, certified to carry liquid substances in bulk, are to carry an additional emergency plan "Shipboard Marine Pollution Emergency Plan" (SMPEP) for noxious liquid substances.
+* Explain that this additional plan is information from the owners to the Master advising how to react in the event of a spill of noxious liquid substances in order to prevent or to mitigate negative effects on the environment.
+* State SMPEP has been compulsory since January 1, 2003.
+* Describe that the SMPEP contains operational aspects for various spill scenarios and list the communication protocol in the event of such incidents.
+
+* Explain that the contents of SOPEP, which compulsory, is to be integrated into a SMPEP and IMO recommends preparing such a combined plan.
+* Explain the combined plan is to fulfill the requirements of SOPEP and SMPEP for noxious liquid substances according to the IMO guideline.
+* State that the required contents are described in MARPOL 73/78 as amended Annex II Reg. 16.
+* Explain that "Guidelines for the development of SMPEP for noxious liquid substances¨ are published by IMO UNDER MEPC.85 (44) adopted March 2000.
+* State that the Certificate of Chemical Fitness or Substances in Bulk can only be issued if the said plan is available on board.
+* Explain that if a combined SMPEP is carried on board, it has to be in accordance with the guidelines MEPC.85 (44) and MEPC.54 (32) as amended by MEPC.86 (44).
+3.1.1.4.  Vessel Response Plan (VRP)
+* Explain that the VRP is a plan required for tanker vessels trading in USA waters.
+* Explain that this plan contains new regulations to improve pollution response preparedness for vessels carrying or handling oil within the navigational waters of the USA as of February 22nd, 2011.
+* Explain that the Oil Pollution Act of 1990 (OPA-90) and MARPOL 73/78 require owner/operators of certain vessels to prepare a VRP and/or  SOPEP and in addition, for vessels carrying noxious liquid substances, a SMPEP, effective January 1, 2003.
+3.1.2.  ANNEX II Noxious Liquid Substances in Bulk
+* State that noxious liquid chemicals are divided into four categories X, Y Z and OS; category X pose the greatest threat and category Y the least threat.
+* State the conditions for the overboard discharge of any effluent containing these substances.
+* Describe the conditions for the discharge of any effluent containing substances falling in the categories specified.
+* Describe the behaviour of discharged chemicals on the marine environment.
+* Describe the effects of chemicals on the marine flora and fauna.
+* Explain that more stringent requirement for discharging overboard apply in special areas, including the Antarctic.
+* Explain that the pumping and piping arrangements, after unloading the designated tanks for the carriage of liquids of category Z, do not retain more than certain stipulated quantities of residue.
+* State that the discharge of certain residue and certain tank cleaning and ventilation operations may be carried out in accordance with an approved Procedures and Arrangements Manual based on IMO standards.
+* Explain that the Manual identifies the arrangements and equipment required to comply with Annex II and specifies the operational procedures with respect to cargo handling, tank cleaning, residue discharging, ballasting and deballasting.
+* State any operations, with respect to noxious liquid substance, are to be recorded in the Oil Record Book on a tank-by-tank basis.
+* Explain that any surveyor appointed or authorized by the Government of the Party to the Convention to supervise any operations under Annex II should make appropriate entries in the Cargo Record Book.
+* Identify the surveys required for ships carrying noxious liquid substances in bulk.
+* State the certificate issued after a successful survey in an International Pollution Prevention Certificate for the Carriage of Noxious Liquid Substances in Bulk.
+* Define the classes of dangerous good carried by ships, including the following:
+* Explosives
+* Gases
+* Flammable liquids
+* Flammable solids
+* Oxidizing substances
+* Toxic & Infectious substances
+* Radioactive material
+* Corrosives
+* Miscellaneous Dangerous Goods
+3.1.3.  ANNEX III Harmful Substances Carried by Sea in Packaged Forms
+* Explain that empty containers used previously to carry noxious substances are to be treated as harmful substances themselves until precautions have been taken to ensure that they contain no hazardous material.
+* State that packaging, containers and portable tanks should be of adequate to minimalize the hazard to the environment.
+* Describe the requirements for marking and labelling packaged noxious substances.
+* Describe the notification procedures for loading/unloading harmful as per Annex III.
+* Describe the documentation required that relates to the carriage of harmful substances by sea.
+* Explain that certain harmful substances may be prohibited for carriage or limited as to the quantity which may be carried.
+* Explain that jettisoning of harmful substances is prohibited except for the purpose of securing the safety of the ship or saving life at sea.
+3.1.4.  ANNEX IV Sewage
+* Describe the provisions regarding the discharge of sewage in to the sea, ship's equipment and systems for the control of sewage discharge, the provisions of facilities at ports and terminals for the reception of sewage and the requirements for survey and certification.
+* State that an International Sewage Pollution Prevention Certificate is issued by national shipping administrations to ships under their jurisdiction showing compliance.
+* State that Annex IV requires ships to be equipped with either a sewage treatment plant or a sewage comminuting and disinfecting system or a sewage holding tank.
+* State that the discharge of sewage into the sea is prohibited, except when the ship has an approved operational sewage treatment plant or is discharging comminuted and disinfected sewage using an approved system at a distance of more than three nautical miles from the nearest land, or is discharging sewage which is not comminuted or disinfected at a distance of more than 12 nautical miles from the nearest land.
+
+3.1.5.  ANNEX V Garbage
+* Define the following for the purposes of Annex V:
+* Garbage
+* Nearest land
+* Special areas
+* Explain that the provisions under Annex V apply tall ships.
+* State the disposal into the sea of plastics in prohibited.
+* State the regulations concerning the disposal of all other garbage.
+* Discuss the problems with ocean dumping.
+* Describe the magnitude of waste disposal in the ocean.
+* State the current special areas for the purposes of Annex V are as follows:
+* Mediterranean Sea
+* Baltic Sea
+* Black Sea
+* Red Sea
+* "Gulfs¨ area
+* North Sea
+* Antarctic Area (south of latitude 60 degrees south)
+* Wider Caribbean Region
+* Gulf of Mexico
+* Caribbean Sea
+* Explain that MARPOL 73/78, Annex V, Regulation 9 requires every ship of 400 GT and above and every ship certified to carry 15 persons or more are required to carry   a Garbage Management Plan.
+* Describe the content of the Garbage Management Plan.
+* Explain that each Plan is to be ship specific.
+* Explain all vessels required to have a garbage management plan and engaged in voyages to ports and offshore terminals under the jurisdiction of other Parties to the Convention and every fixed and floating platform engaged in exploration and exploitation of the sea bed are to be provided with a Garbage Record Book.
+* Describe the various operations' where entries have to be made in the Garbage record Book.
+* Explain the disposal criteria for cargo residues/cargo hold washing water residues.
+3.1.6.  ANNEX VI Air Pollution
+* Define the following for the purposes of Annex VI:
+* Continuous feeding
+* Emissions control areas (ECA)
+* New installations
+* Nitrogen Oxide (NOx) technical code
+* Ozone depleting substances
+* Sludge oil
+* Shipboard incineration
+* Shipboard incinerator
+* Particulate matter (PM)
+* Volatile organic compounds (VOCs)
+* Describe the types of required inspections under Annex VI.
+* Describe the provisions for the issuance of the International Air Pollution Prevention Certificate (IAPP).
+* State the duration of the validity of the IAPP certificate.
+* Describe regulation 13, regarding NOx, of Annex VI.
+* Describe the requirement for SOx for Emission Control Areas (SECA).
+* Describe the requirement for fuel oil quality in Regulation 18 of Annex VI.
+* State the current special areas for the purposes of Annex VI are as follows:
+* Baltic Sea (SOx)
+* North Sea (SOx)
+* North American (SOx, NOx and PM)
+* United States Caribbean Sea ECA (SOx, NOx and PM)
+* State that Volatile Organic Compound (VOC) are organic chemicals that easily vapourize under normal conditions and enter into the atmosphere.
+* Explain that VOC includes a very wide range of individual substances, such as methane, ethane, benzene, toluene, etc., oxidized hydrocarbons, or fuel oxygenates, such as methyl tert-butyl ether (MTBE)and by-product organic compounds from chlorination in water treatment (such as chloroform).
+* Explain that VOC emissions from the petroleum industry sources occur during:
+* Extraction of oil at the platform
+* Tanker transportation
+* Loading and discharging at terminals
+* Crude oil washing operations
+* Oil refinery processing
+* Tank operation at oil filling stations
+* Leakage from pipeline
+* Oil spills
+* Incomplete combustion, including crankcase and evaporation emissions
+* Explain that the amount of VOC emissions depends on many factors including the following:
+* Properties of the cargo oil
+* Degree of mixing
+* Temperature variation during the voyage
+* Describe the four criteria that impact the extent and rate of evolution of gaseous non-methane VOC from crude oils to the atmosphere:
+* The volatility or vapour pressure of the crude oil
+* The temperature of the liquid and gas phases of the crude oil tank
+* The pressure setting or control of the vapour phase within the cargo oil tank
+* The size or volume of the vapour phase within the cargo tank.
+* Describe that MARPOL Regulation 15.6 requires a tanker carrying crude oil shall have on board and implement a VOC Management Plan in accordance with IMO Resolution MEPC.185 (59) "Guidelines for the Development of a VOC Management Plan¨.
+* Explain that a VOC Management Plan is ship specific.
+* Explain that the aim of the VOC Management Plan is to identify the arrangements and equipment required tenable compliance with Regulation 15.6 of the revised ANNEX VI and to identify the operational procedures for VOC emission control.
+3.2.  INTERNATIONAL CONVENTION on the CONTROL of HARMFUL ANTIFOULING SYSTEMS on SHIPS
+* State that IMO adopted an International Convention on the control of Harmful Antifouling
+* Systems on Ships, introduced on October 5th, 2001, and entered into force on September 17th, 2008, which prohibits the use of harmful substances in anti-fouling systems.
+* Define tributyltin (TBT).
+* Compare TBT and TBT free paints.
+* State the effects of anti-fouling paint on the marine biota.
+* Describe "imposex¨.
+3.3.  BALLAST WATER MANAGEMENT CONVENTION
+* State the International Convention for the Control and Management of Ships Ballast Water & Sediment (BWM) Convention was adopted by IMO in London on February 13, 2004 and ratified on March 19th, 2013.
+* Define the following:
+* Ballast water
+* Ballast water management
+* Sediments
+* Describe how the BWN Convention is being applied.
+* State in order to show compliance with the BWM Convention, the following are to be on board:
+* A valid BWM Certificate
+* A Ballast Water Management Plan
+* A Ballast Water Record Book
+* Describe the conditions where the application of this convention may be exempted.
+* Explain that the management and control requirement is based in Section B Regulation B1 tB6.
+* Briefly describe Annex Section A, B, C, D and E
+* Describe the various methods of ballast exchange.
+* Explain that the Ballast Water Management Plan is specific teach ship and includes a detailed description of the actions to be taken to implement the Ballast Water Management requirements and supplemental Ballast Water Management practices.
+* Describe the standards that are to be observed in ballast water exchange.
+* State that under Regulation B 4 Ballast Water Exchange, all ships using ballast water exchange should:
+* Whenever possible conduct ballast water exchange at least 200 nm from the nearest land and in water at least 200 m in depth using IMO guidelines.
+* If the ship is unable to conduct ballast water exchange as indicated above, it should be conducted as far as possible from land and in all cases at least 50 nm from the nearest land and in water depth of 200m.
+* Explain that SOLAS Chapter V, Regulation 22, paragraph 4, Navigation Bridge Visibility, has operational changes and new requirements applicable to navigation records.
+* State that to compensate for any increase in blind sectors or reduction in horizontal fields   of vision resulting from ballast water exchange operations is taken into account by the Master before determining that it is safe to proceed with the exchange.
+* State that the Master is to ensure that a proper Bridge lookout is maintained at all times during the exchange.
+* Explain that in accordance with SOLAS Chapter V, Regulation 28 - Records of Navigational Activates and Baily Reporting, the commencement and termination of the exchange operation should be recorded and may be reviewed during ISM audits and port state control operations.
+3.4.  Marine Environment Protection Practices
+* Describe the proactive shipboard measures that can be taken on board ships to protect the marine environment, such as:
+* Bunkering
+* Loading/discharging oil, chemicals and hazardous cargos
+* Tank cleaning
+* Cargo hold washing
+* Pumping bilges (hold and engine room)
+* Ballast water exchange
+* Purging and gas freeing
+* Disposal of garbage, including hazardous wastes
+* Discharge of sewage
+
+4.0  Maritime Law
+4.1.  Maritime Law
+* Explain that maritime law is a body of laws, conventions and treaties that governs international private business or other matters involving ships, shipping or crimes occurring on open water.
+* Explain that Maritime Law is governed by a separate code and is a separate jurisdiction from national laws.
+* Explain that public maritime law is enforced through surveys, inspection, and certification and/or by imposing penal sanctions such as fines and imprisonment, ship's detention and/or administrative procedures including inspection of certificates, records.
+* Explain the role of flag state, coastal state and port state jurisdictions.
+* Explain Maritime Law governs many of the insurance claims relating to ships and cargo, civil matters between ship owners, seamen and passengers and piracy.
+* Explain that laws between nations governing such things as national versus international waters are considered public international law and are known as the Law of the Seas, also known as "Admiralty Law¨.
+* Define a general average act.
+* State that general average sacrifices and expenses are to be borne by the different contributing interests on the basis of these Rules.
+* Explain that only such losses, damages or expenses which are the direct consequence of the general average act are allowed as general average and that no indirect loss whatsoever will be admitted.
+* Explain in general terms the purpose of marine insurance explains what is meant by an insurable interest.
+* Describe briefly how insurance is arranged through brokers.
+* Explain the principle of 'utmost good faith'.
+* Explain the effect of misrepresentation or non-disclosure of material circumstances known to the assured.
+* Explain 'warranty' and the effect on a marine insurance policy of breach of warranty.
+* Describe briefly voyage policies, time policies and floating policies.
+* Describe briefly the perils usually covered in a marine insurance policy.
+* Explain the use of 'Institute Clauses'.
+* Explain the 'duty of assured' clause ('Sue and Labour' clause).
+* Explain the function of Protection and Indemnity Associations (P and I clubs) lists risks, liabilities and expenses covered by P and I clubs.
+* Briefly explain the use of charter parties in so far as these relate to the role of the management level engineering officer
+* Voyage charter
+* Time charter
+* Bareboat charter
+* Laydays and cancelling date (Laycan)
+* Notice of readiness (NOR)
+* Demurrage
+* Dispatch
+* Delivery - On hire
+* On hire survey
+* Redelivery- Off hire
+* Off hire survey
+* Explain that "port State control" is the inspection of foreign ships present in a nation's ports for the purpose of verifying that the condition of the ships and their equipment comply with the provisions of international conventions and codes, and that the ships are manned and operated in compliance with those provisions.
+* Explain that the primary responsibility for maintaining ships' standards rests with their flag States. as well as their owners and masters. However, many flag States do not, for various reasons, fulfil their obligations under international maritime conventions, and port State control provides a useful "safety net" to catch substandard ships.
+* State that a "port State control regime". where set up under a "memorandum of understanding" ("MOU") or similar  accord  between neighbouring  port States, is a system of harmonized inspection procedures designed to target substandard ships with the main objective being their eventual elimination from the region covered by the MOU's participating States.
+* State that there are eight international PSC agreements currently in force worldwide
+* Identify how to ascertain which port State agreement a particular port State might be party to and any areas of particular focus that may currently be in place.
+* Outline that in addition to the general control of above listed certificate and documents, examinations/inspections of the following are generally given priority by Port State Control Officer (PSCO):
+* Nautical publication (SOLAS 74 R V/20) Navigational equipment (SOLAS 74 R V/12 and 19)
+* Emergency starting and running tests (SOLAS 74 R 11-2 - 4.3)
+* Lifesaving equipment. Rafts FF (SOLAS 74 R 111/20, 23, 26 and 29)
+* Emergency Generator (start/stop only) (SOLAS 74 R 11-1/42 & 43)
+* Hull corrosion and damages (Load Lines) (SOLAS 74 R 1/11)
+* Main engine and aux. engines (SOLAS 74 R 11/26, 27 & 28)
+* Oily water separator 15 ppm alarm (MARPOL Annex 1/16(1))
+* Oil discharge monitor (ODM) (MARPOL Annex 1/16)
+* Charts corrected and proper scale (SOLAS 74 R V/20)
+* Fire safety Control plan (SOLAS 74 R 11-2/20)
+* Ventilation inlets/outlets (SOLAS 74 R 11-2/16.9 & 48)
+* Emergency training and drills (Log book rec. SOLAS 74 R 111/18)
+* Emergency lighting/batteries (SOLAS 74 R 11/42 & 43)
+* Deck and hatches corrosion and damages (LL 1966)
+* Steering gear - incl. auxiliary and emergency (Bridge inspection only -
+* SOLAS 74 R V/19)
+* Cleanliness in engine room (SOLAS 74 R 11-1/26 and ILO 134)
+* Cleanliness in accommodation (ILO 92 & 133)
+* Explain that the port State control inspections may be conducted on the following basis:
+* initiative of the port State Administration;

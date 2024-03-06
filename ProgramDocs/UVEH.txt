@@ -1,0 +1,140 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for .NET.
+3.1.7 Diploma of Technology - Underwater Vehicles
+ 
+
+Program Overview: Refer to Underwater Vehicles Technology Overview
+
+ 
+
+Admission Requirements: See Section 1.2.5 - Admission Requirements for Diplomas of Technology and Technician Diplomas of this Calendar. As per Section 1.2.1 - Non-Academic Requirements of the Calendar, proof of physical fitness through a valid medical certificate and a criminal records check are required.
+
+ 
+
+Advanced Standing: As per Section 1.2.5.4 - Advanced Standing in Diploma of Technology or Technician Programs, applicants who have completed the two-year Technician Diploma in Remotely Operated Vehicles (ROV) at the Marine Institute are eligible to receive advanced standing in this program. Students approved for advanced standing will commence their studies in Term 5 of the program. Additional courses may be required.
+
+ 
+
+Credit Earned: Diploma of Technology
+
+ 
+
+Program Length: 3 years (6 academic terms, 2 technical sessions, 1 work term)
+
+ 
+
+Normal Start: Fall Semester
+
+ 
+
+Academic Department: School of Ocean Technology
+
+ 
+
+Contact: Admissions Officer
+(709) 778-0380
+1-800-563-5799 (ext. 380)
+email: admissions@mi.mun.ca
+
+ 
+
+Program Structure
+
+ 
+
+ 
+
+Fall Semester
+
+ (13 weeks)
+
+Winter Semester
+
+(13 weeks)
+
+Technical Session
+
+(6 weeks) Late April – Early June
+
+Summer Semester
+
+Year 1
+
+TERM 1
+CMSK 1104 (Introduction to Technical Reporting)
+ELTK 1100 (Electrotechnology)
+MATH 1100 (Pre-Calculus)
+ONGR 1200 (Descriptive Oceanography)
+ROVO 1100 (ROV Systems & Simulator Training)
+PHYS 1105 (Physics)
+
+TERM 2
+CPSK 1200 (Introduction to Applied Programming)
+ELTK 1200 (Electrotechnology)
+ELTR 1301 (Control Electronics for ROV)
+ELTR 2102 (Digital Logic)
+MATH 1101 (Introduction to Calculus)
+OMAP 2000 (Underwater Acoustic Applications)
+
+Technical Session 1
+
+ELTR 1104 (Electronic Fabrication Techniques)
+NASC 1304 (Seamanship for Non-crew Members)
+ONGR 1301 (Instrumentation Oceanography)
+ROVO 1301 (ROV Tooling)
+WKPR 1307 (Engineering Graphics and Computer Aided Design)
+
+ 
+
+Year 2
+
+TERM 3
+ELTK 1303 (Electrical Machines and Power Systems)
+ELTK 2118 (High Voltage Safety)
+ELTR 2119 (Marine Communications and Networking)
+FLDS 2108 (Introduction to Fluid Mechanics & Hydraulics)
+ROVO 2201 (ROV Operations)
+WKPR 2118 (Workshop Practice)
+
+TERM 4
+ELTK 2200 (Marine Electrical Troubleshooting)
+ELTR 2116 (Industrial Electronic and Controls)
+ELTR 2215 (Microcontroller Interfacing)
+FLDS 2109 (Advanced Hydraulics)
+ROVO 2205 (ROV Maintenance and Launch and Recovery Systems (LARS))
+ROVO 2303 (ROV Simulator - Advanced)
+
+Technical Session 2     
+
+ROVO 2301 (ROV Pilot Training)
+SFTY 1102 (Marine Basic First Aid (STCW A-VI/1-3)
+SFTY 1128 (BST - Basic Survival Training)
+SFTY 2101 (H2S Alive)
+SFTY 2301 (Fall Protection)
+
+Work Term
+
+(8 weeks)
+
+June - August
+
+
+WKTM 1105 
+
+Year 3
+
+TERM 5*
+CHEM 1101 (General Chemistry I)
+ELTR 3120 (Integrated Circuits)
+ELTR 3122 (Embedded Microcontrollers)
+MATH 1200 (Calculus)
+ROVO 3200 (Automated Underwater Vehicle Design and Operations)
+WKPR 1117 (Machine Shop I)
+
+*Advanced Standing students will begin program in Term 5
+
+TERM 6
+ELTR 2202 (Analog Transistor Circuits)
+ELTR 3104 (Digital Signal Processing)
+ELTR 3211 (Control Devices & Systems)
+MATH 2101 (Advanced Calculus)
+TKPR 3500 (Electro-Mechanical Fabrication Project)

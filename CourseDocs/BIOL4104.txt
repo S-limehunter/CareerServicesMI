@@ -1,0 +1,465 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for .NET.
+BIOL 4104
+(Food Microbiology)
+
+TYPE AND PURPOSE:	The purpose of this course is to introduce the student to the microbiology of foods. The important parameters controlling microbial growth in foods, the microorganisms involved in spoilage of foods and principles of microbial spoilage and their control will be discussed. Students will also be introduced to the methods of microbiological analysis of foods.
+
+CALENDAR ENTRY:	Introduction; Characteristics of Microorganisms Associated with Foods; Sources of Microorganisms in Foods; Factors Influencing Microbial Growth in Foods; Food Spoilage; Food Preservation Methods; Microbial Analysis of Food and Food Environment; Beneficial uses of Microorganisms in Foods; Shelf-life and Challenge Studies
+
+PREREQUISITES:	SC 1807 (Safety in Science Lab (Lab Safety)) and SC 1808 (WHMIS)
+
+SCHEDULE:	Duration:	13 weeks
+Lectures:	3 hours per week = 39 total hours Laboratories:	3 hours once per week = 39 total hours
+
+COURSE AIMS:	To enable the student to develop knowledge of:
+1)  The nature and properties of microorganisms important in foods.
+2)  The sources of microorganisms in foods.
+3)  The factors influencing microbial growth in foods.
+4)  Spoilage and beneficial microorganisms in the food industry.
+5)  The microbiological aspects of food preservation methods.
+6)  And experience in basic and advanced microbiological techniques for isolating and quantifying spoilage and pathogenic microorganisms present in foods and the food processing environment.
+7)  And experience in designing shelf-life and challenge studies.
+
+EVALUATION:	Lab Reports	20%
+Lab Exam	10%
+Midterm	30%
+Final Exam	40% 
+Total	100%
+
+NOTES:
+1.  Students MUST submit ALL written laboratory reports to successfully pass the course. Failure to do so will result in a maximum grade of 60% in the course.
+2.  A minimum average mark of 6.5/10 for the laboratory component of the course is required in addition to achieving an overall pass mark in the course.
+3.  Attendance in all laboratory classes is mandatory. Failure to attend,
+without a satisfactory documented reason, for example a medical certificate issued by a doctor, will mean that the maximum grade possible for this course will be 60 percent.
+
+MAJOR TOPICS:	1.0 	Introduction
+2.0 	Characteristics of Microorganisms Associated with Foods
+3.0 	Sources of Microorganisms in Foods
+4.0 	Factors Influencing Microbial Growth in Foods
+5.0 	Food Spoilage
+6.0 	Food Preservation Methods
+7.0 	Microbial Analysis of Food and Food Environment
+8.0 	Beneficial uses of Microorganisms in Foods
+9.0 	Shelf-life and Challenge Studies
+
+
+©Marine Institute	School of Fisheries
+	UGSC Approved – Rev. March/2021
+12		BIOL 4104 (Food Microbiology)
+COURSE OUTLINE:
+
+1.0  Introduction
+1.1  Definitions
+1.2  Food-associated Microorganisms
+1.3  Importance of Food Microbiology Course
+1.4  Importance of Food-associated Microorganisms
+
+2.0  Characteristics of Microorganisms Associated with Foods
+2.1  Bacteria
+2.2  Yeasts and Molds
+2.3  Protozoa
+2.4  Viruses
+
+3.0 Sources of Microorganisms in Foods
+
+4.0  Factors Influencing Microbial Growth in Foods
+4.1  Intrinsic Factors
+4.2  Extrinsic Factors
+
+5.0  Food Spoilage
+5.1  Introduction
+5.2  Food Spoilage Microorganisms
+5.3  Significance of Foods in Microbial Food Spoilage
+
+6.0  Food Preservation Methods
+6.1  Control by Heat
+6.1.1  High Temperature Food Preservation
+6.1.2  Low Heat Processing or Pasteurization
+6.1.3  Microwave Heating
+6.2  Control by Low Temperature
+6.3  Control by Reduced Aw
+6.4  Control by Low pH and Organic Acids
+6.5  Control by Antimicrobial Preservatives
+6.6  Control by Radiation
+6.7  Control by Modified Atmosphere
+6.8  Control by Novel Processing Technologies
+6.9  Hurdle Concept
+
+7.0  Microbial Analysis of Food and Food Environment
+7.1  Introduction
+7.2  Sample and Sampling Plans
+7.3  Quantitative Methods
+7.3.1  Direct Enumeration
+7.3.2  Indirect Estimation
+7.4  Food Borne Pathogens
+7.5  Selected Groups of Microorganisms
+7.6  Tests for Bacterial Toxins in Foods
+
+
+©Marine Institute	School of Fisheries
+	UGSC Approved – Rev. March/2021
+12		BIOL 4104 (Food Microbiology)
+7.7  Rapid Methods
+7.7.1  Immunological Methods
+7.7.2  Molecular Methods
+7.8  Miscellaneous Methods
+7.9  Microorganisms in the Food Processing Environment
+
+8.0  Beneficial uses of Microorganisms in Foods
+8.1  Food Fermentation
+8.2  Intestinal Beneficial Bacteria
+8.3  Food Biopreservatives of Microbial Origin
+
+9.0  Shelf-life and Challenge Studies
+9.1  Shelf-life Studies
+9.2  Challenge Studies
+
+
+©Marine Institute	School of Fisheries
+	UGSC Approved – Rev. March/2021
+12		BIOL 4104 (Food Microbiology)
+LEARNING OBJECTIVES:
+THE EXPECTED LEARNING OUTCOME IS THAT THE STUDENT WILL BE ABLE TO:
+
+1.0  Introduction
+1.1  Definitions
+* Define microorganisms and microbiology.
+1.2  Food-associated Microorganisms
+* List the food-associated microorganisms.
+1.3  Importance of Food Microbiology Course
+* Discuss the importance of this course in food production/processing.
+1.4  Importance of Food-associated Microorganisms
+* State the consequences of food contamination by microorganisms.
+
+2.0  Characteristics of Microorganisms Associated with Foods
+2.1  Bacteria
+* Discuss the morphology and characteristics of bacteria associated with foods.
+* Understand the microbial nomenclature system.
+* Explain the following terms in relation to bacterial nomenclature:
+* Species
+* Subspecies
+* Strain
+* Type Strain
+* Biovar
+* Serovar
+* Phagovar
+* Describe the characteristics of important bacterial groups in foods.
+* Define the following terms:
+* Coliforms
+* Fecal Coliforms
+* Identify coliform and fecal coliform bacteria and discuss their properties and role as indicator bacteria or fecal contamination of food and water.
+* Detect and enumerate coliforms and fecal coliforms in foods and water.
+2.2  Yeasts and Molds
+* Discuss the morphology, properties and growth requirements of yeasts and molds.
+* Identify molds associated with spoilage/manufacture of foods.
+* Identify yeasts associated with spoilage/manufacture of foods.
+* Discuss the methods of cultivation of yeasts and molds.
+* Cultivate yeasts and molds using appropriate media and conditions.
+* Identify molds present in foods.
+2.3  Protozoa
+* Describe the habitat, morphology and properties of protozoa.
+* Identify protozoa responsible for food associated illnesses.
+* Identify protozoa present in food or water samples.
+2.4  Viruses
+* Describe morphology and properties of viruses.
+* Discuss the consequences of food contamination by viruses.
+
+
+©Marine Institute	School of Fisheries
+	UGSC Approved – Rev. March/2021
+12		BIOL 4104 (Food Microbiology)
+* Identify viruses responsible for food-borne illnesses.
+* Outline the methods for detection of viruses in foods.
+
+3.0  Sources of Microorganisms in Foods
+* Identify the sources of and types of microorganisms that contaminate foods.
+* Discuss methods of controlling access of undesirable microorganisms in foods.
+
+4.0  Factors Influencing Microbial Growth in Foods
+4.1  Intrinsic Factors
+* Explain the effects of the following intrinsic factors on the growth of microorganisms in foods:
+* pH
+* Nutrient Content
+* Moisture Content
+* Anti-microbial constituents
+* Oxidation-reduction potential
+* Biological Structures
+4.2  Extrinsic Factors
+* Explain the effects of the following extrinsic factors on the growth of microorganisms in foods:
+* Storage Temperature
+* Relative Humidity of Environment
+* Gases in the Environment
+
+5.0  Food Spoilage
+5.1  Introduction
+* Define "spoilage".
+* Identify major causes of food spoilage.
+* Discuss consequences of food spoilage.
+5.2  Food Spoilage Microorganisms
+* Analyze the correlation between kinds/numbers of microorganisms and spoilage.
+* Identify at least three factors affecting kinds and numbers of microorganisms in foods.
+* Identify the predominant types of food spoilage microorganisms.
+* Identify important food spoilage bacteria.
+5.3  Significance of Foods in Microbial Food Spoilage
+* Discuss the importance of the following factors in microbial spoilage of foods:
+* Food Types
+* Food Nutrients
+* Identify various types of physical changes caused by microorganisms/activities in foods.
+* Explain the effects of microbial activities on the following food macromolecules:
+* Lipids
+* Carbohydrates
+* Proteins
+* Define "putrefaction".
+
+
+©Marine Institute	School of Fisheries
+	UGSC Approved – Rev. March/2021
+12		BIOL 4104 (Food Microbiology)
+6.0  Food Preservation Methods
+6.1  Control by Heat
+* List different methods of food preservation based on use of heat.
+6.1.1  High Temperature Food Preservation
+* Discuss the objectives of using heat for food preservation.
+* Explain the mechanism of antimicrobial action of high temperature.
+* Distinguish between sterilization and commercial sterilization.
+* Explain temperature danger zone.
+* Discuss the following factors that affect the effectiveness of heat in killing microbes and spores in foods.
+* Nature of Food
+* Nature of Microorganisms
+* Nature of Process
+* Compare the heat-resistance of bacteria, yeasts and molds.
+* Explain the following:
+* D Value
+* Z Value
+* F Value
+* 12 D
+* Determine the thermal death time of a given bacterium.
+* Construct a thermal death curve for specific microorganisms.
+* Determine D values of bacteria from given data.
+* Discuss the following food preservation methods which are based on use of high temperature:
+* Blanching
+* Cooking
+* Canning
+* Using the 12-D concept, determine the thermal processing time/temperature of a given food sample.
+6.1.2  Low Heat Processing or Pasteurization
+* Discuss the effect of low heat processing on microorganisms.
+* Identify the target organism of pasteurization.
+* Distinguish between low temperature long time (LTLT) and high temperature short time (HTST) methods of pasteurization.
+* Provide examples of foods preserved by using pasteurization process.
+6.1.3  Microwave Heating
+* Discuss the antimicrobial action of microwaves.
+* Discuss the advantages and disadvantages of microwave heating.
+6.2  Control by Low Temperature
+* Discuss the objectives of using low temperature food preservation.
+* Explain the mechanism of antimicrobial action of low temperature.
+* Discuss the role of the following factors on the effectiveness of low temperature in controlling microbial growth and microbial enzymatic activity in foods:
+* Nature of Process
+* Nature of Food
+* Nature of Microorganisms
+
+
+©Marine Institute	School of Fisheries
+	UGSC Approved – Rev. March/2021
+12		BIOL 4104 (Food Microbiology)
+* Discuss the following low temperature preservation methods and their advantages and disadvantages:
+* Ice Chilling
+* Refrigeration
+* Freezing
+* Describe the changes produced in foods during freezing, storage and thawing.
+* Explain the advantages of quick freezing over slow freezing.
+6.3  Control by Reduced Aw
+* Identify the objectives of reducing Aw in food.
+* Explain the mechanism of antimicrobial action of low temperature.
+* Discuss the role of the following factors on the effectiveness of reduced Aw in controlling microbial growth and microbial enzymatic activity in foods:
+* Nature of Process
+* Nature of Food
+* Nature of Microorganisms
+* Discuss the following methods which are based on reduction in Aw and their advantages and disadvantages:
+* Natural Dehydration
+* Freeze Drying
+* Foam Drying
+* Smoking
+* Describe the properties, advantages and disadvantages of intermediate moisture foods.
+* Identify the importance of sorption isotherms.
+6.4  Control by Low pH and Organic Acids
+* Identify the antimicrobial objectives of using weak acids in food preservation.
+* Explain the mechanism of antimicrobial action of low acids.
+* Discuss the role of the following factors on the effectiveness of low acids in controlling microbial growth in foods:
+* Nature of Process
+* Nature of Food
+* Nature of Microorganisms
+* Identify the weak acids used for food preservation and their advantages and disadvantages.
+6.5  Control by Antimicrobial Preservatives
+* Identify the objectives of using microbial chemicals for food preservation.
+* Discuss the factors which affect the effectiveness of antimicrobial chemicals in controlling growth of microorganisms in foods.
+* Discuss the antimicrobial properties, health concerns if any and uses of the following antimicrobial chemicals used for food preservation:
+* Nitrate
+* BHA and BHT
+* Sulfur Dioxide
+* Chitosan
+* Hydrogen Peroxide
+* EDTa
+* Epoxides
+
+
+©Marine Institute	School of Fisheries
+	UGSC Approved – Rev. March/2021
+12		BIOL 4104 (Food Microbiology)
+* Lysozyme
+* Parabens
+* Momnolarium
+* Bacteriocins
+* Antibiotics
+* Diacetyl
+* Wood Smoke
+* Carbon Dioxide
+* Spices
+6.6  Control by Radiation
+* Identify the objectives of using radiation for preservation of foods.
+* Distinguish between non-ionizing and ionizing of radiations used for food preservation.
+* Explain the mechanism of antimicrobial action of radiations.
+* Discuss the role of the following factors on the effectiveness of radiation in controlling microbial growth and microbial enzymatic activity in foods:
+* Nature of Process
+* Nature of Food
+* Nature of Microorganisms
+* Explain the following:
+* Radappertization
+* Radicidation
+* Radurization
+* Describe the effects of irradiation on food quality.
+* Discuss the legal status of food irradiation.
+6.7  Control by Modified Atmosphere
+* Distinguish between Control atmosphere packaging (CAP), modified atmosphere packaging (MAP) and vacuum packaging.
+* Identify the objectives of modified atmosphere packaging in food preservation.
+* Explain the mechanism of antimicrobial action of modified atmosphere packaging.
+* Discuss the role of the following factors on the effectiveness of modified atmosphere in controlling microbial growth:
+* Nature of Process
+* Nature of Food
+* Nature of Microorganisms
+* Discuss the following methods and their advantages and disadvantages:
+* Vacuum Packaging
+* Gas Flushing
+6.8  Control by Novel Processing Technologies
+* Discuss the current status of novel food preservation technologies.
+6.9  Hurdle Concept
+* Explain hurdle concept and identify the foods preserved by using hurdle concept.
+
+7.0  Microbial Analysis of Food and Food Environment
+7.1  Introduction
+* Discuss the importance of microbiological analysis of foods and food environment.
+* Distinguish between quantitative and qualitative methods of microbiological analytical
+methods.
+* Distinguish between standard and recommended methods.
+* Identify the sources of standard and recommended methods.
+* Use the Compendium of Analytical Methods to locate recommended and standard methods of detection and enumeration of food-associated bacteria.
+* Use the Compendium of Analytical Methods to locate microbiological guidelines and standards.
+7.2  Sample and Sampling Plans
+* Define "sample".
+* Describe methods of sample selection, collection, preparation, storage and transport to the testing lab.
+* Select a "representative sample" and use it for microbiological analysis.
+* Distinguish between Mandatory criteria and advisory criteria.
+* Distinguish between Microbiological standard and guideline.
+* Discuss the following sampling plan methods:
+* Single Attribute Plan
+* Multiple Attribute Plan
+* Two Class Attribute Plan
+* Three Class Attribute Plan
+* Interpret results of microbiological testing methods using appropriate sampling plan methods.
+7.3  Quantitative Methods
+7.3.1  Direct Enumeration
+* Explain the principle, outline the method and discuss the advantages/disadvantages of the direct microscopic count method.
+* Discuss the principle, outline the method and identify the advantages/disadvantages of the total plate count method.
+* Determine the total or aerobic plate count in a given food sample.
+* Discuss the principle, outline methods, identify uses and discuss advantages and disadvantages of filtration methods for determining bacterial counts in food or water samples.
+* Determine bacterial count of a given sample using membrane filtration method.
+7.3.2  Indirect Estimation
+* Discuss the principle, outline the method and identify the use and advantages/disadvantages of the following methods:
+* Most Probable Number (MPN) Method
+* Dye Reduction Test
+* Impedance Method
+* Radiometry Method
+* Estimate the microbial count in given water or food sample using MPN method.
+* Estimate the microbial count in a given milk sample using resazurin and litmus blue dye reduction tests.
+7.4  Food Borne Pathogens
+* Detect or/and enumerate the following bacteria in foods:
+* Salmonella
+* Staphylococcus Aureus
+* Listeria
+* Escherichia Coli 0157
+
+7.5  Selected Groups of Microorganisms
+* Determine the number of yeast-mold in a given food sample.
+* Determine the thermophilic and mesophilic spores in a given food sample.
+* Detect or/and enumerate coliforms and fecal coliform bacteria in a given food/water sample.
+7.6  Tests for Bacterial Toxins in Foods
+* Discuss methods for testing bacterial toxins.
+* Discuss the basic and operating principles of biosensor methods and discuss their advantages and disadvantages.
+* Discuss the principle, outline the method and identify used of Bioluminescence method.
+7.7  Rapid Methods
+7.7.1  Immunological Methods
+* Discuss advantages and disadvantages of immunological methods for isolation and identification of microorganisms from water.
+* Define "antibody" and "antigen".
+* Define monoclonal antibody and identify their advantage over conventional antibody production.
+* Explain different types of antigen-antibody reactions.
+* Explain the principle, outline the method, and uses of the following methods:
+* Immunomegnatic Separation
+* Reverse Passive Agglutination
+* Enzyme-Linked Immunoabsorbant Assay
+* Immunofluorescence Assay
+* Immunochematographic Lateral Flow Assay
+* Flow Cytometry
+* Identify bacteria or bacterial toxin using immunological methods.
+7.7.2  Molecular Methods
+* Discuss the advantages and disadvantages of molecular methods for identification of unknown microorganisms.
+* Describe nucleic acid hybridization.
+* Define "nucleic acid probe" and explain how DNA probes are used to identify unknown microorganisms.
+* Diagram the southern blotting and discuss its use for identification of an unknown microorganism.
+* Outline the steps in polymerase chain reaction and discuss its use for identification of an unknown microorganism.
+* Describe the manufacture and use of microarrays.
+7.8  Miscellaneous Methods
+* Discuss the basic and operating principles of biosensor methods and discuss their advantages and disadvantages.
+* Discuss the principle, outline the method and identify uses of bioluminescence method.
+7.9  Microorganisms in the Food Processing Environment
+* Discuss the following methods used for determining the number of microorganisms present on the food contact surfaces:
+* Swab Method
+* Rinse Method
+* RODAC Method
+
+* Discuss the methods for determining the number of microorganisms in air.
+* Determine the number of microorganisms in the air as well as the food contact surfaces.
+
+8.0  Beneficial uses of Microorganisms in Foods
+8.1  Food Fermentation
+* Define food fermentation.
+* Discuss the advantages of fermentation.
+* Identify microorganisms which play a role in fermentation.
+* Outline the general method of preparing fermented foods.
+* Distinguish between natural fermentation, back slopping and controlled fermentation process.
+* Provide examples of fermented foods on the following groups:
+* Dairy Products
+* Legume Products
+* Meat Products
+* Fish Products
+* Cereal Products
+* Beverages
+* Fruits and Vegetable Products
+* Starch Group Products
+* Prepare yogurt using raw milk and starter culture.
+8.2  Intestinal Beneficial Bacteria
+* Define "probiotics", "synbiotics", and "prebiotics".
+* Identify important characteristics of beneficial bacteria.
+* Discuss the beneficial effects of probiotics on human health.
+* Discuss the factors which affect the beneficial activities of probiotic bacteria.
+8.3  Food Biopreservatives of Microbial Origin
+* Identify antimicrobial compounds of food-grade bacteria, their effect on microorganisms and their uses in food preservation.
+
+9.0  Shelf-life and Challenge Studies
+9.1  Shelf-life Studies
+* Define "shelf-life".
+* Explain the importance of conducting a shelf-life study.
+* Design a shelf-life study test for a given food sample.
+9.2  Challenge Studies
+* Discuss the importance of conducting a challenge study.
+* Explain how a shelf-life study is conducted.
+* Design a challenge study for a given food sample.©Marine Institute	School of Fisheries
+	UGSC Approved – Rev. March/2021

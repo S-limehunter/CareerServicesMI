@@ -1,0 +1,426 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for .NET.
+BSMG 3105
+(Shipyard Management)
+
+
+©Marine Institute
+School of Maritime Studies NPC Approved - Rev. Dec./2012
+
+
+TYPE AND PURPOSE:
+
+
+CALENDAR ENTRY:
+
+
+
+
+PREREQUISITES: SCHEDULE:
+
+COURSE AIMS:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EVALUATION:
+
+This is an advanced level course designed to introduce students in the Naval Architecture and Marine Engineering Systems Design programs to the framework and structure of Canadian shipbuilding.
+
+Introduction to the Shipyard; Framework of the Company; The Basic Work Pattern; Tendering; Design Check and Cost Estimating; Government Agencies and Ships; Specification Writing; Ship Contracts; Liability; Shipyard Planning Department; Quality Control; Union Contracts Sub Contractor Agreement
+ENSY 3301 (Ship Engineering Project) or NARC 3102 (Ship Design) Duration:	5 weeks
+Lectures:	6 hours per week = 30 hours total
+
+1)  To familiarize students with the Canadian shipbuilding industry.
+
+2)  To familiarize students with the shipyard management structure.
+
+3)  To provide an understanding of the shipyard work patterns and procedures.
+
+4)  To develop a knowledge of the cost estimating and tendering process.
+
+5)  To provide an understanding of the requirements for a design check, and the liability of designers and shipbuilders to the shipowner.
+
+6)  To familiarize students with specification writing and the wording of shipyard contracts.
+
+7)  To develop an appreciation for quality control requirements in shipbuilding.
+
+8)  To develop knowledge of the shipyard planning office and critical path techniques.
+
+9)  To familiarize students with union contracts and insurance claims procedures.
+
+10)  To familiarize students with the governmental agencies involved with ship procurement and maintenance.
+
+Assignments	50%
+
+
+©Marine Institute
+School of Maritime Studies NPC Approved - Rev. Dec./2012
+
+
+End of Term Exam		50% Total	100%
+
+
+©Marine Institute
+School of Maritime Studies NPC Approved - Rev. Dec./2012
+
+2	BSMG 3105 (Shipyard Management)
+
+
+
+©Marine Institute
+School of Maritime Studies NPC Approved - Rev. Dec./2012
+
+MAJOR TOPICS:
+
+1.0	Introduction to the Shipyard
+
+2.0	Framework of the Company
+
+3.0	The Basic Work Pattern
+
+4.0	Tendering
+
+5.0	Design Check and Cost Estimating
+
+6.0	Government Agencies and Ships
+
+7.0	Specification Writing
+
+8.0	Ship Contracts
+
+9.0	Liability
+
+10.0	Shipyard Planning Department
+
+11.0	Quality Control
+
+12.0	Union Contracts – Sub Contractor Agreement
+
+
+©Marine Institute
+School of Maritime Studies NPC Approved - Rev. Dec./2012
+
+BSMG 3105 (Shipyard Management)	3
+
+COURSE OUTLINE:
+1.0  Introduction to the Shipyard
+1.1  Types of Ships Required for the Domestic Market
+1.2  Factors to Consider when Locating a Shipyard
+1.3  Facilities Required to Build a Ship-Shipyard Layout
+1.4  The Allied Industries
+1.5  Function of Shipyard Management
+1.6  Structure of the Management Group within a Yard
+
+2.0  Framework of the Company
+2.1  Corporate Objectives
+2.2  Impact of Leadership on the Organization
+2.3  The Manager
+2.4  Project Manager
+2.5  Drawing Office Procedures
+2.6  The Welding Supervisor
+
+3.0  The Basic Work Pattern
+3.1  Preparing Plans – Plan Approval
+3.2  Ordering Steel – The Stockyard
+3.3  Lofting – Numerical Control
+3.4  Material Preparation – Cleaning, Cutting, Priming
+3.5  Plate Shop Processes and Fabrication Machinery
+3.6  Shop Layouts – Steel, Piping, Machine, Joiners
+3.7  Panel Lines, Sub-Assembly, Units, Modules, Pre-Fabrication
+3.8  Advance Outfitting
+3.9  Fixed and Travelling Crane Types Advantages, Disadvantages
+3.10  The Building Berth
+3.11  Erection of Units
+
+4.0  Tendering
+4.1  The Owners Request for Tenders
+4.2  Standard Format for Government Proposals to Tender
+4.3  Construction Contract Bonds
+
+5.0  Design Check and Cost Estimating
+5.1  Overview
+5.2  Estimating Requirements Unique for Shipyards
+5.3  Traditional Bid Estimating
+5.4  Development of Pricing Information for Traditional Bid Estimating
+5.5  Shipyard Approaches to Cost Estimating
+5.6  Design and Costing strategies Used in Commercial Shipbuilding
+5.7  Organization of the Cost Estimate
+5.8  SWBS Based Cost Estimating
+5.9  Impact of Build Strategy
+
+
+©Marine Institute
+School of Maritime Studies NPC Approved - Rev. Dec./2012
+
+4	BSMG 3105 (Shipyard Management)
+
+5.10  Use of Historical Costs
+5.11  Shipyard Cost Estimating Terminology and Definitions
+
+6.0  Government Agencies and Ships
+6.1  Federal Government Funding
+6.2  Supportive financial Arrangements
+6.3  Canadian Content Requirements
+6.4  Departments with Ship Requirements
+6.5  Supply and Services
+6.6  The Future of Canadian Shipbuilding
+
+7.0  Specification Writing
+7.1  Guide to Writing Specifications – Style, Clarity, etc.
+7.2  Publication Standards for Consultants and Engineers
+7.3  Definition of Canadian Content
+
+8.0  Ship Contracts
+8.1  Stock Design Ships
+8.2  Specific Ship Designs
+8.3  Ship Contracts
+8.4  Method of Payment
+8.5  Title and Security
+8.6  Plans and Specifications
+8.7  Warranties and Liability Limitations
+8.8  Extras and Change Orders
+8.9  Completion Dates
+8.10  Insurance
+8.11  Taxes
+
+9.0  Liability
+9.1  Obligation of the Naval Architect and Systems Designer
+9.2  Agreements between Owner and Architect
+
+10.0  Shipyard Planning Department
+10.1  Pre-Contract Phase
+10.2  Control of the Production Phase – Bar Charts/Labour Curves
+10.3  Critical Path Planning Techniques – Network Analysis
+10.4  Development of the Critical Path Network Chart
+10.5  Gantt Chart
+
+11.0  Quality Control
+11.1  Quality Program Requirements for Contractors
+11.2  Contractors Inspection System Requirements
+11.3  Quality Assurance in Shipbuilding
+11.4  Role of the Quality Control Supervisor
+
+
+©Marine Institute
+School of Maritime Studies NPC Approved - Rev. Dec./2012
+
+BSMG 3105 (Shipyard Management)	5
+
+12.0  Union Contracts – Sub Contractor Agreement
+12.1  The Form and Wording of a Shipyard Contract
+12.2  The Form and Wording of Sub-Contractors Agreements
+
+
+©Marine Institute
+School of Maritime Studies NPC Approved - Rev. Dec./2012
+
+6	BSMG 3105 (Shipyard Management)
+
+LEARNING OBJECTIVES:
+THE EXPECTED LEARNING OUTCOME IS THAT THE STUDENT WILL BE ABLE TO:
+
+1.0  Introduction to the Shipyard
+1.1  Types of Ships Required for the Domestic Market
+* Discuss the relevant vessel types and who can build.
+1.2  Factors to Consider when Locating a Shipyard
+* Specify the appropriate requirements.
+1.3  Facilities Required to Build a Ship-Shipyard Layout
+* Discuss with the aid of sketches acceptable layouts and equipment.
+1.4  The Allied Industries
+* State the product lines involved.
+1.5  Function of Shipyard Management
+* Discuss the role of each position or department.
+1.6  Structure of the Management Group within a Yard
+* Draw a proper management chart showing level of authority and responsibility.
+
+2.0  Framework of the Company
+2.1  Corporate Objectives
+* Discuss sample corporate image and objectives, rationale behind having goals and objectives.
+2.2  Impact of Leadership on the Organization
+* Discuss proper delegation of authority.
+2.3  The Manager
+* Discuss managerial qualities and logical steps in organizing.
+2.4  Project Manager
+* Discuss the role and responsibilities.
+2.5  Drawing Office Procedures
+* Discuss the procedures, organization and job responsibilities of chief draftsman and section leaders.
+2.6  The Welding Supervisor
+* Discuss the role and responsibilities.
+
+3.0  The Basic Work Pattern
+3.1  Preparing Plans – Plan Approval
+* Discuss drawing control, and who approves.
+3.2  Ordering Steel – The Stockyard
+* Discuss stock control methods.
+3.3  Lofting – Numerical Control
+* Discuss how numerical controlled cutting affects the shipbuilding cycle.
+3.4  Material Preparation – Cleaning, Cutting, Priming
+* Explain all stages of material preparation.
+3.5  Plate Shop Processes and Fabrication Machinery
+* Explain with the aid of sketches the use of shipyard machinery in the plate forming and fitting process.
+
+
+©Marine Institute
+School of Maritime Studies NPC Approved - Rev. Dec./2012
+
+BSMG 3105 (Shipyard Management)	7
+
+3.6  Shop Layouts – Steel, Piping, Machine, Joiners
+* Draw appropriate shop machinery layouts for good assembly line fabrication methods.
+3.7  Panel Lines, Sub-Assembly, Units, Modules, Pre-Fabrication
+* Explain modern ship building steel fabrication methodology.
+3.8  Advance Outfitting
+* Discuss the impact of advance outfitting on shipbuilding techniques.
+3.9  Fixed and Travelling Crane Types – Advantages, Disadvantages
+* Explain how each crane type may be suited to particular shipbuilding problems.
+3.10  The Building Berth
+* Explain different types of building and launching sites and methods.
+3.11  Erection of Units
+* Discuss problem areas and solutions.
+
+4.0  Tendering
+4.1  The Owners Request for Tenders
+* Explain how the tendering process functions.
+* List types of instructions usually given in the tender request.
+4.2  Standard Format for Government Proposals to Tender
+* Discuss features found in governmental tender documentation.
+4.3  Construction Contract Bonds
+* Explain the function of each.
+
+5.0  Design Check and Cost Estimating
+5.1  Overview
+* Explain the design checks and cost estimating process.
+5.2  Estimating Requirements Unique for Shipyards
+* Discuss the estimating requirements employed in the shipbuilding process.
+5.3  Traditional Bid Estimating
+* Discuss traditional bid estimating
+5.4  Development of Pricing Information for Traditional Bid Estimating
+* Explain the development of pricing information for traditional bid estimating
+5.5  Shipyard Approaches to Cost Estimating
+* Explain shipyard approaches to cost estimating.
+5.6  Design and Costing strategies Used in Commercial Shipbuilding
+* Explain design and costing strategies used in commercial shipbuilding.
+5.7  Organization of the Cost Estimate
+* Discuss the organization of cost estimates.
+5.8  SWBS Based Cost Estimating
+* Explain the Ship Work Breakdown System and how it is used for estimating costs.
+5.9  Impact of Build Strategy
+* Explain build strategies.
+5.10  Use of Historical Costs
+* Discuss the usefulness of historical costs in the modern cost estimating process
+5.11  Shipyard Cost Estimating Terminology and Definitions
+* Describe shipyard cost estimating terminology and definitions
+
+
+©Marine Institute
+School of Maritime Studies NPC Approved - Rev. Dec./2012
+
+8	BSMG 3105 (Shipyard Management)
+
+6.0  Government Agencies and Ships
+6.1  Federal Government Funding
+* Discuss the federal government funding process.
+6.2  Supportive Financial Arrangements.
+* Explain supportive financial arrangements.
+6.3  Canadian Content Requirements
+* Discuss Canadian content requirements for vessels built in Canada.
+6.4  Departments with Ship Requirements
+* Discuss departments with ship usage requirements.
+6.5  Supply and Services
+* Explain the supply and services for shipbuilding.
+6.6  The Future of Canadian Shipbuilding
+* Discuss the future of Canadian shipbuilding.
+
+7.0  Specification Writing
+7.1  Guide to Writing Specifications – Style, Clarity, etc.
+* Discuss and compare current practices.
+7.2  Publication Standards for Consultants and Engineers
+* Compare and contrast.
+7.3  Definition of Canadian Content
+* Define for government contracts what constitutes Canadian content for ships, materials and services.
+
+8.0  Ship Contracts
+8.1  Stock Design Ships
+* Discuss stock ships and how they are marketed.
+8.2  Specific Ship Designs
+* Discuss specific ship designs and how they are marketed.
+8.3  Ship Contracts
+* Explain how ship contracts are developed.
+8.4  Method of Payment
+* Discuss the tiered methods of payments.
+8.5  Title and Security
+* Explain the documentation necessary to sell a ship.
+8.6  Plans and Specifications
+* Discuss the legal and business aspects of engineering documents.
+8.7  Warranties and Liability Limitations
+* Discuss the warranties and liability limitations.
+8.8  Extras and Change Orders
+* Explain extras and change orders and who pays.
+8.9  Completion Dates
+* Discuss completion dates and the penalties involved for schedule slippage.
+8.10  Insurance
+* Discuss insurance and why it is important.
+8.11  Taxes
+* Explain how taxes are assessed in the shipbuilding process.
+
+
+©Marine Institute
+School of Maritime Studies NPC Approved - Rev. Dec./2012
+
+BSMG 3105 (Shipyard Management)	9
+
+9.0  Liability
+9.1  Obligation of the Naval Architect and Systems Designer
+* Discuss the SNAME professional code of conduct.
+* Review the legal view of designer liability.
+9.2  Agreements between Owner and Architect
+* Compare and contrast different cases that have resulted in court action.
+
+10.0  Shipyard Planning Department
+10.1  Pre-Contract Phase
+* Discuss the work carried out in each phase.
+10.2  Control of the Production Phase – Bar Charts/Labour Curves
+* Explain with the aid of sketches and graphs how production rates are assessed.
+10.3  Critical Path Planning Techniques – Network Analysis
+* Discuss the process of critical path planning.
+10.4  Development of the Critical Path Network Chart
+* Draw a critical path chart for an assigned project.
+10.5  Gantt Chart
+* Sketch and explain a Gantt Chart.
+
+11.0  Quality Control
+11.1  Quality Program Requirements for Contractors
+* Describe areas of concern.
+11.2  Contractors Inspection System Requirements
+* Describe how the inspection process is monitored.
+11.3  Quality Assurance in Shipbuilding
+* Discuss the application of quality control in the shipbuilding industry, reasons, cost, process.
+11.4  Role of the Quality Control Supervisor
+* Describe his role and list his duties.
+
+12.0  Union Contracts – Sub Contractor Agreement
+12.1  The Form and Wording of a Shipyard Contract
+* Compare and contrast.
+12.2  The Form and Wording of Sub-Contractors Agreements
+* Compare and contrast.©Marine Institute
+School of Maritime Studies NPC Approved - Rev. Dec./2012
+

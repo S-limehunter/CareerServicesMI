@@ -1,0 +1,336 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for .NET.
+AQUA 4104
+(Fish Nutrition)
+
+TYPE AND PURPOSE:	This course is designed to provide an understanding of nutrient
+requirements and feed practices for finfish.
+
+CALENDAR ENTRY:	Introduction to Fish Nutrition Studies; Feeding Habits and Adaptations;
+Nutrient Requirements; Diet Formulation; Larval Feeds; Food Requirements; Feeding Practices; Natural Foods in Extensive Culture; Growth and Feeding; Current Developments
+PREREQUISITES:	SC 1807 (Safety in Science Lab (Lab Safety)) and SC 1808 (WHMIS)
+SCHEDULE:	Duration:	13 weeks (3 lectures/laboratories per week)
+COURSE AIMS:	1)	To provide student with an understanding of the principles which
+underlie the development, formulation and commercial manufacture of fish feeds.
+
+2)  To enable students to evaluate and manage the effective use of fish feeds.
+
+3)  To make students aware of current research activities and commercial developments.
+
+EVALUATION:	Laboratory Report	15%
+
+Assignments
+* Term Paper	17.5%
+* Feed Formulation	17.5% (includes Participation mark)
+
+Midterm Exam	15%
+
+Final Exam	35%
+
+
+Total
+
+100%
+MAJOR TOPICS:
+1.0
+Introduction to Fish Nutrition Studies
+
+
+2.0
+Feeding Habits and Adaptations
+
+
+3.0
+Nutrient Requirements
+
+
+4.0
+Diet Formulation
+
+
+5.0
+Larval Feeds
+
+
+6.0
+Food Requirements
+
+
+7.0
+Feeding Practices
+
+
+8.0
+Natural Foods in Extensive Culture
+
+
+9.0
+Growth and Feeding
+
+
+10.0
+Current Developments
+
+
+
+©Marine Institute
+School of Fisheries GSC Approved - Rev. May/2019
+
+2	AQUA 4104 (Fish Nutrition)
+
+COURSE OUTLINE:
+1.0  Introduction to Fish Nutrition Studies
+1.1  Historical Developments
+1.2  Current Use of Feeds in Aquaculture
+
+2.0  Feeding Habits and Adaptations
+2.1  Natural Food Organisms
+2.2  Anatomical and Physiological Adaptions
+2.3  Feeding Behaviour
+2.4  Appetite and Feeding Rhythms
+
+3.0  Nutrient Requirements
+3.1  Nutritional Energetics
+3.2  Proteins
+3.3  Lipids
+3.4  Carbohydrates
+3.5  Digestibility, Absorption and Assimilation
+3.6  Vitamins
+3.7  Minerals
+
+4.0  Diet Formulation
+4.1  Major Ingredients
+4.2  Non-Nutrient Dietary Ingredients
+4.3  Formulation Techniques
+4.4  Formulations
+4.5  Diet Manufacture
+
+5.0  Larval Feeds
+5.1  Cultured Food Organisms
+5.2  Artificial Larval Diets
+
+6.0  Food Requirements
+6.1  Feed Selection
+6.2  Daily Rations
+6.3  Feeding Frequency
+
+7.0  Feeding Practices
+7.1  Feed Handling and Storage
+7.2  Feed Delivery Systems
+
+8.0  Natural Foods in Extensive Culture
+8.1  Food Chains in Fish Culture Ponds
+8.2  Pond Fertility
+8.3  Productivity Enhancement
+
+
+©Marine Institute
+School of Fisheries GSC Approved - Rev. May/2019
+
+AQUA 4104 (Fish Nutrition)	3
+
+9.0  Growth and Feeding
+9.1  Dietary Evaluation
+9.2  Growth Monitoring
+9.3  Growth Prediction Models
+
+10.0  Current Developments
+10.1  Current Trends in Research and Development
+
+
+©Marine Institute
+School of Fisheries GSC Approved - Rev. May/2019
+
+4	AQUA 4104 (Fish Nutrition)
+
+LEARNING OBJECTIVES:
+THE EXPECTED LEARNING OUTCOME IS THAT THE STUDENT WILL BE ABLE TO:
+
+1.0  Introduction to Fish Nutrition Studies
+1.1  Historical Developments
+– Outline the historical developments of fish feeds.
+a)  Natural foods	b)	Moist feeds
+c)	Dry feeds
+1.2  Current Use of Feeds in Aquaculture
+– Identify the role of feeds in modern aquaculture.
+a)  Intensive culture	b)	Semi-intensive culture
+c)	Extensive culture
+
+2.0  Feeding Habits and Adaptations
+2.1  Natural Food Organisms
+* Identify the feeding habits and natural food organisms of representative fish species.
+2.2  Anatomical and Physiological Adaptions
+* Describe the form and function of the teleost alimentary system.
+* Outline the digestive physiology of the teleost alimentary system.
+* Recognize anatomical and physiological adaptations of representative teleost fish in relation to diet.
+2.3  Feeding Behaviour
+* Describe the components of feeding behaviour in representative fish species.
+* Describe the stimuli which initiate feeding responses.
+* Describe the physiological, social and environmental factors which regular appetite.
+* Outline the factors which control feeding rhythmicity in fish.
+
+3.0  Nutrient Requirements
+3.1  Nutritional Energetics
+– Outline the role of dietary energy sources in fish food.
+a)  Lipids	b)	Proteins
+c)	Carbohydrates
+* Define “units of energy measurement'.
+* Define
+a)	Gross Energy	b)	Digestive Energy
+c)	Metabolisable Energy	d)	Physiological Fuel Values
+* Measure the gross energy content of feeds and feedstuffs.
+* Describe the metabolic pathways of ingested energy.
+* Describe the derived energy requirements of representative fish species.
+a)	Basic metabolism	b)	Routine metabolism
+c)	Active metabolism
+3.2  Proteins
+* Understand the nature of proteins and their roles in the metabolism of fish.
+* Identify the qualitative and quantitative amino acid requirements of cultures fish species.
+* Describe the availability of amino acids in typical feed ingredients.
+* Identify the major sources of protein used as ingredients in fish feeds.
+* Understand the concept of “protein sparing” in diet formulation.
+
+
+©Marine Institute
+School of Fisheries GSC Approved - Rev. May/2019
+
+AQUA 4104 (Fish Nutrition)	5
+
+3.3  Fats
+* Understand the nature of fats and their role in the metabolism of fish.
+* Identify the qualitative and quantitative fatty acid requirements of cultured fish species.
+a)  Energy sources	b)	Essential fatty acid sources
+* Identify major lipid sources used as ingredients in fish feeds.
+3.4  Carbohydrates
+* Understand the nature of carbohydrates and their role I the metabolism of fish.
+* Understand the nutritional and non-nutritional roles of carbohydrates in fish feeds.
+a)  Energy sources	b)	Fibre sources
+c)	Binding agents	d)	Bulking agents
+3.5  Digestibility, Absorption and Assimilation
+* Understand the fate of ingested food material.
+* Determine the apparent digestibility of feed ingredients.
+* Determine the biological value of ingested food.
+* Calculate:
+a)  Protein Efficiency Ratio (P.E.R.)  b)	Net Protein Utilisation (N.P.U.)
+c)	Net Protein Value (N.P.V.)
+3.6  Vitamins
+* Understand the origins, nature and biological roles of vitamins.
+* Outline the qualitative and quantitative vitamin requirements of cultured fish species.
+* List the symptoms of vitamin deficiencies.
+* List natural sources of vitamins used as ingredients in fish feeds.
+* Understand the use of vitamin-mineral pre-mixes in formulated feeds.
+3.7  Minerals
+* Understand the major roles of minerals in the metabolism of fish.
+* Outline the nutritional requirements of fish for dietary minerals.
+* List the symptoms of mineral deficiencies.
+
+4.0  Diet Formulation
+4.1  Ingredients
+* Selection of raw materials. List sources of information concerning ingredient specifications.
+* List typical nutrients used in the formulation of fish feeds.
+4.2  Non-Nutrient Dietary Ingredients
+* Detail the nature and functions of the non-nutrient components of feeds.
+a)  Natural and synthetic binding agents.
+b)  Anti-oxidants
+c)  Natural and synthetic pigments
+d)  Anti-fungal agents
+* Understand the legal and ethical constraints relating to dietary ingredients.
+4.3  Formulation Techniques
+* Understand the principles of diet formulation in terms of nutrient balance.
+* Understand the principles of “least-cost” formulation techniques.
+* Apply the use of computers to diet formulation.
+
+
+©Marine Institute
+School of Fisheries GSC Approved - Rev. May/2019
+
+6	AQUA 4104 (Fish Nutrition)
+
+4.4  Diet Manufacture
+* Formulate and manufacture experimental fish diets.
+* Outline the principles of commercial diet manufacturing techniques.
+4.5  Commercial Diets
+* Understand the differences in composition and the specific uses of the various types of commercially manufactured diets.
+
+a)	Fry and fingerling feeds
+b)
+Grower diets
+c)	Broodstock diets
+d)
+Pigmented feeds
+e)	Medicated feeds
+
+
+
+5.0  Larval Feeds
+5.1  Cultured Food Organisms
+– Describe the use of live food organisms in the culture of fish larvae.
+a)  Algae	b)	Rotifers
+c)	Crustaceans
+5.2  Artificial Larval Diets
+– Outline current developments in the use of artificial larval diets in fish culture.
+a)  Micro-particulate diets	b)	Micro-encapsulated diets
+
+6.0  Food Requirements
+6.1  Feed Selection
+* Select appropriate feeds in accordance with the specific requirements of farmed fish.
+6.2  Daily Food Requirements
+* Calculate the daily food requirements of fish stocks.
+* Plan long-term feed requirements.
+* Recognize the symptoms of overfeeding and underfeeding fish.
+* Understand the deleterious effects of uneaten, or poorly digested food, on the aquatic environment.
+6.3  Feeding Frequency
+* Determine optimal feeding frequency in farmed fish stocks, in accordance with fish species, size, food type and rearing conditions.
+
+7.0  Feeding Practices
+7.1  Feed Handling and Storage
+* Recognize the correct storage and handling procedures for fish feeds.
+* Understand the problems associated with the deterioration of fish feeds during prolonged or incorrect storage.
+7.2  Feed Delivery Systems
+* Understand the relative advantages and disadvantages of the various methods available for delivering feed to fish.
+a) Hand feeding	b)	Demand feeding
+c) Automated feeding
+
+8.0  Natural Foods in Extensive Culture
+8.1  Food Chains in Fish Culture Ponds
+* Describe typical food chains supporting fish production in extensive pond culture.
+8.2  Pond Fertility
+* Describe methods available for the estimation of pond fertility.
+
+
+©Marine Institute
+School of Fisheries GSC Approved - Rev. May/2019
+
+AQUA 4104 (Fish Nutrition)	7
+
+8.3  Productivity Enhancement
+* Describe techniques for the enhancement of fish productivity in extensive pond culture.
+
+a)	Use of organic manures
+b)
+Use of inorganic fertilizers
+c)	Supplementary feeding
+d)
+Polyculture
+
+9.0  Growth and Feeding
+9.1  Dietary Evaluation
+– Determine food conversion efficiency in relation to ration formulation, ration size and abiotic factors.
+a)  Temperature	b)	Salinity
+c)	Light	d)	Oxygen
+9.2  Growth Monitoring
+* Determine specific growth rates in relation to ration size, ration formulation and abiotic factors.
+* Measure fish condition factors.
+9.3  Growth Prediction Models
+– Apply models to predict the growth of farmed fish stocks.
+
+10.0  Current Developments
+10.1  Current Trends in Research and Development
+– Recognize current trends in research and development. Examples:
+a)  Investigations of the specific nutritional requirements of broodstock fish.
+b)  Commercial development of artificial larval feeds.
+c)  Assessment of lipid content in salmon diets.
+d)  Development of “low pollution” diets through improved digestibility of dietary ingredients.
+* To understand the significance to aquaculture of new research findings.
+* To apply new knowledge in the commercial production of fish through aquaculture.©Marine Institute
+School of Fisheries GSC Approved - Rev. May/2019
+

@@ -1,0 +1,300 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for .NET.
+BSMG 3101
+(Engineering Economics)
+
+
+
+©Marine Institute
+School of Maritime Studies NPC Approved - Rev. Oct./2013
+
+TYPE AND PURPOSE:
+
+
+
+CALENDAR ENTRY:
+
+
+PREREQUISITES: SCHEDULE:
+
+COURSE AIMS:
+
+
+
+
+
+
+EVALUATION:
+
+This course covers the basic principles of engineering economy with application to engineering economic decision making. The various methods for economic analysis of alternatives are investigated as well as depreciation methods and income tax consequences.
+
+Basic Concepts of Engineering Economy; Economic Decision Making; Analysis of Multiple Alternatives; Depreciation and Income Tax Calculations
+
+MATH 1100 (Pre-Calculus)
+
+Duration:	13 weeks
+Lectures:	2 hours/week = 26 hours total
+
+1)  To provide the student with the basic concepts of economic analysis.
+
+2)  To enable the student to use various techniques to make an economic decision between alternatives.
+
+3)  To provide the student with the concept of depreciation of capital assets and its effect on income tax.
+
+Assignments	20%
+
+Term Tests	30%
+
+
+©Marine Institute
+School of Maritime Studies NPC Approved - Rev. Oct./2013
+
+
+Final exam		50% Total	100%
+
+
+
+©Marine Institute
+School of Maritime Studies NPC Approved - Rev. Oct./2013
+
+
+
+
+
+MAJOR TOPICS:
+NOTE:    Written communication skills and technical presentation will be included in the evaluation of all assignments, quizzes and examinations.
+
+1.0 Basic Concepts of Engineering Economy
+
+2.0 Economic Decision Making
+
+3.0 Analysis of Multiple Alternatives
+
+4.0 Depreciation and Income Tax Calculations
+
+
+©Marine Institute
+School of Maritime Studies NPC Approved - Rev. Oct./2013
+
+2	BSMG 3101 (Engineering Economics)
+
+COURSE OUTLINE:
+1.0  Basic Concepts of Engineering Economy
+1.1  Interest and Equivalence
+1.1.1  Definition of Interest
+1.1.2  Interest Rate
+1.1.3  Equivalence
+1.1.4  Present Worth
+1.2  Financial Mathematics
+1.2.1  Single Payment Formulas
+1.2.2  Uniform Annual Series Formulas
+1.2.3  Functional Symbols
+1.2.4  Solving Interest Problems
+1.2.5  Nominal and Effective Interest Rates
+1.2.6  Uniform Gradient Series
+
+2.0  Economic Decision Making
+2.1  Equivalent Uniform Annual Cash Flow
+2.1.1  Annual Cost Comparison
+2.1.2  Cash Flow Tabulation
+2.1.3  Salvage Value
+2.1.4  Alternatives with Different Lives
+2.1.5  Alternatives with Perpetual Lives
+2.2  Present Worth Analysis
+2.2.1  Economic Comparison by Calculating Total Present Worth
+2.2.2  Capitalized Cost
+2.2.3  Planning for Growth
+2.2.4  Valuation of a Bond
+2.3  Rate of Return Analysis
+2.3.1  Rate of Return of Net Cash Flow
+2.3.2  Estimating the Rate of Return
+2.3.3  Investment Period Extending over Several Years
+2.3.4  Rate of Return on Alternate Investment
+2.4  Benefit-Cost Ratio Analysis
+2.4.1  Description of B/C Ratio Method
+2.4.2  Benefit-Cost Ratio Analysis of Highway Study
+2.4.3  Benefit-Cost Ratio Analysis of Flood Control Alternatives
+
+3.0  Analysis of Multiple Alternatives
+3.1  Rate of Return Method
+3.1.1  Table Construction
+3.1.2  Rate of Return on Total Investment
+3.1.3  Incremental Analysis
+3.2  B/C Ratio Method
+3.2.1  Table Construction
+3.2.2  B/C Ratio Calculation
+3.2.3  Incremental Analysis
+
+
+©Marine Institute
+School of Maritime Studies NPC Approved - Rev. Oct./2013
+
+BSMG 3101 (Engineering Economics)	3
+
+4.0  Depreciation and Income Tax Calculations
+4.1  Depreciation of Capital Assets
+4.1.1  Definition of Depreciation
+4.1.2  Straight-Line Method
+4.1.3  Book Value
+4.1.4  Declining-Balance Method
+4.1.5  Sum-of-Years-Digits Method
+4.1.6  Sinking-Fund Method
+4.1.7  Comparison Between Methods
+4.2  Income Tax Consequences
+4.2.1  Effect of Depreciation on Income Taxes
+4.2.2  After Tax Rate of Return
+4.4.3 Extra Income Tax on Alternate Investment
+
+
+©Marine Institute
+School of Maritime Studies NPC Approved - Rev. Oct./2013
+
+4	BSMG 3101 (Engineering Economics)
+
+LEARNING OBJECTIVES:
+THE EXPECTED LEARNING OUTCOME IS THAT THE STUDENT WILL BE ABLE TO:
+
+1.0  Basic Concepts of Engineering Economy
+1.1  Interest and Equivalence
+1.1.1  Definition of Interest
+* Define interest with respect to loans and investments.
+1.1.2  Interest Rate
+* Define interest rate.
+1.1.3  Equivalence
+* Compare various methods of loan payback.
+* Explain equivalence in reference to economy studies.
+1.1.4  Present Worth
+* Define present worth.
+1.2  Financial Mathematics
+1.2.1  Single Payment Formulas
+* Derive the compound amount formula.
+* Derive the present worth formula.
+1.2.2  Uniform Annual Series Formulas
+* Derive the series compound amount formula.
+* Derive the sinking fund factor.
+* Derive the series present worth factor.
+* Derive the capital recovery factor.
+1.2.3  Functional Symbols
+* Express the interest formulas by means of functional symbols.
+* Use interest tables to determine factors.
+1.2.4  Solving Interest Problems
+* Solve a variety of problems using interest factors.
+1.2.5  Nominal and Effective Interest Rates
+* Define nominal and effective interest rates.
+* Calculate effective rate of a loan payback.
+1.2.6  Uniform Gradient Series
+* Define uniform gradient series.
+* Derive expression to convert gradient into annual series.
+* Determine gradient factors from interest tables.
+
+2.0  Economic Decision Making
+2.1  Equivalent Uniform Annual Cash Flow
+2.1.1  Annual Cost Comparison
+* Calculate total annual cost of alternatives.
+2.1.2  Cash Flow Tabulation
+* Prepare a cash flow table for alternatives.
+* Explain the validity of total cash flow.
+
+
+©Marine Institute
+School of Maritime Studies NPC Approved - Rev. Oct./2013
+
+BSMG 3101 (Engineering Economics)	5
+
+2.1.3  Salvage Value
+* Include salvage value in economy calculations.
+2.1.4  Alternatives with Different Lives
+* Compare annual costs when alternatives have different lives.
+* Prepare a cash flow table for alternatives of different lives.
+2.1.5  Alternatives with Perpetual Lives
+* Determine capital recovery factor when n=.
+* Calculate total annual cost of perpetual alternatives.
+2.2  Present Worth Analysis
+2.2.1  Economic Comparison by Calculating Total Present Worth.
+* Compare alternatives by calculating total present worth.
+2.2.2  Capitalized Cost
+* Define capitalized cost.
+* Determine present worth factor when n=.
+* Determine capitalized costs of alternatives.
+2.2.3  Planning for Growth
+* Explain why extra capacity may be installed initially.
+* Compare installation of extra capacity with deferring the investment.
+2.2.4  Valuation of a Bond
+* Explain what is meant by a corporation bond.
+* Define valuation.
+* Calculate the purchase price of a bond to yield a specific interest rate.
+2.3  Rate of Return Analysis
+2.3.1  Rate of Return of Net Cash Flow
+* Calculate rate of return of a cash flow series.
+2.3.2  Estimating the Rate of Return
+* Estimate the rate of return by lump sum or average annual cost method.
+2.3.3  Investment Period Extending over Several Years
+* Calculate rate of return on a proposal with a distributed investment.
+2.3.4  Rate of Return on Alternate Investment
+* Compare two alternatives by calculating rate of return on the extra investment.
+2.4  Benefit-Cost Ratio Analysis
+2.4.1  Description of B/C Ratio Method
+* Define benefits as related to engineering projects.
+* Describe the B/C ratio method of economic decision making.
+2.4.2  Benefit-Cost Ratio Analysis of Highway Study
+* Determine best alternative by B/C ratio based on present worth.
+2.4.1 Benefit-Cost Ratio Analysis of Flood Control Alternatives
+– Determine best alternative by B/C ratio based on annual costs.
+
+
+©Marine Institute
+School of Maritime Studies NPC Approved - Rev. Oct./2013
+
+6	BSMG 3101 (Engineering Economics)
+
+3.0  Analysis of Multiple Alternatives
+3.1  Rate of Return Method
+3.1.1  Table Construction
+* Prepare a table for rate of return analysis.
+3.1.2  Rate of Return on Total Investment
+* Determine basic rate of return for each alternative.
+3.1.3  Incremental Analysis
+* Perform incremental analysis using defender/challenger method to determine best alternative.
+3.2  B/C Ratio Method
+3.2.1  Table Construction
+* Prepare a table for B/C ratio analysis.
+3.2.2  B/C Ratio Calculation
+* Calculate B/C ratios compared to existing plan.
+3.2.3  Incremental Analysis
+* Determine best alternative by incremental analysis.
+
+4.0  Depreciation and Income Tax Calculations
+4.1  Depreciation of Capital Assets
+4.1.1  Definition of Depreciation
+* Define depreciation of a capital asset.
+4.1.2  Straight-line Method
+* Calculate yearly write-off by straight-line method.
+4.1.3  Book Value
+* Define book value of a capital asset.
+* Calculate book value using straight-line method.
+4.1.4  Declining-Balance Method
+* Calculate yearly write-off by declining-balance method.
+* Calculate book value using declining-balance method.
+4.1.5  Sum-of-Years-Digits Method
+* Calculate yearly write-off by sum-of-years-digits method.
+* Calculate book value using sum-of-years-digits method.
+4.1.6  Sinking-Fund Method
+* Calculate yearly write-off by sinking-fund method.
+* Calculate book value using sinking-fund method.
+4.1.7  Comparison Between Methods
+* Solve a problem using all four methods.
+* Compare rate of write-off for the methods
+4.2  Income Tax Consequences
+4.2.1  Effect of Depreciation on Income Taxes
+* Explain how depreciation of capital assets affects income taxes.
+4.2.2  After Tax Rate of Return
+* Calculate before and after tax rate of an investment proposal.
+4.4.3 Extra Income Tax on Alternate Investment
+– Verify income tax figures used in previous examples.
+
+
+©Marine Institute
+School of Maritime Studies NPC Approved - Rev. Oct./2013
+
+BSMG 3101 (Engineering Economics)	7©Marine Institute
+School of Maritime Studies NPC Approved - Rev. Oct./2013
+

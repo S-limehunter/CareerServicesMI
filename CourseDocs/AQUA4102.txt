@@ -1,0 +1,701 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for .NET.
+AQUA 4102
+(Shellfish Culture)
+
+TYPE & PURPOSE:	This course is designed to provide an overview of shellfish culture including mollusk, echinoderm, and crustacean culture techniques.
+
+CALENDAR ENTRY:	The Status Quo; Mussel Culture; Oyster Culture; Scallop Culture; Culture of Other Mollusca and Echinoderms; Crayfish Culture; Freshwater Prawn Culture; Shrimp Culture; Lobster Culture; Culture of Other Crustacea; Seaweed Culture; Future Considerations
+
+PREREQUISITES:	SC 1807 (Safety in Science Lab (Lab Safety)) and SC 1808 (WHMIS)
+
+SCHEDULE:	Duration:	13 weeks
+Lectures:	3 hours per week = 39 total hours Laboratories:	2 hours per week = 26 total hours
+
+COURSE AIMS:	To enable the student to develop:
+1)  An understanding of mollusk, echinoderm, and crustacean culture techniques.
+2)  Knowledge of and experience in the farming of local mollusc, echinoderm, and crustacean species.
+3)  A sufficient level of information and experience to enable effective assessment and evaluation of shellfish farm sites.
+4)  Knowledge of and experience in hatchery production of commercially important species.
+
+EVALUATION:		Term Paper (Oral)		10%
+			Term Paper (Written)		20%
+			Midterm Quiz			15%
+			Lab Reports			10%
+			Final Exam			35% 
+			Total				100%
+
+NOTES:
+1.  The final oral exam panel takes place during the last week of the semester (before exam week)
+2.  Students MUST submit ALL written laboratory reports to successfully pass the course. Failure to do so will result in a maximum grade of 60% in the course.
+3.  A minimum average mark of 6.5/10 for the laboratory component of the course is required in addition to achieving an overall pass mark in the course.
+4.  Attendance in all laboratory classes is mandatory. Failure to attend, without a satisfactory documented reason, for example a medical certificate issued by a doctor, will mean that the maximum grade possible for this course will be 60 percent.
+
+
+©Marine Institute	School of Fisheries
+	GSC Approved – Rev. March/2021
+17		AQUA 402 (Shellfish Culture)
+MAJOR TOPICS:	1.0 	The Status Quo
+2.0 	Mussel Culture
+3.0 	Oyster Culture
+4.0 	Scallop Culture
+5.0 	Culture of Other Mollusca and Echinoderms
+(Clam, Abalone, and Sea Urchin Culture to be examined)
+6.0 	Crayfish Culture
+7.0 	Freshwater Prawn Culture
+8.0 	Shrimp Culture
+9.0 	Lobster Culture
+10.0 	Culture of Other Crustacea
+11.0 	Seaweed Culture
+12.0 	Future Considerations
+
+
+©Marine Institute	School of Fisheries
+	GSC Approved – Rev. March/2021
+17		AQUA 402 (Shellfish Culture)
+COURSE OUTLINE
+
+1.0  The Status Quo
+1.1  Shellfish
+1.2  The Commercial Fishery
+1.3  Aquaculture Production
+1.4  Newfoundland Shellfish Aquaculture
+1.4.1  History
+1.4.2  Potential
+
+2.0  Mussel Culture
+2.1  History
+2.2  Biology
+2.2.1  Species
+2.2.2  Life Cycles
+2.2.3  Reproduction
+2.3  Culture Methods
+2.3.1  Bottom Culture
+2.3.2  Suspended Culture
+2.4  Site Selection
+2.5  Markets
+2.5.1  Harvesting
+2.5.2  Processing
+2.6  Diseases, Parasites and Predators
+2.7  Economics
+2.8  Research and Development
+
+3.0  Oyster Culture
+3.1  History
+3.2  Biology
+3.2.1  Species
+3.2.2  Life Cycles
+3.2.3  Reproduction
+3.3  Culture Methods
+3.3.1  Seed Production
+3.3.2  Bottom Culture
+3.3.3  Suspended Culture
+3.4  Site Selection
+3.5  Markets
+3.5.1  Harvesting
+3.5.2  Processing
+3.6  Diseases, Parasites and Predators
+3.7  Economics
+3.8  Research and Development
+
+
+4.0  Scallop Culture
+4.1  History
+4.2  Biology
+4.2.1  Species
+4.2.2  Life Cycle
+4.2.3  Reproduction
+4.3  Culture Methods
+4.3.1  Seed Production
+4.3.2  Bottom Culture
+4.3.3  Suspended Culture
+4.4  Site Selection
+4.5  Markets
+4.5.1  Harvesting
+4.5.2  Processing
+4.6  Diseases, Parasites and Predators
+4.7  Economics
+4.8  Research and Development
+
+5.0  Culture of Other Mollusca and Echinoderms (Clam, Abalone, and Sea Urchin Culture to be examined)
+5.1  History
+5.2  Biology
+5.3  Culture Methods
+5.4  Markets
+5.5  Economics
+5.6  Research and Development
+
+6.0  Crayfish Culture
+6.1  History
+6.2  Biology
+6.2.1  Species
+6.2.2  Life Cycles
+6.3  Site Selection
+6.4  Culture Techniques
+6.4.1  Hatching and Early Rearing
+6.4.2  On Growing
+6.5  Nutrition
+6.6  Diseases, Parasites and Predators
+6.7  Markets
+6.8  Economics
+6.9  Research and Development
+
+7.0  Freshwater Prawn Culture
+7.1  History
+7.2  Biology
+7.2.1  Species
+7.2.2  Life Cycles
+7.3  Site Selection
+7.4  Culture Techniques
+7.4.1  Hatching and Early Rearing
+7.4.2  On Growing
+7.5  Nutrition
+7.6  Diseases, Parasites and Predators
+7.7  Markets
+7.8  Economics
+7.9  Research and Development
+8.0  Shrimp Culture
+8.1  History
+8.2  Biology
+8.2.1  Species
+8.2.2  Life Cycles
+8.3  Site Selection
+8.4  Culture Techniques
+8.4.1  Hatching and Early Rearing
+8.4.2  On Growing
+8.5  Nutrition
+8.6  Diseases, Parasites and Predators
+8.7  Markets
+8.8  Economics
+8.9  Research and Development
+
+9.0  Lobster Culture
+9.1  History
+9.2  Biology
+9.2.1  Species
+9.2.2  Life Cycles
+9.3  Site Selection
+9.4  Culture Techniques
+9.4.1  Hatching and Early Rearing
+9.4.2  On Growing
+9.5  Nutrition
+9.6  Disease, Parasites and Predators
+9.7  Markets
+9.8  Economics
+9.9  Research and Development
+
+10.0  Culture of Other Crustacea
+10.1  History
+10.2  Biology
+10.3  Culture Methods
+10.4  Markets
+10.5  Economics
+10.6  Research and Development
+
+11.0  Seaweed Culture
+11.1  History
+11.2  Biology
+11.3  Culture Methods
+11.4  Markets
+11.5  Economics
+11.6  Research and Development
+12.0  Future Considerations
+12.1  Supply and Demand
+12.2  Introductions and Transplants
+12.3  Mechanization
+12.4  Genetics
+12.5  Pollution
+
+
+©Marine Institute	School of Fisheries
+	GSC Approved – Rev. March/2021
+17		AQUA 402 (Shellfish Culture)
+LEARNING OBJECTIVES:
+THE EXPECTED LEARNING OUTCOME IS THAT THE STUDENT WILL BE ABLE TO:
+
+1.0  The Status Quo
+1.1  Shellfish
+* Define “shellfish”.
+1.2  The Commercial Fishery
+* List shellfish species harvested globally, in Canada and in Newfoundland.
+* List global, Canadian and Newfoundland harvesting estimates of major shellfish species.
+* List global, Canadian and Newfoundland estimated landed values of major shellfish species.
+1.3  Aquaculture Production
+* Identify shellfish species farmed globally, in Canada and Newfoundland.
+* List global, Canadian and Newfoundland aquaculture production tonnage for major shellfish species.
+* List global, Canadian and Newfoundland landed values for aquaculture production of the major shellfish species.
+1.4  Newfoundland Shellfish Aquaculture
+1.4.1  History
+* Describe shellfish aquaculture developments in Newfoundland.
+* Identify the agencies, individuals and companies involved in shellfish aquaculture in Newfoundland.
+* List provincial and federal legislation that may impact shellfish aquaculture activities in Newfoundland.
+1.4.2  Potential
+* List shellfish species with aquaculture potential for Newfoundland.
+* Identify advantages and disadvantages of the farming of each shellfish species with potential for culture in Newfoundland.
+* Discuss the need for a shellfish aquaculture development plan for the province.
+
+2.0  Mussel Culture
+2.1  History
+* Describe the global historical development of mussel culture.
+* Collect and analyses recorded harvesting and aquaculture production data by continent and/or country.
+2.2  Biology
+2.2.1  Species
+* Identify the major mussel producing countries and the species produced.
+* Identify the external anatomical features of the mussel.
+* Identify the internal anatomical features of the mussel.
+2.2.2  Life Cycles
+* Describe the detailed life cycle of cultured mussel species.
+* Identify life cycle stages critical to culture operations.
+* List environmental requirements suited to growth of mussels.
+2.2.3  Reproduction
+* Describe the maturation and reproductive process for mussels.
+* Identify the need and/or ways to enhance natural reproduction.
+
+
+©Marine Institute	School of Fisheries
+	GSC Approved – Rev. March/2021
+17		AQUA 402 (Shellfish Culture)
+2.3  Culture Methods
+2.3.1  Bottom Culture
+* Describe bottom culture methods.
+* Discuss the advantages and disadvantages of bottom culture production.
+2.3.2  Suspended Culture
+* Describe bouchot, raft and longline mussel culture.
+* Describe the husbandry techniques of the longline culture system with reference to:
+(a) Spat Collection		(b) Socking Densities
+(c) Grading		(d) Farm Management
+* Discuss the advantages and disadvantages of suspended culture production.
+2.4  Site Selection
+* List physical parameters critical to site selection.
+* List biological parameters critical to site selection.
+* Describe the relative significance of these physical and biological site selection criteria.
+* Describe a site evaluation plan.
+2.5  Markets
+2.5.1  Harvesting
+* Describe harvesting methods used on bottom culture and suspended culture farms.
+* Discuss harvesting methods with reference to handling stress and production quality.
+* Identify problems associated with winter harvesting in the Canadian environment.
+2.5.2  Processing
+* List percentages of present production sold into the fresh, fresh frozen, canned and other processed market sectors.
+* Describe ways of ensuring quality in fresh and processed products.
+* Describe methods of declumping, grading and debyssing.
+* Discuss the effect of each of these operations on production quality.
+* Describe the depuration process.
+* Identify live transportation processes and problems.
+* Suggest opportunities for new product development for mussels.
+2.6  Diseases, Parasites and Predators
+* List significant farm predators.
+* List parasitic agents.
+* List bacteria, fungal and viral disease agents.
+* Describe the methods of control of commercially important diseases, parasites and predators.
+* Describe the methods of control of commercially important diseases, parasites and predators.
+* Define “paralytic shellfish poisoning”.
+* Discuss the significance of toxic algal blooms to shellfish farmers.
+2.7  Economics
+* Identify capital and operating costs.
+* Identify marketing and processing costs for fresh and processed products.
+* Prepare an economic feasibility assessment of a proposed or existing farm.
+2.8  Research and Development
+* List sources of information on research and development activities.
+* Identify areas and/or projects for future research and development efforts.
+* Discuss the problems associated with the determination of carrying capacity on a farm site.
+
+
+3.0  Oyster Culture
+3.1  History
+* Describe the historical development of oyster culture globally and in Canada.
+* Analyses oyster culture production data by continent and/or country.
+3.2  Biology
+3.2.1  Species
+* Identify the major oyster farming countries and the species cultured.
+* Identify the external anatomical features of the oyster.
+* Identify the internal anatomical features of the oyster.
+3.2.2  Life Cycles
+* Describe the life cycles of cultured oyster species.
+* Identify the life cycle stages critical to culture operations.
+* List environmental requirements suitable for oyster culture.
+3.2.3  Reproduction
+* Describe the maturation and reproductive process of oysters.
+* Describe oyster hatchery production methods.
+* Discuss algal culture methods.
+3.3  Culture Methods
+3.3.1  Seed Production
+* Describe wild spat collection of oysters.
+* Describe hatchery production of oysters.
+* Describe nursery production of oysters.
+* Discuss advantages and disadvantages of hatchery production.
+3.3.2  Bottom Culture
+* Describe methods used to bottom culture oysters.
+* Discuss the pros and cons of bottom culture production.
+3.3.3  Suspended Culture
+* Describe methods used for the suspended culture of oysters.
+* Describe the husbandry techniques of tray culture of oysters with reference to:
+(a) Spat Collection		(b) Stocking Densities
+(c) Grading		(d) Farm Management
+* Discuss the pros and cons of suspended culture production.
+3.4  Site Selection
+* List physical parameters critical to site selection.
+* List biological parameters critical to site selection.
+* Discuss the relative significance of each physical and biological site selection parameter.
+* Describe a site evaluation plan.
+3.5  Markets
+3.5.1  Harvesting
+* Describe the harvesting methods used on bottom and suspended culture farms.
+* Discuss these harvesting methods with reference to handling stress and production quality.
+3.5.2  Processing
+* List market proportions held by fresh, frozen and processed oysters.
+* Describe ways of ensuring quality in fresh and processed products.
+* Describe methods used for the transport of live oysters.
+* Explain how to depurate oysters.
+* Suggest new product development ideas for oysters.
+3.6  Diseases, Parasites and Predators
+* List major predators.
+* List parasitic, fungal, bacterial and viral agents found in oysters.
+* Describe the signs and symptoms of commercially significant parasites and disease agents.
+* Describe methods used to control disease agents, parasites and predators on oyster farms.
+3.7  Economics
+* Identify capital and operating costs of an oyster farm.
+* Estimate marketing and processing costs for fresh and processed products.
+* Prepare an economic feasibility plan for a proposed or existing oyster farm.
+3.8  Research and Development
+* Identify the research and development needs of oyster farms.
+
+4.0  Scallop Culture
+4.1  History
+* Describe the world and Canadian development of scallop culture.
+* Examine historical data for the harvesting and aquaculture production of scallops in Canada and Japan.
+4.2  Biology
+4.2.1  Species
+* List the external anatomical features of the scallop.
+* Identify the external anatomical features of the scallop.
+* Identify the internal anatomical features of the scallop.
+4.2.2  Life Cycle
+* Describe the natural life cycle of the giant scallop.
+* Identify the life cycle stages critical to culture operations.
+* List environmental parameters suitable for scallop culture.
+4.2.3  Reproduction
+* Describe the maturation and reproductive process of scallops.
+* Describe the status of hatchery production of scallops.
+4.3  Culture Methods
+4.3.1  Seed Production
+* Describe wild spat collection of scallops.
+* Describe hatchery production of scallops.
+* Describe nursery production of scallops.
+* Discuss advantages and disadvantages of hatchery production of scallops.
+4.3.2  Bottom Culture
+* Describe methods used to bottom culture scallop.
+* Discuss the pros and cons of bottom culture production.
+4.3.3  Suspended Culture
+* Describe suspended scallop culture methods.
+* Describe the husbandry techniques of tray/net culture, loop cord, ear hanging culture, and gluing on tapes with reference to:
+(a) Spat Collection		(b) Stocking Densities
+(c) Grading		(d) Farm Management
+* Discuss the pros and cons of suspended culture production.
+
+4.4  Site Selection
+* List physical parameters critical to site selection.
+* List biological parameters critical to site selection.
+* Discuss the significance of each physical and biological site selection parameter.
+* Describe a site evaluation plan.
+4.5  Markets
+4.5.1  Harvesting
+* Describe harvesting methods used on bottom and suspended culture farms.
+* Discuss these harvesting methods with reference to handling stress and production quality.
+4.5.2  Processing
+* List ways of marketing cultured scallop as a special value added product.
+* Discuss ways of marketing cultured scallop as a special value added product.
+* Describe methods applicable for the live transport of scallop.
+4.6  Diseases, Parasites and Predators
+* List major predators.
+* List parasitic, fungal, bacterial and viral agents found in scallops.
+* Describe the signs and symptoms of commercially important parasitic and disease agents.
+* Describe methods used to control disease agents, parasites and predators on scallop farms.
+4.7  Economics
+* Identify major capital and operating costs for a scallop farm.
+* Prepare an economic feasibility plan for a proposed scallop farm.
+4.8  Research and Development
+* Identify areas for future research and development in scallop culture.
+
+5.0  Culture of Other Mollusca and Echinoderms (Clam, Abalone, and Sea Urchin Culture to be examined)
+5.1  History
+* Describe developments in the culture of clam, abalone, and sea urchins.
+* Identify major successes and obstacles encountered.
+5.2  Biology
+* List countries farming clam, abalone, and sea urchins.
+* Identify species cultured and present annual production of each species.
+* Identify the external and internal anatomical features of clam, abalone, and sea urchins.
+* Describe the life cycle of clam, abalone, and sea urchins.
+* List environmental parameters suited to clam, abalone, and sea urchin culture.
+5.3  Culture Methods
+* Identify seed supply options for clam, abalone, and sea urchin culture.
+* Describe methods used to culture clams, abalone, and sea urchins.
+* Describe the husbandry techniques applicable to clam, abalone, and sea urchin culture.
+* List physical and biological parameters required for clam, abalone, and sea urchin culture.
+5.4  Markets
+* Describe existing market price and demand for clam, abalone, and sea urchins.
+* List ways that clam, abalone, and sea urchins appear in the marketplace.
+* Describe methods used for the live transportation of these species.
+5.5  Economics
+* Identify the major capital and operating costs for clam, abalone, and sea urchin culture operations.
+* Evaluate the economic feasibility of culturing these species.
+5.6  Research and Development
+* List obstacles encountered in clam, abalone, and sea urchin culture farms.
+* Identify areas for future research and development activity to improve the culture of clam, abalone, and sea urchins.
+6.0  Crayfish Culture
+6.1  History
+* Discuss the history of crayfish culture.
+* List present production and value of cultured crayfish.
+6.2  Biology
+6.2.1  Species
+* List the countries active in crayfish culture and the species farmed.
+* Identify external anatomical features of crayfish.
+* Identify internal anatomical features of crayfish.
+6.2.2  Life Cycles
+* Describe the life cycle of a crayfish.
+* Identify life cycle stages critical to culture operations.
+* List environmental parameters suitable for crayfish culture.
+6.3  Site Selection
+* List physical and biological parameters to be evaluated during site selection.
+* Discuss the significance of each physical and biological site selection parameter.
+* Describe a plan to evaluate a site for suitability for crayfish culture.
+6.4  Culture Techniques
+6.4.1  Hatching and Early Rearing
+* Describe the husbandry techniques practiced during hatching and early rearing with reference to:
+(a) Hatching	(b) Stocking Densities
+(c) Grading	(d) Stock Grading
+(e) Farm Construction and Management
+6.4.2  On Growing
+* Describe the husbandry techniques practiced during on growing with reference to:
+(a) Pond/Tank Construction	(b) Stocking Densities
+(c) Stock Grading	(d) Harvesting
+6.5  Nutrition
+* List the nutritional requirements of crayfish.
+* Describe methods of feed production.
+* Discuss feeding rate and frequency.
+* Define “food conversion rate” and “specific growth rate”.
+6.6  Diseases, Parasites and Predators
+* List major predators.
+* List parasitic, fungal, bacterial and viral disease agents.
+* Identify nutritional disease problems.
+* Describe the signs and symptoms of commercially important parasitic and disease agents.
+* Describe methods used to control parasites, disease agents and predators.
+6.7  Markets
+* List products available in the marketplace.
+* Describe methods used to process crayfish.
+* Discuss new product development opportunities.
+6.8  Economics
+* Identify major capital and operating costs for a crayfish farm.
+* Discuss the economic feasibility of crayfish culture.
+6.9  Research and Development
+* List sources of information on crayfish culture.
+* Identify areas for future research and development in crayfish culture.
+7.0  Freshwater Prawn Culture
+7.1  History
+* Discuss the history of freshwater prawn culture.
+* List present production and value of cultured freshwater prawn.
+7.2  Biology
+7.2.1  Species
+* List the countries active in freshwater prawn culture and the species farmed.
+* Identify internal anatomical features of freshwater prawn.
+* Identify internal anatomical features of freshwater prawn.
+7.2.2  Life Cycles
+* Describe the life cycle of freshwater prawn.
+* Identify life cycle stages critical to culture operations.
+* List environmental parameters suitable for freshwater prawn culture.
+7.3  Site Selection
+* List physical and biological parameters to be evaluated during site selection.
+* Discuss the significance of each physical and biological site selection parameter.
+* Describe a plan to evaluate a site for suitability for freshwater prawn culture.
+7.4  Culture Techniques
+7.4.1  Hatching and Early Rearing
+* Describe the husbandry techniques practiced during hatching and early rearing with reference to:
+(a) Hatching	(b) Stocking Densities
+(c) Grading	(d) Stock Grading
+(e) Farm Construction and Management
+7.4.2  On Growing
+* Describe the husbandry techniques practiced during on growing with reference to:
+(a) Pond/Tank Construction	(b) Stocking Densities
+(c) Stock Grading	(d) Harvesting
+7.5  Nutrition
+* List the nutritional requirements of freshwater prawn.
+* Describe methods of feed production.
+* Discuss feeding rate and frequency.
+7.6  Diseases, Parasites and Predators
+* List major predators.
+* List parasitic, fungal, bacterial and viral disease agents.
+* Identify nutritional disease problems.
+* Describe the signs and symptoms of commercially important parasitic disease agents.
+* Describe methods used to control parasites, disease agents and predators.
+
+7.7  Markets
+* List products available in the marketplace.
+* Describe methods used to process freshwater prawn.
+* Discuss new product development opportunities.
+7.8  Economics
+* Identify major capital and operating costs for a freshwater prawn farm.
+* Discuss the economic feasibility of freshwater prawn culture.
+7.9  Research and Development
+* List sources of information on freshwater prawn culture.
+* Identify areas for future research and development in freshwater prawn culture.
+8.0  Shrimp Culture
+8.1  History
+* Discuss the history of shrimp culture.
+* List present production and value of cultured shrimp.
+8.2  Biology
+8.2.1  Species
+* List the countries active in shrimp culture and the species farmed.
+* Identify external anatomical features of shrimp.
+* Identify internal anatomical features of shrimp.
+8.2.2  Life Cycles
+* Describe the life cycle of shrimp.
+* Identify life cycle stages critical to culture operations.
+* List environmental parameters suitable for shrimp culture.
+8.3  Site Selection
+* List physical and biological parameters to be evaluated during site selection.
+* Discuss the significance of each physical and biological site selection parameter.
+* Describe a plan to evaluate a site for suitability for shrimp culture.
+8.4  Culture Techniques
+8.4.1  Hatching and Early Rearing
+* Describe the husbandry techniques practiced during hatching and early rearing with reference to:
+(a) Hatching	(b) Stocking Densities
+(c) Grading	(d) Stock Grading
+(e) Farm Construction and Management
+8.4.2  On Growing
+* Describe the husbandry techniques practiced during on growing with reference to:
+(a) Pond/Tank Construction	(b) Stocking Densities
+(c) Stock Grading	(d) Harvesting
+8.5  Nutrition
+* List the nutritional requirements of shrimp.
+* Describe methods of feed production.
+* Discuss feeding rate and frequency.
+8.6  Diseases, Parasites and Predators
+* List major predators.
+* List parasitic, fungal, bacterial and viral disease agents.
+* Identify nutritional disease problems.
+
+* Describe the signs and symptoms of commercially important parasitic and disease agents.
+* Describe methods used to control parasites, disease agents and predators.
+8.7  Markets
+* List products available in the marketplace.
+* Describe methods used to process shrimp.
+* Discuss new product development opportunities.
+8.8  Economics
+* Identify major capital and operating costs for a shrimp farm.
+* Discuss the economic feasibility of shrimp culture.
+8.9  Research and Development
+* List sources of information on shrimp culture.
+* Identify areas for future research and development in shrimp culture.
+9.0  Lobster Culture
+9.1  History
+* Discuss the history of lobster culture.
+* List present production and value of cultured lobster.
+9.2  Biology
+9.2.1  Species
+* List the countries active in lobster culture and the species farmed.
+* Identify external anatomical features of lobster.
+* Identify internal anatomical features of lobster.
+9.2.2  Life Cycles
+* Describe the life cycle of lobster.
+* Identify life cycle stages critical to culture operations.
+* List environmental parameters suitable for lobster culture.
+9.3  Site Selection
+* List physical and biological parameters to be evaluated during site selection.
+* Discuss the significance of each physical and biological site selection parameter.
+* Describe a plan to evaluate a site for suitability for lobster culture.
+9.4  Culture Techniques
+9.4.1  Hatching and Early Rearing
+* Describe the husbandry techniques practiced during hatching and early rearing with reference to:
+(a) Hatching	(b) Stocking Densities
+(c) Grading	(d) Stock Grading
+(e) Farm Construction and Management
+9.4.2  On Growing
+* Describe the husbandry techniques practiced during on growing with reference to:
+(a) Pond/Tank Construction	(b) Stocking Densities
+(c) Stock Grading	(d) Harvesting
+9.5  Nutrition
+* List the nutritional requirements of lobster.
+* Describe methods of feed production.
+* Discuss feeding rate and frequency.
+9.6  Disease, Parasites and Predators
+* List major predators.
+* List parasitic, fungal, bacterial and viral disease agents.
+* Identify nutritional disease problems.
+* Describe the signs and symptoms of commercially important parasitic and disease agents.
+* Describe methods used to control parasites, disease agent and predators.
+9.7  Markets
+* List products available in the marketplace.
+* Describe methods used to process lobster.
+* Discuss new product development opportunities.
+9.8  Economics
+* Identify major capital and operating costs for a lobster farm.
+* Discuss the economic feasibility of lobster culture.
+9.9  Research and Development
+* List sources of information on lobster culture.
+* Identify areas for future research and development in lobster culture.
+10.0  Culture of Other Crustacea
+(Species will be selected from Blue Crabs, Cancer Crabs, Spot Prawn, Spiny Lobster and/or smaller Shrimps. Selection of species will depend on instructor, student interest and time availability).
+10.1  History
+* Describe the historical development of culture of the selected species.
+* Identify the major successes and failures in attempts to culture the species.
+10.2  Biology
+* List countries culturing the selected species.
+* Identify the species cultured and the annual production.
+* Identify the external anatomical features of the species.
+* Identify the internal anatomical features of the species.
+* Describe the species life cycle emphasizing life stages critical to aquaculture.
+10.3  Culture Methods
+* Identify seed supply options.
+* Describe the husbandry techniques applicable to the culture of species selected.
+10.4  Markets
+* Identify the existing products produced, market price and demand for the species.
+* Discuss opportunities for new product development.
+10.5  Economics
+* Identify the major capital and operating cost for the culture of the species.
+* Evaluate the economic feasibility of culturing the species.
+10.6  Research and Development
+* List the major successes and failures encountered in attempts to culture the species.
+* Identify areas of future research and development activities.
+
+11.0  Seaweed Culture
+11.1  History
+* Describe developments in the culture of seaweeds.
+* Identify major successes and obstacles encountered.
+11.2  Biology
+* List countries farming seaweeds.
+* Identify species cultured and present annual production of each species.
+* Identify the external and internal anatomical features of seaweeds.
+
+* Describe the lifecycle of seaweeds.
+* List environmental parameters suited to seaweeds.
+11.3  Culture Methods
+* Identify seed supply options for seaweeds.
+* Describe methods used to culture seaweeds.
+* Describe the husbandry techniques applicable to seaweed culture.
+* List physical and biological parameters required for seaweed culture.
+11.4  Markets
+* Describe existing market price and demand for seaweed.
+* List ways that seaweeds appear in the market place.
+11.5  Economics
+* Identify the major capital and operating costs for seaweed culture operations.
+* Evaluate the economic feasibility of culturing these species.
+11.6  Research and Development
+* List obstacles encountered in seaweed culture farms.
+* Identify areas for future research and development activity to improve the culture of seaweeds.
+
+12.0  Future Considerations
+12.1  Supply and Demand
+* Collect data on the projections for future supply (culture and harvest) and demand for shellfish products.
+* Evaluate supply-demand data to assess economic feasibility of aquaculture of shellfish.
+12.2  Introductions and Transplants
+* Identify Canadian legislation related to the introduction or transplantation of shellfish species.
+* Discuss the pros and cons of introducing exotic species.
+* Discuss the pros and cons of transplanting shellfish species.
+12.3  Mechanization
+* List suppliers of shellfish harvesting and processing equipment.
+* Discuss the need for improved mechanization for shellfish culture operations.
+12.4  Genetics
+* Discuss opportunities to improve the farming of shellfish by genetic manipulation techniques.
+12.5  Pollution
+* Identify pollutants most likely to affect shellfish culture operations.
+* Discuss ways to evaluate and improve water quality on shellfish farms.
+* List ways of minimizing environmental pollution on shellfish operations.©Marine Institute	School of Fisheries
+	GSC Approved – Rev. March/2021

@@ -1,0 +1,385 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for .NET.
+AQUA 4107
+(Finfish Culture)
+
+TYPE AND PURPOSE:	This course is designed to provide an overview of finfish culture
+including husbandry practices and culture technology for salmonids, marine species and warm water fish.
+CALENDAR ENTRY:	Aquaculture: An Overview; Water Requirements; Salmonids; Marine
+Species; Warmwater Species
+
+PREREQUISITES:	SC 1807 (Safety in Science Lab (Lab Safety)) and SC 1808 (WHMIS)
+SCHEDULE:	Duration:	13 weeks
+Lectures:	5 hours/week = 65 hours total
+Laboratories:	Two 2 hour labs/term will take place during scheduled lecture periods.
+
+COURSE AIMS:	1)	To give students an understanding and practical experience of fish
+culture techniques. This course is taught with special reference to fish culture developments and opportunities in Newfoundland and Labrador and mainland Canada. Reference is included to key fish culture techniques practiced in other regions of the world.
+
+2)  To make students aware of current research and commercial developments in the culture of finfish.
+
+3)  To give students an understanding of the scientific and technical principles which underlie fish culture techniques.
+
+4)  To enable students to apply new research findings in the enhancement and improvement of fish culture methods.
+
+EVALUATION:	Assignments	15%
+
+Debate	15%
+
+Laboratory Reports	20%
+
+Midterm Exam	15%
+
+Final Exam	35%
+
+
+Total
+
+100%
+MAJOR TOPICS:
+1.0
+Aquaculture: An Overview
+
+
+2.0
+Water Requirements
+
+
+3.0
+Salmonids
+
+
+4.0
+Marine Species
+
+
+5.0
+Warmwater Species
+
+
+
+©Marine Institute
+School of Fisheries GSC Approved - Rev. May/2019
+
+2	AQUA 4107 (Finfish Culture)
+
+COURSE OUTLINE:
+1.0  Aquaculture: An Overview
+1.1  Historical Development
+1.2  Major Producing Countries
+1.3  Key Species
+1.4  Production Methods
+1.5  Developments in Canada
+
+2.0  Water Requirements
+2.1  Fish and the Aquatic Environment
+2.1.1  Adaptations
+2.1.2  Structure and Function
+2.2  Water Quality Parameters
+
+3.0  Salmonids
+3.1  Introduction to Salmonids
+3.1.1  Overview of Salmonid Culture
+3.1.2  Salmonids Production Cycles
+3.2  Salmonid Broodstock Management and Egg Production
+3.2.1  Broodstock Handling and Selection
+3.2.2  Spawning and Fertilization
+3.2.3  Egg Incubation and Related Systems
+3.2.4  Water Quality and Flow Requirements
+3.2.5  Current Research and Developments in Fish Genetics
+3.3  Early Rearing of Salmonids
+3.3.1  Initiation of Feeding
+3.3.2  Fry Rearing Systems
+3.3.3  Sampling and Grading of Fingerlings
+3.3.4  Water Quality and Flow Requirements
+3.4  Grow-Out
+3.4.1  Water Quality and Flow Requirements
+3.4.2  Sampling and Grading
+3.4.3  Grow-out Management
+3.4.4  Production Planning
+3.4.5  Fish Transport
+3.4.6  Harvesting
+3.4.7  Security and Predator Devices
+3.5  Salmonid Ranching and Stock Enhancement
+3.5.1  Sea Ranching
+3.5.2  Stock Enhancement
+
+4.0  Marine Species
+4.1  Marine Species Production Cycles
+4.2  Marine Fish Hatcheries
+4.3  Water Quality Parameters
+4.4  Larval and Fry Rearing Systems
+4.5  Grow-Out
+
+
+©Marine Institute
+School of Fisheries GSC Approved - Rev. May/2019
+
+AQUA 4107 (Finfish Culture)	3
+
+5.0  Warmwater Finfish Culture
+5.1  Warmwater Species Production Cycles
+5.2  Pond Management
+5.2.1  Algae
+5.2.2  Weed Control
+5.2.3  Predator Control
+5.2.4  Diseases and Parasites
+5.2.5  Human Health Considerations
+5.3  Broodstock Management and Spawning
+5.4  Fry Production
+5.5  Grow Out
+5.6  Sampling/Harvesting
+5.7  Polyculture
+5.8  Integrated Aquaculture
+5.8.1  Fish/Animal
+5.8.2  Integrated Multi-trophic Aquaculture
+
+
+©Marine Institute
+School of Fisheries GSC Approved - Rev. May/2019
+
+4	AQUA 4107 (Finfish Culture)
+
+LEARNING OBJECTIVES:
+THE EXPECTED LEARNING OUTCOME IS THAT THE STUDENT WILL BE ABLE TO:
+
+1.0  Aquaculture: An Overview
+1.1  Historical Development
+* Outline the historical development of aquaculture.
+* Describe the reasons underlying the current and predicted growth of modern aquaculture.
+1.2  Major Producing Countries
+* List the major producing countries.
+* Explain the reasons for their prominence in aquaculture.
+1.3  Key Species
+* Identify the key species of farmed fish.
+* Identify the characteristics of these key species which render them particularly suitable for aquaculture.
+1.4  Production Methods
+* Outline the methods used for the production of farmed fish:
+a)	Extensive culture	b)	Semi-intensive culture
+c)	Intensive culture
+1.5  Developments in Canada
+* Identify aquacultural developments in Canada, with particular reference to Newfoundland and Labrador and the Maritime Provinces.
+
+2.0  Water Requirements
+2.1  Fish and the Aquatic Environment
+2.1.1  Adaptations
+* Outline the functional adaptations of fish to life in water.
+2.1.2  Structure and Function
+* Describe the structure and function of the teleost gill and circulatory system.
+* Describe the structure and function of the osmoregulatory and excretory organs in teleost fish.
+2.2  Water Quality Parameters
+– Explain the water quality requirements for various finfish species.
+
+3.0  Salmonids
+3.1  Introduction to Salmonids
+3.1.1  Overview of Salmonid Culture
+* Describe the history of salmonid farming.
+* Describe the characteristics of each of the farmed species.
+* Outline the current trends in worldwide production.
+3.1.2  Salmonids Production Cycles
+* Outline the natural life-cycle of salmonids, including Atlantic salmon, Rainbow trout and Arctic char.
+* Outline commercial culture production cycles.
+
+
+©Marine Institute
+School of Fisheries GSC Approved - Rev. May/2019
+
+AQUA 4107 (Finfish Culture)	5
+
+3.2  Salmonid Broodstock Management and Egg Production
+3.2.1  Broodstock Handling and Selection
+* Describe methods of capturing broodstock fish.
+* Outline broodstock selection procedures.
+* Describe methods for holding broodstock fish prior to spawning.
+3.2.2  Spawning and Fertilization
+* Outline a salmonid hatchery spawning strategy.
+* State the methods for determining ripeness of broodstock.
+* Outline spawning period manipulation techniques.
+* Describe methods for collection, storage and transport of gametes.
+* Describe fertilization procedures and stages of development.
+3.2.3  Egg Incubation and Related Systems
+* Outline methods of transportation of fertilized ova.
+* Describe egg disinfection procedures.
+* Describe egg incubation system types.
+* Describe egg counting methods and stocking procedures.
+* Outline the factors which influence egg survival.
+* Describe egg picking methods and anti-fungal treatments.
+3.2.4  Water Quality and Flow Requirements
+* Outline egg incubation water quality requirements.
+* Outline egg incubation water flow requirements.
+3.2.5  Current Research and Developments in Fish Genetics
+* Describe methods for production of mono-sex populations.
+* Outline methods for the induction of triploidy.
+* Describe the benefits of the availability of sterile or all-female ova.
+* Outline the use and limitations of mass selection techniques for the genetic improvement of fish stocks.
+* Describe the use of in-bred lines and selection of fish for heterosis.
+* Describe the use of intra-specific and inter-specific hybrids.
+* Discuss and provide examples of the use of genetically modified organisms in salmonid aquaculture.
+3.3  Early Rearing of Salmonids
+3.3.1  Initiation of Feeding
+* Discuss the factors which affect first feeding success.
+* Recognize stages of first feeding.
+3.3.2  Fry Rearing Systems
+* Describe the principal types of fry rearing systems.
+* Outline the relative advantages and disadvantages in terms of cost, stock management, maintenance and water use of fry rearing systems.
+3.3.3  Sampling and Grading of Fingerlings
+* Discuss the importance of routine sampling and grading.
+* Outline the various grading methods and equipment.
+
+
+©Marine Institute
+School of Fisheries GSC Approved - Rev. May/2019
+
+6	AQUA 4107 (Finfish Culture)
+
+3.3.4  Water Quality and Flow Requirements
+* Outline early rearing water quality requirements.
+* Outline early rearing flow requirements.
+3.4  Grow-Out
+– Describe the various grow-out systems and the advantages/disadvantages of each system.
+3.4.1  Water Quality and Flow Requirements
+* Outline grow-out water quality requirements.
+* Outline grow-out water flow requirements.
+3.4.2  Sampling and Grading
+* Discuss the importance of sampling and grading on-growing fish.
+* Outline the preparation of fish prior to grading.
+* Outline sampling methods and equipment.
+* Outline grading methods and equipment.
+* Describe the problems associated with grading fish.
+3.4.3  Grow-out Management
+* Describe the importance of accurate record keeping.
+* List data to be recorded and outline record keeping procedures.
+3.4.4  Production Planning
+* Outline procedures for forward planning of production.
+* Outline techniques for optimization of production.
+* List the parameters to be considered in production planning.
+* Outline and demonstrate the use of computers to assist in production planning.
+3.4.5  Fish Transport
+* Outline the requirements of salmonids in transport.
+* Describe the preparation of fish for transport.
+* Describe potential problems which can occur during fish transport.
+3.4.6  Harvesting
+* Describe the methods of harvesting salmonids.
+* Describe the various types of harvesting equipment.
+* Outline harvesting procedures.
+3.4.7  Security and Predator Devices
+* Discuss the need for installation of effective alarm systems.
+* Discuss the importance of predator control on fish farms.
+* Explain why predator devices are often required on fish farms.
+* Identify common predators and outline methods to control/deter predators.
+* Identify current legislation relating to the control of fish predators.
+3.5  Salmonid Ranching and Stock Enhancement
+3.5.1  Sea Ranching
+* Outline current developments in the ocean ranching of salmonids.
+* Identify the characteristics of a proposed ranching site.
+
+
+©Marine Institute
+School of Fisheries GSC Approved - Rev. May/2019
+
+AQUA 4107 (Finfish Culture)	7
+
+3.5.2  Stock Enhancement
+* Outline current developments in stock enhancement projects.
+* Describe the methods for assessing fish population strength.
+* Describe methods used in the enhancement of anadromous fish stocks.
+* Describe methods used for appraising the effectiveness of enhancement techniques.
+
+4.0  Marine Species
+4.1  Marine Species Production Cycles
+– Relate the natural life histories of the following marine fish species to existing or proposed, commercial production cycles:
+a)  Cod	b)	Turbot
+c)	Atlantic Halibut	d)	Sea Bass
+e)	Sea Bream
+– Discuss the research and development of other underutilized species with commercial production potential.
+4.2  Marine Fish Hatcheries
+* Discuss the technical problems associated with the hatchery phase of marine fish production:
+a)  Broodstock collection and management
+b)  Short embryonic development times and pelagic larvae stage
+c)  Live feeds for initial feeding
+d)  Control of disease
+e)  Marine fish nutrition
+* Describe methods for the capture and holding of broodstock marine fish.
+* Outline natural spawning behaviour and techniques for modification using photoperiod control.
+* Describe methods for the collection of gametes, fertilization and egg incubation.
+4.3  Water Quality Parameters
+– Describe the water quality requirements for the hatchery and grow-out phases.
+4.4  Larval and Fry Rearing Systems
+– Describe the various holding systems for the larval and fry phases.
+4.5  Grow-Out
+* Outline current methods used for the grow-out of marine species.
+* Relate current developments in marine fish culture to their application in Newfoundland and other potential aquaculture locations.
+
+5.0  Warmwater Finfish Culture
+5.1  Warmwater Species Production Cycles
+– Relate the natural life histories of the following warmwater fish species to commercial production cycles:
+a)  Carp	b)	Tilapia
+c)	Milkfish	d)	Catfish
+e)	Eels
+– Discuss the research and development of other underutilized species with commercial production potential.
+
+
+©Marine Institute
+School of Fisheries GSC Approved - Rev. May/2019
+
+8	AQUA 4107 (Finfish Culture)
+
+5.2  Pond Management
+* Describe the routine (daily, weekly) management check-list.
+* Describe the purpose of liming.
+* Describe the function and methods of pond fertilization.
+5.2.1  Algae
+* Describe the effects of fertilization on phytoplankton productivity.
+* Identify the types of phytoplankton occurring in pond culture systems.
+5.2.2  Weed Control
+* Identify the types of macrophytes occurring in pond culture systems.
+* Describe the effects of macrophytes in fish ponds.
+* Outline the methods used to control growth of weeds in fish ponds.
+5.2.3  Predator Control
+* Discuss the importance of predator control on fish farms.
+* Identify common predators and outline methods to control/deter these predators.
+* Discuss the need for installation of effective security systems on fish farms.
+5.2.4  Diseases and Parasites
+* Discuss the importance of control/prevention of diseases and parasites in fish farm operations.
+* Identify common diseases and parasites of tilapia and rainbow trout.
+5.2.5  Human Health Considerations
+* Describe the benefits of increased fish consumption to the health of the consumer.
+* Describe the human health risks associated with warmwater pond systems.
+5.3  Broodstock Management and Spawning
+* Describe methods of capturing and transporting broodstock fish.
+* Describe methods for holding broodstock prior to spawning.
+* Describe the major problems associated with holding broodstock.
+5.4  Fry Production
+* Outline current techniques for the production of warmwater/freshwater fish fry:
+a)  Natural spawning methods	b)	Semi-natural methods
+c)	Induced spawning
+* Detail a hatchery procedure for the induced spawning, using pituitary hormone injection, of representative fish species.
+* Describe the effects of gonadotropin injection on egg development and spawning.
+5.5  Grow Out
+* Describe the principles of fry rearing.
+* Describe the principles of pond farm operation:
+a)  Feeding and pond fertilization	b)	Grading of fish stocks
+c)	Prevention of over-breeding	d)	Use of sterile stocks
+e)	Use of hybrids	f)	Use of predators
+5.6  Sampling/Harvesting
+– Describe the sampling methods for grading, harvesting and general stock manipulation.
+
+
+©Marine Institute
+School of Fisheries GSC Approved - Rev. May/2019
+
+AQUA 4107 (Finfish Culture)	9
+
+5.7  Polyculture
+* List combinations of fish species typically used in polyculture.
+* Discuss polyculture principles.
+5.8  Integrated Aquaculture
+5.8.1  Fish/Animal
+* Describe the utilization of piggery wastes in fish ponds.
+* Describe the principle of duck-fish farming and other poultry integrated systems.
+* Describe the use of cattle in integrated farm practices.
+* Discuss the principles of fish and agricultural crop integrated farming.
+5.8.2  Integrated Multi-trophic Aquaculture
+* Define integrated multi-trophic aquaculture and provide examples.
+* Summarize the exchange of resources within an integrated multi-trophic aquaculture system.©Marine Institute
+School of Fisheries GSC Approved - Rev. May/2019
+

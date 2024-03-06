@@ -1,0 +1,587 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for .NET.
+BIOL 4100
+(Water and Wastewater - Microbiological Analysis)
+
+
+
+©Marine Institute
+School of Fisheries NPC Approved - Rev. June/2004
+
+TYPE AND PURPOSE:
+
+
+CALENDER ENTRY:
+
+
+
+
+
+SCHEDULE: COURSE AIMS:
+
+
+
+
+
+
+
+
+MAJOR TOPICS:
+
+This course is designed to provide an overview of microorganisms related to water and wastewater and the techniques for monitoring the microbiological safety and quality of water.
+
+Introduction to Microbiology; Microscopy and Staining; Prokaryotic Microorganisms; Microbial Growth; Viruses; Fungi; Protozoa; Algae; Bacterial Classification; Water and Wastewater Disinfection; Waterborne Pathogens and Parasites; Microbial Indicators of Pollution; Microbiological Examination of Water; Drinking Water Guidelines; Toxicity Testing in Wastewater Treatment Using Microorganisms; Biofilms
+
+Lectures:	39 hours
+Laboratories:	39 hours
+
+1)  To provide the student with knowledge of the nature and characteristics of microorganisms related to water and wastewater.
+
+2)  To develop awareness and competency in basic microbiological techniques and applications.
+
+3)  To develop competency in various water and wastewater testing microbiological methods.
+
+4)  To provide the student with the knowledge of water and wastewater disinfection techniques.
+
+1.0 Introduction to Microbiology
+
+2.0 Microscopy and Staining
+
+3.0 Prokaryotic Microorganisms
+
+4.0 Microbial Growth
+
+5.0 Viruses
+
+6.0 Fungi
+
+7.0 Protozoa
+
+8.0 Algae
+
+9.0 Bacterial Classification
+
+10.0 Water and Wastewater Disinfection
+
+11.0 Microbiological Examination of Water
+
+12.0 Drinking Water Guidelines
+
+13.0 Waterborne Pathogens and Parasites
+
+
+©Marine Institute
+School of Fisheries NPC Approved - Rev. June/2004
+
+2	BIOL 4100 (Water and Waste Water - Microbiological Analysis)
+
+14.0 Microbial Indicators of Pollution
+
+15.0 Microbiological Examination of Water
+
+16.0 Toxicity Testing in Wastewater Treatment Using Microorganisms
+
+17.0 Biofilms
+
+
+©Marine Institute
+School of Fisheries NPC Approved - Rev. June/2004
+
+BIOL 4100 (Water and Waste Water - Microbiological Analysis)	3
+
+COURSE OUTLINE:
+1.0  Introduction to Microbiology
+1.1  Definition
+1.2  Importance of Microorganisms
+1.3  Prokaryotic and Eukaryotic Microorganisms
+1.4  Five-Kingdom Classification System
+1.5  Nomenclature
+
+2.0  Microscopy and Staining
+2.1  Microscopes
+2.2  Staining Techniques
+
+3.0  Prokaryotic Microorganisms
+3.1  Shape, Arrangement and Size
+3.2  Surface-associated Structures
+3.3  Cell Wall
+3.4  Cell Membranes
+3.5  Internal Structures
+3.6  Endospores
+
+4.0	Microbial Growth
+
+
+4.1
+Bacterial Reproduction
+
+4.2
+Requirements for Growth
+
+4.3
+Culture Media
+
+4.4
+Pure Culture
+
+4.5
+Growth Phases
+
+4.6
+Preservation of Cultures
+
+4.7
+Measurements of Growth
+5.0
+Viruses 5.1
+
+
+Characteristics
+
+5.2
+Structure
+
+5.3
+Isolation and Cultivation
+
+5.4
+Multiplication
+
+5.5
+Effects of Viral Infection on Host Cell
+
+5.6
+Viral Diseases
+6.0
+Fungi 6.1
+
+
+Characteristics
+
+6.2
+Structure
+
+6.3
+Reproduction
+
+6.4
+Cultivation
+
+6.5
+Classification
+
+
+©Marine Institute
+School of Fisheries NPC Approved - Rev. June/2004
+
+4	BIOL 4100 (Water and Waste Water - Microbiological Analysis)
+
+7.0  Protozoa
+7.1  Characteristics
+7.2  Structure
+7.3  Reproduction
+7.4  Classification
+
+8.0  Algae
+8.1  Characteristics
+8.2  Structure
+8.3  Reproduction
+
+9.0  Bacterial Classification
+9.1  Criteria for Classification
+9.2  Classification System
+
+10.0  Water and Wastewater Disinfection
+10.1  Public Drinking Water Systems
+10.2  General Types of Contaminants
+10.3  Harmful Health Effects from Contaminated Water
+10.4  Disinfection
+10.5  Chlorine Disinfection
+10.6  Chloramination
+10.7  Chlorine Dioxide
+10.8  Ozone
+10.9  Ultraviolet Light
+10.10  Wastewater Irradiation
+
+11.0  Microbiological Examination of Water
+11.1  Detection of Indicator Microorganisms
+11.2  Heterotrophic Bacteria
+11.3  Pseudomonas
+11.4  Protozoa and Helminthes
+11.5  Phytoplankton and Zooplankton
+
+12.0  Drinking Water Guidelines
+12.1  Introduction
+12.2  Boil Water Advisory
+
+13.0  Waterborne Pathogens and Parasites
+13.1  Mechanism of Disease Production by Microorganisms
+13.2  Bacterial Pathogens
+13.3  Viral Pathogens
+13.4  Protozoan Pathogens
+13.5  Helminth Pathogens
+
+
+©Marine Institute
+School of Fisheries NPC Approved - Rev. June/2004
+
+BIOL 4100 (Water and Waste Water - Microbiological Analysis)	5
+
+14.0  Microbial Indicators of Pollution
+14.1  Introduction
+14.2  Bacterial Indicators
+14.3  Bacteriophages
+
+15.0	Microbiological Examination of Water
+
+16.0  Toxicity Testing in Wastewater Treatment Using Microorganisms
+16.1  Introduction
+16.2  Impact of Toxicants on Wastewater Treatment
+16.3  Toxicity Assays Using Enzymes and Microorganisms
+
+17.  0	Biofilms
+17.1  Introduction
+17.2  Harmful Effects of Biofilms
+
+
+©Marine Institute
+School of Fisheries NPC Approved - Rev. June/2004
+
+6	BIOL 4100 (Water and Waste Water - Microbiological Analysis)
+
+LEARNING OBJECTIVES:
+THE EXPECTED LEARNING OUTCOME IS THAT THE STUDENT WILL BE ABLE TO:
+
+1.0  Introduction to Microbiology
+1.1  Definition
+* Define “microorganism” and “microbiology.”
+* List the important properties of microorganisms.
+* List the major groups of organisms.
+1.2  Importance of Microorganisms
+* List at least five beneficial activities of microorganisms.
+* List three harmful activities of microorganisms.
+1.3  Prokaryotic and Eukaryotic Microorganisms
+* Distinguish between eukaryotes and prokaryotes.
+* Compare and contrast the following structures of prokaryotes and eukaryotes: overall cell structure, flagella, and nucleus.
+1.4  Five-Kingdom Classification System
+* Identify the major characteristics used to differentiate the five kingdoms of living organisms.
+1.5  Nomenclature
+* Define “binomial nomenclature” and discuss its purpose.
+* Provide the rationale for the system of scientific names.
+
+2.0  Microscopy and Staining
+2.1  Microscopes
+* Define “resolution” and “magnification.”
+* Identify different parts and functions of a compound microscope.
+* Draw a diagram of the path of light through a compound microscope.
+* Discuss the applications of phase-contrast, dark-field, fluorescence and electron microscopes.
+* Demonstrate the use of a light microscope.
+2.2  Staining Techniques
+* Discuss the importance of staining microorganisms.
+* Differentiate between acidic and basic dyes.
+* Compare simple, differential and special staining techniques.
+* Perform gram staining, acid staining, and endospore staining on given specimens.
+
+3.0  Prokaryotic Microorganisms
+3.1  Shape, Arrangement and Size
+* Identify three basic shapes of bacteria.
+* Differentiate between the different arrangements of bacteria.
+* List the units of measurements used for microorganisms.
+* State the size of bacteria.
+* Identify the shapes and arrangements of bacteria.
+* Determine the size of the given bacteria.
+3.2  Surface-associated Structures
+* Describe the structure, chemistry and functions of flagella, pili and glycocalyx.
+* Identify flagella and capsule of stained bacterial cells.
+
+
+©Marine Institute
+School of Fisheries NPC Approved - Rev. June/2004
+
+BIOL 4100 (Water and Waste Water - Microbiological Analysis)	7
+
+3.3  Cell Wall
+* Describe the structure, chemistry and functions of the cell wall.
+* Explain the difference between gram positive and gram-negative cell walls.
+3.4  Cell Membranes
+* Describe the structure, chemistry and functions of cell membrane.
+* Define the following: “simple diffusion”,“osmosis”,“facilitated diffusion” and “active transport.”
+3.5  Internal Structures
+* Describe the structure, chemistry and functions of cytoplasm, mesosomes, DNA and cytoplasmic granules.
+3.6  Endospores
+* List the bacterial genera-producing spores.
+* Discuss the importance of spores.
+* Discuss the structure and chemistry of spores.
+* Discuss the importance of spores in food industry.
+* Stain endospores in a given sample.
+
+4.0  Microbial Growth
+4.1  Bacterial Reproduction
+* Define “bacterial growth.”
+* Describe how bacteria multiply by binary fission.
+* Define “generation time” and discuss its importance.
+* Determine the generation time of the given bacteria from the given data on growth.
+4.2  Requirements for Growth
+* List the nutritional factors required for growth and discuss the importance of each factor.
+* List the physical factors required for growth.
+* Discuss the importance of each physical factor required for growth.
+* Explain how microorganisms are classified on the basis of oxygen requirement and temperature requirement.
+* Determine oxygen and temperature requirements of microorganisms.
+* Determine the effects of physical factors on growth.
+4.3  Culture Media
+* Define “medium.”
+* List different forms of media.
+* Distinguish between chemically defined and complex media.
+* Justify the use of selective and differential media.
+* Prepare media for cultivation of microorganisms.
+4.4  Pure Culture
+* State the importance of a pure culture in the microbiology laboratory.
+* Describe methods to isolate pure culture.
+* Isolate a pure culture of bacteria from a given specimen.
+4.5  Growth Phases
+* Compare four different phases of growth and their relation to generation time.
+4.6  Preservation of Cultures
+* Describe methods of culture preservation.
+* Preserve a given culture by using an appropriate method.
+
+
+©Marine Institute
+School of Fisheries NPC Approved - Rev. June/2004
+
+8	BIOL 4100 (Water and Waste Water - Microbiological Analysis)
+
+4.7  Measurements of Growth
+* Discuss the direct methods of measuring growth including plate count, microscopic counts, filtration, and electronic counters.
+* Discuss the indirect methods of measuring growth including turbidity, dry weight, and metabolic activity determination.
+* Measure the growth of bacteria in a given sample using an appropriate method.
+
+5.0
+Viruses
+
+
+5.1
+Characteristics
+– Describe the general properties, host range, and importance of viruses.
+
+5.2
+Structure
+* Illustrate the structure of a virus particle.
+* List functions of nucleic acid, capsid, capsomere and spikes.
+
+5.3
+Isolation and Cultivation
+* Outline a method to isolate viruses.
+* Discuss three methods of virus cultivation.
+
+5.4
+Multiplication
+– Discuss the multiplication cycle of DNA and RNA viruses.
+
+5.5
+Effects of Viral Infection on Host Cell
+– List the effects of animal viral infection on host cells.
+
+5.6
+Viral Diseases
+– Differentiate between acute, slow and latent viral infections.
+6.0
+Fungi
+
+
+6.1
+Characteristics
+– Discuss the general properties and importance of fungi.
+
+6.2
+Structure
+* Describe the morphology of yeasts and molds.
+* Define “dimorphic fungi.”
+
+6.3
+Reproduction
+* Discuss the sexual and asexual methods of reproduction of fungi.
+* Describe different types of asexual and sexual spores of fungi.
+
+6.4
+Cultivation
+* List the growth requirements of molds.
+* Name the media used for cultivation of molds.
+* Cultivate molds present in a given sample.
+
+6.5
+Classification
+* List the defining characteristics of four phyla of fungi.
+* Identify the mold in a given sample.
+
+7.0  Protozoa
+7.1  Characteristics
+* Describe the general properties of molds.
+7.2  Structure
+* Describe the morphology of protozoa.
+
+
+©Marine Institute
+School of Fisheries NPC Approved - Rev. June/2004
+
+BIOL 4100 (Water and Waste Water - Microbiological Analysis)	9
+
+7.3  Reproduction
+* Describe the methods of reproduction of protozoa.
+7.4  Classification
+* List the defining characteristics of the four phyla of protozoa.
+* Identify the protozoa in a given sample.
+
+8.0  Algae
+8.1  Characteristics
+* Describe the general characteristics of algae.
+8.2  Structure
+* Describe the structure of algae.
+* Identify the algae in a given sample.
+8.3  Reproduction
+* Discuss the method of algal reproduction.
+
+9.0  Bacterial Classification
+9.1  Criteria for Classification
+* List the methods used for classifying and identifying bacteria.
+9.2  Classification System
+* List major characteristics of the major groups of bacteria outlined in Bergey’s Manual.
+* Identify groups that are important in water and wastewater.
+* Identify unknown bacteria in a given sample to its genus and species
+* Use miniaturized identification system (API-20E) for identifying unknown bacteria.
+
+10.0  Water and Wastewater Disinfection
+10.1  Public Drinking Water Systems
+* List the common sources of drinking water.
+* Explain the functions of public drinking water systems.
+* Define “potable” or “safe drinking water.”
+10.2  General Types of Contaminants
+* Name four types of contaminants of drinking water.
+10.3  Harmful Health Effects from Contaminated Water
+* Discuss the harmful health effects of drinking unsafe water.
+10.4  Disinfection
+* Discuss various methods used for disinfection of water.
+* Discuss the influence of various factors that control disinfection of water and wastewater.
+10.5  Chlorine Disinfection
+* Discuss the mechanism of action of chlorine on microorganisms.
+* Describe the types of reactions that occur when chlorine gas, hypochlorite, chlorites, etc., are added to water.
+* Identify the byproducts formed as a result of disinfection by chlorine.
+* Discuss the toxicity of chlorine and chlorine by-products.
+* Describe the effect of chlorine on microorganisms.
+
+
+©Marine Institute
+School of Fisheries NPC Approved - Rev. June/2004
+
+10	BIOL 4100 (Water and Waste Water - Microbiological Analysis)
+
+10.6  Chloramination
+* Discuss the biological effect of inorganic chloramines.
+* Describe the toxicological aspects of chloramines.
+10.7  Chlorine Dioxide
+* Identify the effect of chlorine dioxide on microorganisms.
+* Discuss the mode of action and toxicity of chlorine dioxide.
+10.8  Ozone
+* Discuss the mechanism of action of ozone on microorganisms.
+10.9  Ultraviolet Light
+* Describe the effect of UV on microorganisms.
+* Discuss the inactivation of pathogens by UV radiation.
+* Identify the variables affecting UV action.
+* Describe the method of UV disinfection of water and wastewater.
+* Identify advantages and disadvantages of UV disinfection.
+10.10  Wastewater Irradiation
+* Discuss the effectiveness of gamma radiation and high -energy electron beams on microorganisms present in wastewater.
+
+11.0  Microbiological Examination of Water
+11.1  Detection of Indicator Microorganisms
+* Detect and enumerate coliforms, fecal coliforms, E.coli, streptococci and bacteriophages in an environmental sample using traditional and rapid methods.
+11.2  Heterotrophic Bacteria
+* Determine the numbers of heterotrophic bacteria in an environmental sample
+11.3  Pseudomonas
+* Determine the numbers of Pseudomonas present in an environmental sample
+11.4  Protozoa and Helminthes
+* Identify protozoa and helminthes in given samples.
+11.5  Phytoplankton and Zooplankton
+* Determine the numbers of Phytoplanktons and zooplanktons in an environmental sample
+
+12.0  Drinking Water Guidelines
+12.1  Introduction
+* Identify the microbiological guidelines of drinking water in Canada
+12.2  Boil Water Advisory
+* Define boil water advisory and discuss its importance
+* Explain why boil water advisory is issued
+
+13.0  Waterborne Pathogens and Parasites
+13.1  Mechanism of Disease Production by Microorganisms
+* Discuss how microorganisms produce a disease.
+13.2  Bacterial Pathogens
+* Describe the properties, disease produced by, symptoms, and control of disease produced by waterborne bacterial pathogens.
+
+
+©Marine Institute
+School of Fisheries NPC Approved - Rev. June/2004
+
+BIOL 4100 (Water and Waste Water - Microbiological Analysis)	11
+
+13.3  Viral Pathogens
+* Describe the properties, disease produced by, symptoms, and control of disease produced by waterborne viral pathogens.
+13.4  Protozoan Pathogens
+* Describe the properties, disease produced by, symptoms, and control of disease produced by waterborne protozoan pathogens.
+13.5  Helminth Pathogens
+* Describe the properties, disease produced by, symptoms, and control of disease produced by waterborne helminthe pathogens.
+
+14.0  Microbial Indicators of Pollution
+14.1  Introduction
+* Define “indicator organism.”
+* List the characteristics of ideal indicator organisms.
+14.2  Bacterial Indicators
+* List the indicators of fecal pollution in water.
+14.3  Bacteriophages
+* Identify phages used as indicators in wastewater.
+
+15.0  Microbiological Examination of Water
+* Determine the presence of coliforms and fecal coliforms in water by using traditional and rapid methods
+* Identify protozoa and helminthes in given samples.
+
+16.0  Toxicity Testing in Wastewater Treatment Using Microorganisms
+16.1  Introduction
+* Discuss the impact of toxicants present in wastewater on aquatic environment
+* Explain what are microbiotests and list the microbiotests used for toxicity testing of wastewater
+* Discus the attractive features of microbiotests
+16.2  Impact of toxicants on wastewater treatment
+* Discuss the impact of toxicants on the wastewater treatment processes
+16.3  Toxicity assays using enzymes and microorganisms
+* Identify the of microbial toxicity assays used in wastewater treatment plants and their applications
+* Identify commercial rapid assays for toxicity testing in wastewater
+* Suggest an experiment to detect a specific toxicant in the wastewater.
+
+17.  0	Biofilms
+17.1  Introduction
+* Define “biofilm.”
+* Discuss how biofilms are formed.
+* Discuss methods for biofilm detachment from the surfaces.
+* List methods for measuring biofilm accumulation.
+17.2  Harmful Effects of Biofilms
+* Identify some concerns related to the accumulation of biofilms in distribution networks.
+
+
+©Marine Institute
+School of Fisheries NPC Approved - Rev. June/2004
+
+12
+
+BIOL 4100 (Water and Waste Water - Microbiological Analysis)
+
+EVALUATION:
+
+Assignments
+
+20%
+
+Mid-term Exam
+30%
+
+Laboratory
+20%
+
+Final Exam		30% Total	100%©Marine Institute
+School of Fisheries NPC Approved - Rev. June/2004
+

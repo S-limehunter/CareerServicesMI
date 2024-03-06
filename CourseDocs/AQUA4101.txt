@@ -1,0 +1,315 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for .NET.
+AQUA 4101
+(Handling & Processing Aquaculture Products)
+
+TYPE AND PURPOSE:	This course is designed to familiarize aquaculture students with the handling, processing and preservation of farmed fish and shellfish.
+
+CALENDAR ENTRY:	Fisheries Overview; Product Costing; Food Safety and Quality Control; Overview of Sanitation; Farmed White Fleshed Fish Handling and Processing; Farmed Salmon and Trout Handling and Processing; Farmed Blue Mussel Handling and Processing; Sea Scallop Handling and Processing; Oyster Handling and Processing; Secondary Processing
+
+PREREQUISITES:	SC 1807 (Safety in Science Lab (Lab Safety)) and SC 1808 (WHMIS)
+
+SCHEDULE:	Duration: 	13 weeks
+Lectures: 	  2 hours per week = 26 total hours Laboratories: 	  2 hours once per week = 26 total hours
+
+COURSE AIMS:	To enable the student to:
+1)  Gain a general overview of the seafood industry (wild and farmed).
+2)  Be introduced to the sanitation and quality control concerns in the seafood industry.
+3)  Develop the knowledge and skills necessary to conduct good handling and holding practices for a variety of farmed fish and shellfish.
+4)  Develop a basic knowledge of major primary processing methods for farmed fish and shellfish.
+5)  Be introduced to the basics in secondary processing of farmed fish and shellfish.
+6)  Gain an overview of the major preservation methods of fish and shellfish.
+
+EVALUATION:	Project	20%
+Practical	20%
+Mid Term Exam	20%
+Final Exam	40%
+
+Total	100%
+
+NOTE:
+Attendance in all laboratory/practical classes is mandatory. Failure to attend, without a satisfactory documented reason, for example a medical certificate issued by a doctor, will mean that the maximum grade possible for this course will be 60 percent.
+
+MAJOR TOPICS:	1.0	Fisheries Overview
+2.0	Product Costing
+3.0	Food Safety and Quality Control
+4.0	Overview of Sanitation
+5.0	Farmed White Fleshed Fish Handling and Processing
+6.0	Farmed Salmon and Trout Handling and Processing
+7.0	Farmed Blue Mussel Handling and Processing
+8.0	Sea Scallop Handling and Processing
+9.0	Oyster Handling and Processing
+10.0	Secondary Processing
+
+
+©Marine Institute	School of Fisheries
+	GSC Approved – Rev. March/2021
+9		AQUA 4101 (Handling & Processing Aquaculture Products)
+COURSE OUTLINE:
+1.0  Seafood Industry
+1.1  World Fisheries Overview
+1.2  Canadian Fishery Overview
+1.3  Newfoundland and Labrador Fisheries Overview
+1.4  General Fish and Shellfish Handling and Holding Overview
+
+2.0  Product Costing
+
+3.0  Food Safety and Quality Control
+3.1  Basics of Quality Control
+3.2  Quality Management Program (QMP)
+3.3  Fish Spoilage
+3.4  Quality Assessment
+
+4.0  Overview of Sanitation
+
+5.0  Farmed White Fleshed Fish Handling and Processing
+5.1  Handling and Holding
+5.2  Processing
+5.3  Chilled Production - Fillet
+5.4  Frozen Production - Skinless Bone-Out Fillet
+
+6.0  Farmed Salmon and Trout Handling and Processing
+6.1  Overview of World Salmon and Trout Fishery (Wild and Farmed)
+6.2  Handling and Holding
+6.3  Fresh Chilled Dressed Salmon and Trout
+6.4  Frozen Dressed Salmon Steaks and Fillets
+
+7.0  Farmed Blue Mussel Handling and Processing
+7.1  Handling and Holding
+7.2  Processing
+7.3  Preparation of Live Mussels for Air Shipments
+7.4  Processing Blue Mussel Meats for Marinating (Stage I)
+
+8.0  Sea Scallop Handling and Processing
+8.1  Handling and Holding
+8.2  Processing
+
+9.0  Oyster Handling and Processing
+9.1  Handling and Holding
+9.2  Live In-shell Oysters
+9.3  Postharvest Processing
+
+
+10.0  Secondary Processing
+10.1  Smoked Seafood
+10.2  Marinated Mussels
+10.3  Speciality Seafood Products
+10.4  Canned Seafood
+
+
+©Marine Institute	School of Fisheries
+	GSC Approved – Rev. March/2021
+9		AQUA 4101 (Handling & Processing Aquaculture Products)
+LEARNING OBJECTIVES:
+THE EXPECTED LEARNING OUTCOME IS THAT THE STUDENT WILL BE ABLE TO:
+
+1.0  Seafood Industry
+1.1  World Fisheries Overview
+* State fish and shellfish landings.
+* List top world fishing countries.
+* Name top world fish and shellfish species.
+* List top world aquaculture producing nations.
+* List top world aquaculture species.
+* Discuss seafood consumption and health connection.
+* State per capita consumption of seafood in major fishing nations.
+* Discuss the world’s major seafood exporters and importers.
+1.2  Canadian Fishery Overview
+* State the Canadian fish and shellfish landings and values.
+* Overview of the Atlantic, Pacific, and Freshwater fisheries.
+* Discuss the Canadian 200-mile limit.
+1.3  Newfoundland and Labrador Fisheries Overview
+* List the Newfoundland and Labrador fish and shellfish landings and values.
+* Discuss an overview of the Newfoundland and Labrador fishery.
+* Identify major markets for Newfoundland seafood products.
+* Identify Newfoundland competitors in major seafood markets.
+1.4  General Fish and Shellfish Handling and Holding Overview
+* Discuss the handling of a representative sample of major commercial groundfish, pelagic and shellfish species.
+* Discuss physiological conditions of cod, salmon and mussels.
+* Describe fish and shellfish treatment methods where applicable.
+* Recognize good versus poor handling practices onboard vessel.
+* Describe proper chilling methods.
+
+2.0  Product Costing
+* Define ‘yield’, ‘variable cost’, ‘direct cost’, ‘indirect cost’ and ‘fixed cost’.
+* Discuss the relationship between yield and finished product cost.
+* Prepare a basic product costing.
+
+3.0  Food Safety and Quality Control
+3.1  Basics of Quality Control
+* Define the terms “quality” and “quality control.”
+* Define the terms “intrinsic” and “extrinsic” as associated with quality control.
+* Discuss the differences between “food safety” and “food quality.”
+* Discuss why quality control is important to both the processor and to the consumer.
+3.2  Quality Management Program (QMP)
+* List and describe the three components of QMP. Describe the purpose of the three components of QMP.
+* Explain how the prerequisite plan and the Regulatory Action Point (RAP) plan support the Hazard Analysis Critical Control Point (HACCP) plan.
+
+
+©Marine Institute	School of Fisheries
+	GSC Approved – Rev. March/2021
+9		AQUA 4101 (Handling & Processing Aquaculture Products)
+* Describe the link between QMP and different food safety programs.
+* Identify the five (5) preliminary steps to HACCP. Identify the seven (7) HACCP principles.
+* Conduct a hazard analysis.
+3.3  Fish Spoilage
+* Discuss the bio- dynamics of fish spoilage.
+* Discuss methods to control fish spoilage.
+3.4  Quality Assessment
+* Discuss the mechanism by which grades are assigned.
+* Assess the quality of raw material and assign the appropriate grade.
+
+4.0  Overview of Sanitation
+* Discuss the importance of sanitation with regards to food safety.
+* Discuss briefly the elements of a sanitation program.
+* Discuss plant code of practice.
+* List the various types of microorganisms and indicate ways to control their growth to insure good sanitation.
+* Discuss the importance of personal hygiene.
+* Distinguish between sanitizing and cleaning.
+* Describe the approach to a proper cleanup.
+* List the key elements to achieve effective cleaning.
+* Explain the factors that affect cleaning.
+* List the factors to consider when selecting a cleaner or sanitizer.
+* Compare the advantages and disadvantages of hypochlorites and Quats
+* Compare and contrast water sources available for processing.
+* Discuss water quality as it relates to sanitation.
+* Discuss the different ways to disinfect water.
+* Explain the terms ‘chlorine dosage’, ‘chlorine demand’, ‘combined residual chlorine’, ‘free residual chlorine’, ‘total residual chlorine’, and ‘breakpoint chlorination’.
+* Prepare solutions of sanitizers and carry out physical tests to check their concentrations.
+
+5.0  Farmed White Fleshed Fish Handling and Processing
+5.1  Handling and Holding
+* Recognize good versus poor handling and holding methods.
+* Discuss off-loading practices (unloading rates & equipment).
+* Compare different types of handling and holding methods onshore.
+5.2  Processing
+* Discuss the processing of white fleshed fish including tilapia, pangassius, and sea bream.
+* Examine and discuss the importance of plant layout.
+* Discuss the various types of white fleshed fish processing equipment.
+* Identify good industrial product yields and work measurement standards for the major white fleshed species.
+* Discuss, in detail, factors affecting production costs including raw material costs, labour costs, packaging costs, etc.
+* Evaluate yields and work performance of demonstrator. Practice and compare student work performance.
+
+
+©Marine Institute	School of Fisheries
+	GSC Approved – Rev. March/2021
+9		AQUA 4101 (Handling & Processing Aquaculture Products)
+5.3  Chilled Production - Fillet
+* Outline and discuss briefly the steps in the process.
+* Discuss prolonged fresh chilled shelf-life of fish.
+* Discuss the importance of time and temperature on chilled shelf-life.
+* Discuss various methods to prolong the fresh chilled shelf-life such as special vacuum packaging, modified atmospheric packaging (MAP), gamma processing and chemical treatment.
+* Prepare vacuum packed fresh farmed white fleshed fish fillet.
+* Demonstrate the production of dressed white fleshed fish and a variety of popular frozen packs.
+* Conduct a yield and performance study.
+* Process portions from whole fillets.
+5.4  Frozen Production - Skinless Bone-Out Fillet
+* Outline steps in the process.
+* Discuss raw material weighing and quality considerations.
+* Discuss the most common frozen white fleshed fish fillet packs.
+* Explain the production of white fleshed fish blocks and mince.
+* Explain the production of consumer and institutional frozen fillet packs.
+* Explain the principles of freezing and cold storage.
+* Discuss factors that affect frozen shelf-life of white fleshed fish fillets.
+
+6.0  Farmed Salmon and Trout Handling and Processing
+6.1  Overview of World Salmon and Trout Fishery (Wild and Farmed)
+* List world landings (wild vs. farmed).
+* List major wild and farmed salmon and trout producing countries.
+* List Canadian landings (wild vs. farmed).
+* List Newfoundland and Labrador landings and markets.
+6.2  Handling and Holding
+* Recognize good versus poor live and chilled handling and holding methods for salmon and trout.
+* Discuss off-loading practices.
+* Compare different types of handling and holding methods onshore.
+* Discuss, in detail, quality/size considerations onshore for each species.
+* Examine raw material for quality considerations.
+* Demonstrate and compare various handling and holding methods.
+6.3  Fresh Chilled Dressed Salmon and Trout
+* Discuss the preparation of fresh dressed salmon and trout for air shipments.
+* Prepare fresh dressed salmon for steak and fillet production in vacuum bags.
+6.4  Frozen Dressed Salmon Steaks and Fillets
+* Discuss the preparation of frozen dressed salmon.
+* Discuss product specifications.
+* Prepare frozen dressed salmon.
+* Prepare and package frozen salmon steaks and fillets for vacuum packages. Discuss the various types of salmon and trout processing equipment.
+
+
+©Marine Institute	School of Fisheries
+	GSC Approved – Rev. March/2021
+9		AQUA 4101 (Handling & Processing Aquaculture Products)
+7.0  Farmed Blue Mussel Handling and Processing
+7.1  Handling and Holding
+* Recognize good versus poor live handling and holding methods.
+* Compare different types of live handling and holding methods onshore.
+* Discuss, in detail, quality/size considerations onshore for blue mussels.
+* Examine raw material for quality considerations.
+7.2  Processing
+* Outline and discuss, in detail, steps involved in process. Examine and discuss the importance of plant layout.
+* Discuss the various types of blue mussel processing equipment.
+* Identify optimum industrial product yields and work measurement standards. Conduct the following practical exercise:
+* Process live mussels for marinating. (Stage I)
+7.3  Preparation of Live Mussels for Air Shipments
+* Explain the importance of temperature and humidity control.
+* Explain how to recognize a dead mussel.
+* Describe how to recognize lean versus prime mussels.
+* Discuss size sorting of live mussels.
+7.4  Processing Blue Mussel Meats for Marinating (Stage I)
+* Outline and discuss briefly the steps in the process.
+* Identify correct cooking and cooling times and temperatures.
+* Discuss mussel meat extraction.
+* Discuss the preparation of mussel meats for marinating.
+* Conduct the following practical exercise:
+* Process live mussels for marinating in jars.
+
+8.0  Sea Scallop Handling and Processing
+8.1  Handling and Holding
+* Recognize good versus poor live handling and holding methods onboard vessel.
+* Compare different types of live handling and holding methods onshore.
+* Discuss, in detail, quality/size considerations.
+8.2  Processing
+* Outline and discuss, in detail, steps involved in the process.
+* Examine and discuss the importance of plant layout.
+* Discuss, in detail, factors affecting production costs including raw material costs, labour costs, packaging costs, etc.
+* Discuss the various types of scallop processing equipment.
+* Conduct the following practical exercise:
+* Process scallop meats for chilled production.
+
+9.0  Oyster Handling and Processing
+9.1  Handling and Holding
+* Recognize good versus poor live handling and holding methods.
+* Describe quality/grade standards for oysters.
+9.2  Live In-shell Oysters
+* Describe the processing of live in-shell oysters.
+
+
+©Marine Institute	School of Fisheries
+	GSC Approved – Rev. March/2021
+9		AQUA 4101 (Handling & Processing Aquaculture Products)
+9.3  Postharvest Processing
+* Explain the reason for postharvest processing of oysters.
+* List three methods of postharvest processing.
+* Describe Heat Cool Pasteurization.
+* Describe High Hydrostatic Pressure Processing.
+* Describe Individual Quick Freezing.
+* Describe Irradiation.
+
+10.0  Secondary Processing
+10.1  Smoked Seafood
+* Discuss preparation of raw material.
+* Discuss brining and hanging methods.
+* Discuss the smokers and smoking technology.
+* Identify post smoking treatments.
+* Process lightly smoked salmon and trout sides in vacuum pouches.
+10.2  Marinated Mussels
+* Discuss raw material considerations.
+* Identify the steps in the production for marinating.
+* Discuss the principles of preservation by marinating.
+* Outline and discuss the factors that influence the shelf-life of marinated mussels.
+* Discuss the procedure involved in Stage II production of marinated mussels in jars.
+10.3  Specialty Seafood Products
+* Discuss raw material considerations and major product types.
+* Outline end-product and process specifications.
+* Discuss process equipment packaging styles and preservation methods.
+10.4  Canned Seafood
+* Discuss the production of canned salmon, salmon steaks and blue mussel meats.
+* Outline basic canning principles.©Marine Institute	School of Fisheries
+	GSC Approved – Rev. March/2021

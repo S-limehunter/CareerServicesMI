@@ -1,0 +1,202 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for .NET.
+AQUA 4112
+(Practical Facility Maintenance and Animal Husbandry)
+
+
+TYPE AND PURPOSE:	A practical course to introduce students to recirculating facility maintenance and management, and salmonid animal husbandry (from broodstock maintenance through fry rearing).
+
+CALENDAR ENTRY:	Marine Institute (MI) Aquaculture Facility; Activities and Maintenance; Essential Calculations; Animal Husbandry
+
+PREREQUISITES:	SC 1807 (Safety in Science Lab (Lab Safety)) and SC 1808 (WHMIS)
+
+SCHEDULE:	Duration:	13 weeks
+Laboratory:	4 hours once per week = 52 hours
+
+COURSE AIMS:	To enable the student to:
+
+1)  Become familiar with the structure and operation of recirculating and flow- through systems within an aquaculture facility.
+2)  Be exposed to the daily and weekly activities necessary to maintain fish in recirculating and flow-through aquaculture facilities.
+3)  Carry out all calculations to successfully operate an aquaculture facility.
+4)  Produce feeding fry from maturing broodstock.
+
+EVALUATION:	Participation	10%
+	Practical exercises	40%
+	Examinations (practical, oral, written)	50%
+	Total:	100%
+
+NOTE:
+Attendance in all laboratory/practical classes is mandatory. Failure to attend, without a satisfactory documented reason, for example a medical certificate issued by a doctor, will mean that the maximum grade possible for this course will be 60 percent.
+
+MAJOR TOPICS:	1.0 	Marine Institute (MI) Aquaculture Facility 
+2.0 	Activities and Maintenance 
+3.0 	Essential Calculations 
+4.0 	Animal Husbandry
+
+
+
+©Marine Institute	School of Fisheries
+	GSC Approved – Rev. March/2021
+6		AQUA 4112 (Practical Facility Maint and Animal Husbandry)
+COURSE OUTLINE:
+
+1.0  Marine Institute (MIj) Aquaculture Facility
+1.1  Safety Considerations
+1.2  Biosecurity
+1.3  ISO and Other Certification Requirements
+1.4  Rearing Systems
+1.4.1  Overview of Systems
+1.4.2  Tank Types
+1.4.3  Water Supply
+1.4.4  Water Flow
+1.4.5  Water Filtration
+1.4.6  Water Disinfection
+1.4.7  Protein Removal
+1.4.8  Aeration/Oxygenation
+1.4.9  Heating/Chilling
+1.5  Backup Generators
+1.6  Monitoring System
+
+2.0  Activities and Maintenance
+2.1  Water Quality Monitoring
+2.2  Tank/System Cleaning and Maintenance
+2.3  Feeding
+2.4  Mechanical Maintenance
+
+3.0  Essential Calculations
+3.1  System Volumes
+3.2  Water Flow
+3.3  Rearing/Stocking Density Calculations
+3.4  Feeding Rate/Quantity Calculations
+3.5  Feeding Efficiency
+
+4.0  Animal Husbandry
+4.1  Broodstock Maintenance
+4.2  Ripeness Checking
+4.3  Stripping and Fertilization Procedures
+4.4  Egg Incubation
+4.5  Ponding and Fry Rearing
+
+
+©Marine Institute	School of Fisheries
+	GSC Approved – Rev. March/2021
+6		AQUA 4112 (Practical Facility Maint and Animal Husbandry)
+LEARNING OBJECTIVES:
+THE EXPECTED LEARNING OUTCOME IS THAT THE STUDENT WILL BE ABLE TO:
+
+1.0  Marine Institute (MI) Aquaculture Facility
+1.1  Safety Considerations
+* Identify all hazards within MI’s Aquaculture Facility.
+* Demonstrate safe work practice while in MI’s Aquaculture Facility.
+1.2  Biosecurity
+* Define what is meant by biosecurity.
+* List the various ways in which biosecurity is achieved in an aquaculture facility.
+1.3  ISO and Other Certification Requirements
+* Define ISO.
+* Describe other certification requirements.
+* List and describe the various procedures students must be familiar with to gain and maintain access to MI’s Aquaculture Facility.
+1.4  Rearing Systems
+1.4.1  Overview of Systems
+* List the various components of MI’s recirculating system.
+* Describe the role the various components of MI’s recirculating system play in maintaining water quality.
+* Define what is meant by a flow-through aquaculture system.
+* Identify flow-through aquaculture systems within MI’s Aquaculture Facility.
+* Differentiate among troughs, vertically stacked incubators and combi-tanks as methods of egg incubation.
+* Trace water flow in egg incubation troughs, vertically stacked incubators and combi- tanks.
+* Describe how aeration is assured in egg incubation troughs, vertically stacked incubators and combi-tanks.
+1.4.2  Tank Types
+* Identify the various tank types resident in MI’s Aquaculture Facility.
+* List the advantages and disadvantages of the various types of tanks resident in MI’s Aquaculture Facility.
+1.4.3  Water Supply
+* List the various sources and quantities of water available to MI’s Aquaculture Facility.
+* Describe how chlorine is removed from chlorinated water supplies when destined for use in a fish rearing facility.
+* Describe any water quality differences between the surface and ground water sources available to MI’s Aquaculture Facility.
+1.4.4  Water Flow
+* Trace water flow through a full pass of MI’s recirculating system.
+* Calculate the degree of recirculation given make-up volume and system volume.
+1.4.5  Water Filtration
+* List the various types of wastes that are produced in recirculating aquaculture systems.
+* Describe the way in which solid wastes are removed from effluent waters within MI’s recirculating aquaculture system.
+* Describe the way in which dissolved wastes are removed from effluent waters within MI’s recirculating aquaculture system.
+
+1.4.6  Water Disinfection
+* Describe the various ways fresh and saltwaters are disinfected within aquaculture facilities.
+1.4.7  Protein Removal
+* Describe the various ways protein is removed from fresh and saltwaters within aquaculture facilities.
+1.4.8  Aeration/Oxygenation
+* Describe the various ways in which air or oxygen is added to water within an aquaculture facility.
+* List the circumstances whereby it might be necessary to add pure oxygen to water within an aquaculture facility.
+1.4.9  Heating/Chilling
+* Describe the most commonly used techniques to heat and/or chill water in aquaculture facilities.
+* Describe how water can be heated or chilled within MI’s recirculating aquaculture system.
+* Differentiate between a heat exchanger and a heat pump.
+1.5  Backup Generators
+* Discuss the importance of a back-up source of power in a recirculating aquaculture facility.
+* Describe the automatic sequence of events that will take place in most aquaculture facilities in the event of a power outage.
+1.6  Monitoring System
+* Discuss the importance of continual water quality and water flow monitoring in an aquaculture facility.
+* List the critical parameters to include in any aquaculture facility monitoring system.
+
+2.0  Activities and Maintenance
+2.1  Water Quality Monitoring
+* List the important water quality parameters and frequency of measurement in both recirculating and flow-through aquaculture systems.
+* Discuss the relationship between feeding level and water quality.
+* Discuss circumstances when buffering of pH may be necessary in recirculating aquaculture systems.
+* Calibrate a range of water quality probes and analyzers.
+2.2  Tank/System Cleaning and Maintenance
+* State how frequently tanks and other aquaculture system components must be cleaned.
+* Demonstrate the proper way to carry out a cleaning of tanks and other aquaculture system components.
+2.3  Feeding
+* Describe how one determines appropriate feed sizing.
+* Demonstrate proper hand feeding technique.
+* Describe mechanized feeding systems.
+2.4  Mechanical Maintenance
+* Choose proper piping materials (i.e., PVC (Polyvinyl Chloride), ABS (Acrylonitrile butadiene styrene), copper, and vinyl) for a range of applications.
+* Define a range of terms and abbreviations used to describe plumbing fittings.
+* Identify by sight the most commonly utilized plumbing fittings in aquaculture facilities.
+* Demonstrate the proper way to cut, thread and solvent weld PVC piping.
+* Demonstrate the proper way to drill and tap PVC piping.
+* Remove and replace an inoperable pump.
+* Demonstrate the proper way to cut and crimp PEX piping.
+3.0  Essential Calculations
+3.1  System Volumes
+* Calculate the volumes of individual circular, semi-square and rectangular tanks.
+* Calculate the total volume of MI’s recirculating aquaculture system.
+3.2  Water Flow
+* Determine water flow rate in a tank.
+* Determine the necessary water flow rate in a tank based on fish size, water temperature and biomass.
+3.3  Rearing/Stocking Density Calculations
+* Calculate rearing/ stocking density given fish numbers, average mass and tank volume.
+3.4  Feeding Rate/Quantity Calculations
+* Calculate the quantity of feed to deliver to a tank of fish (expressed as a percentage of body weight per day) based upon species, fish size and water temperature.
+3.5  Feeding Efficiency
+* Identify the most commonly used measures of feeding efficiency.
+* Calculate FCR (feed conversion ratio) and FCE (feed conversion efficiency).
+
+4.0  Animal Husbandry
+4.1  Broodstock Maintenance
+* Describe the appropriate holding conditions for the maintenance of broodstock.
+4.2  Ripeness Checking
+* Describe and demonstrate ripeness checking in male and female salmonid broodstock.
+4.3  Stripping and Fertilization Procedures
+* Demonstrate how to prepare to strip gametes from salmonid broodstock.
+* Demonstrate the proper way to strip gametes from salmonid broodstock.
+* Demonstrate how to check sperm motility.
+* Describe the characteristics of good quality salmonid eggs.
+* Demonstrate the dry method of fertilization.
+* Demonstrate how fertilized eggs are cleaned, water hardened and disinfected prior to being laid down in an incubator.
+4.4  Egg Incubation
+* Describe the appropriate conditions for the incubation of salmonid eggs.
+* Differentiate between live and dead eggs.
+* Demonstrate proper egg picking technique.
+* Carry out egg disinfection procedures in a vertical incubator.
+* Carry out anti-fungal treatments in an incubation system.
+* Describe the appearance of eyed salmonid eggs.
+* Describe when it is appropriate to discontinue disinfection procedures when incubating salmonid eggs.
+
+4.5  Ponding and Fry Rearing
+* Describe when it is appropriate to move hatched fry from an egg incubator into a first-feeding tank.
+* Demonstrate how to move recently hatched fry from an egg incubator into a first-feeding tank.
+* Describe the appearance of salmonid fry nearing the time of first feeding.
+* Describe first feeding techniques in terms of methods of delivery and frequency.
+* Demonstrate the removal of solid wastes from first feeding tanks with significant numbers of first feeding fry.©Marine Institute	School of Fisheries
+	GSC Approved – Rev. March/2021

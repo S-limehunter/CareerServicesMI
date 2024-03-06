@@ -1,0 +1,167 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for .NET.
+BIOL 2100
+(Aquatic Ecology)
+
+TYPE AND PURPOSE:	This is a second level course designed to cover in moderate detail various aspects of aquatic ecology with emphasis on marine ecology. A strong emphasis will be placed on the laboratory sessions which will introduce students to the kinds of data collected during ecological studies in aquatic environments.
+
+CALENDAR ENTRY: 	Ecology and Ecosystems; Primary Production and Feeding Relationships; Population Ecology; Ecological Cycles; and Aquaculture Ecology.
+
+PREREQUISITES: 	SC 1807 (Safety in Science Lab (Lab Safety)); SC 1808 (WHMIS); 
+BIOL 1100 (Biology); and STAT 2108 (Applied Statistics)
+
+SCHEDULE: 	Duration:  	13 weeks
+Lectures:  	2 hours per week = 26 total hours
+Laboratories:   	3 hours once per week = 39 total hours
+
+COURSE AIMS: 	1) To provide a background knowledge of basic ecology including primary   
+     production, ecological cycles, and population ecology.
+2) To show how the study of aquatic ecology is essential to the study of the 
+     freshwater and marine environments.
+3) To illustrate how aquaculture and ecosystems may impact each other.
+4) To develop the students’ practical skills necessary for assessing marine 
+     ecosystems.
+
+EVALUATION: 		Mid-Term Examination	15%
+Term Paper 		10%
+Laboratory 		45%
+Final Examination 	30%
+	Total 	100%	
+
+NOTES: 	
+1.  Students MUST submit ALL written laboratory reports to successfully pass the course.  Failure to do so will result in a maximum grade of 45% in the course.
+2.  A minimum average mark of 5/10 for the laboratory component of the course is required in addition to achieving an overall pass mark in the course. 
+3.  Attendance in all laboratory classes is mandatory. Failure to attend, without a satisfactory documented reason, for example a medical certificate issued by a doctor, will mean that the maximum grade possible for this course will be 45 percent.
+
+
+MAJOR TOPICS 		1.0	Ecology and Ecosystems
+2.0 	Primary Production and Feeding Relationships
+3.0 	Population Ecology
+4.0 	Ecological Cycles
+5.0 	Aquaculture Ecology
+
+
+
+
+
+COURSE OUTLINE:
+
+1.0  Ecology and Ecosystems
+1.1  Ecology
+1.2  Ecosystems
+1.3  Communities
+
+2.0  Primary Production and Feeding Relationships
+2  
+2.1  Primary Production
+2.2  Feeding Relationships
+
+3.0  Population Ecology
+3  
+3.1  Population Regulation
+3.2  Interspecific Competition
+3.3  Intraspecific Competition
+
+4.0  Ecological Cycles
+4  
+4.1  Cycles of Major Components
+4.2  Nutrient Cycles
+4.3  Sulfur Cycles
+
+5.0  Aquaculture Ecology
+5  
+5.1  Environmental Considerations
+5.2  Husbandry Issues
+5.3  Discharges
+5.4  Chemicals
+5.5  Mitigation and Benefits
+
+
+LEARN ING OBJECTIVES:
+THE EXPECTED LEARNING OUTCOME IS THAT THE STUDENT WILL BE ABLE TO:
+
+1.0  Ecology and Ecosystems
+1.1  Ecology
+* Define “ecology”.
+* Explain ecology’s importance to the marine environment.
+1.2  Ecosystems
+* Identify the components that make up an ecosystem.
+* Explain the hierarchy of ecosystem organization.
+* Review the ecosystems of the oceans and seas.
+* Review estuary ecosystems.
+1.3  Communities
+* Outline the various forms and structures of communities.
+* Compare the individualistic or organismic nature of communities.
+* Review some of the functional aspects of communities.
+* Discuss community change and the Island Biogeography Model.
+
+2.0  Primary Production and Feeding Relationships
+2  
+2.1  Primary Production
+* Discuss the role of light and trophogenic zones.
+* Discuss critical and compensation depths.         
+* Discuss various methods of measuring primary productivity.    
+* Relate nutrient circulation and light incidence to productivity in the sea.
+2.2  Feeding Relationships
+* Identify the various tropic levels and their place in the Standing Crop Pyramid.
+* Discuss energy flow and mineral cycling.
+* Describe how trophic transfer affects marine biomass.
+* Identify various marine food webs.
+
+3.0  Population Ecology
+3  
+3.1  Population Regulation
+* Define “Population Regulation”.
+* Explain how Population Regulation applies to fish populations.
+* Identify the four main population processes common to all fish species.
+* Review briefly the Theory of Evolution according to Darwin.
+* Explain the Theory of Evolution’s relevance to marine species distribution.
+3.2  Interspecific Competition
+* Identify the three basic effects of interspecific competition.
+* Discuss the concept of a niche.
+* Discuss what is meant by the Competitive Exclusion Principle.
+3.3  Intraspecific Competition
+* Define “intraspecific competition”.
+* Identify the four main characteristics of the intraspecific competition process.
+* Explain scramble and contest competition.
+
+
+4.0  Ecological Cycles
+4  
+4.1  Cycles of Major Components
+* Describe what is meant by Biogeochemical Cycles.
+* Discuss what is meant by bottleneck and flux within Biogeochemical Cycles.
+* Outline the Carbon Cycle and its place in marine ecology.
+* Explain the Oxygen Cycle and its pervasive nature.
+4.2  Nutrient Cycles
+* Outline the five basic steps of the Nitrogen Cycle and the major components of each step.
+* Discuss how nitrogen can often be a limiting factor in marine environments.
+* Explain why the Phosphorus Cycle is much simpler than the Nitrogen Cycle.
+* Describe how phosphorus may be limiting in a marine environment and how it is linked to eutrophication.
+* Review the four major differences between the Nitrogen Cycle and the Phosphorus Cycle.
+* Explain the importance of silicon and iron in marine ecosystems and how they may be limiting.
+4.3  Sulfur Cycles
+* Explain how sulfur cycles through a marine ecosystem.
+
+5.0  Aquaculture Ecology
+5  
+5.1  Environmental Considerations
+* Discuss the effect of bacterial contamination on marine ecology.
+* Review the various shellfish toxins and how they impact marine ecology.
+* Outline the function of phytoplankton in an aquaculture environment and its effect on finfish ecology.
+5.2  Husbandry Issues
+* Discuss the impact of species or strain selection and genetically modified organisms on marine ecology.
+* Outline the environmental factors to consider prior to the establishment of an aquaculture facility.
+5.3  Discharges
+* Explain how the accumulation of sediments may impact marine ecology.
+* Detail the effects of nutrient discharges and other operational wastes on the marine ecology of an area.
+* Outline the effects of aquaculture induced presence of bacteria on marine ecology.
+5.4  Chemicals
+* Outline the potential effects of aquaculture therapeutants on marine ecology.
+* Discuss the effects of antifouling agents on the local marine environment.
+* Explain how hormones used in aquaculture may affect marine ecology.
+5.5  Mitigation and Benefits
+* Discuss the beneficial effects of aquaculture.
+* Discuss the various factors and methods for mitigating the environmental effects of aquaculture.
+
+©Marine Institute	School of Fisheries
+	UGSC Approved – Rev. Feb./2021

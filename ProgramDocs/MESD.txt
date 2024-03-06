@@ -1,0 +1,146 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for .NET.
+3.1.3 Diploma of Technology - Marine Engineering Systems Design
+ 
+
+This program will be referred to as Marine Mechanical Design as of September 2024.
+
+ 
+
+Program Overview: Refer to Marine Engineering Systems Design Overview
+
+ 
+
+Admission Requirements: Refer to Section 1.2.5 - Admission Requirements for Diplomas of Technology and Technician Diplomas of this Calendar
+
+ 
+
+Credit Earned: Diploma of Technology
+
+ 
+
+Program Length: 3 years (6 academic terms, 3 technical sessions)
+
+ 
+
+Normal Start: Fall Semester
+
+ 
+
+Tuition and Fees: Programs and Fees
+
+ 
+
+Academic Department: School of Maritime Studies
+
+ 
+
+Contact: Admissions Officer
+(709) 778-0380
+1-800-563-5799 (ext. 380)
+email: admissions@mi.mun.ca
+
+ 
+
+Program Structure
+
+ 
+
+ 
+
+Fall Semester
+
+ (13 weeks)
+
+Winter Semester
+
+ (13 weeks)
+
+Technical Session
+
+(6 weeks)
+
+Year 1
+
+TERM 1
+CHEM 1100 (Chemistry)
+ENGR 1103 (Engineering Graphics)
+ENSY 1103 (Marine Systems)
+One of: MATH 1100 (Pre-Calculus)
+or
+MATH 1101 (Introduction to Calculus)
+NARC 1103 (Ships and Shipping)
+PHYS 1100 (Physics)
+
+TERM 2
+CMSK 1104 (Introduction to Technical Reporting)
+ENGR 1201 (Introduction to AutoCAD)
+FLDS 2100 (Fluid Mechanics)
+One of: MATH 1100 (Pre-Calculus)
+or
+MATH 1101 (Introduction to Calculus)
+or
+MATH 1200 (Calculus)
+MECH 2102 (Mechanics)
+NARC 1104 (Steel Ship Structure)
+PHYS 1200 (Physics)
+
+Technical Session 1
+
+Late April – Early June
+ENSY 2000 (Ship Engineering Design Process)
+NARC 1101 (Ship Hull Geometry)
+WKPR 2119 (Workshop Practice)
+
+Year 2
+
+TERM 3
+ELTK 1100 (Electrotechnology)
+NARC 2107 (Ship Building)
+ENSY 2200 (Auxiliary Systems I)
+MATH 1200 (Calculus)
+MTPR 2100 (Strength of Materials)
+MTPR 2104 (Materials and Processes)
+TRMO 2100 (Thermodynamics)
+
+TERM 4
+ELTK 1200 (Electrotechnology)
+ENSY 2102 (Propulsion Technology)
+ENSY 2201 (Auxiliary Systems II)
+MATH 2101 (Advanced Calculus)
+MTPR 3100 (Strength of Materials)
+STAT 2108 (Applied Statistics)
+
+Technical Session 2     
+
+Late April – Early June
+
+ENSY 2202 (Ship’s Spaces Ventilation)
+ENSY 3000 (Cold Environment Design)
+TRMO 3101 (Applied Thermodynamics - Refrigeration and Air Conditioning)
+
+Year 3
+
+Term 5
+
+CNTL 2302 (Instrumentation, Controls and Automation)
+ELTK 2102 (Marine Electrical Systems)
+
+NARC 2201 (Resistance and Propulsion)
+ENSY 3103 (Ship Stability for MESD)
+ENSY 3300 (Ship Engineering Project)
+TRMO 2200 (Thermodynamics)
+
+Term 6
+BSMG 3206 (Feasibility and Economics in Ship Design)
+ENSY 3301 (Ship Engineering Project)
+ENSY 3302 (Marine Electrical Project)
+ENSY 3303 (Auxiliary Machinery Arrangement)
+ENSY 3304 (Piping Arrangement Design)
+TRMO 3103 (Thermodynamics)
+
+Technical Session 3
+
+Late April – Early June
+NARC 3209 (Offshore Installations and Productions)
+ENSY 3305 (Project Presentation)
+FLDS 2201 (Marine Hydraulics)

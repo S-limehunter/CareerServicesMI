@@ -1,0 +1,340 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for .NET.
+AQUA 4113
+(Aquaculture Engineering)
+
+TYPE AND PURPOSE:	This course is designed to provide students with an understanding of engineering principles as they apply to aquaculture technology.
+
+CALENDAR ENTRY:	Properties of Water; Water Supply; Mechanics of Fluids; Water Level and Flow Measurement; Pumps; System Construction Materials; Pond Systems; Effluent and Filtration; Recirculation Systems; Disinfection; Aeration; Degassing; Heating and Cooling; Cage Systems
+
+SCHEDULE:	Duration: 	13 weeks
+Lectures: 	  4 hours per week = 52 total hours
+Laboratories: 	  2 hours every second week = 12 total hours
+
+COURSE AIMS:	To enable the student to:
+1)  Define the physical-biological parameters of the aquatic environment of interest to culturists and fisheries people and to describe the influence and importance of these parameters on/to aquatic organisms from an engineering viewpoint.
+2)  Present engineering information in a form that makes it readily usable by biologists, aquaculturists, students and others who have a basic knowledge of chemistry, physics and algebra.
+3)  Supply handbook design data for practicing aquacultural engineers, hatchery managers and others concerned with the culture of aquatic organisms.
+
+EVALUATION:	Term Projects	30%
+Mid-term Exam	30%
+Final Exam	40%
+
+Total	100%
+
+NOTE:
+Attendance in all laboratory/practical classes is mandatory. Failure to attend, without a satisfactory documented reason, for example a medical certificate issued by a doctor, will mean that the maximum grade possible for this course will be 60 percent.
+
+
+MAJOR TOPICS:	1.0 	Properties of Water
+2.0 	Water Supply
+3.0 	Mechanics of Fluids
+4.0 	Water Level and Flow Measurement
+5.0 	Pumps
+6.0 	System Construction Materials
+
+
+©Marine Institute	School of Fisheries
+	GSC Approved – Rev. March/2021
+9		AQUA 4113 (Aquaculute Engineering)
+7.0 	Pond Systems
+8.0  	Effluent and Filtration
+9.0  	Recirculation Systems
+10.0 	Disinfection
+11.0 	Aeration
+12.0 	Degassing
+13.0 	Heating and Cooling
+14.0 	Cage Systems
+
+
+©Marine Institute	School of Fisheries
+	GSC Approved – Rev. March/2021
+9		AQUA 4113 (Aquaculute Engineering)
+COURSE OUTLINE:
+
+1.0 Properties of Water
+
+2.0  Water Supply
+2.1  Water Quantity
+2.2  Water Quality
+2.3  Water Sources
+
+3.0  Mechanics of Fluids
+3.1  Fluid Statics
+3.2  Fluid Dynamics
+
+4.0  Water Level and Flow Measurement
+4.1  Water Level Measurement
+4.2  Water Conduit Water Flow Measurement
+4.3  Open Channel Water Flow Measurement
+
+5.0  Pumps
+5.1  Definitions
+5.2  Pump Classification
+5.3  Pump Sizing
+
+6.0  System Construction Materials
+6.1  Review of Types of Holding Systems
+6.2  Pipes and Fit tings
+6.3  Other Construction Considerations
+
+7.0  Pond Systems
+7.1  Site Selection
+7.2  Soil Structure
+7.3  Water Sources
+7.4  Pond Size/Shape/Depth
+7.5  Pond Structure
+
+8.0  Effluent and Filtration
+8.1  Effluent Wastes
+8.2  Filtration
+
+9.0  Recirculation Systems
+9.1  Uses of Recirculation Systems
+9.2  Typical Components
+
+10.0  Disinfection
+10.1  Purpose of Disinfection
+10.2  Disinfection Method
+
+
+©Marine Institute	School of Fisheries
+	GSC Approved – Rev. March/2021
+9		AQUA 4113 (Aquaculute Engineering)
+11.0  Aeration
+11.1  Oxygen Transfer Process
+11.2  Aerator Types
+11.3  Efficiency of Aerators
+
+12.0  Degassing
+12.1  Supersaturation
+12.2  Degassing
+
+13.0  Heating and Cooling
+13.1  Heating and Heat Additions
+13.2  Cooling
+
+14.0  Cage Systems
+14.1  Cage Designs
+14.2  Forces on Cages
+14.3  Anchor Systems
+14.4  Advantages and Disadvantages of Cage Aquaculture
+14.5  Useful Life
+14.6  Incorporation of Mort Collection Device
+14.7  Weighting Net Bag
+14.8  Regular Monitoring
+14.9  Changing and Cleaning Net Bag
+
+
+©Marine Institute	School of Fisheries
+	GSC Approved – Rev. March/2021
+9		AQUA 4113 (Aquaculute Engineering)
+LEARNING OBJECTIVES:
+THE EXPECTED LEARNING OUTCOME IS THAT THE STUDENT WILL BE ABLE TO:
+
+1.0  Properties of Water
+* Define each of the following terms:
+a) Chemical Structure	b) Hardness
+c) Salinity	d) Specific Heat
+e) Density	f) Viscosity
+g) Thermal Conductivity
+
+2.0  Water Supply
+2.1  Water Quantity
+* Discuss the four major functions of water within aquaculture systems.
+a) Evaporation	b) Seepage
+c) Oxygen replenishment d) Waste disposal
+* Describe the methods of determining water quantity requirements.
+a) Oxygen replenishment b) Removal of wastes
+2.2  Water Quality
+* Review the water quality parameters of importance to aquaculture.
+2.3  Water Sources
+* Compare and contrast the various sources of water available to aquaculture operations.
+a) Groundwater	b) Surface water
+* Describe different types of intake structures and distribution systems.
+a) Diversion of surface water	b) Pumping from depth
+c) Header tank design and placement
+
+3.0  Mechanics of Fluids
+3.1  Fluid Statics
+* Define the following:
+a) Fluid statics	b) Pressure intensity
+c) Gauge pressure	d) Atmospheric pressure
+* Explain how fluid depth and pressure are related.
+* Determine the total pressure at different points within a water distribution system.
+* Describe methods of measuring pressure.
+3.2  Fluid Dynamics
+* Describe laminar and turbulent flow and explain how the Reynold's number is used to distinguish one from the other.
+* Discuss head loss and describe the method used to determine head loss within a piped system.
+* Determine total flow loss in a variety of piped systems.
+
+4.0  Water Level and Flow Measurement
+4.1  Water Level Measurement
+* Describe different types of level sensing devices.
+
+
+©Marine Institute	School of Fisheries
+	GSC Approved – Rev. March/2021
+9		AQUA 4113 (Aquaculute Engineering)
+4.2  Water Conduit Water Flow Measurement
+* Describe methods for the measurement of water flow in pipes and channels.
+a) Direct volume measurement	b) Differential pressure flowmeters
+c) Variable area flowmeters
+4.3  Open Channel Water Flow Measurement
+* Describe methods for the measurement of water flow in surface streams and rivers.
+a) Weirs	b) Flumes
+c) Flowmeters
+
+5.0  Pumps
+5.1  Definitions
+* Define the following terms:
+a) Net positive suction head	b) Pressure head
+5.2  Pump Classification
+* Outline the operating principles of the three main types of pumps:
+a) Centrifugal pumps	b) Reciprocating/positive displacement pumps
+c) Rotary pumps
+5.3  Pump Sizing
+* Outline the method used to size a pump for a system.
+
+6.0  System Construction Materials
+6.1  Review of Types of Holding Systems
+* Discuss the principles governing water supply to tanks, ponds and raceways.
+* Compare the relative advantages and disadvantages of gravity fed water supplies with pumped water supplies.
+* Detail the relative costs, availability and types of materials used in the fabrication of holding systems.
+a) Plastics	b) Metals
+c) Concrete	d) Wood
+6.2  Pipes and Fit tings
+* Detail the relative costs, advantages and disadvantages, and types of piping materials.
+a) Cast Iron	b) Steel
+c) Plastic
+* Explain plumbing fitting terminology and specification.
+6.3  Other Construction Considerations
+* Discuss the significance of the following:
+a) Electrical and standby power b) Monitoring and alarm systems
+c) Safety equipment
+
+7.0  Pond Systems
+7.1  Site Selection
+* Evaluate the major factors which must be considered when choosing pond sites.
+7.2  Soil Structure
+* Identify the basic types of soil.
+* Discuss the soil suitability classification for aquaculture.
+* Identify other farm site construction factors such as rocks, rock outcroppings, trees (stumps and roots), and other soil related factors.
+
+
+©Marine Institute	School of Fisheries
+	GSC Approved – Rev. March/2021
+9		AQUA 4113 (Aquaculute Engineering)
+7.3  Water Sources
+* Determine the quantity and quality of the water sources to be used in pond culture systems.
+* Determine the water source factors critical to positioning the pond structures.
+7.4  Pond Size/Shape/Depth
+* Outline the uses of the various pond types used in warm water fish culture, including spawning, fry, grow out and broodstock ponds.
+* Review the production plans of proposed farm sites and determine the pond requirements.
+* Prepare sketches of the farm layout to include pond size(s), shape and depth. Include details of water supply and discharge/drainage.
+7.5  Pond Structure
+* Describe the basics of retaining wall structures to illustrate the wall slope, crest, base widths and slope of the pond bottom.
+* Outline the design and function of the basic types of pond inlet, outlet and overflow types.
+* Describe the basic methods used to mark out the pond walls, height, inlet/outlet positions and wall construction.
+* Describe methods used to finish pond walls, to complete landscape and to use predator fencing.
+
+8.0  Effluent and Filtration
+8.1  Effluent Wastes
+* Describe the physical and chemical characteristics of fish farm effluent.
+* Describe the effects of fish farm effluent on receiving waters.
+* Outline the design and function of settlement systems for the primary treatment of fish farm effluent.
+* Describe the legal framework of pollution control.
+8.2  Filtration
+* Outline the design and function of the various types of filters used in aquaculture systems.
+a) Mechanical filters	b) Gravitational separation/sedimentation
+c) Chemical filters	d) Biological filters
+
+9.0  Recirculation Systems
+9.1  Uses of Recirculation Systems
+* Describe the uses and limitations of water re-use and recycling techniques in fish culture.
+* Describe the sources of toxic metabolites in fish culture water and their effects on fish.
+9.2  Typical Components
+* Describe/review typical components of water recirculation systems.
+* Discuss the following functions:
+a) Settlement systems	b) Physical filtration
+c) Ion-exchange units	d) Biological filters
+e) Sterilization units	f) Aeration devices
+g) Heaters	h) Heat exchangers
+i) Cooling units	j) Fish holding units
+
+
+©Marine Institute	School of Fisheries
+	GSC Approved – Rev. March/2021
+9		AQUA 4113 (Aquaculute Engineering)
+10.0  Disinfection
+10.1  Purpose of Disinfection
+* Discuss the function and importance of water disinfection.
+10.2  Disinfection Method
+* Compare the relative advantages and disadvantages of the following disinfection methods:
+a) Chlorination	b) Heat
+c) Ultraviolet light	d) Ozone
+11.0  Aeration
+11.1  Oxygen Transfer Process
+* Describe the physical and chemical principles governing the oxygenation of water.
+11.2  Aerator Types
+* Describe the types and uses of aeration/oxygenation equipment in fish culture.
+a) Diffusion systems	b) Hydraulic systems
+c) Air-lifts/U-tubes	d) Venturi devices
+e) Oxygen injection
+11.3  Efficiency of Aerators
+* Describe methods for determining the efficiency of aeration/oxygenation equipment.
+
+12.0  Degassing
+12.1  Supersaturation
+* Explain what is meant by supersaturation and describe the significance.
+12.2  Degassing
+* Describe the types and uses of degassing equipment in fish culture.
+a) Packed columns	b) Pressurized packed columns
+
+13.0  Heating and Cooling
+13.1  Heating and Heat Additions
+* Identify the various sources of heat in a system.
+* Calculate the amount of heat necessary to keep a tank at a given temperature.
+13.2  Cooling
+* Calculate the heat that must be removed to keep a tank at a constant temperature.
+* Size commercial cooling systems.
+
+14.0  Cage Systems
+14.1  Cage Designs
+* Identify the following parts of a cage: mesh, frame, floats and sinks, anchor, access.
+* List the basic types of cages
+* Explain the difference between fixed and floating cages.
+* Describe the construction and function of the following cage systems:
+a) Bag systems	b) Frame systems
+c) Collar	d) Joins
+e) Hand rails
+14.2  Forces on Cages
+* Calculate forces from the following: current, wave, wind.
+* Explain how forces on a cage will affect cage design.
+
+* Explain the factors that affect the rate of water exchange through a cage.
+* Explain what a farmer can do to maximize water exchange when designing an aquaculture cage.
+14.3  Anchor Systems
+* Identify the parts of an anchor system.
+* Describe how an anchor system acts to prevent movement.
+* Explain the difference between the two basic types of mooring systems.
+* Identify and briefly explain the mooring patterns often utilized for groupings of square, octagonal and round cages.
+* Explain how cage orientation can affect the stress on various components of the cages.
+* List the various components of a mooring system and the function of each.
+* List and briefly describe the different types of anchors.
+* Explain the advantages and disadvantages of each type of anchor.
+* State the useful life of various components of a mooring system.
+14.4  Advantages and Disadvantages of Cage Aquaculture
+* List the advantages and disadvantages of cage aquaculture.
+14.5  Useful Life
+* Compare the useful life of cage collars constructed of wood, steel, aluminum, rubber or plastic.
+14.6  Incorporation of Mort Collection Device
+* Explain what a mort collection device is and give its primary function.
+* Explain the important features that should be present in a mort collection device.
+14.7  Weighting Net Bag
+* Explain why net bags are normally weighted.
+* Identify materials used in the weighing of net bags.
+14.8  Regular Monitoring
+* Explain why it is important to regularly monitor the condition of the cage collar joints, the flotation, the net bag and the mooring lines.
+14.9  Changing and Cleaning Net Bag
+* Explain the series of steps one must carry out to change and clean a fouled net bag.©Marine Institute	School of Fisheries
+	GSC Approved – Rev. March/2021

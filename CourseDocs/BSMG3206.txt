@@ -1,0 +1,401 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for .NET.
+BSMG 3206
+(Feasibility and Economics in Ship Design)
+
+
+
+©Marine Institute
+School of Maritime Studies UGSC Approved - Feb./2018
+
+TYPE AND PURPOSE:
+
+
+CALENDAR ENTRY:
+
+
+
+
+PREREQUISITES: SCHEDULE: COURSE AIMS:
+
+
+
+
+
+EVALUATION:
+
+This course addresses engineering economics, and its application in design concepts, quality and the complex relationship and framework of design within the shipyard and ship production.
+
+Shipyard Business Structure; Work Flow and Ship Production; Basic Concepts of Engineering Economy; Economic Decision Making Theory; Analysis of Multiple Alternatives; Tendering, Cost Estimating and Bid Packages; Maritime Law and Ship Management; Surveying and
+Dry-docking; Effective Resource Management MATH 1100 (Pre-Calculus)
+Duration:	4 hours per week for 13 weeks (52 hrs.)
+
+1)  To provide the student with the basic concepts of economic analysis
+
+2)  To enable the student to use various techniques to make an economic decision between alternatives in design.
+
+3)  To familiarize students with the basics of the shipyard set up and how ships are produced and maintained through dry-docking
+
+Assignments	30%
+
+Term Tests	30%
+
+
+©Marine Institute
+School of Maritime Studies UGSC Approved - Feb./2018
+
+
+Final exam	40%
+
+
+
+©Marine Institute
+School of Maritime Studies UGSC Approved - Feb./2018
+
+
+
+MAJOR TOPICS:
+Total	100%
+
+1.0 Shipyard Business Structure
+
+2.0 Work Flow and Ship Production
+
+3.0 Basic Concepts of Engineering Economy
+
+4.0 Economic Decision Making Theory
+
+5.0 Analysis of Multiple Alternatives
+
+6.0 Tendering, Cost Estimating and Bid Packages
+
+7.0 Maritime Law and Ship Management
+
+8.0 Surveying and Dry-docking
+
+9.0 Effective Resource Management
+
+
+©Marine Institute
+School of Maritime Studies UGSC Approved - Feb./2018
+
+2	BSMG 3206 (Feasibility and Economics in Ship Design)
+
+COURSE OUTLINE:
+1.0 Shipyard Business Structure
+1.1.  Corporate Objectives
+1.2.  Impact of Leadership on the Organization
+1.3.  The Manager, Project Manager
+
+2.0 Work Flow and Ship Production
+2.1.  Drawing Office Procedures
+2.2.  Plan Preparation and Approval
+2.3.  Discuss Stock Control Methods
+
+3.0 Basic Concepts of Engineering Economy
+3.1.  Interest and Equivalence
+3.1.1.  Definition of Interest
+3.1.2.  Interest Rate
+3.1.3  Equivalence
+3.1.4  Present Worth
+3.2.  Financial Mathematics
+3.2.1  Single Payment Formulas
+3.2.2  Uniform Annual Series Formulas
+3.2.3  Functional Symbols
+3.2.4  Solving Interest Problems
+3.2.5  Nominal and Effective Interest Rates
+3.2.6  Uniform Gradient Series
+
+4.0 Economic Decision Making Theory
+4.1.  Equivalent Uniform Annual Cash Flow
+4.1.1  Annual Cost Comparison
+4.1.2  Cash Flow Tabulation
+4.1.3  Salvage Value
+4.1.4  Alternatives with Different Lives
+4.1.5  Alternatives with Prepetual Lives
+4.2.  Present Worth Analysis
+4.2.1  Economic Comparison by Calculating Total Present Worth
+4.2.2  Capitalized Cost
+4.2.3  Planning for Growth
+4.2.4  Valuation of a Bond
+4.3.  Rate of Return Analysis
+4.3.1  Rate of Return of Net Cash Flow
+4.3.2  Estimating the Rate of Return
+4.3.3. Investment Period Extending over Several Years
+4.3.4 Rate of Return on Alternate Investment
+4.4.  Benefit-Cost Ratio Analysis
+
+5.0 Analysis of Multiple Alternatives
+5.1.  Rate of Return
+5.2.  Table Construction
+5.3.  Rate of Return on Total Investment
+
+
+©Marine Institute
+School of Maritime Studies UGSC Approved - Feb./2018
+
+BSMG 3206 (Feasibility and Economics in Ship Design)	3
+
+5.4.  Incremental Analysis
+5.5.  Ship Life Cycle Cost Analysis
+
+6.0 Tendering, Cost Estimating and Bid Packages
+6.1.  The Owners Request for Tenders
+6.2.  Standard Format for Government Proposals to Tender
+6.3.  Construction Contract Bonds
+6.4.  Design check and Cost Estimating
+6.5.  Bid Packages
+
+7.0 Maritime Law and Ship Management
+7.1.  Maritime Law
+7.2.  Law of the Sea
+7.3.  Preventive Maintenance of Ships
+
+8.0 Surveying and Dry-docking
+8.1.  Types of Ship Surveys
+8.2.  Dry-Docking Preparation
+
+9.0    Effective  Resource Management
+9.1.  Communication
+9.2.  Teamwork Principles
+9.3.  Managerial and Leadership Principles
+9.4.  Situational Awareness
+9.5.  Error Chain
+
+
+©Marine Institute
+School of Maritime Studies UGSC Approved - Feb./2018
+
+4	BSMG 3206 (Feasibility and Economics in Ship Design)
+
+LEARNING OBJECTIVES:
+THE EXPECTED LEARNING OUTCOME IS THAT THE STUDENT WILL BE ABLE TO:
+
+1.0 Shipyard Business Structure
+1.1.  Corporate Objectives
+* Discuss sample corporate image and objectives, rationale behind having goals and objectives.
+1.2.  Impact of Leadership on the Organization
+* Discuss proper delegation of authority
+1.3.  The Manager, Project Manager
+* Discuss managerial qualities and logical steps in organizing.
+* Discuss the role and responsibilities.
+
+2.0 Work Flow and Ship Production
+2.1.  Drawing Office Procedures
+* Discuss the procedures, organization and job responsibilities of chief draftsman and section leaders.
+2.2.  Plan Preparation and Approval
+* Discuss drawing control, and who approves.
+2.3.  Discuss Stock Control Methods
+* Explain all stages of material preparation.
+* Discuss the impact of advance outfitting on shipbuilding techniques.
+* Discuss the estimating requirements employed in the shipbuilding process.
+
+3.0 Basic Concepts of Engineering Economy
+3.1.  Interest and Equivalence
+3.1.1.  Definition of Interest
+* Define interest with respect to loans and investments.
+3.1.2.  Interest Rate
+* Define interest rate.
+3.1.3.  Equivalence
+* Compare various methods of loan payback.
+* Explain equivalence in reference to economy studies.
+3.1.4.  Present worth
+* Define present worth.
+3.2.  Financial Mathematics
+3.2.1.  Single Payment Formulas
+* Derive the compound amount formula.
+* Derive the present worth formula.
+3.2.2.  Uniform Annual Series Formulas
+* Derive the series compound amount formula.
+* Derive the sinking fund factor.
+* Derive the series present worth factor
+* Derive the capital recovery factor.
+
+
+©Marine Institute
+School of Maritime Studies UGSC Approved - Feb./2018
+
+BSMG 3206 (Feasibility and Economics in Ship Design)	5
+
+3.2.3.  Functional Symbols
+* Express the interest formulas by means of functional symbols.
+* Use interest tables to determine factors.
+3.2.4.  Solving Interest Problems
+* Solve a variety of problems using interest factors.
+3.2.5.  Nominal and Effective Interest Rates
+* Define nominal and effective interest rates
+* Calculate effective rate of a loan payback.
+3.2.6.  Uniform Gradient Series
+* Define uniform gradient series.
+* Derive expression to convert gradient into annual series
+* Determine gradient factors from interest tables
+
+4.0 Economic Decision Making Theory
+4.1.  Equivalent Uniform Annual Cash Flow
+4.1.1.  Annual Cost Comparison
+* Calculate total annual cost of alternatives.
+4.1.2.  Cash Flow Tabulation
+* Prepare a cash flow table for alternatives
+* Explain the validity of total cash flow.
+4.1.3.  Salvage Value
+* Include salvage value in economy calculations.
+4.1.4.  Alternatives with Different Lives
+* Compare annual costs when alternatives have different lives.
+* Prepare a cash flow table for alternatives of different lives.
+4.1.5.  Alternatives with Perpetual Lives
+* Determine capital recovery factor when n=.
+* Calculate total annual cost of perpetual alternatives.
+4.2.  Present Worth Analysis
+4.2.1.  Economic Comparison by Calculating Total Present Worth.
+* Compare alternatives by calculating total present worth.
+4.2.2.  Capitalized Cost
+* Define capitalized cost.
+* Determine present worth factor when n=.
+* Determine capitalized costs of alternatives.
+4.2.3.  Planning for Growth
+* Explain why extra capacity may be installed initially.
+* Compare installation of extra capacity with deferring the investment.
+4.2.4.  Valuation of a Bond
+* Explain what is meant by a corporation bond.
+* Define valuation.
+* Calculate the purchase price of a bond to yield a specific interest rate.
+
+
+©Marine Institute
+School of Maritime Studies UGSC Approved - Feb./2018
+
+6	BSMG 3206 (Feasibility and Economics in Ship Design)
+
+4.3.  Rate of Return Analysis
+4.3.1.  Rate of Return of Net Cash Flow
+* Calculate rate of return of a cash flow series.
+4.3.2.  Estimating the Rate of Return
+* Estimate the rate of return by lump sum or average annual cost method.
+4.3.3.  Investment Period Extending over Several Years
+* Calculate rate of return on a proposal with a distributed investment.
+4.3.4.  Rate of Return on Alternate Investment
+* Compare two alternatives by calculating rate of return on the extra investment.
+4.4.  Benefit-Cost Ratio Analysis
+* Description of B/C Ratio Method
+* Define benefits as related to engineering projects. Describe the B/C ratio method of economic decision making.
+
+5.0 Analysis of Multiple Alternatives
+5.1.  Rate of Return
+* Define rate of return.
+5.2.  Table Construction
+* Prepare a table for rate of return analysis.
+5.3.  Rate of Return on Total Investment
+* Determine basic rate of return for each alternative.
+5.4.  Incremental Analysis
+* Perform incremental analysis using defender/challenger method to determine best alternative.
+* Determine best alternative by incremental analysis.
+5.5.  Ship Life Cycle Cost Analysis
+* Perform a life cycle cost analysis for a ship.
+
+6.0 Tendering, Cost Estimating and Bid Packages
+6.1.  The Owners Request for Tenders
+* Explain how the tendering process functions.
+* List types of instructions usually given in the tender request.
+6.2.  Standard Format for Government Proposals to Tender
+* Discuss features found in governmental tender documentation.
+6.3.  Construction Contract Bonds
+* Explain the function of each.
+6.4.  Design Check and Cost Estimating
+* Discuss design checks and their procedures.
+* Discuss the organization of cost estimating.
+* Describe how cost estimating can affect design changes.
+6.5.  Bid Packages
+* Describe bid packages and their formats.
+* Explain build strategies.
+
+
+©Marine Institute
+School of Maritime Studies UGSC Approved - Feb./2018
+
+BSMG 3206 (Feasibility and Economics in Ship Design)	7
+
+7.0 Maritime Law and Ship Management
+7.1.  Maritime Law
+* Explain that maritime law is a body of laws, conventions and treaties that governs international private business or other matters involving ships, shipping or crimes occurring on open water.
+* Explain that Maritime Law is governed by a separate code and is a separate jurisdiction from national laws.
+* Explain that public maritime law is enforced through surveys, inspection, and certification and/or by imposing penal sanctions such as fines and imprisonment, ship's detention and/or administrative procedures including inspection of certificates, records.
+* Explain the role of flag state, coastal state and port state jurisdictions.
+7.2.  Law of the Sea
+* State the Law of the Sea Convention
+* Explain the Law of the Sea Convention defines the rights and responsibilities of nations in their use of the world's oceans, establishing guidelines for businesses, the environment and the management of marine natural resources.
+* Discuss Protection and Preservation of the Marine Environment.
+7.3.  Preventive Maintenance of Ships
+* Discuss how preventive maintenance of ships is conducted
+* Discuss ow preventive measures are incorporated into ship design.
+
+8.0 Surveying and Dry-docking
+8.1.  Types of Ship Surveys
+* Explain the types of surveys a ship is subjected to, including but not limited to: Initial survey; Renewal survey; Periodical survey; Intermediate survey; Annual survey; Inspection of ships' bottoms; Additional surveys
+* Explain the purpose of ships' surveys.
+* Describe the purpose of a special survey.
+* Explain how surveys are conducted in dry-dock and in-water.
+8.2.  Dry-Docking Preparation
+* Explain how to prepare a dry-dock specification.
+* Discuss the preparations requiring for dry-docking and un-docking.
+* Outline the typical requirements for the supply of electrical power, fresh water and sanitation facilities while the ship is in dry-dock.
+* Describe the special arrangements for the prevention of fires and explosions while the ship is on dry dock.
+* Explain how fuel oil and water tanks are managed during dry-dock.
+* Discuss required planning, when dry-docking, for vessel layup/reactivation.
+
+9.0    Effective  Resource Management
+9.1.  Communication
+* Discuss relevant use of verbal and non-verbal communication.
+* Discuss internal and external communication onboard a vessel.
+* Identify barriers to effective communication.
+* Discuss open loop and closed loop communication.
+* Identify cultural aspects which affect communications.
+* Discuss how different personality traits, behavior and attitudes affect communications.
+* Discuss strategies to prevent communication failures.
+
+
+©Marine Institute
+School of Maritime Studies UGSC Approved - Feb./2018
+
+8	BSMG 3206 (Feasibility and Economics in Ship Design)
+
+* Discuss effective questioning techniques.
+* Describe an effective briefing and debriefing.
+* Describe effective communications.
+* Explain NITS (Nature, Intentions, Time, Special Instructions).
+* Discuss how to communicate onboard and ashore with or without using NITS.
+9.2.  Teamwork Principles
+* Define a team.
+* Define a group.
+* Discuss the difference between a team and a group.
+* Explain "team of one" and its common uses.
+* Discuss the various kinds of teamwork.
+* Demonstrate and discuss the potential and limitation of teamwork.
+* Explain the roles and responsibilities of a team leader.
+9.3.  Managerial and Leadership Principles
+* Define different management styles.
+* Define different leadership styles.
+* Define different follower styles.
+* Identify when to use the appropriate leadership style to meet the needs of the team and situations.
+* Describe the roles and responsibilities of leaders and managers.
+* Discuss ways of assessing and improving personal leadership qualities and potential.
+* Explain ineffective leadership styles.
+* Explain assertive and the appropriate challenges and response.
+* Explain PACE (Probing for a better understanding, Alerting person of anomalies,
+* Consequence statement, Emergency warnings).
+* Discuss self-motivation and team motivation, including the importance of each.
+* Explain motivation techniques and practices.
+* Discuss accountability at the individual and corporate level.
+9.4.  Situational Awareness
+* Define situational awareness and give examples.
+* Define a near miss.
+* Discuss the importance of developing situational awareness.
+* Identify the challenges to obtain and maintain situational awareness.
+* Describe a "share mental model".
+* Describe general influences that create a loss of situational awareness.
+* Discuss links between automation, compliancy and boredom.
+* Identify corrective measures for automation, compliancy and boredom.
+9.5.  Error Chain
+* Describe an error chain.
+* Describe what makes up an error chain.
+* Describe the relationship between error chains and situational awareness.©Marine Institute
+School of Maritime Studies UGSC Approved - Feb./2018
+

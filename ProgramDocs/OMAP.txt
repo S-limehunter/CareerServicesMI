@@ -1,0 +1,130 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for .NET.
+3.1.6 Diploma of Technology - Ocean Mapping
+ 
+
+Program Overview: Refer to Ocean Mapping Technology Overview
+
+ 
+
+Admission Requirements: See Section 1.2.5 - Admission Requirements for Diplomas of Technology and Technician Diplomas of this Calendar. As per Section 1.2.1 - Non-Academic Requirements of the Calendar, proof of physical fitness through a valid medical certificate and a criminal records check are required.
+
+ 
+
+Credit Earned: Diploma of Technology
+
+ 
+
+Program Length: 3 years (6 academic terms, 3 technical sessions, 1 work term)
+
+ 
+
+Normal Start: Fall Semester
+
+ 
+
+Tuition and Fees: Programs and Fees
+
+ 
+
+Academic Department: School of Ocean Technology
+
+ 
+
+Contact: Admissions Officer
+(709) 778-0380
+1-800-563-5799 (ext. 380)
+email: admissions@mi.mun.ca
+
+ 
+
+Program Structure
+
+ 
+
+ 
+
+Fall Semester
+
+(13 weeks)
+
+Winter Semester
+
+(13 weeks)
+
+Technical Session
+
+(6 weeks) Late April – Early June)
+
+Summer Semester
+
+Year 1
+
+TERM 1
+CMSK 1104 (Introduction to Technical Reporting)
+ELTK 1100 (Electrotechnology)
+MATH 1100 (Pre-Calculus)
+ONGR 1200 (Descriptive Oceanography)
+PHYS 1105 (Physics)
+
+TERM 2
+CPSK 1200 (Introduction to Applied Programming)
+ELTK 1200 (Electrotechnology)
+MATH 1213 (Math for Mapmakers)
+OMAP 2000 (Underwater Acoustics Applications)
+STAT 2108 (Applied Statistics)
+
+Technical Session 1
+
+OMAP 1302 (Ocean Mapping Field Camp I)
+NASC 3309 (Introduction to Navigation)
+SFTY 1124 (Confined Space Entry Awareness)
+SFTY 1125 (Small Vessel Operator Proficiency)
+SFTY 1135 (Practical Boat Handling Skills)
+
+ 
+
+Year 2
+
+TERM 3
+ELTR 2119 (Marine Communications and Networking)
+GEOG 2103 (Introduction to Geographic Information Systems)
+GEOG 2201 (Intermediate Surveying Practice)
+MATH 1101 (Introduction to Calculus)
+ONGR 2203 (Applied Oceanography)
+
+TERM 4
+GEOG 2104 (Introduction to Geodesy)
+GEOG 2202 (Ocean Remote Sensing)
+MATH 2205 (App of Derivatives and Integration) (Calculus)
+OMAP 2200 (Sidescan Sonar and Geophysical Remote Sensing)
+OMAP 2201 (Multibeam Sonar)
+
+Technical Session 2     
+NASC 2107 (Radio Operator’s Certificate - Maritime Commercial)
+OMAP 2302 (Ocean Mapping Field Camp II)
+SFTY 1102 (Marine Basic First Aid)
+SFTY 1114 (STCW Basic Safety)
+
+
+
+
+ 
+
+Year 3
+
+TERM 5
+GEOG 3105 (Advanced Geospatial Data Management)
+GEOG 3201 (Advanced Survey Practices)
+GEOG 3403 (Electronic Navigational Chart Development Production)
+OMAP 3401 (Data Management Project I)
+
+TERM 6
+GEOG 3204 (Web-based Mapping and Application Development)
+OMAP 2100 (Advanced Tides and Water Levels)
+OMAP 3100 (Shipboard System Integration)
+OMAP 3202 (Specialized Hydrography)
+OMAP 3501 (Data Management Project II)
+
+Technical Session 3
+
+OMAP 3302 (Ocean Mapping Field Camp III)  

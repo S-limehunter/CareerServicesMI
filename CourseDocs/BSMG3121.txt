@@ -1,0 +1,334 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for .NET.
+BSMG 3121
+(Environmental Economics)
+
+TYPE AND PURPOSE: 	This course covers introductory economic theory with application to the global economic importance of the ocean economy. 
+
+CALENDAR ENTRY: 	Introduction to Economics; The Economic Problem; Demand and Supply; Elasticity; Efficiency and Equity; Fisheries Economics and Policy; Externalities; Environmental Damages; Costs and Benefits of Economic Efficiency; Government Actions in Markets; Global Markets; Utility and Demand; Output and Cost
+
+PREREQUISITES: 	None
+
+SCHEDULE: 		Duration: 	13 weeks
+Lectures: 	  3 hours/week = 39 hours
+
+COURSE AIMS: 	1) 	To familiarize the student with the basic concepts of microeconomics and how 		they are applied in environmental economics.
+
+2) 	To provide students with an understanding of the global economic importance of 		the ocean economy.
+
+3) 	To provide the student with an understanding of the importance of property rights		in managing common property natural resources and challenges in accounting		for negative environmental externalities.
+
+EVALUATION: 		Quiz			10%
+Midterm 			20%
+Assignments 		40%
+Final Examination 	30%
+Total		 	100%
+
+MAJOR TOPICS: 	1.0	Introduction to Economics
+
+2.0	The Economic Problem 
+
+3.0 	Demand and Supply
+
+4.0	Elasticity
+
+5.0	Efficiency and Equity
+
+6.0	Fisheries Economics and Policy 
+
+7.0	Externalities
+
+8.0	Environmental Damages
+
+9.0	Costs and Benefits of Economic Efficiency
+
+10.0	Government Actions in Markets
+
+11.0	Global Markets
+
+12.0	Utility and Demand
+
+13.0	Output and Cost
+
+COURSE OUTLINE:
+
+1.0  Introduction to Economics
+1.1  Economics as a Social Science 
+1.2  Scope of Economics
+1.3  The Economic way of thinking
+
+2.0  The Economic Problem
+2.1  Production Possibilities and Opportunity Cost
+2.2  Using Resources Efficiently
+2.3  Trade and Economic Growth
+2.4  Economic Coordination
+
+3.0  Demand and Supply 
+3.1  Demand
+3.2  Supply
+3.3  Market Equilibrium
+
+4.0  Elasticity
+
+5.0  Efficiency and Equity
+5.1  Resource Allocation Methods
+5.2  Benefit, Cost, and Surplus
+
+6.0  Fisheries Economics and Policy  
+6.1  Setting of Quotas
+6.2  Subsidies and Taxes 
+6.3  Individual and Transferable Quotas
+
+7.0  Externalities
+7.1  Externalities in Economics
+7.2  Negative Externality: Pollution 
+7.3  Positive Externalities: Knowledge
+7.4  Ocean Economy  
+
+8.0  Environmental Damages
+8.1  Estimation of damages due to pollution
+8.2  Policy
+8.3  Enforcement
+
+9.0  Costs and Benefits of Economic Efficiency
+9.1  Cost-Benefit Analysis
+9.2  Environmental Evaluation
+
+10.0  Government Actions in Markets
+10.1  Price Caps and Price Floors
+10.2  Taxes
+10.3  Production Quotas and Subsidies
+
+11.0  Global Markets
+11.1  How Global Markets Work 
+11.2  International Trade Restrictions
+11.3  Protectionism
+
+12.0  Utility and Demand
+12.1  Consumption Choices
+12.2  Maximizing Utility
+12.3  Prediction of Marginal Utility Theory
+12.4  Explaining Consumer Choices
+
+13.0  Output and Cost
+13.1  Economic Cost and Profit
+13.2  Short Run 
+13.3  Long Run
+
+
+LEARNING OBJECTIVES:   
+THE EXPECTED LEARNING OUTCOME IS THAT THE STUDENT WILL BE ABLE TO:
+
+1.0  Introduction to Economics
+1.1  Economics as a Social Science 
+* Define economics.
+* Discuss the difference between microeconomics and macroeconomics.
+1.2  Scope of Economics
+* State the two questions that summarize the scope of economics
+* List the factors of production and incomes derived from each  
+* Discuss how choices made in the pursuit of self-interest may promote social interests
+* Define the two dimensions of social interest 
+1.3  The Economic way of thinking
+* Define six key ideas that define the economic way of thinking
+* Distinguish between positive and normative statements.
+
+2.0  The Economic Problem
+2.1  Production Possibilities and Opportunity Cost
+* Define the production possibilities frontier (PPF).
+* Determine opportunity cost using the PPF.
+* Define production efficiency.
+2.2  Using Resources Efficiently
+* Explain marginal benefit and marginal cost.
+*  Define allocative efficiency.
+*  Illustrate production and allocative efficiency using the PPF.
+2.3  Trade and Economic Growth
+* Explain how specialization and trade expand production possibilities.
+* Define absolute and comparative advantage.
+* List and explain two key factors that influence economic growth.
+* State the cost of economic growth.
+2.4  Economic Coordination
+* Define four social institutions that coordinate the choices of individuals to reap the benefits from trade.
+* Illustrate and explain the circular flow of expenditures and incomes.
+
+3.0  Demand and Supply
+3.1  Demand
+* Define market and competitive market.
+* Explain the difference between wants and demand.
+* State the law of demand.
+* Explain why a change in price changes the quantity demanded.
+* Explain the difference between a change in demand and a change in quantity demanded.
+* List and describe four of six main factors that change demand.
+3.2  Supply
+* List assumptions of a firm that commits to supply a good or service.
+* State the law of supply. 
+
+* Explain the difference between a change in supply and a change in quantity supplied.
+* List and describe four of six main factors that change supply.
+3.3  Market Equilibrium
+* Define equilibrium price and equilibrium quantity.
+* Explain how price adjustments regulate quantity demanded and quantity supplied.
+* Describe the effects on price and quantity supplied following a change in demand.
+* Describe the effects on price and quantity demanded following a change in supply.
+
+4.0  Elasticity
+* Define elastic, unit elastic and inelastic.
+* Define, calculate, and explain the factors that influence the price elasticity of demand.
+* Define, calculate, and explain the factors that influence the income elasticity of demand and the cross elasticity of demand.
+* Define, calculate, and explain the factors that influence the elasticity of supply.
+
+5.0  Efficiency and Equity
+5.1  Resource Allocation Methods
+* Describe the alternative methods for allocating scarce resources.
+5.2  Benefit, Cost, and Surplus
+* Define Value, Willingness to Pay, and Value.
+* Explain what is meant by Consumer and Producer Surplus.
+* State the difference between cost and price. 
+* List and explain sources of market failure.
+
+6.0  Fisheries Economics and Policy  
+6.1  Setting of Quotas
+* State the most common problem with open access to a common pool fishery resource. 
+* Explain what is meant by carrying capacity of a fish stock and why it is important to know.
+* Define Maximum Sustainable Yield and explain why it is no longer used in setting fish quotas.
+* Define Maximum Economic Yield and explain why it is the preferred method of setting fish quotas.
+* Explain in economic terms why open access fishing presents a greater risk to overfishing than a single person fishing the same stock.
+* Discuss the conservation challenges of a common pool fishery resource when shared between inshore and offshore fishing sectors. 
+6.2  Subsidies and Taxes 
+* Define subsidy.
+* Explain common forms of subsidies and why they are used.
+* Discuss major disadvantages of using subsidies.
+* Explain how and why a fuel tax might provide mixed results when used for the purpose of reducing harvesting capacity.
+* State purposes for which taxes might be most appropriately used.
+6.3   Individual and Transferable Quotas
+* List and explain four negative effects of industry wide quotas.
+* Explain how limiting the period to harvest may affect the market supply and demand of the catch.
+* Define Individual Quota (IQ).
+* List two benefits to fishers of having IQ’s.
+* Explain the advantages and disadvantages of having a market to trade IQ’s.
+* Explain the relationship between marginal value and IQ’s
+7.0  Externalities
+7.1  Externalities in Economics
+* Define externality.
+* List and explain four types of externalities.
+7.2  Negative Externality: Pollution
+* Define private, external and social costs.
+* Define deadweight loss.
+* Calculate the value of a negative external cost.
+* Explain the effects of pollution regulation in determining how much of a good is produced.
+* List and describe three approaches to improving production efficiency due to poor pollution control.
+* Define Coase Theorem.
+* State conditions that must exist to apply the Coase Theorem.
+* Explain how government might use taxes and cap-and-trade to curb pollution.  
+7.3  Positive Externalities: Knowledge
+* Distinguish between marginal private benefit and marginal external benefit.
+* List and explain methods government can use to achieve a more efficient allocation of resources in the presence of external benefits. 
+7.4  Ocean Economy
+* Define Ocean Economy.
+* Describe how changing marine environmental conditions are generally affecting the ocean economy.
+* Explain some of the specific economic and socioeconomic impacts of changing marine environmental conditions due to climate change.  
+
+8.0  Environmental Damages
+8.1  Estimation of damages due to pollution
+* List information commonly contained in models used to determine environmental damage due to pollution.
+* Define ‘Willingness to Pay’ (WIP).
+* List and briefly explain three methods to value damages using the WIP approach.  
+8.2  Policy
+* State the two most common concerns with formulating policy to regulate environmental pollution.
+* List trade-offs implicit in all pollution control activities.
+* Define abatement.
+* Define what is meant by the socially efficient level of emissions. 
+* Describe the equimarginal principle in the context of determining the socially efficient level of emissions. 
+8.3  Enforcement
+* Describe how enforcement costs affect determination of efficient emission levels. 
+* Discuss two types of enforcement costs.
+
+9.0  Costs and Benefits of Economic Efficiency
+9.1  Cost-Benefit Analysis
+* State the objective of a cost-benefit analysis.
+* List the major limitation of using a cost-benefit analysis to evaluate a project, plan or policy.
+* Define present value.
+* Define discount rate.
+* List 4 common assumptions about the future state of the world included in a cost-benefit analysis. 
+
+9.2  Environmental Evaluation
+* Define the economic view of ‘value’.
+* Describe the process for valuing market goods versus non-market goods.
+* Explain the difference between indirect and direct use values.
+* List three methods of measuring indirect use value.
+* List and briefly explain two techniques for measuring value of non-market goods.
+
+10.0  Government Actions in Markets
+10.1  Price Caps and Price Floors
+* Define price ceiling.
+* Explain the effects of setting a price ceiling above or below a market equilibrium.
+* Define price floor.
+* Explain the effects of setting a price floor above or below a market equilibrium.
+10.2  Taxes
+* Define tax incidence.
+* Discuss the equivalence of a tax on buyer and sellers.
+* Describe the tax incidence of elasticity of demand and supply.
+* Define the benefits principle. 
+* Define the Ability-to-Pay principle.
+10.3  Production Quotas and Subsidies
+* Define production quota.
+* Explain the effects of production quotas on the market.
+* Explain the effects of subsidies on the market.
+
+11.0  Global Markets
+11.1  How Global Markets Work
+* Define imports and exports.
+* Define comparative advantage.
+* Explain the effects of international trade on the supply and demand of goods.  
+11.2  International Trade Restrictions
+* Define Tariff.
+* Explain what the gains and losses are from a government applying a tariff.
+* Define import quota. 
+* Explain what the gains and losses from a government applying an import quota.
+* Define export subsidies.
+11.3  Protectionism
+* List and briefly explain seven arguments given for restricting international trade.
+* Explain why protectionism does not penalize lax environmental standards. 
+
+12.0  Utility and Demand
+12.1  Consumption Choices
+* Define consumption possibilities and preferences.
+* Explain how a budget line limits consumption possibilities.
+* Define utility.
+12.2  Maximizing Utility
+* Define marginal utility and diminishing marginal utility.
+* Explain marginal utility and its relationship to diminishing marginal utility.
+* Construct a marginal utility and total utility schedule and curve.
+* State the utility-maximizing rule.
+* Define consumer equilibrium. 
+* Apply the utility-maximizing rule to calculate the consumption possibility that maximizes total utility.
+12.3  Prediction of Marginal Utility Theory
+* Illustrate how a change in the price of one good changes the demand of that good and other goods.
+*  Explain the paradox of value.
+12.4  Explaining Consumer Choices
+* Define behavioral economics.
+* List and briefly explain the impediments to rational choice.
+* Define the endowment effect.
+* Define neuroeconomics.
+
+13.0  Output and Cost 
+13.1  Economic Cost and Profit
+* Define firm and state its primary goal.
+* Distinguish between economic profit and accounting profit.
+* Explain a firm’s opportunity cost of production. 
+* Define sunk cost.
+* List and explain two decision making time frames.
+13.2  Short Run 
+* List and explain three concepts that describe the relationship between output and quantity of labour.
+* Explain the law of diminishing marginal returns.
+* List and explain three cost concepts.
+* Describe two primary factors that determine a firm’s cost.
+13.3  Long Run
+* Describe the production function.
+* Explain the marginal product of capital.
+* Define economies of scale.
+* Define diseconomies of scale.
+* Define constant returns to scale.
+* Explain minimum efficient scale.
+
+©Marine Institute		School of Fisheries
+		UGSC Approved – Rev. May/2020
+

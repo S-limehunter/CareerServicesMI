@@ -1,0 +1,421 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for .NET.
+AQUA 4103
+(Fish Health)
+
+TYPE AND PURPOSE:	This course is designed to provide an understanding of the
+epidemiology, pathology, diagnosis and treatment of major diseases affecting cultured species (primarily fish). The laboratory component  will address various diagnostic and applied techniques essential to fish and shellfish health management.
+CALENDAR ENTRY:	Introduction to the Disease Process; Anatomy and Physiology; Stress
+and the Disease Process; Immunity; Viral Diseases; Bacterial Diseases; Fungal Diseases; Parasitic Diseases; Non-Infectious Diseases; Disease Control; Legislation; Epidemiology
+PREREQUISITES:	SC 1807 (Safety in Science Lab (Lab Safety)) and SC 1808 (WHMIS)
+SCHEDULE:	Duration:	13 weeks
+Lectures:	26 hours (2 hours per week) Laboratories:	39 hours (3 hours per week)
+COURSE AIMS:	1)	To enable students to monitor fish health; to recognize stress and
+disease symptoms, to treat disease where applicable and to undertake disease preventative measures.
+
+2)	To enable students to gain an understanding of the framework of fish health legislation operating in Canada.
+
+EVALUATION:	Class Participation	5%
+
+Midterm Exam	25%
+
+Term Paper (10% presentation, 10% paper)	20%
+
+Final Exam (10% laboratory practical)	50%
+
+
+Total
+
+100%
+MAJOR TOPICS:
+1.0
+Introduction to the Disease Process
+
+
+2.0
+Anatomy and Physiology
+
+
+3.0
+Stress and the Disease Process
+
+
+4.0
+Immunity
+
+
+5.0
+Viral Diseases
+
+
+6.0
+Bacterial Diseases
+
+
+7.0
+Fungal Diseases
+
+
+8.0
+Parasitic Diseases
+
+
+9.0
+Non-Infectious Diseases
+
+
+10.0
+Disease Control
+
+
+11.0
+Legislation
+
+12.0 Epidemiology
+
+
+©Marine Institute
+School of Fisheries GSC Approved - Rev. May/2019
+
+2	AQUA 4103 (Fish Health)
+
+COURSE OUTLINE:
+
+1.0  Introduction to the Disease Process
+1.1  The Diseased State
+1.2  Disease Agents
+1.3  Disease and the Environment
+1.4  Control and Treatment
+
+2.0  Anatomy and Physiology
+2.1  External Anatomy
+2.2  Internal Anatomy
+2.3  Osmoregulation
+
+3.0  Stress and the Disease Process
+3.1  Disease Agents, Fish and the Environment
+3.2  Biological Stress
+3.3  Chemical Stress
+3.4  Physical Stress
+3.5  Management Stress
+
+4.0  Immunity
+4.1  Natural Defence Mechanisms
+4.2  The Immune System
+
+5.0  Viral Diseases
+5.1  Review of Biology of Viruses
+5.2  Major Viral Diseases
+
+6.0  Bacterial Diseases
+6.1  Review of Biology of Bacteria
+6.2  Major Bacterial Diseases
+
+7.0  Fungal Diseases
+7.1  Review of Biology of Fungi
+7.2  Major Fungal Diseases
+
+8.0  Parasitic Diseases
+8.1  Parasitology Concepts
+8.2  Protozoan Parasites
+8.3  Metazoan Parasites
+8.4  Parasites of Public Health Concern
+
+9.0  Non-Infectious Diseases
+9.1  Nutritional Diseases
+9.2  Environmentally-Induced Disorders
+9.3  Genetic Abnormalities
+
+
+©Marine Institute
+School of Fisheries GSC Approved - Rev. May/2019
+
+AQUA 4103 (Fish Health)	3
+
+10.0  Disease Control
+10.1  Disinfection
+10.2  Chemotherapy
+10.3  Antibiotics
+10.4  Vaccines and Immunostimulants
+10.5  On-farm Biosecurity
+
+11.0  Legislation
+11.1  Provincial
+11.2  Federal
+11.3  Fish Health Laboratories
+11.4  Future Considerations
+
+12.0	Epidemiology
+
+
+©Marine Institute
+School of Fisheries GSC Approved - Rev. May/2019
+
+4	AQUA 4103 (Fish Health)
+
+LEARNING OBJECTIVES:
+THE EXPECTED LEARNING OUTCOME IS THAT THE STUDENT WILL BE ABLE TO:
+
+1.0  Introduction to the Disease Process
+1.1  Diseased State
+* Define “diseases”.
+* Describe methods of disease transmission.
+1.2  Disease Agents
+* List common disease agents.
+1.3  Disease and the Environment
+* List environmental factors that can cause disease in fish.
+* Recognize symptoms of diseased fish.
+1.4  Control and Treatment
+* Describe the common methods used to control and treat diseases.
+
+2.0  Anatomy and Physiology
+2.1  External Anatomy
+* Identify the external features of fish.
+* Describe changes in external features associated with ill health.
+2.2  Internal Anatomy
+* Identify the internal organs of fish.
+* Define the function of the major organs.
+* Describe internal anatomical changes associated with ill health.
+2.3  Osmoregulation
+* Define “osmosis”.
+* Describe the relationship between osmoregulation and fish health.
+
+3.0  Stress and the Disease Process
+3.1  Disease Agents, Fish and the Environment
+* Define “stress”.
+* Describe the relationship between stress and disease.
+3.2  Biological Stress
+* Describe biological stressors.
+3.3  Chemical Stress
+* Describe chemical stressors.
+3.4  Physical Stress
+* Describe examples of physical stressors.
+3.5  Management Stress
+* Describe management policies to reduce biological, chemical and physical stress in a farm environment.
+
+4.0  Immunity
+4.1  Natural Defence Mechanisms
+* Discuss the natural defences of fish against diseases.
+
+
+©Marine Institute
+School of Fisheries GSC Approved - Rev. May/2019
+
+AQUA 4103 (Fish Health)	5
+
+4.2  The Immune System
+* Define “natural immunity” and “induced immunity”.
+* Describe the immune system and its function.
+* Describe the effect of stress on the immune system.
+
+5.  0	Viral Diseases
+5.1  Review of Biology of Viruses
+* Define “virus”, “virion”, and “capsid.”
+* Describe the structure, reproduction and metabolism of viruses.
+* Describe the method of culturing viruses.
+* Explain how to identify viruses.
+5.2  Major Viral Diseases
+* Describe the causative agent, the identification process and the symptoms of the following viral diseases:
+a)  Infectious Salmon Anaemia (ISA)
+b)  Nervous Necrosis Virus (NNV)
+c)  Infectious Pancreatic Necrosis (IPN)
+d)  Infectious Haematopoietic Necrosis (IHN)
+e)  Viral Haemorrhagic Septicaemia (VHS)
+f)  Other viral diseases of international importance
+* Describe management methods used to control each of the above.
+
+6.0  Bacterial Diseases
+6.1  Review of Biology of Bacteria
+* Define “bacteria”, “prokaryote”, “bacillus”, “cocci”, and “spirals.”
+* Describe the cell structure, reproduction and metabolism of bacteria.
+* Describe the methods for culturing bacteria.
+* Explain how to identify bacteria species.
+6.2  Major Bacterial Diseases
+* Describe the identification process, causative agent, clinical symptoms and possible treatment/prevention for each of the following bacterial diseases:
+a)  Diseases caused by Gram-Negative Bacteria
+i)  Furunculosis
+ii)  Vibriosis
+iii)  Bacterial Gill Disease
+iv)  Enteric Red Mouth Disease
+b)  Diseases caused by Gram-Positive Bacteria
+i)  Bacterial Kidney Disease
+ii)  Mycobacteriosis
+c)  Emerging Diseases
+i)  Salmonid Rickettsial Disease
+
+7.0  Fungal Diseases
+7.1  Review of Biology of Fungi
+* Define “fungus”, “hyphae”, “spores”, and “extracellular digestion.”
+* Describe the structure, reproduction and metabolism of fungi.
+* Describe fungi as infective pathogens.
+
+
+©Marine Institute
+School of Fisheries GSC Approved - Rev. May/2019
+
+6	AQUA 4103 (Fish Health)
+
+7.2  Major Fungal Diseases
+* Describe the causative agent, the identification process, clinical symptoms and possible treatment of the following fungal diseases:
+
+a)	Saprolegniasis
+b)
+Ichthyophoniasis
+c)	QPX
+d)
+Black Gill Disease
+d)	Hinge Disease
+e)
+Black Mat Disease
+f)	Crayfish Plague
+
+
+
+8.0  Parasitic Diseases
+8.1  Parasitology Concepts
+– Distinguish between the following terms:
+a)  ectoparasite and endoparasite
+b)  definitive and intermediate host
+c)  transport and accidental host
+d)  direct and indirect life cycles.
+8.2  Protozoan Parasites
+* Define “protozoa”, “eukaryote”, “organelles”, “cilia”, and “flagella.”
+* Describe the structure, reproduction and metabolism of protozoa.
+* Explain how to identify protozoan parasites.
+* Identify the organism, noting its clinical symptoms and describe the standard treatment/prevention protocols for each of the following protozoan parasites:
+
+a)
+Trichodina
+b)
+Ichthyobodo
+c)
+Ichthyopthirius
+d)
+Cryptobia
+e)
+Hematodinium
+f)
+Paramoeba
+g)
+Loma
+h)
+Myxosoma
+i)
+Kudoa
+j)
+Ceratomyxa
+k)
+MSX
+
+
+8.3  Metazoan Parasites
+* Define “metazoan”, “oviparous”, “viviparous”, “monoecious”, and “dioecious.”
+* Describe the structure, reproduction and metabolism of metazoan parasitic taxa.
+* Identify the organism, noting its clinical symptoms and describe the standard treatment/prevention protocols for each of the following metazoan parasites:
+
+a)
+Gyrodactylus
+b)
+Entobdella
+c)
+Cryptocotyle
+d)
+Diplostomum
+e)
+Diphyllobothrium
+f)
+Eubothrium
+g)
+Anisakis
+h)
+Pseudoterranova
+i)
+Anguillicola
+j)
+Lepeoptheiris
+k)
+Caligus
+l)
+Lernaeocera
+m)
+Ergasilus
+
+
+8.4  Parasites of Public Health Concern
+* Define “zoonosis.”
+* Identify aquatic parasites capable of infecting humans, noting source of infection and methods of prevention.
+
+
+©Marine Institute
+School of Fisheries GSC Approved - Rev. May/2019
+
+AQUA 4103 (Fish Health)	7
+
+9.0  Non-Infectious Diseases
+9.1  Nutritional Diseases
+– Describe the symptoms associated with each of the following when present in sub-optimal concentrations in commercial feeds:
+a)  Vitamins	b)	Minerals and Trace elements
+c)	Fatty Acids	d)	Mycotoxins
+– Describe a management policy for storage and handling of fish feeds.
+9.2  Environmentally-Induced Disorders
+– Describe the symptoms associated with each of the following environmentally induced disorders:
+a)  Asphyxiation	b)	Supersaturation
+c)	Intoxication	d)	Algal poisoning
+e)	Granulomas	f)	Lesions
+9.3  Genetic Abnormalities
+– Describe the symptoms associated with each of the following genetically induced disorders:
+a)  Skeletal Deformities	b)	Albinism
+
+10.0  Disease Control
+10.1  Disinfection
+* List commercially available disinfectants and relative efficacy of each.
+* List disinfectants approved for use in Canadian aquaculture.
+10.2  Chemotherapy
+* Distinguish between prophylactic and therapeutic treatments.
+* List commercially available chemotherapeutic agents and relative efficacy of each.
+* List chemotherapeutants approved for use in Canadian aquaculture.
+* Describe methods of treatment and calculate correct dosages.
+* Describe safe storage and handling procedures for chemotherapeutants.
+10.3  Antibiotics
+* Define “antibiotic”, “withdrawl”, “bacteriostatic” , “bacteriocidal” and “plasmid resistance.”
+* List commercially available antibiotics and relative efficacy of each.
+* List antibiotics approved for use in Canadian aquaculture.
+* Describe methods of treatment and calculate correct dosages.
+* Describe safe storage and handling procedures for antibiotics.
+10.4  Vaccines and Immunostimulants
+* Define “vaccine”, “immunostimulant”, “probiotic”, “monovalent” and “polyvalent.”
+* Describe types of vaccines and immunostimulants.
+* Describe methods of administration (bath, injection, oral) noting advantages and disadvantages of each.
+* List commercially available vaccines and immunostimulants, noting relative efficacy of each.
+* List vaccines approved for use in Canadian aquaculture.
+10.5  On-farm Biosecurity
+* Define biosecurity and describe its key components.
+* Design a farm health-management plan including use of disinfectants, chemotherapeutants, vaccines and immunostimulants.
+
+
+©Marine Institute
+School of Fisheries GSC Approved - Rev. May/2019
+
+8	AQUA 4103 (Fish Health)
+
+11.0  Legislation
+11.1  Provincial
+* Describe the implications of the Aquaculture Act on fish health management.
+* Describe the role of the Provincial government in fish health management.
+11.2  Federal
+* Define a “disease free farm”.
+* List ways the Fisheries Act effects fish health management policy on farms.
+* Define “notifiable diseases”, “OIE”, “reportable diseases”, “NAAHP” , and “CFIA”
+11.3  Fish Health Laboratories
+* List the private and public fish health laboratories in Canada.
+11.4  Future Considerations
+* Describe implications of environmental protection and food and drug regulations on fish farm management policy.
+* Recommend improvements to Canadian fish health regulations.
+* Discuss global trends in fish health protection legislation and the implications to the Canadian aquaculture industry.
+* Describe the principles of the National Aquatic Animal Health Program (NAAHP) .
+
+12.0  Epidemiology
+* Define prevalence and incidence.
+* Define sensitivity and specificity.
+* Describe how sensitivity, specificity and prevalence affects diagnostic testing.©Marine Institute
+School of Fisheries GSC Approved - Rev. May/2019
+

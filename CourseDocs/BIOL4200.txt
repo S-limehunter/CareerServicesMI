@@ -1,0 +1,391 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for .NET.
+BIOL 4200
+(Water and Wastewater Microbiology)
+
+TYPE AND PURPOSE:	This course is designed to provide students with an overview of the
+microbiology of water and wastewater treatment processes.
+
+CALENDAR ENTRY:	Water and Wastewater Treatment; Activated Sludge Process; Bulking
+and Foaming in Activated Sludge Plants; Biofilms and Attached  Microbial Growth; Waste Stabilization Ponds; Sludge Microbiology; Anaerobic Digestion of Wastewater and Sludge; Biological Aerosols and Bioodors from Wastewater Treatment Plants; Public Health Aspects of Wastewater and Biosolids Disposal; Water and Wastewater Disinfection; Microbiological Aspects of Drinking Water Distribution; Drinking Water Guidelines; Methods of Isolation and Identification of Microorganisms; Waterborne Pathogens and Parasites; Biotechnology and Pollution Control
+
+PREREQUISITE:	BIOL 4105 (Water and Wastewater Microbiological Analysis)
+SCHEDULE:	Duration:	13 weeks
+Lectures:	2 hours per week = 26 total hours
+
+COURSE AIM:	To enable the student to develop a comprehensive understanding of the
+microbiological aspects related to water and wastewater treatment processes.
+EVALUATION:	Assignments	30%
+
+Mid-term Exam	30%
+
+Final Exam	40%
+
+Total	100%
+
+MAJOR TOPICS:	1.0	Water and Wastewater Treatment
+
+2.0	Activated Sludge Process
+
+3.0	Bulking and Foaming in Activated Sludge Plants
+
+4.0	Biofilms and Attached Microbial Growth
+
+5.0	Waste Stabilization Ponds
+
+6.0	Sludge Microbiology
+
+7.0	Anaerobic Digestion of Wastewater and Sludge
+
+8.0	Biological Aerosols and Bioodors from Wastewater Treatment Plants
+
+9.0	Public Health Aspects of Wastewater and Biosolids Disposal
+
+10.0 Water and Wastewater Disinfection
+
+11.0 Microbiological Aspects of Drinking Water Distribution
+
+
+©Marine Institute
+School of Fisheries GSC Approved - Rev. May/2016
+
+BIOL 4200 (Water and Wastewater Microbiology)
+2
+
+12.0 Drinking Water Guidelines
+
+13.0 Methods of Isolation and Identification of Microorganisms
+
+14.0 Waterborne Pathogens and Parasites
+
+15.0 Biotechnology and Pollution Control
+
+
+©Marine Institute
+School of Fisheries GSC Approved - Rev. May/2016
+
+BIOL 4200 (Water and Wastewater Microbiology)
+2
+
+COURSE OUTLINE:
+1.0  Water and Wastewater Treatment
+1.1  Introduction
+1.2  History of Water and Wastewater Treatment Processes
+1.3  Overview of Water and Wastewater Treatment Processes
+
+2.0  Activated Sludge Process
+2.1  Introduction
+2.2  Description of Activated Sludge Process
+2.3  Biology of Activated Sludge Process
+2.4  Nutrient Removal
+2.5  Pathogen Removal
+
+3.0  Bulking and Foaming in Activated Sludge Plants
+3.1  Introduction
+3.2  Filamentous Bulking
+3.3  Control of Sludge Bulking
+3.4  Foaming in Activated Sludge
+3.5  Microbiology of Bulking and Foaming
+
+4.0  Biofilms and Attached Microbial Growth
+4.1  Introduction
+4.2  Biofilm Reactors
+4.3  Substrate Removal
+
+5.0  Waste Stabilization Ponds
+5.1  Introduction
+5.2  Stabilization Ponds
+
+6.0  Sludge Microbiology
+6.1  Sludge Processing
+6.2  Pathogens and Parasites in Sludge
+
+7.0  Anaerobic Digestion of Wastewater and Sludge
+7.1  Introduction
+7.2  Process Description
+7.3  Process Microbiology
+7.4  Factors Controlling Anaerobic Digestion
+7.5  Anaerobic Treatment of Wastewater
+
+8.0	Biological Aerosols and Bioodors from Wastewater Treatment Plants
+
+9.0  Public Health Aspects of Wastewater and Biosolids Disposal
+9.1  Introduction
+9.2  Pathogens in Biosolids
+
+
+©Marine Institute
+School of Fisheries GSC Approved - Rev. May/2016
+
+BIOL 4200 (Water and Wastewater Microbiology)
+2
+
+10.0  Water and Wastewater Disinfection
+10.1  Public Drinking Water Systems
+10.2  General Types of Contaminants
+10.3  Harmful Health Effects from Contaminated Water
+10.4  Disinfection
+10.5  Chlorine Disinfection
+10.6  Chloramination
+10.7  Chlorine Dioxide
+10.8  Ozone
+10.9  Ultraviolet Light
+10.10  Wastewater Irradiation
+
+11.0  Microbiological Aspects of Drinking Water Distribution
+11.1  Introduction
+11.2  Biofilms in Distribution Systems
+11.3  Pathogens in Distribution System
+11.4  Other Biological Problems with Water Treatment and Distribution Systems
+11.5  Drinking Water Quality at the Consumer Tap
+
+12.0  Drinking Water Guidelines
+12.1  Introduction
+12.2  Boil Water Advisory
+
+13.0  Methods of Isolation and Identification of Microorganisms
+13.1  Immunological Methods
+13.2  Molecular Methods
+
+14.0  Waterborne Pathogens and Parasites
+14.1  Mechanism of Disease Production by Microorganisms
+14.2  Bacterial Pathogens
+14.3  Viral Pathogens
+14.4  Protozoan Pathogens
+14.5  Helminth Pathogens
+
+15.0 Biotechnology and Pollution Control
+
+
+©Marine Institute
+School of Fisheries GSC Approved - Rev. May/2016
+
+BIOL 4200 (Water and Wastewater Microbiology)
+2
+
+LEARNING OBJECTIVES:
+THE EXPECTED LEARNING OUTCOME IS THAT THE STUDENT WILL BE ABLE TO:
+
+1.0  Water and Wastewater Treatment
+1.1  Introduction
+* State objectives of water and wastewater treatment.
+1.2  History of Water and Wastewater Treatment Processes
+* Outline the historical developments of water and wastewater treatment processes.
+1.3  Overview of Water and Wastewater Treatment Processes
+* List the hazards present in water/wastewater.
+* Briefly describe the water and wastewater treatment processes.
+
+2.0  Activated Sludge Process
+2.1  Introduction
+* State the objectives of activated sludge process.
+2.2  Description of Activated Sludge Process
+* Describe the components of activated sludge process.
+* Define and explain secondary clarifier, MLSS, MLVSS, HRT, F/M and SRT.
+* Discuss the modifications of the conventional activated sludge process.
+2.3  Biology of Activated Sludge Process
+* Identify the microorganisms that play an important role in the activated sludge process and their desired characteristics.
+* Discuss the process of organic matter oxidation in the activated sludge process.
+* Discuss the attributes of microorganisms that allow good settleability.
+* Define the term “SVI.”
+* Identify the microorganisms present in an activated sludge floc using appropriate techniques.
+2.4  Nutrient Removal
+* Explain how the activated sludge process removes nutrients.
+2.5  Pathogen Removal
+* Discuss the effects of the activated sludge process on pathogens.
+
+3.0  Bulking and Foaming in Activated Sludge Plants
+3.1  Introduction
+* Identify the problems related to solid separation in activated sludge plants.
+3.2  Filamentous Bulking
+* Identify the causes of filamentous bulking in activated sludge process.
+* List the organisms that cause filamentous bulking and the conditions that lead to their proliferation.
+3.3  Control of Sludge Bulking
+* Describe various approaches for controlling sludge bulking.
+3.4  Foaming in Activated Sludge
+* Identify the causes of foaming and the methods to control foaming.
+* List the microorganisms responsible for scum formation in activated sludge.
+
+
+©Marine Institute
+School of Fisheries GSC Approved - Rev. May/2016
+
+BIOL 4200 (Water and Wastewater Microbiology)
+2
+
+3.5  Microbiology of Bulking and Foaming
+* Identify different types of activated sludge flocs and the problems (if any) caused by these flocs.
+
+4.0  Biofilms and Attached Microbial Growth
+4.1  Introduction
+* Explain what a fixed biological process is.
+* Describe a fixed biofilm process and the advantages offered by this process.
+4.2  Biofilm Reactors
+* Provide the following information related to trickling filters and RBC:
+a.  Process description
+b.  Microorganisms involved
+c.  Advantages and disadvantages of the system
+d.  Pathogen removal
+4.3  Substrate Removal
+* Explain how nitrogen and phosphorus are removed during attached biological treatment processes.
+
+5.0  Waste Stabilization Ponds
+5.1  Introduction
+* Describe the process that occurs in waste stabilization ponds.
+* Classify different types of waste stabilization ponds.
+5.2  Stabilization Ponds
+* Describe the following aspects related to various types of waste stabilization ponds:
+a.  Description of pond system
+b.  Biology of the pond system
+c.  Pathogen removal process
+
+6.0  Sludge Microbiology
+6.1  Sludge Processing
+* Define the term “sludge.”
+* Identify various physical, chemical and biological treatments available for processing sludges generated by biological treatment processes.
+6.2  Pathogens and Parasites in Sludge
+* List the pathogens and parasites found in sludge.
+* Identify the types of treatments to reduce pathogen levels in sewage sludges.
+* Explain the effects of sludge treatment processes on inactivation of pathogens and parasites.
+* Discuss the epidemiological significance of the pathogens present in sludge.
+
+7.0  Anaerobic Digestion of Wastewater and Sludge
+7.1  Introduction
+* Identify the objectives of anaerobic digestion of wastewater and sludge.
+* Discuss the advantages and disadvantages of anaerobic sludge digestion process.
+7.2  Process Description
+* Describe briefly the sludge processing and treatment systems typically used in wastewater treatment.
+
+
+©Marine Institute
+School of Fisheries GSC Approved - Rev. May/2016
+
+BIOL 4200 (Water and Wastewater Microbiology)
+2
+
+7.3  Process Microbiology
+* Identify the microorganisms involved in the transformation of organic compounds to methane.
+7.4  Factors Controlling Anaerobic Digestion
+* List and discuss the factors that affect anaerobic digestion.
+7.5  Anaerobic Treatment of Wastewater
+* Discuss the microbiological aspects of the main types of anaerobic systems used in wastewater treatment.
+
+8.0  Biological Aerosols and Bioodors from Wastewater Treatment Plants
+* Explain how biological aerosols and bioodors are produced from wastewater treatment plants.
+* Identify the health hazards of biological aerosols generated by wastewater treatment operations.
+* Identify the odor-causing compounds and the preventative and treatment methods for odor control in wastewater treatment plants.
+* Classify different types of odors associated with wastewater treatment plants.
+
+9.0  Public Health Aspects of Wastewater and Biosolids Disposal
+9.1  Introduction
+* Discuss the public health aspects regarding the disposal of wastewater effluents and biosolids in the environment.
+9.2  Pathogens in Biosolids
+* Identify the factors governing the transport of microbial pathogens through soils and water.
+* Discuss the factors affecting the persistence of pathogens in soil.
+
+10.0  Water and Wastewater Disinfection
+10.1  Public Drinking Water Systems
+* List the common sources of drinking water.
+* Define “potable” or “safe drinking water.”
+10.2  General Types of Contaminants
+* Name common contaminants of drinking water.
+10.3  Harmful Health Effects from Contaminated Water
+* Discuss the harmful health effects of drinking unsafe water.
+10.4  Disinfection
+* List various methods used for disinfection of water.
+* Discuss the influence of various factors that control disinfection of water and wastewater.
+10.5  Chlorine Disinfection
+* Discuss the mechanism of action of chlorine on microorganisms.
+* Describe the types of reactions that occur when chlorine gas, hypochlorite, chlorites, etc., are added to water.
+* Describe the effect of chlorine on microorganisms.
+10.6  Chloramination
+* Discuss the biological effect of inorganic chloramines.
+* Describe the toxicological aspects of chloramines.
+
+
+©Marine Institute
+School of Fisheries GSC Approved - Rev. May/2016
+
+BIOL 4200 (Water and Wastewater Microbiology)
+2
+
+10.7  Chlorine Dioxide
+* Identify the effect of chlorine dioxide on microorganisms.
+* Discuss the mode of action and toxicity of chlorine dioxide.
+10.8  Ozone
+* Discuss the mechanism of action of ozone on microorganisms.
+10.9  Ultraviolet Light
+* Describe the effect of UV on microorganisms.
+* Discuss the inactivation of pathogens by UV radiation.
+* Identify the variables affecting UV action.
+10.10  Wastewater Irradiation
+* Discuss the effectiveness of gamma radiation and high -energy electron beams on microorganisms present in wastewater.
+
+11.0  Microbiological Aspects of Drinking Water Distribution
+11.1  Introduction
+* Identify the causes of water quality deterioration during storage and transfer of water through a distribution system.
+* List the factors that promote the growth of bacteria in the distribution system.
+11.2  Biofilms in Distribution Systems
+* Explain the term “biofilms.”
+* Explain how biofilms are formed in the distribution system.
+* Identify the processes that contribute to biofilm development on surfaces exposed to water flow.
+* List advantages and disadvantages of biofilms in drinking water.
+11.3  Pathogens in Distribution System
+* Explain the significance of pathogens present in a distribution system.
+* Give an account of conditions that enable the growth of pathogens and indicators in a distribution system.
+11.4  Other Biological Problems with Water Treatment and Distribution Systems
+* Identify biological problems related to drinking water and distribution systems.
+11.5  Drinking Water Quality at the Consumer Tap
+* Describe the effect of service lines on drinking water quality.
+* Identify the advantages and the potential concerns with point of use devices for water treatment.
+
+12.0  Drinking Water Guidelines
+12.1  Introduction
+* Identify the microbiological guidelines of drinking water in Canada.
+12.2  Boil Water Advisory
+* Define boil water advisory and discuss its importance.
+* Explain why and when a boil water advisory is issued.
+
+13.0  Methods of Isolation and Identification of Microorganisms
+13.1  Immunological Methods
+* Discuss advantages and disadvantages of immunological methods for isolation and identification of microorganisms from water.
+* Define ”antibody” and “antigen.”
+
+
+©Marine Institute
+School of Fisheries GSC Approved - Rev. May/2016
+
+BIOL 4200 (Water and Wastewater Microbiology)
+2
+
+* Define “monoclonal antibody” and identify their advantage over conventional antibody production.
+* Explain different types of antigen-antibody reactions.
+* Explain how immunoprecipitation and immunodiffusion tests are used for identification of an unknown microorganism or microbial toxins.
+* Discuss how agglutination tests are used for identification of an unknown microorganism.
+* Explain how fluorescent antibody technique works to identify unknown microorganisms.
+* Explain how indirect ELISA test works to detect an unknown antigen.
+13.2  Molecular Methods
+* Discuss the advantages and disadvantages of molecular methods for identification of unknown microorganisms.
+* Describe nucleic acid hybridization.
+* Define “nucleic acid probe” and explain how DNA probes are used to identify unknown microorganisms.
+* Diagram the southern blotting and discuss its use for identification of an unknown microorganism.
+* Outline the steps in polymerase chain reaction and discuss its use for identification of an unknown microorganism.
+* Describe the manufacture and use of microarrays.
+
+14.0  Waterborne Pathogens and Parasites
+14.1  Mechanism of Disease Production by Microorganisms
+* Discuss how microorganisms produce a disease.
+14.2  Bacterial Pathogens
+* Describe the properties, disease produced by, symptoms, and control of disease produced by waterborne bacterial pathogens.
+14.3  Viral Pathogens
+* Describe the properties, disease produced by, symptoms, and control of disease produced by waterborne viral pathogens.
+14.4  Protozoan Pathogens
+* Describe the properties, disease produced by, symptoms, and control of disease produced by waterborne protozoan pathogens.
+14.5  Helminth Pathogens
+* Describe the properties, disease produced by, symptoms, and control of disease produced by waterborne helminth pathogens.
+
+15.0  Biotechnology and Pollution Control
+* Explain the term “biotechnology” as applied to pollution control.
+* Discuss the use of genetically engineered microorganisms, enzymes and enrichment cultures for
+* pollution control.
+* List possible uses and limitations of recombinant DNA technology for wastewater treatment©Marine Institute
+School of Fisheries GSC Approved - Rev. May/2016
+

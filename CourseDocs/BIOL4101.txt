@@ -1,0 +1,358 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for .NET.
+BIOL 4101
+(Food Microbiology)
+
+
+
+©Marine Institute
+School of Fisheries NPC Approved - Rev. June/2012
+
+TYPE AND PURPOSE:
+
+
+
+
+CALENDAR ENTRY:
+
+
+
+SCHEDULE:
+
+
+COURSE AIMS:
+
+
+
+
+
+
+
+EVALUATION:
+
+The purpose of this course is to introduce the student to the microbiology of foods. The important parameters controlling microbial growth in foods, the microorganisms involved in spoilage of foods and the principles of microbial spoilage and their control will be discussed. Students will also be introduced to the methods of microbiological analysis of foods.
+
+Introduction; Characteristics of Micro-organisms Associated with  Foods; Microbial Growth and Nutrition; Microbial Analysis of Foods; Factors Influencing Microbial Growth in Foods; Food Spoilage; Food Preservation Methods; Microbiology of Foods; Microbial Safety of Foods
+
+Duration (DU):	13 weeks
+Lectures (LC):	3 hours per week = 39 total hours Laboratories (LH):	3 hours once per week = 39 total hours
+
+1)  To introduce the student to the microbiology of foods and the important parameters controlling microbial growth in foods.
+
+2)  To introduce the student to the microorganisms involved in spoilage of foods.
+
+3)  To convey the principles of microbial spoilage and their control.
+
+4)  To introduce students to methods of microbiological analysis of foods.
+
+Term Paper	10%
+
+Mid-term Exam	20%
+
+Laboratory Reports	30%
+
+Food Analysis Project	15%
+
+
+©Marine Institute
+School of Fisheries NPC Approved - Rev. June/2012
+
+
+Final Exam	25%
+
+
+
+©Marine Institute
+School of Fisheries NPC Approved - Rev. June/2012
+
+
+
+MAJOR TOPICS:
+Total	100%
+
+1.0 Introduction
+2.0 Characteristics of Microorganisms Associated With Foods
+3.0 Microbial Growth and Nutrition
+4.0 Microbial Analysis of Foods
+5.0 Factors Influencing Microbial Growth in Foods
+6.0 Food Spoilage
+7.0 Food Preservation Methods
+8.0 Microbiology of Foods
+9.0 Microbial Safety of Foods
+
+
+©Marine Institute
+School of Fisheries NPC Approved - Rev. June/2012
+
+2	BIOL 4101 (Food Microbiology)
+
+COURSE OUTLINE:
+1.0  Introduction
+1.1  Definitions
+1.2  Types of Microorganisms
+1.3  Properties of Microorganisms
+1.4  Importance of Microorganisms
+1.5  Activities of Microorganisms in Foods
+1.6  Sources of Microorganisms in Foods
+1.7  Importance of Food Microbiology Course
+
+2.0  Characteristics of Microorganisms Associated With Foods
+2.1  Bacteria
+2.2  Fungi
+2.3  Protozoa
+2.4  Viruses
+
+3.0  Microbial Growth and Nutrition
+3.1  Reproduction Methods
+3.2  Requirements for Growth
+3.3  Growth Phases of Bacteria
+3.4  Nutritional Requirements
+3.5  Culture Media
+3.6  Pure Culture
+
+4.0  Microbial Analysis of Foods
+4.1  Food Sampling
+4.2  Total Cell Counts
+4.3  Estimation Based on Metabolism
+4.4  Food-Borne Pathogens
+4.5  Selected Groups of Microorganisms
+
+5.0  Factors Influencing Microbial Growth in Foods
+5.1  Extrinsic Factors
+5.2  Intrinsic Factors
+
+6.0  Food Spoilage
+6.1  Causes of Spoilage
+6.2  Factors Affecting Kind and Numbers of Microorganisms in Foods
+6.3  Changes Caused by Microorganisms
+
+7.0  Food Preservation Methods
+7.1  High Temperature Food Preservation
+7.2  Low Temperature Food Preservation
+7.3  Preservation by Drying
+7.4  Preservation with Chemicals
+7.5  Radiation Preservation
+
+
+©Marine Institute
+School of Fisheries NPC Approved - Rev. June/2012
+
+BIOL 4101 (Food Microbiology)	3
+
+8.0  Microbiology of Foods
+8.1  Meats, Poultry and Seafood
+8.2  Miscellaneous Foods
+
+9.0  Microbial Safety of Foods
+9.1  Hazard Analysis Critical Control Point System (HACCP)
+9.2  Microbiological Criteria
+
+
+©Marine Institute
+School of Fisheries NPC Approved - Rev. June/2012
+
+4	BIOL 4101 (Food Microbiology)
+
+LEARNING OBJECTIVES:
+THE EXPECTED LEARNING OUTCOME IS THAT THE STUDENT WILL BE ABLE TO:
+
+1.0  Introduction
+1.1  Definitions
+* Define “microorganisms” and “microbiology”.
+1.2  Types of Microorganisms
+* List five major groups of microorganisms.
+1.3  Properties of Microorganisms
+* Describe five important properties of microorganisms.
+1.4  Importance of Microorganisms
+* Differentiate beneficial and harmful activities of microorganisms.
+1.5  Activities of Microorganisms in Foods
+* Explain the role of microorganisms in food spoilage.
+* Explain the role of microorganisms in food-borne illnesses.
+* Give at least five examples of food-borne illnesses caused by microorganisms.
+1.6  Sources of Microorganisms in Foods
+* Identify at least five sources of microbial contamination of foods.
+1.7  Importance of Food Microbiology Course
+* Justify the food microbiology course in the Food Safety Program.
+
+2.0  Characteristics of Microorganisms with Foods
+2.1  Bacteria
+* Identify three basic shapes of bacteria.
+* Identify the different arrangements of bacterial cells.
+* Describe at least five habitats of bacteria.
+2.2  Fungi
+* Describe the morphology of yeasts and molds.
+* Discuss the distribution of yeasts and molds.
+* Give examples of molds associated with spoilage/manufacture of foods.
+* Give examples of yeasts associated with spoilage/manufacture of foods.
+2.3  Protozoa
+* Describe the habitat of protozoa.
+* Describe the general properties of protozoa.
+* Give examples of protozoa responsible for food associated illnesses.
+2.4  Viruses
+* List the important properties of viruses.
+* Describe the morphology of viruses.
+* Discuss the multiplication cycle of viruses.
+* Give examples of viruses responsible for food-borne illnesses.
+
+
+©Marine Institute
+School of Fisheries NPC Approved - Rev. June/2012
+
+BIOL 4101 (Food Microbiology)	5
+
+3.0  Microbial Growth and Nutrition
+3.1  Reproduction Methods
+* Define “bacterial growth”, including binary fission.
+* Define “generation time”.
+* Describe the sexual and asexual methods of reproduction of molds and yeasts.
+* Discuss the methods of reproduction of protozoa.
+3.2  Requirements for Growth
+* Discuss how temperature affects microbial growth.
+* Classify microbes into three groups on the basis of preferred temperature range.
+* Classify microbes on the basis of oxygen requirements.
+* Illustrate with a graph the relationships between pH, osmatic pressure, and moisture on microbiological growth.
+3.3  Growth Phases of Bacteria
+* Analyze the correlation between microbial growth, phases and the generation time.
+3.4  Nutritional Requirements
+* Identify the chemical requirements for growth and discuss the importance of each.
+3.5  Culture Media
+* Define the term “medium”.
+* Identify and label different forms of media.
+* Distinguish between chemically defined and complex media.
+* Justify the use of selective and differential media.
+* Prepare culture media for growth of microorganisms.
+3.6  Pure Culture
+* Purify cultures using different methods of culture isolation.
+
+4.0  Microbial Analysis of Food
+4.1  Food Sampling
+* Select a “representative sample”.
+4.2  Total Cell Counts
+* Determine the microbial count using the direct microscopic count method.
+* Identify the advantages / disadvantages of the method.
+* Determine the total plate count in a given food sample and identify the advantages / disadvantages of the method.
+* Determine the MPN of coliforms in a given food sample and identify the advantages and disadvantages of the methods used.
+4.3  Estimation Based on Metabolism
+* Estimate the microbial count in a given milk sample using resazurin and litmus blue dye reduction tests and identify the advantages and disadvantages of the methods.
+4.4  Food-Borne Pathogens
+* Detect Salmonella in foods.
+* Detect Staphylococcus aureus in foods.
+4.5  Selected Groups of Microorganisms
+* Determine the number of yeast-mold in a given food sample.
+* Determine the thermophilic and mesophyllic spores in a given food sample.
+* Identify indicator bacteria in a given food sample.
+
+
+©Marine Institute
+School of Fisheries NPC Approved - Rev. June/2012
+
+6	BIOL 4101 (Food Microbiology)
+
+5.0  Factors Influencing Microbial Growth in Foods
+5.1  Extrinsic Factors
+– Explain the effects of the following extrinsic factors on the growth of microorganisms in foods:
+a)  storage temperature	b)	relative humidity of environment
+c)	gases in the environment
+5.2  Intrinsic Factors
+– Explain the effects of the following intrinsic factors on the growth of microorganisms in foods:
+a)  pH`	b)	moisture content
+c)	oxidation-reduction potential	d)	nutrient content
+e)	anti-microbials constituents	f)	biological structures
+
+6.0  Food Spoilage
+6.1  Causes of Spoilage
+* Define “spoilage”.
+* Identify at least five major causes of food spoilage.
+6.2  Factors Affecting Kind and Numbers of Microorganisms in Foods
+* Analyze the correlation between the kinds/numbers of microorganisms and spoilage.
+* Identify at least three factors affecting kinds and numbers of microorganisms in foods.
+6.3  Changes Caused by Microorganisms
+* Name the various types of physical changes caused by microorganisms/ activities in foods.
+* Describe the effects of microbial activities on food lipids.
+* Describe the effects of microbial activities on carbohydrates.
+* Describe the effect of microbial activities on proteins.
+* Define “putrefaction”.
+
+7.0  Food Preservation Methods
+7.1  High Temperature Food Preservation
+* Explain the effects of high temperature on growth of microorganisms.
+* Compare the heat-resistance of bacteria, yeasts and molds.
+* Discuss the factors that affect the heat-resistance of microbes.
+* Determine the thermal death time of a given bacterium.
+* Construct a thermal death curve for a specific microorganism.
+* Determine D value.
+* Determine Z value.
+* Determine F value.
+* Using the 12-D concept, determine the thermal processing time/temperature of a given food sample.
+7.2  Low Temperature Food Preservation
+* Determine the effect of low temperature on microbial growth.
+* Use different low temperature ranges to preserve various types of foods.
+* Determine the effect of freezing on microbes and the factors which affect the response of microbes to freezing.
+* Describe the changes produced in foods during freezing, storage and thawing.
+* Explain the advantages of quick freezing over slow freezing.
+
+
+©Marine Institute
+School of Fisheries NPC Approved - Rev. June/2012
+
+BIOL 4101 (Food Microbiology)	7
+
+7.3  Preservation by Drying
+* Determine the reasons for drying foods.
+* Determine the effect of drying on microbes.
+* Construct sorption isotherms of different types of foods.
+* Identify the importance of sorption isotherms.
+7.4  Preservation with Chemicals
+* List properties of an ideal preservative.
+* Identify four categories of added preservatives in foods.
+* Illustrate the properties and effects of preservatives on microbes.
+* Identify the preservatives in foods produced by microbial activities.
+7.5  Radiation Preservation
+* Explain the advantages of food irradiation.
+* Differentiate types of radiation used in food preservation.
+* Explain the principles underlying the destruction of microbes by radiation.
+* Define the following terms:
+a)	radappertization	b)	radicidation
+c)	radurization
+* Describe the effects of irradiation on food quality.
+
+8.0  Microbiology of Foods
+8.1  Meats, Poultry and Seafood
+– Identify microorganisms responsible for spoilage and methods of preservation of the following:
+a)  meats	b)	poultry
+c)	seafood
+8.2  Miscellaneous Foods
+* Identify microorganisms responsible for spoilage and methods of preservation of the following:
+
+a)	eggs
+b)
+dairy products
+c)	beers, wines and fermented foods
+
+
+d)	bakery foods
+e)
+canned foods
+f)	cereals, flour and dough products
+
+
+* Identify different types of spoilage of canned foods.
+
+9.0  Microbial Safety of Foods
+9.1  Hazard Analysis Critical Control Point System (HACCP)
+* Outline the HACCP concept and principles.
+* List the requirements for implementing an effective HACCP program.
+* Design HACCP for specific processing.
+* State the benefits and limitations of HACCP.
+9.2  Microbiological Criteria
+* Distinguish the following criteria for determining the quality of a given food sample:
+a)	mandatory criterion	b)	standard criterion
+c)	advisory criterion
+* Determine the microbiological quality of a given food sample using standards based on two-class and three-class sampling plans.
+
+
+©Marine Institute
+School of Fisheries NPC Approved - Rev. June/2012
+
+8	BIOL 4101 (Food Microbiology)©Marine Institute
+School of Fisheries NPC Approved - Rev. June/2012
+

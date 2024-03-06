@@ -1,0 +1,139 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for .NET.
+3.1.5 Diploma of Technology - Naval Architecture
+ 
+
+Program Overview: Refer to Naval Architecture Technology Overview
+
+ 
+
+Admission Requirements: Refer to Section 1.2.5 - Admission Requirements for Diplomas of Technology and Technician Diplomas of this Calendar.
+
+ 
+
+Credit Earned: Diploma of Technology
+
+ 
+
+Program Length: 3 years (6 academic terms, 3 technical sessions)
+
+ 
+
+Normal Start: Fall Semester
+
+ 
+
+Tuition and Fees: Programs and Fees
+
+ 
+
+Academic Department: School of Maritime Studies
+
+ 
+
+Contact: Admissions Officer
+(709) 778-0380
+1-800-563-5799 (ext. 380)
+email: admissions@mi.mun.ca
+
+ 
+
+Program Structure
+
+ 
+
+ 
+
+Fall Semester
+
+ (13 weeks)
+
+Winter Semester
+
+ (13 weeks)
+
+Technical Session
+
+(6 weeks)
+
+Year 1
+
+TERM 1
+CHEM 1100 (Chemistry)
+ENGR 1103 (Engineering Graphics)
+ENSY 1103 (Marine Systems)
+One of: MATH 1100 (Pre-Calculus)
+or
+MATH 1101 (Introduction to Calculus)
+NARC 1103 (Ships and Shipping)
+PHYS 1100 (Physics)
+
+TERM 2
+CMSK 1104 (Introduction to Technical Reporting)
+ENGR 1201 (Introduction to AutoCAD)
+FLDS 2100 (Fluid Mechanics)
+One of: MATH 1100 (Pre-Calculus)
+or
+MATH 1101 (Introduction to Calculus)
+or
+MATH 1200 (Calculus)
+MECH 2102 (Mechanics)
+NARC 1104 (Steel Ship Structure)
+PHYS 1200 (Physics)
+
+Technical Session 1
+
+(Late April – Early June)
+MATH 1200 (Calculus)
+MTPR 2104 (Materials and Processes)
+NARC 1101 (Ship Hull Geometry)
+
+Year 2
+
+TERM 3
+MTPR 2100 (Strength of Materials)
+MREK 2101 (Marine Engineering Knowledge)
+NARC 1303 (Vessel Operations)
+NARC 2107 (Ship Building)
+NARC 2108 (Outfitting)
+NARC 2109 (Hydrostatics)
+
+TERM 4
+ELTK 1100 (Electrotechnology)
+MATH 2101 (Advanced Calculus)
+MTPR 3100 (Strength of Materials)
+NARC 2103 (Ship Stability)
+NARC 2207 (Ship Building)
+NARC 2208 (Ship Building)
+
+Technical Session 2
+
+(Late April – Early June)
+MREK 2201 (Marine Engineering Knowledge)
+MTPR 3201 (Strength of Materials)
+NARC 3108 (Boat Design - Composite Structure)
+
+Year 3
+
+Term 5
+
+ELTK 1200 (Electrotechnology)
+NARC 2201 (Resistance and Propulsion)
+NARC 3102 (Ship Design)
+NARC 3103 (Ship Structural Design)
+NARC 3104 (Preliminary Design Project)
+NARC 3203 (Hull Form Development Project)
+
+Term 6
+NARC 3106 (Stability)
+NARC 3201 (Marine Electrical Project)
+NARC 3202 (Marine Engineering Project)
+NARC 3204 (Ship Structural Design Project)
+NARC 3206 (Ship Arrangement Project)
+NARC 3208 (Boat Design-Fabrication)
+
+Technical Session 3
+
+(Late April – Early June)
+NARC 3209 (Offshore Installations and Productions)
+NARC 3300 (Ship Design Project)
+NARC 3301 (Shipyard Management)

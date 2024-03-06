@@ -1,0 +1,288 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for .NET.
+AQUA 4108
+(Site Selection)
+
+
+
+©Marine Institute
+School of Fisheries NPC Approved - Rev. June/2005
+
+TYPE AND PURPOSE:
+
+
+CALENDAR ENTRY:
+
+SCHEDULE: COURSE AIMS:
+
+
+
+
+
+
+
+
+EVALUATION:
+
+
+
+
+MAJOR TOPICS:
+
+This course is designed to provide an overview of the criteria for selecting a suitable aquaculture site, including land-based and open-water sites for finfish and shellfish species
+
+Water Requirements; Technical Site Studies; Finfish and Shellfish Farm Planning
+
+Duration:	65 hours
+
+1)  To give students an understanding and practical experience of site selection criteria and techniques. This course is taught with  special reference to finfish and shellfish farm developments and opportunities in Newfoundland, elsewhere in Canada and in other regions of the world.
+
+2)  To make students aware of the various environmental, social and economic factors that may affect site selection criteria.
+
+3)  To give students an understanding and practical experience of the water requirements and fish farm planning logistics related to land-based and open water culture sites.
+
+Water Quality Lab	10%
+Participation	15%
+Interim Report	15%
+Farm Site Assessment Report		60% Total	100%
+
+1.0 Water Requirements
+
+2.0 Technical Site Studies
+
+3.0 Finfish and Shellfish Farm Planning
+
+
+©Marine Institute
+School of Fisheries NPC Approved - Rev. June/2005
+
+2	AQUA 4108 (Site Selection)
+
+COURSE OUTLINE:
+1.0  Water Requirements
+1.1  Fish and the Aquatic Environment
+1.2  Chemistry of Natural Waters
+1.2.1  Freshwater
+1.2.2  Seawater/Saltwater
+1.3  Parameters of Water Quality
+1.4  Analytical Techniques
+1.5  Quantitative Requirements
+1.6  Aeration
+1.7  Water Re-Use
+1.8  Fish Farm Effluent
+
+2.0  Technical Site Studies
+2.1  Finfish Farms
+2.2  Shellfish Farms
+
+3.0  Finfish and Shellfish Farm Planning
+3.1  Site Selection
+3.2  Planning Regulations
+3.3  Species Selection
+3.4  Holding Systems
+3.4.1  Water Supply
+
+
+©Marine Institute
+School of Fisheries NPC Approved - Rev. June/2005
+
+AQUA 4108 (Site Selection)	3
+
+LEARNING OBJECTIVES:
+THE EXPECTED LEARNING OUTCOME IS THAT THE STUDENT WILL BE ABLE TO:
+
+1.0  Water Requirements
+1.1  Fish and the Aquatic Environment
+– Describe the structure and function of the various systems in finfish and shellfish, including gills, circulation, osmoregulation and excretory systems.
+1.2  Chemistry of Natural Waters
+1.2.1  Freshwater
+* Outline the hydrological cycle.
+* Describe the origins and chemical nature of groundwater.
+* Describe the origins and chemical nature of characteristic surface waters in Eastern Canada.
+* Explain the use of biological indices to characterize freshwater systems.
+* Describe the origins and effects of organic and inorganic pollutants on freshwater ecosystems.
+* Detail the process of eutrophication.
+* Describe typical temperature regimes and the effects of stratification and mixing in large water bodies.
+1.2.2  Seawater/Saltwater
+* Describe the chemical composition of seawater and other saltwater bodies (soda lakes).
+* Describe the physical and biological characteristics of inshore marine waters.
+* Describe the physical and biological characteristics of other saltwater bodies (soda lakes).
+1.3  Parameters of Water Quality
+* Describe the chemistry of basic waters.
+* Define the following parameters of water quality. State the range of requirements of cultured fish species:
+
+a)
+Temperature
+b)
+Dissolved Oxygen
+c)
+pH
+d)
+Ammonia, Nitrite, Nitrate
+e)
+Carbon Dioxide
+f)
+Hardness
+g)
+Suspended Solids
+h)
+Turbidity
+I)
+Salinity
+j)
+Biological Oxygen Demand (BOD)
+k)
+Alkalinity
+l)
+Hydrogen Sulphide
+m)
+Nitrogen Gas
+n)
+Phosphorus
+o)
+Metals
+
+
+1.4  Analytical Techniques
+* Measure the chemical constituents of water listed in section 1.3.
+* Assess samples of water for suitability in fish culture operations.
+1.5  Quantitative Requirements
+* Derive and outline the typical flow requirements for freshwater salmonid operations:
+
+a)	Broodstock units
+b)
+Egg incubation
+c)	Early rearing
+d)
+Grow out
+e)	Transport
+
+
+* Describe methods for the measurement of water flow in surface streams and rivers.
+* Describe methods for the measurement of water exchange at sea-cage and lake-cage sites.
+
+
+©Marine Institute
+School of Fisheries NPC Approved - Rev. June/2005
+
+4	AQUA 4108 (Site Selection)
+
+1.6  Aeration
+* Describe the physical and chemical principles governing the oxygenation of water.
+* Describe the types and uses of aeration/oxygenation equipment in fish culture:
+
+a)	Diffusion systems
+b)
+Hydraulic systems
+c)	Air-lifts/U-tubes
+d)
+Venturi devices
+e)	Oxygen injection
+
+
+* Describe methods for determining the efficiency of aeration/oxygenation equipment.
+1.7  Recirculatory Systems
+* Describe the uses and limitations of water re-use and recycling techniques in fish culture.
+* Describe the sources of toxic metabolites in fish culture water and their effects on fish.
+* Describe typical components of water recirculatory systems. Understand the following functions:
+
+a)	Settlement systems
+b)
+Physical filtration
+c)	Ion-exchange units
+d)
+Biological filters
+e)
+Sterilization units
+f)
+Aeration devices
+g)
+Heaters
+h)
+Heat exchanges
+I)
+Cooling units
+j)
+Fish holding units
+* Outline the principles underlying the relationships between design parameters and fish carrying capacity of recirculation systems.
+* Sketch the layout and components of a water recycling system appropriate for small scale salmonid rearing. Evaluate the economics of such a system.
+1.8  Fish Farm Effluent
+* Describe the physical and chemical characteristics of fish farm effluent.
+* Describe the effects of fish farm effluent on receiving waters.
+* Outline the design and function of settlement systems for the primary treatment of fish farm effluent.
+* Describe the legal framework of pollution control.
+
+2.0  Technical Site Selection
+2.1  Finfish Farms
+– Outline the infrastructures and layout for the following finfish farms visited:
+a)  Freshwater Salmonid Hatchery	b)	Marine Hatchery
+c)  Land-based Tank and/or Raceway Farm Systems
+d)  Cage Farm Site	e)	Processing Facilities
+f)	Other Supply Structures
+* Describe the management plan and logistics of the different farm sites visited.
+* Discuss potential problems or restrictions to the existing farm sites.
+2.2  Outline the infrastructures and layout for the following shellfish farms:
+
+a)	Shellfish Hatchery
+b)
+Marine Grow-out Systems (e.g. Longline,
+
+
+trays/racks)
+c)	Processing Facilities
+d)
+Other Supply Structures
+* Describe the management plan and logistics of the different farm sites visited.
+* Discuss potential problems or restrictions to the existing farm sites.
+
+
+©Marine Institute
+School of Fisheries NPC Approved - Rev. June/2005
+
+AQUA 4108 (Site Selection)	5
+
+3.0  Finfish and Shellfish Farm Planning
+3.1  Site Selection
+* Collect and appraise data from proposed freshwater and marine farm sites:
+
+a)	Freshwater sites:
+b)
+Marine Sites:
+- water quality
+
+- water quality
+- water source/flow
+
+- current speeds/water exchange
+- site topography
+
+- tidal movement
+- access
+
+- exposure
+- communications
+
+- access
+- socio-economic factors
+
+- communications
+
+
+- socio-economic factors
+3.2  Planning Regulations
+* Review current planning regulations for fish farm development.
+3.3  Species Selection
+* Relate the requirements of individual fish species to assembled site data.
+3.4  Holding Systems
+3.4.1  Water Supply
+* Understand the principles governing water supply to tanks, ponds and raceways.
+* Determine water flow in open channels and pipes.
+* Compare the relative advantages and disadvantages of gravity fed water supplies with pumped water supplies.
+* List the various types of holding systems available for fish culture. Outline the relative advantages and disadvantages of each system in terms of fish husbandry, rearing capacity and economics of use.
+a)	Earth ponds	b)	Raceways
+c)	Tanks	d)	Cages/pens
+e)	Other systems
+* Detail the relative costs, availability and types of materials used in the fabrication of holding systems.
+* Prepare sketches of farm layouts for warmwater freshwater pond culture systems. Include details of water supply, pond layout and discharge.
+* Prepare sketches of farm layouts for coldwater freshwater fish farms. Include details of water supply, holding systems, effluent control and discharge.©Marine Institute
+School of Fisheries NPC Approved - Rev. June/2005
+

@@ -1,0 +1,285 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for .NET.
+BSMG 2110
+(Law and Environment)
+
+
+
+©Marine Institute
+School of Maritime Studies NPC Approved - Rev. Nov./2003
+
+RATIONALE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TYPE AND PURPOSE:
+
+
+
+CALENDAR ENTRY: PREREQUISITES: SCHEDULE:
+
+COURSE AIMS:
+
+
+
+
+MAJOR TOPICS:
+
+Immediately following most major disasters at sea, there is a call for new legislation to govern one or another aspect of our maritime industries. One recent example of this was the introduction by the United Sates of the Oil Pollution Act (OPA90) following the grounding of the Exxon Valdez and the subsequent oil spill. This Act created “new laws” for seafarers and for the industry which employs them. It is an excellent case study in how such laws are “created”. Not all maritime law, however, is the result of such dramatic events. Much of it comes down to us through tradition and from many other sources including international conventions.
+
+Whatever the law, its source, or purpose, the seafarer has a very large stake in understanding the nature of marine law and how they get to be a subject of it.  As well, it can be said that for the seafarer, the law is   not just “a matter of interest”. For example, the laws governing marine insurance and salvage as well as the carriage of goods by sea are indeed very practical and every day concerns for the ship's officers.
+
+The two courses in Law and the Environment then, are designed to introduce and elaborate on the elements of maritime law including the law which pertains to the marine environment. It will focus on such topics as marine insurance, salvage, and the carriage of goods by
+sea. In addition, it will deal with environmental law including the law that affords the possibility of compensation should the law fail in its purpose to protect society from some acts which unfortunately may involve maritime industries.
+
+This is the first of two advanced level courses designed to bring together the major elements of marine law and the marine environment such  that the student might understand the importance of both in their lives as professional seafarers and the intimate connection between the two.
+
+The Law and its Purposes; Marine Insurance; Salvage WKTM 1102 (Sea-Phase 1)
+Duration:	13 weeks
+Lectures:	3 hours per week
+
+1)  To enable students to understand the purposes and sources of maritime law.
+
+2)  To enable students to understand the law as it applies to such topics as marine insurance, salvage, and the carriage of goods by sea.
+
+1.0 The Law and its Purposes
+
+2.0 Marine Insurance
+
+3.0 Salvage
+
+
+©Marine Institute
+School of Maritime Studies NPC Approved - Rev. Nov./2003
+
+2	BSMG 2110 (Law and Environment)
+
+COURSE OUTLINE:
+1.0  The Law and its Purposes
+1.1  The Law
+1.2  Sources of Marine Law
+1.3  Function and Purposes Served by Law
+1.4  International Law versus Domestic Law
+
+2.0  Marine Insurance
+2.1  Master's Responsibility to Owners and Underwriters
+2.2  Making a Contract
+2.3  The Nature of Marine Insurance - Contract of Indemnity
+2.4  Insurable Interest
+2.5  The Premium
+2.6  Marine Risks
+2.7  The Avoidance of Gaming and Wagering Contracts
+2.8  Mixed Sea and Land Risks
+2.9  The New Lloyd's Policy
+2.10  The Institute Time Clauses, Hulls, and Cargo
+2.11  The Broker
+2.12  Non-disclosure - Contract of the Utmost Good Faith
+2.13  Misrepresentation
+2.14  The Classification of Policies
+2.15  The Form of the Policy
+2.16  Designation of the Subject Matter
+2.17  Attachment and Duration of the Risk
+2.17.1  Marine Risks
+2.17.2  War and Strike Risks
+2.18  The Marine Insurance Act
+2.19  Termination and Cancellation of the Policy
+2.20  Assignment
+2.21  Loss and Abandonment
+2.21.1  Actual Total Loss
+2.21.2  Constructive Total Loss
+2.21.3  The Measure of Indemnity (Total and Partial Loss)
+2.22  General Average
+2.22.1  The York/Antwerp Rules
+2.23  Liabilities to Third Parties
+2.24  Subrogation
+2.25  Reinsurance
+2.26  Mutual Insurance (P & I Coverage)
+
+
+©Marine Institute
+School of Maritime Studies NPC Approved - Rev. Nov./2003
+
+BSMG 2110 (Law and Environment)	3
+
+3.0  Salvage
+3.1  The Salvage Convention 1989
+3.1.1  Definitions
+3.1.2  Application
+3.1.3  Platforms and Drilling Units
+3.1.4  State-owned Vessels
+3.1.5  Salvage Contracts
+3.1.6  Duties of Salvor
+3.1.7  Conditions for Reward
+3.1.8  Criteria for Fixing the Reward
+3.1.9  Special Compensation
+3.1.10  Salvage of Persons
+3.1.11  The Effect of a Salvor's Misconduct
+3.1.12  Maritime Lien and Salvage
+3.2  The Salvage Convention and Canadian Law
+3.3  Lloyd's Open Form (LOF)
+
+
+©Marine Institute
+School of Maritime Studies NPC Approved - Rev. Nov./2003
+
+4	BSMG 2110 (Law and Environment)
+
+LEARNING OBJECTIVES
+THE EXPECTED LEARNING OUTCOME IS THAT THE STUDENT WILL BE ABLE TO:
+
+1.0  The Law and its Purposes
+1.1  The Law
+* Define “law”.
+1.2  Sources of Marine Law
+* Identify the sources of law as we know it today.
+1.3  Function and Purposes of Law
+* Outline the function and purposes of law as we know it today.
+1.4  International Law versus Domestic Law
+* Explain why some argue that there is no such thing as “international law”.
+* Detail how international law becomes the domestic law of Canada.
+
+2.0  Marine Insurance
+2.1  Master's Responsibility to Owners and Underwriters
+* Explain the master's responsibilities to the vessel's owners and underwriters with regard to marine insurance.
+2.2  Making a Contract
+* Describe the creation of a marine insurance contract.
+2.3  The Nature of Marine Insurance - Contract of Indemnity
+* Describe the composition of a marine insurance contract.
+2.4  Insurable Interest
+* Explain “insurable interest” as it applies to marine insurance.
+2.5  The Premium
+* Describe the basis for and extent of a marine insurance premium.
+2.6  Marine Risks
+* Explain “marine risks” as defined by marine insurance.
+2.7  The Avoidance of Gaming and Wagering Contracts
+* Describe gaming and wagering contracts and their effects on marine insurance.
+2.8  Mixed Sea and Land Risks
+* Describe briefly mixed sea and land risks and how they affect marine insurance.
+2.9  The New Lloyd's Policy
+* Explain the major differences between Lloyd's old and new insurance policies.
+2.10  The Institute Time Clauses, Hulls, and Cargo
+* Explain the importance of time and hull and cargo clauses in marine insurance policies.
+2.11  The Broker
+* Explain the function of a marine insurance broker.
+2.12  Non-disclosure - Contract of the Utmost Good Faith
+* Explain non-disclosure and its consequences under a marine insurance contract.
+2.13  Misrepresentation
+* Explain the consequences of misrepresentation in marine insurance.
+2.14  The Classification of Policies
+* List the different classifications of marine insurance policies.
+
+
+©Marine Institute
+School of Maritime Studies NPC Approved - Rev. Nov./2003
+
+BSMG 2110 (Law and Environment)	5
+
+2.15  The Form of the Policy
+* Recognize the different types of marine insurance policy forms.
+2.16  Designation of the Subject Matter
+* Explain “Subject Matter” in relation to marine insurance.
+2.17  Attachment and Duration of the Risk
+2.17.1  Marine Risks
+* List the various types of marine risks as they relate to marine insurance.
+2.17.2  War and Strike Risks
+* Explain war and strike risks and clauses and how they affect a marine insurance policy.
+2.18  The Marine Insurance Act
+* Indicate the significance of The Marine Insurance Act 1906.
+2.19  Termination and Cancellation of the Policy
+* Explain the effects of the termination and/or cancellation of a marine insurance policy.
+2.20  Assignment
+* Explain “assignment” as it relates to marine insurance.
+2.21  Loss and Abandonment
+2.21.1  Actual Total Loss
+* Explain “Actual Total Loss” under marine insurance.
+2.21.2  Constructive Total Loss
+* Explain “Constructive Total Loss” under marine insurance.
+2.21.3  The Measure of Indemnity (Total and Partial Loss)
+* Explain “indemnity” and the measure thereof in marine insurance.
+2.22  General Average
+2.22.1 The York/Antwerp Rules
+– Explain the importance of general, particular average, and the York/Antwerp Rules.
+2.23  Liabilities to Third Parties
+* Explain “third-party liability” as it relates to marine insurance.
+2.24  Subrogation
+* Explain “subrogation” under marine insurance.
+2.25  Reinsurance
+* Explain “reinsurance” as it relates to marine insurance.
+2.26  Mutual Insurance (P & I Coverage)
+* Explain the role of protection and indemnity associations in the context of marine insurance.
+
+3.0  Salvage
+3.1  The Salvage Convention 1989
+3.1.1  Definitions
+* Detail the meaning of “salvage operation”, “property”, “damage to the environment”, “payment”, “organization”, and “Secretary General”.
+3.1.2  Application
+* Identify to what and whom the 1989 Salvage Convention applies.
+3.1.3  Platforms and Drilling Units
+* Explain what the 1989 Salvage Convention says about platforms and drilling units.
+
+
+©Marine Institute
+School of Maritime Studies NPC Approved - Rev. Nov./2003
+
+6	BSMG 2110 (Law and Environment)
+
+3.1.4  State-owned Vessels
+* Detail what the 1989 Salvage Convention spells out with respect to state-owned vessels.
+3.1.5  Salvage Contracts
+* Explain what the 1989 Salvage Convention says about salvage contracts.
+3.1.6  Duties of Salvor
+* Identify what the 1989 Salvage Convention spells out to be the duty of the salvors, the owners, and the ship's master.
+3.1.7  Conditions for Reward
+* Explain the conditions for the granting of a reward.
+3.1.8  Criteria for Fixing the Reward
+* List the criteria for fixing the size of a reward.
+3.1.9  Special Compensation
+* Explain what is meant by “special compensation” and how such compensation may be granted.
+3.1.10  Salvage of Persons
+* Detail what the 1989 Salvage Convention says about the salvage of persons.
+3.1.11  The Effect of a Salvor's Misconduct
+* Clarify what happens in the event of a salvor's misconduct according to the 1989 Salvage Convention.
+3.1.12  Maritime Lien and Salvage
+* Explain the effect the 1989 Salvage Convention has on the salvor's rights with respect to maritime liens.
+3.2  The Salvage Convention and Canadian Law
+– Detail how the Salvage Convention 1989 became law in Canada.
+3.3  Lloyd's Open Form (LOF)
+– Detail the provisions of the LOF with respect to the environment and salvage.
+
+
+
+
+
+
+©Marine Institute
+School of Maritime Studies NPC Approved - Rev. Nov./2003
+
+
+EVALUATION:
+
+Mid-term Examination	50%
+
+
+©Marine Institute
+School of Maritime Studies NPC Approved - Rev. Nov./2003
+
+
+Final Examination		50% Total	100%©Marine Institute
+School of Maritime Studies NPC Approved - Rev. Nov./2003
+

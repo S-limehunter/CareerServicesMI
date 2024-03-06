@@ -1,0 +1,408 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for .NET.
+AQUA 415A
+(Site Selection)
+
+TYPE AND PURPOSE:
+This course is designed to provide an overview of the criteria for
+selecting a suitable aquaculture site, including land-based and
+open-water sites for finfish and shellfish speciesStudents will also be introduced to the application of mapping and GIS in aquaculture site selectionThis course is taught with special reference to finfish and shellfish farm developments and opportunities in Newfoundland, elsewhere in Canada and in other regions of the world.
+
+
+©Marine Institute
+School of Fisheries GSC Approved - March/2015
+
+CALENDAR ENTRY:
+
+PREREQUISITES: SCHEDULE:
+
+
+
+
+
+COURSE AIMS:
+
+
+
+
+
+
+
+
+
+
+
+
+EVALUATION:
+
+Water Requirements; Technical Site Studies; Finfish and Shellfish Farm Planning: Mapping and Geographic Information Systems (GIS)
+
+AQUA 415A:	None
+AQUA 415B:	AQUA 415A
+
+AQUA 415A:
+Duration:	13 weeks
+Lectures/Field Work:	One 2-hour session per week = 26 total hrs GIS Lab:	1 hour per week = 13 total hrs
+
+AQUA 415B:
+Duration:	13 weeks
+Lectures/Field Work:	One 2-hour session per week = 26 total hrs GIS Lab:	1 hour per week = 13 total hrs
+
+To enable the students to:
+
+1)  Develop an understanding of and gain practical experience in site selection criteria and techniques.
+
+2)  Become aware of the various environmental, social and economic factors that may affect site selection criteria.
+
+3)  Gain both understanding and practical experience in the water requirements and fish farm planning logistics related to
+land-based and open water culture sites.
+
+4)  Gain essential background information on traditional and digital mapping elements and their application in aquaculture site selection.
+
+5)  Develop a working knowledge of Geographic Information Systems.
+
+AQUA 415A:
+Water Quality Lab	10%
+
+
+©Marine Institute
+School of Fisheries GSC Approved - March/2015
+
+
+GIS Labs	10% Sub Total:	20%
+
+
+©Marine Institute
+School of Fisheries GSC Approved - March/2015
+
+2	AQUA 415A (Site Selection)
+
+AQUA 415B:
+Interim Report	10%
+
+GIS Labs	10%
+
+Farm Site Assessment Report	60% Sub Total	80%
+415A/415B: Total	100%
+
+While marks will be assigned to components of the course completed during AQUA 415A, at the end of AQUA 415A, a grade of Pass/Fail will be recorded on the transcript and the marks carried forward to AQUA 415B.
+
+
+
+©Marine Institute
+School of Fisheries GSC Approved - March/2015
+
+
+
+
+MAJOR TOPICS:
+Following the completion of AQUA 415B, a numerical grade will be assigned based upon the evaluation scheme aboveStudents must obtain final combined grade of 65% to pass AQUA 415A/415B.
+
+1.0 Water Requirements
+
+2.0 Technical Site Studies
+
+3.0 Finfish and Shellfish Farm Planning
+
+4.0 Mapping and Geographic Information Systems (GIS)
+
+
+©Marine Institute
+School of Fisheries GSC Approved - March/2015
+
+AQUA 415A (Site Selection)	3
+
+COURSE OUTLINE:
+1.0  Water Requirements
+1.1  Fish and the Aquatic Environment
+1.2  Chemistry of Natural Waters
+1.2.1  Freshwater
+1.2.2  Seawater/Saltwater
+1.3  Parameters of Water Quality
+1.4  Analytical Techniques
+1.5  Quantitative Requirements
+1.6  Aeration
+1.7  Water Re-Use
+1.8  Fish Farm Effluent
+
+2.0  Technical Site Studies
+2.1  Finfish Farms
+2.2  Shellfish Farms
+
+3.0  Finfish and Shellfish Farm Planning
+3.1  Site Selection
+3.2  Planning Regulations
+3.3  Species Selection
+3.4  Holding Systems/Water Supply
+
+4.0  Mapping and Geographic Information Systems (GIS)
+4.1  Mapping
+4.2  Nautical Charting
+4.3  Map Projections
+4.4  Spatial Reference Systems
+4.5  Geographic Information Systems (GIS)
+4.6  Global Positioning Systems (GPS)
+4.7  GIS Site Analysis Project
+
+
+©Marine Institute
+School of Fisheries GSC Approved - March/2015
+
+4	AQUA 415A (Site Selection)
+
+LEARNING OBJECTIVES:
+THE EXPECTED LEARNING OUTCOME IS THAT THE STUDENT WILL BE ABLE TO:
+
+1.0  Water Requirements
+1.1  Fish and the Aquatic Environment
+– Describe the structure and function of the various systems in finfish and shellfish, including gills, circulation, osmoregulation and excretory systems.
+1.2  Chemistry of Natural Waters
+1.2.1  Freshwater
+* Outline the hydrological cycle.
+* Describe the origins and chemical nature of groundwater.
+* Describe the origins and chemical nature of characteristic surface waters in Eastern Canada.
+* Explain the use of biological indices to characterize freshwater systems.
+* Describe the origins and effects of organic and inorganic pollutants on freshwater ecosystems.
+* Detail the process of eutrophication.
+* Describe typical temperature regimes and the effects of stratification and mixing in large water bodies.
+1.2.2  Seawater/Saltwater
+* Describe the chemical composition of seawater and other saltwater bodies (soda lakes).
+* Describe the physical and biological characteristics of inshore marine waters.
+* Describe the physical and biological characteristics of other saltwater bodies (soda lakes).
+1.3  Parameters of Water Quality
+* Describe the chemistry of basic waters.
+* Define the following parameters of water qualityState the range of requirements of cultured fish species:
+
+a)
+Temperature
+b)
+Dissolved Oxygen
+c)
+pH
+d)
+Ammonia, Nitrite, Nitrate
+e)
+Carbon Dioxide
+f)
+Hardness
+g)
+Suspended Solids
+h)
+Turbidity
+i)
+Salinity
+j)
+Biological Oxygen Demand (BOD)
+k)
+Alkalinity
+l)
+Hydrogen Sulphide
+m)
+Nitrogen Gas
+n)
+Phosphorus
+o)
+Metals
+
+
+1.4  Analytical Techniques
+* Measure the chemical constituents of water listed in section 1.3.
+* Assess samples of water for suitability in fish culture operations.
+1.5  Quantitative Requirements
+* Derive and outline the typical flow requirements for freshwater salmonid operations:
+
+a)	Broodstock units
+b)
+Egg incubation
+c)	Early rearing
+d)
+Grow out
+e)	Transport
+
+
+* Describe methods for the measurement of water flow in surface streams and rivers.
+* Describe methods for the measurement of water exchange at sea-cage and lake-cage sites.
+
+
+©Marine Institute
+School of Fisheries GSC Approved - March/2015
+
+AQUA 415A (Site Selection)	5
+
+1.6  Aeration
+* Describe the physical and chemical principles governing the oxygenation of water.
+* Describe the types and uses of aeration/oxygenation equipment in fish culture:
+
+a)	Diffusion systems
+b)
+Hydraulic systems
+c)	Air-lifts/U-tubes
+d)
+Venturi devices
+e)	Oxygen injection
+
+
+* Describe methods for determining the efficiency of aeration/oxygenation equipment.
+1.7  Water Re-Use
+* Describe the uses and limitations of water re-use and recycling techniques in fish culture.
+* Describe the sources of toxic metabolites in fish culture water and their effects on fish.
+* Describe typical components of water recirculatory systemsUnderstand the following functions:
+
+a)
+Settlement systems
+b)
+Physical filtration
+c)
+Ion-exchange units
+d)
+Biological filters
+e)
+Sterilization units
+f)
+Aeration devices
+g)
+Heaters
+h)
+Heat exchanges
+i)
+Cooling units
+j)
+Fish holding units
+* Outline the principles underlying the relationships between design parameters and fish carrying capacity of recirculation systems.
+* Sketch the layout and components of a water recycling system appropriate for small scale salmonid rearing.
+* Evaluate the economics of such a system.
+1.8  Fish Farm Effluent
+* Describe the physical and chemical characteristics of fish farm effluent.
+* Describe the effects of fish farm effluent on receiving waters.
+* Outline the design and function of settlement systems for the primary treatment of fish farm effluent.
+* Describe the legal framework of pollution control.
+
+2.0  Technical Site Studies
+2.1  Finfish Farms
+– Outline the infrastructures and layout for the following finfish farms visited:
+a)  Freshwater Salmonid Hatchery
+b)  Marine Hatchery
+c)  Land-based Tank and/or Raceway Farm Systems
+d)  Cage Farm Site
+e)  Processing Facilities
+f)  Other Supply Structures
+* Describe the management plan and logistics of the different farm sites visited.
+* Discuss potential problems or restrictions to the existing farm sites.
+2.2  Shellfish Farms
+* Outline the infrastructures and layout for the following shellfish farms:
+a)  Shellfish Hatchery
+b)  Marine Grow-out Systems (e.gLongline, trays/racks)
+c)  Processing Facilities
+d)  Other Supply Structures
+* Describe the management plan and logistics of the different farm sites visited.
+* Discuss potential problems or restrictions to the existing farm sites.
+
+
+©Marine Institute
+School of Fisheries GSC Approved - March/2015
+
+6	AQUA 415A (Site Selection)
+
+3.0  Finfish and Shellfish Farm Planning
+3.1  Site Selection
+– Collect and appraise data from proposed freshwater and marine farm sites:
+a)  Freshwater sites:
+* water quality
+* water source/flow
+* site topography
+* access
+* communications
+* socio-economic factors
+b)  Marine Sites:
+* water quality
+* current speeds/water exchange
+* tidal movement
+* exposure
+* access
+* communications
+* socio-economic factors
+3.2  Planning Regulations
+– Review current planning regulations for fish farm development.
+3.3  Species Selection
+– Relate the requirements of individual fish species to assembled site data.
+3.4  Holding Systems/Water Supply
+* Discuss the principles governing water supply to tanks, ponds and raceways.
+* Determine water flow in open channels and pipes.
+* Compare the relative advantages and disadvantages of gravity fed water supplies with pumped water supplies.
+* List the various types of holding systems available for fish culture.
+* Outline the relative advantages and disadvantages of each system in terms of fish husbandry, rearing capacity and economics of use:
+a)  Earth ponds	b)	Raceways
+c)	Tanks	d)	Cages/pens
+e)	Other systems
+* Detail the relative costs, availability and types of materials used in the fabrication of holding systems.
+* Prepare sketches of farm layouts for warmwater freshwater pond culture systems including details of water supply, pond layout and discharge.
+* Prepare sketches of farm layouts for coldwater freshwater fish farms including details of water supply, holding systems, effluent control and discharge.
+
+4.0  Mapping and Geographic Information Systems (GIS)
+4.1  Mapping
+* Define and explain the concept of a map.
+* Analyze and utilize the various mapping components.
+* Discuss the nature of true and distorted map representation.
+* Define and evaluate reference and thematic map types.
+* Demonstrate the workflow associated with the mapping process.
+* Evaluate and apply the typical map display elements.
+* Demonstrate the ability to utilize topographic mapping techniques.
+
+
+©Marine Institute
+School of Fisheries GSC Approved - March/2015
+
+AQUA 415A (Site Selection)	7
+
+4.2  Nautical Charting
+* Define and explain the concept of a nautical chart.
+* Discuss the various types of nautical charts based upon scale.
+* Analyze and utilize the various nautical chart components.
+* Evaluate and apply the typical nautical chart display elements.
+* Demonstrate the ability to utilize nautical chart work techniques.
+* Demonstrate the ability of nautical chart integration within a GIS Project.
+* Demonstrate the importance of tides when utilizing nautical chart.
+4.3  Map Projections
+* Discuss the shape of the Earth as it relates to mapping.
+* Define geodesy and analyze the concepts of the spheroid, ellipsoid and geoid.
+* Define and explain the concept of the datum as it relates to NAD27 and NAD83.
+* Define the concept of a map projection as it relates to distortion.
+* Define and discuss the different types of developable surfaces in the form of planar, cylindrical and conic.
+4.4  Spatial Reference Systems
+* Discuss the nature of the Geographic Coordinate System (GCS).
+* Demonstrate the ability to converted Geographic Coordinates.
+* Discuss the nature of the Projected Coordinate System (PCS).
+* Demonstrate the ability to extract information from a map using both spatial reference systems.
+* Demonstrate the ability to perform range and bearing calculations using a map.
+4.5  Geographic Information Systems (GIS)
+* Define and discuss the nature of Geographic Information Systems.
+* Discuss the five components of a traditional GIS system.
+* Discuss the three views of a modern GIS system.
+* Discuss the evolution of GIS from an enterprise database and web service perspective.
+* Analyze GIS applications from an Aquaculture perspective.
+* Discuss the various data layers typically utilized within an Aquaculture site selection project.
+* Demonstrate the ability to utilize various sources for topographic, marine and ancillary data.
+* Demonstrate the ability to utilize GIS technology to produce a map.
+* Demonstrate the ability to apply GIS techniques for spatial analysis.
+* Demonstrate the ability to share spatial data across many platforms.
+4.6  Global Positioning Systems (GPS)
+* Define and discuss the nature of Global Positioning Systems.
+* Demonstrate the ability to configure a GPS Receiver.
+* Demonstrate the ability to acquire field data using a GPS Receiver.
+* Demonstrate the ability to integrate GPS data into a GIS Project.
+4.7  GIS Site Analysis Project
+* Demonstrate the ability to utilize GIS software to produce a series of thematic layers associated with aquaculture for a given area.
+* Demonstrate the ability to integrate non-spatial data into a spatial data environment.
+* Demonstrate the ability to perform spatial analysis in individual thematic layers.
+
+
+©Marine Institute
+School of Fisheries GSC Approved - March/2015
+
+8	AQUA 415A (Site Selection)
+
+* Demonstrate the ability to conduct multi criteria decision making for site selection assessment.
+* Demonstrate the ability to perform data management techniques and best practices.
+* Demonstrate the ability to disseminate final map products in a professional manner.
+* Demonstrate the ability to synthesize map products within technical report for further analysis.©Marine Institute
+School of Fisheries GSC Approved - March/2015
+

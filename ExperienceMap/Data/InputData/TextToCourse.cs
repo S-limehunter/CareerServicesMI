@@ -58,8 +58,9 @@ public class TextToCourse
             using (var file = new StreamReader(path)){
                 string programName = "";
                 string degreeName = "";
-                int termCount = 0;
                 int termCounter = 0;
+                int tsCounter = 0;
+                bool flag = false;
                 Program toAdd = new();
 
                 string? currentLine = "";
@@ -73,6 +74,8 @@ public class TextToCourse
                     programName = fullTitle[1];
                 }
                 
+                toAdd = new() {ID = programName};
+                
                 do {
                     currentLine = file.ReadLine();
 
@@ -80,43 +83,76 @@ public class TextToCourse
                         continue;
                     }
 
-                    if (currentLine.Contains("Program Length")) {
-                        int first = currentLine.IndexOf('(');
-                        int last = currentLine.LastIndexOf(',');
+                    if (!flag)
+                        flag = currentLine.Contains("Year 1");
 
-                        int length = last - first;
+                    if (currentLine.Substring(0, 4).ToUpper() == "TERM" || (currentLine.Contains("Technical Session") && flag)) {
+                        List<string> courseIDs = [];
 
-                        string stuffInBrackets = currentLine.Substring(first, length);
-                        string[] bracketArray = stuffInBrackets.Split(", ");
-                        foreach (var stuff in bracketArray) {
-                            termCount += Convert.ToInt32(stuff[0]);
-                        }
+                        TermNo termNo = TermNo.T1;
 
-                        toAdd = new(termCount);
-                    }
-
-                    if (currentLine.Substring(0, 4) == "TERM" || currentLine.Contains("Technical Session")) {
-                        List<string> courseIDs = []; //???
-                        if (currentLine.Contains("Technical Session")) {
-                            for (int i = 0; i < 4; i++) {
-                            currentLine = file.ReadLine();
+                        if (currentLine.ToLower().Contains("term")){
+                            switch (termCounter)
+                            {
+                                case 0:
+                                    termNo = TermNo.T1;
+                                    break;
+                                case 1:
+                                    termNo = TermNo.T2;
+                                    break;
+                                case 2:
+                                    termNo = TermNo.T3;
+                                    break;
+                                case 3:
+                                    termNo = TermNo.T4;
+                                    break;
+                                case 4:
+                                    termNo = TermNo.T5;
+                                    break;
+                                case 5:
+                                    termNo = TermNo.T6;
+                                    break;
+                                case 6:
+                                    termNo = TermNo.T7;
+                                    break;
                             }
-                        }
+
+                            termCounter++;
+                        } 
                         else {
+                            switch (tsCounter)
+                            {
+                                case 0:
+                                    termNo = TermNo.TS1;
+                                    break;
+                                case 1:
+                                    termNo = TermNo.TS2;
+                                    break;
+                                case 2:
+                                    termNo = TermNo.TS3;
+                                    break;
+                            }
+
+                            tsCounter++;
+                        }
+
+                        toAdd.Terms.Add(new() {TermNo = termNo});
+
+                        currentLine = file.ReadLine();
+                        currentLine = file.ReadLine();
+                        if (currentLine.Contains(" – ")){ //THIS UNICODE CHARACTER is EVIL!!!
                             currentLine = file.ReadLine();
                             currentLine = file.ReadLine();
+                        }
+
+                        while (!String.IsNullOrWhiteSpace(currentLine)) {
+                            courseIDs.Add(currentLine.Substring(0, currentLine.IndexOf('(')-1)); 
+                            currentLine = file.ReadLine();
+                            // idk how to relate these to the other coursea info 
                         }
                         
-                        while (!String.IsNullOrWhiteSpace(currentLine)) {
-                            courseIDs.Add(currentLine);
-                            currentLine = file.ReadLine();
-                            // idk how to relate these to the other course info 
-                        }
-
-                        toAdd.Terms.Add(new() {TermNo = (TermNo)termCounter});
-
                         foreach (var course in courseIDs) {
-                            toAdd.AddCourseToTerm(db, (TermNo)termCounter, course);
+                            toAdd.AddCourseToTerm(db, termNo, course);
                         }
                     }
 

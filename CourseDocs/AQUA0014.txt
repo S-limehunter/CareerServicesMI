@@ -1,0 +1,241 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for .NET.
+AQUA 0014
+(Basic Farm Safety)
+(SRS #500540)
+
+
+
+©Marine Institute
+School of Fisheries NPC Approved - Jan./2012
+
+TYPE & PURPOSE:
+
+
+
+
+CALENDAR ENTRY:
+
+
+
+PRE-REQUISITES: DURATION: COURSE AIMS:
+
+
+
+
+
+
+
+
+EVALUATION:
+
+This course is designed to give workers/participants an understanding of the importance of basic farm safety practices and procedures. It includes Occupational Health and Safety (OHS), accident incident reporting, hazards related to various farm systems and activities (e.g. boating, loading and harvesting systems, storage), and safe work procedures.
+
+Workplace Health Safety and Compensation Commission (WHSCC); Occupational Health and Safety (OH&S); Hazards; New and Young Workers; Personal Protective Equipment (PPE); Safe Work Practices and Procedures
+
+WHMIS or SFTY 1104 (WHMIS)
+
+2.5 days
+
+To enable the worker/participant to:
+
+1)  Outline the structure of Occupational Health and Safety in the workplace.
+
+2)  Identify hazards related to working on an aquaculture site and how to control them.
+
+3)  Outline the procedure in accident/incident reporting.
+
+4)  Make the workplace a safer place to work.
+
+Participation	30%
+
+
+©Marine Institute
+School of Fisheries NPC Approved - Jan./2012
+
+
+Written Exam	70% 
+
+
+
+©Marine Institute
+School of Fisheries NPC Approved - Jan./2012
+
+
+
+MAJOR TOPICS:
+Total	100%
+
+1.0 Workplace Health Safety and Compensation Commission (WHSCC)
+
+2.0 Occupational Health and Safety (OH&S)
+
+3.0 Hazards
+
+4.0 New and Young Workers
+
+5.0 Personal Protective Equipment (PPE)
+
+6.0 Safe Work Practices and Procedures
+
+
+©Marine Institute
+School of Fisheries NPC Approved - Jan./2012
+
+2	AQUA 0014 (Basic Farm Safety)
+
+COURSE OUTLINE:
+
+1.0	Workplace Health Safety and Compensation Commission (WHSCC)
+
+2.0  Occupational Health and Safety (OH&S)
+2.1  OH&S
+2.2  Employer Responsibilities
+2.3  Worker Responsibilities
+2.4  Worker Health and Safety (WH&S) representative/OH&S Committee Responsibilities
+2.5  Rights, Reports and Forms
+
+3.0	Hazards
+
+4.0	New and Young Workers
+
+5.0	Personal Protective Equipment (PPE)
+
+6.0  Safe Work Practices and Procedures
+6.1  Practices and Procedures
+6.2  Safety Hazards
+6.3  Safety Practices/Procedures
+
+
+©Marine Institute
+School of Fisheries NPC Approved - Jan./2012
+
+AQUA 0014 (Basic Farm Safety)	3
+
+LEARNING OBJECTIVES:
+THE EXPECTED LEARNING OUTCOME IS THAT THE STUDENT WILL BE ABLE TO:
+
+1.0  Workplace Health Safety and Compensation Commission (WHSCC)
+* Identify the costs associated with workers getting injured in the workplace.
+* Identify the Workplace Health Safety and Compensation Commission (WHSCC).
+* Present an overview of industry statistics on injuries in the NL aquaculture industry.
+
+2.0  Occupational Health and Safety (OH&S)
+2.1  OH&S
+* Define Occupational Health and Safety.
+* Discuss provincial legislation regarding OH&S.
+* Explain the elements of an OH&S program.
+* State who is responsible for OH&S in the workplace.
+* Explain the purpose of the OH&S committee.
+* Identify who should receive OH&S education and training.
+* State when workers should receive OH&S training.
+* State in what areas workers should be trained.
+* Illustrate the importance of communication within the program.
+2.2  Employer Responsibilities
+* Identify the employers' responsibilities within the OH&S program.
+* Explain how the employer incorporates the OH&S policy into the workplace.
+2.3  Worker Responsibilities
+* Identify the workers responsibilities within the OH&S program.
+2.4  Worker Health and Safety (WH&S) representative/OH&S Committee Responsibilities
+* Identify the worker health and safety (WH&S) representative/OH&S committee responsibilities within the OH&S program.
+2.5  Rights, Reports and Forms
+* State the three rights of workers.
+* Explain the process if a worker refuses unsafe work.
+* Explain what to do if a worker gets injured.
+* Discuss how to report the injury.
+* Identify the proper forms that must be filled out.
+
+3.0  Hazards
+* Define a hazard.
+* List the steps for hazard assessment.
+* List the factors that contribute to hazards.
+* Explain how to control the hazard.
+* State why hazards should be recognized, evaluated and controlled.
+
+4.0  New and Young Workers
+* Identify what New and Young Workers need to know about safety in the workplace.
+* Review the safety checklist for new and young workers coming into the workplace.
+
+
+©Marine Institute
+School of Fisheries NPC Approved - Jan./2012
+
+4	AQUA 0014 (Basic Farm Safety)
+
+5.0  Personal Protective Equipment (PPE)
+* Identify the different types of PPE.
+* State what activities require PPE.
+
+6.0  Safe Work Practices and Procedures
+6.1  Practices and Procedures
+* Define 'a practice.'
+* Define 'a procedure.'
+* Explain how to develop safe work practices and procedures for the workplace.
+* Identify the different types of work found in the aquaculture industry.
+* Write a list of hazards for each type of work found in the workplace.
+* Write the safe practice and/or procedure(s) for each hazard.
+* State who is responsible for developing safe work practices and procedures.
+* Discuss the benefits of having safe work practices and procedures in the workplace.
+
+6.2  Safety Hazards
+* Identify the hazards associated working with the following:
+* Boat, Deck and Navigational Safety
+* Chainsaw Safety
+* Chemical, Fuel and Lubricant Safety
+* Diving Safety
+* Electrical Safety
+* Equipment and Machinery Safety
+* Ergonomics
+* Fish Injuries
+* Fire Prevention
+* First Aid and Emergencies
+* Hand and Power Tools
+* Hoisting and Conveyor Systems
+* Hydraulic Safety
+* New and Young Workers
+* Personal Protective Equipment
+* Rescue Procedures
+* Sharps Safety
+* Slip, Trip and Fall Prevention
+* Transportation Safety
+* Weather Hazards
+* Welding, Cutting or Soldering Safety
+* Winter Harvesting Safety
+* Workplace Housekeeping
+* Feed Silos
+* Confined Spaces
+
+
+©Marine Institute
+School of Fisheries NPC Approved - Jan./2012
+
+AQUA 0014 (Basic Farm Safety)	5
+
+6.3  Safety Practices/Procedures
+* List the safety practices/procedures to be put in place to control the hazards for the following:
+* Boat, Deck and Navigational Safety
+* Chainsaw Safety
+* Chemical, Fuel and Lubricant Safety
+* Diving Safety
+* Electrical Safety
+* Equipment and Machinery Safety
+* Ergonomics
+* Fish Injuries
+* Fire Prevention
+* First Aid and Emergencies
+* Hand and Power Tools
+* Hoisting and Conveyor Systems
+* Hydraulic Safety
+* New and Young Workers
+* Personal Protective Equipment
+* Rescue Procedures
+* Sharps Safety
+* Slip, Trip and Fall Prevention
+* Transportation Safety
+* Weather Hazards
+* Welding, Cutting or Soldering Safety
+* Winter Harvesting Safety
+* Workplace Housekeeping
+* Feed Silos
+* Confined Spaces©Marine Institute
+School of Fisheries NPC Approved - Jan./2012
+

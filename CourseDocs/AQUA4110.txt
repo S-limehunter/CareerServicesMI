@@ -1,0 +1,386 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for .NET.
+AQUA 4110
+(Aquaculture Cage Design and Maintenance)
+
+
+
+©Marine Institute
+School of Fisheries
+
+TYPE AND PURPOSE: CALENDAR ENTRY:
+
+
+SCHEDULE: COURSE AIMS:
+
+
+
+
+
+
+
+
+
+
+
+
+
+MAJOR TOPICS:
+
+This is an introductory course outlining floating net cages as containment systems for finfish.
+
+Introduction to Cage Aquaculture; Cage Type and Design; Cage Collars; Flotation; Net Bags; Mooring of Cages; Predator Devices; Cage Maintenance and Cleaning; Commercially Produced Aquaculture Cages; Care, Maintenance and Use of Ropes; Net Mending and Patching; Cage Construction Project; Flume Tank Observation of Model Cage
+
+Duration:	35 hours
+
+1)  To give participants an understanding of the origins of cage aquaculture.
+
+2)  To familiarize students with the various designs of aquaculture cages, including the advantages and disadvantages of each.
+
+3)  To familiarize students with each component of an aquaculture cage and its function.
+
+4)  To introduce the students to the materials, construction and maintenance required for aquaculture cages.
+
+5)  To give students an understanding of the importance of monitoring cage condition.
+
+6)  To supply students with the required information to make an intelligent decision when purchasing materials to build their own cages or when buying commercially produced cages.
+
+1.0 Introduction to Cage Aquaculture
+2.0 Cage Type and Design
+3.0 Cage Collars
+4.0   Flotation
+5.0    Net Bags
+6.0    Mooring of Cages
+7.0    Predator Devices
+8.0 Cage Maintenance and Cleaning
+9.0 Commercially Produced Aquaculture Cages
+10.0 Care, Maintenance and Use of Ropes
+11.0  Net Mending and Patching
+12.0  Cage Construction Project
+13.0 Flume Tank Observation of Model Cage
+
+
+©Marine Institute
+School of Fisheries
+
+2	AQUA 4110 (Aquaculture Cage Design & Maintenance)
+
+COURSE OUTLINE:
+1.0  Introduction to Cage Aquaculture
+1.1  Origins of Cage Aquaculture
+1.2  Cage Aquaculture Definitions
+1.3  Advantages and Disadvantages of Cage Aquaculture
+
+2.0  Cage Types and Design
+2.1  Cage Classification by Type
+2.2  Factors Affecting Cage Design
+2.3  Cage Shape and Size
+2.4  Cage Grouping
+
+3.0  Cage Collars
+3.1  Function of the Cage Collar
+3.2  Materials Used in the Cage Collar
+3.3  Cage Joins
+3.4  Hand Rails
+3.5  Useful Life
+
+4.0  Flotation
+4.1  Function of Flotation
+4.2  Various Flotation Materials and Their Buoyancy
+4.3  Useful Life
+
+5.0  Net Bags
+5.1  Function of the Net Bag
+5.2  Materials Used in the Construction of the Net Bag
+5.3  Knotless Mesh
+5.4  Mort Collection
+5.5  Weighting Net Bag
+5.6  Useful Life
+
+6.0  Mooring
+6.1  Purpose of Mooring
+6.2  Types of Mooring Systems
+6.3  Mooring Patterns
+6.4  Materials Required For Mooring
+6.5  Anchors
+6.6  Useful Life of Mooring Materials
+
+7.0  Predator Devices
+7.1  Purpose
+7.2  Predator Nets
+7.3  Noise Makers
+7.4  Other Predator Elimination Devices
+
+
+©Marine Institute
+School of Fisheries
+
+AQUA 4110 (Aquaculture Cage Design & Maintenance)	3
+
+8.0  Cage Maintenance and Cleaning
+8.1  Regular Monitoring
+8.2  Changing and Cleaning Net Bag
+
+9.0  Commercially Available Aquaculture Cage
+9.1  Comparison of Home Made and Commercial Aquaculture Cages
+9.2  Commercially Available Aquaculture Cages
+
+10.0  Care, Maintenance and Use of Ropes
+10.1  Types of Ropes
+10.2  Care of Ropes
+10.3  Wire Rope and Chain
+
+11.0  Net Mending and Patching
+11.1  Net Repair Terminology
+11.2  Arranging the Net for Mending
+11.3  Trimming a Hole for Mending
+11.4  Mending a Hole in Netting
+11.5  Patching and Temporary Repairs
+
+12.0  Cage Construction Project
+12.1  Type of cage
+12.2  Cage Specifications
+12.3  Cage Materials
+12.4  Construct a Cage
+12.5  Net-making Formulae
+
+13.0  Flume Tank Observations of Model Cage
+13.1  Model Cage Rigging
+13.2  Net Bag Distortion
+
+
+©Marine Institute
+School of Fisheries
+
+4	AQUA 4110 (Aquaculture Cage Design & Maintenance)
+
+LEARNING OBJECTIVES
+THE EXPECTED LEARNING OUTCOME IS THAT THE STUDENT WILL BE ABLE TO:
+
+1.0	Introduction to Cage Aquaculture
+1.1.	Origins of Cage Aquaculture
+– Explain when, where, and why cage aquaculture was first practiced.
+1.2  Cage Aquaculture Definitions
+* Explain the differences between pens, enclosures, and cages.
+1.3  Advantages and Disadvantages of Cage Aquaculture
+* List the advantages and disadvantages of cage aquaculture.
+
+2.0  Cage Types and Design
+2.1  Cage Classification by Type
+* List the four basic type of cages.
+* Explain the difference between fixed and floating cages.
+2.2  Factors Affecting Cage Design
+* Name and briefly explain the principal forces acting upon a floating cage.
+* Explain how forces on a cage will affect cage design.
+* Explain the factors that affect the rate of water exchange through a cage.
+* Explain what a farmer can do to maximize water exchange when designing an aquaculture cage.
+2.3  Cage Shape and Size
+* List and explain the factors that affect cage and size.
+* List the most popular cage shapes and the reasons for their popularity.
+* List the effects that cage size and shape can have on fish.
+2.4  Cage Grouping
+* Explain why cages are normally grouped.
+* List the factors that affect the number and arrangement of groupings of cages.
+* Describe the most popular arrangements for groupings of square, octagonal and circular cages.
+
+3.0  Cage Collars
+3.1  Function of the Cage Collar
+* List the functions of the cage collar.
+* Explain how the shape of a cage collar can affect its performance.
+3.2  Materials Used in the Cage Collar
+* List the most popular materials used in construction of cage collars.
+3.3  Cage Joins
+* Identify the most commonly used methods of cage collar joining.
+* Explain how separate pieces of a cage collar are normally joined together.
+* Explain the need for flexibility in cage collar joins and how flexibility is normally incorporated.
+3.4  Hand Rails
+* List the functions of hand rails on cage farms.
+3.5  Useful Life
+* Compare the useful life of cage collars constructed of wood, steel, aluminum, rubber or plastic.
+
+
+©Marine Institute
+School of Fisheries
+
+AQUA 4110 (Aquaculture Cage Design & Maintenance)	5
+
+4.0	Flotation
+4.1.	Function of the Flotation
+– List the primary functions of flotation.
+4.2  Various Flotation Materials and Their Buoyancy
+* Define “Buoyancy”.
+* Name the most popular materials used for cage flotation purposes.
+* Compare the buoyancy of the most popular flotation materials.
+4.3.	Useful Life
+– List the useful lives of several of the most popular flotation materials.
+
+5.0  Net Bags
+5.1  Function of the Net Bag
+* Explain the primary functions of the net bag.
+5.2  Materials Used in the Construction of the Net Bag
+* Discuss the various twine types commonly used in net bag assembly.
+* List the features that should be present in a twine for net bag assembly.
+5.3  Knotless Mesh
+* Explain the difference between knotted and knotless mesh and which is preferred in aquaculture.
+5.4  Incorporation of Mort Collection Device
+* Explain what a mort collection device is and give its primary function.
+* Explain the important features that should be present in a mort collection device.
+5.5  Weighting Net Bag
+* Explain why net bags are normally weighted.
+* Identify materials used in the weighing of net bags.
+5.6  Useful Life
+* List the useful lives of net bags constructed from various materials.
+
+6.0  Mooring
+6.1  Purpose of Mooring
+* Briefly explain the purpose of a mooring system.
+6.2  Types of Mooring Systems
+* Explain the difference between the two basic types of mooring systems.
+6.3  Mooring Patterns
+* Identify and briefly explain the mooring patterns often utilized for groupings of square, octagonal and round cages.
+* Explain how cage orientation can affect the stress on various components of the cages.
+6.4  Materials Required For Mooring
+* List the various components of a mooring system and the function of each.
+6.5  Anchors
+* List and briefly describe the different types of anchors.
+* Explain the advantages and disadvantages of each type of anchor.
+6.6  Useful Life of Mooring Materials
+* State the useful life of various components of a mooring system.
+
+
+©Marine Institute
+School of Fisheries
+
+6	AQUA 4110 (Aquaculture Cage Design & Maintenance)
+
+7.0  Predator Devices
+7.1  Purpose
+* Explain why predator devices are often required on fish farms.
+7.2  Predator Nets
+* Name two types of predator nets.
+* Explain how predator nets are used.
+* Identify predators that can be thwarted by predator nets.
+7.3  Noise Makers
+* Identify various types of noise makers.
+* Identify predators that are scared away using noise makers.
+7.4  Other Predator Elimination Methods
+* Explain the use of scarecrows and cris-crossing wires as predator eliminators on fish farms.
+
+8.0  Cage Maintenance and Cleaning
+8.1  Regular Monitoring
+* Explain why it is important to regularly monitor the condition of the cage collar joints, the flotation, the net bag and the mooring lines.
+8.2  Changing and Cleaning Net Bag
+* Explain the series of steps one must carry out to change and clean a fouled net bag.
+
+9.0  Commercially Available Aquaculture Cages
+9.1  Comparison of Home Made and Commercial Aquaculture Cages
+* Compare and contrast home made versus commercially available aquaculture cages in terms of cost, useful life, ease of working on and durability.
+9.2  Commercially Available Aquaculture Cages
+* List several Canadian producers of aquaculture cages.
+* Compare and contrast commercially available aquaculture cages in terms of cost, useful life, ease of working on and durability.
+
+10.0  Care, Maintenance, and Use of Ropes
+10.1  Types of Ropes
+* Explain the difference between right and left lay of rope.
+* Observe twisted and braided ropes.
+* Select the breaking strengths of ropes and wires from spec sheets.
+* Apply safety factors for use of ropes and wires.
+10.2  Care of Ropes
+* Demonstrate the breaking out of a coil of rope.
+* Plan proper storage of ropes.
+* Outline the safe loads to apply to ropes.
+10.3  Wire Rope and Chain
+* Explain the different types of construction of wire rope.
+* Select wire rope for the aquaculture industry.
+* Examine some wire rope and chain specifications.
+* Explain the proper handling of wire rope.
+
+
+©Marine Institute
+School of Fisheries
+
+AQUA 4110 (Aquaculture Cage Design & Maintenance)	7
+
+11.0  Net Mending and Patching
+11.1  Net Repair Terminology
+* Know the terms used when explaining net repairs.
+* Demonstrate the meaning of the terms with a piece of netting.
+11.2  Arranging the Net for Mending
+* Orientate the net panel for trimming and mending.
+* Inspect the tear before mending.
+11.3  Trimming a Hole for Mending
+* Demonstrate the safe use of the knife for trimming.
+* Demonstrate the cuts used to prepare a hole for mending.
+* Trim a hole in a panel of netting in preparation for mending.
+11.4  Mending a Hole in Netting
+* Tie on twine at the start position.
+* Make meshes left to right and right to left.
+* Complete repair at the finish position.
+* Discuss the importance of making proper knots.
+* Mend vertical, horizontal and varied tears in a panel of netting.
+* Explain and demonstrate the difference between repairing knotted netting and knotless netting.
+11.5  Patching and Temporary Repairs
+* Determine if a patch is required to repair a panel of netting.
+* Explain how to trim a hole to insert a patch of netting.
+* Demonstrate patching a hole in a panel of netting.
+* Discuss patch repairs that are not square or rectangular.
+* Demonstrate lacing of net panels for temporary repairs.
+* Demonstrate joining of net panels.
+
+12.0  Cage Construction Project
+12.1  Type of Cage
+* Discuss the type of cage to be constructed.
+* Express individual opinions about this cage.
+12.2  Cage Specifications
+* Review cage specifications before constructing cage.
+* Give comments on the specifications.
+12.3  Cage Materials
+* List the materials required to construct the cage.
+* Select the materials for the cage.
+12.4  Construct a Cage
+* Set up net loft to start cage construction.
+* Proceed with construction of cage.
+12.5  Net-making Formulae
+* Write the formulae used for netting calculation.
+* Calculate the stop distances for the cage netting.
+* Calculate the hanging ratio for the net bag.
+
+
+©Marine Institute
+School of Fisheries
+
+8	AQUA 4110 (Aquaculture Cage Design & Maintenance)
+
+13.0  Flume Tank Observations of Model Cage
+13.1  Model Cage Rigging
+* Discuss cage shape and rigging.
+* Explain flume tank operation.
+13.2  Net Bag Distortion
+* Take notes on cage distortion caused by currents.
+* Record current speeds inside and outside the cage.
+* Fill in data forms.
+
+
+
+
+
+
+©Marine Institute
+School of Fisheries
+
+
+EVALUATION (Part II):
+
+Course participants will complete a 50 question multiple choice exam. This will constitute 25% of the total mark.
+
+A grading scale will be developed to determine the mark obtained from the rope, knots, and splicing work. This will be 25% of the total mark. The remaining 50% will be from the construction of the aquaculture cage.
+
+Multiple Choice Exam	12.5%
+
+
+©Marine Institute
+School of Fisheries
+
+
+Practical Skills	37.5% Total	50%©Marine Institute
+School of Fisheries
+

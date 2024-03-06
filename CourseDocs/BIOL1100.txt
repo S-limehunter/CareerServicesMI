@@ -1,0 +1,323 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for .NET.
+BIOL 1100
+(Biology)
+
+TYPE AND PURPOSE:	An introductory level course designed to provide knowledge of plant and
+animal biology, and their relationships with the abiotic world.
+
+CALENDAR ENTRY:	The Chemical and Cellular Basis of Life; The Biology of Organisms; The
+Perpetuation of Life; Evolution and Ecosystems; Taxonomy, Classification, and the Scientific Method
+PREREQUISITES:	SC 1807 (Safety in Science Lab (Lab Safety)) and SC 1808 (WHMIS)
+SCHEDULE:	Duration:	13 weeks
+Lectures:	3 hours per week = 39 total hours Laboratories:	2 hours once per week = 26 total hours
+COURSE AIMS:	To enable the student to:
+
+1)  Develop a basic understanding of biological process common to life.
+
+2)  Acquire integrate, and synthesize core biological concepts across different levels of biological organization.
+
+EVALUATION:	Tests:	 40%
+Laboratories:	 15%
+Lab Exam:	 15%
+Final Exam:	 30%
+Total:	100%
+
+NOTES:
+Students will receive a maximum final grade of 45% in the course under the following conditions:
+a.  The average grade on the combined laboratory components is less than 50%. 
+OR
+b.  Fails to attend ALL labs without satisfactory documented reasons. OR
+c.  Laboratory reports are NOT submitted for ALL labs.
+MAJOR TOPICS:	1.0	The Chemical and Cellular Basis of Life
+2.0	The Biology of Organisms
+3.0	The Perpetuation of Life
+4.0	Evolution and Ecosystems
+5.0	Taxonomy, Classification, and the Scientific Method.
+
+
+
+
+©Marine Institute	School of Fisheries
+	UGSC Approved – Rev. May/2023
+8		BIOL 1100 (Biology)
+
+COURSE OUTLINE:
+1.0  The Chemical and Cellular Basis of Life
+1.1  Simple Biological Chemistry
+1.1.1  Organic Chemistry
+1.1.2  Chemical Reactions
+1.2  Cell Structure and Function
+1.2.1  Cell Theory
+1.2.2  Cell Structure
+1.2.3  Cell Function
+1.3  Photosynthesis and Cellular Respiration
+1.3.1  Photosynthesis
+1.3.2  Cellular Respiration
+
+2.0  The Biology of Organisms
+2.1  Nutrient Procurement and Processing
+2.1.1  Biogeochemical Cycles
+2.1.2  Nutrient Procurement by Plants and Animals
+2.2  Gas Exchange
+2.2.1  Mechanisms in Plants
+2.2.2  Mechanisms in Plants
+2.3  Internal Transport
+2.3.1  Transport of Water and Minerals in Vascular Plants
+2.3.2  Circulation in Higher Animals
+2.4  Filtration
+2.4.1  The Role of the Vertebrate Liver
+2.4.2  The Role of the Vertebrate Kidney
+2.5  Chemical Control
+2.5.1  Plant Hormones
+2.5.2  Hormones in Vertebrate Animals
+2.5.3  Hormonal Control of Vertebrate Reproduction
+2.6  Nervous Control
+2.6.1  Nervous Pathways in Vertebrates
+2.6.2  Transmission of Nervous Impulses
+2.6.3  Sensory Reception
+2.7  Effectors
+2.7.1  Animal Effectors
+2.7.2  Plant Effectors
+2.8  Animal Behaviour
+2.8.1  The Nature of Behaviour
+2.8.2  Animal Communication
+2.8.3  Biological Clocks
+
+3.0  The Perpetuation of Life
+3.1  Cellular Reproduction
+3.1.1  The Central Importance of the Nucleus
+3.1.2  Nucleotides
+3.1.3  The Cell Cycle
+3.1.4  Meiotic Cell Division
+
+3.2  Patterns of Inheritance
+3.2.1  Mendel and the Gene Idea
+3.2.2  From Genotype to Phenotype
+3.2.3  Genetic Variation
+
+4.0  Evolution and Ecosystems
+4.1  Evolution
+4.1.1  Evolution as Change in the Genetic Make-up of Populations.
+4.2  Ecosystem
+4.2.1  Introduction to Ecology
+4.2.2  Population Ecology
+4.2.3  Defining Ecosystem
+
+5.0  Taxonomy, Classification, and the Scientific Method
+5.1  Taxonomy
+5.2  Classification
+5.3  The Scientific Method
+
+
+©Marine Institute	School of Fisheries
+	UGSC Approved – Rev. May/2023
+
+8		BIOL 1100 (Biology)
+
+LEARNING OBJECTIVES:
+THE EXPECTED LEARNING OUTCOME IS THAT THE STUDENT WILL BE ABLE TO:
+
+1.0  The Chemical and Cellular Basis of Life
+1.1  Simple Biological Chemistry
+1.1.1  Organic Chemistry
+* Explain the significance of carbon and hydrogen in their formation of organic molecules.
+* Identify and give examples of some biologically important organic molecules such as carbohydrates, lipids, proteins, and nucleic acids.
+* Identify the structural makeup of some biologically important organic molecules such as carbohydrates, lipids, proteins, and nucleic acids.
+* Describe the biological significance of some biologically important organic molecules such as carbohydrates, lipids, proteins, and nucleic acids.
+1.1.2  Chemical Reactions
+* Distinguish between hydration synthesis and hydrolysis reactions.
+* Distinguish between unsaturated and saturated fatty acids.
+* Define enzymes and describe their function.
+* Describe the three important environmental conditions for enzyme activity.
+* Define enzymatic competition, enzyme inhibitors and coenzymes.
+1.2  Cell Structure and Function
+1.2.1  Cell Theory
+* List the three major tenants of cell theory.
+1.2.2  Cell Structure
+* Distinguish between prokaryotic and eucaryotic cells.
+* Describe the structural makeup of cell membranes, cell walls, cilia, and flagella.
+1.2.3  Cell Function
+* Describe the function of the nucleus, cell membrane, cell wall, Golgi apparatus, endoplasmic reticulum, lysosome, mitochondria, and chloroplasts.
+* Describe six ways in which proteins can aid molecules in passing through cell membranes.
+* List the major similarities and differences between plant and animal cells.
+* List the major similarities and differences between prokaryotic and eukaryotic cells.
+* Define facilitated diffusion, active transport, osmosis, diffusion, endocytosis, and exocytosis.
+1.3  Photosynthesis and Cellular Respiration
+1.3.1  Photosynthesis
+* List the three distinct events in the photosynthetic pathway.
+* Write the chemical equation for photosynthesis.
+* Recognize that the photosynthesis involves redox reactions.
+* Recognize that the photosynthesis is one of the major biochemical pathways.
+* List several ways in which photosynthesis and cellular respiration are connected.
+
+1.3.2  Cellular Respiration
+* Write the chemical equation for cellular respiration.
+* Recognize that the photosynthesis is one of the major biochemical pathways.
+* Define cellular respiration.
+* List and describe the three major steps in cellular respiration.
+* Summarize the APT yield of the respiration of glucose.
+* Describe the relationship between body size and metabolic rate.
+
+2.0  The Biology of Organisms
+2.1  Nutrient Procurement and Processing
+2.1.1  Biogeochemical Cycles
+* Describe the three cycling components of biogeochemical cycles.
+* Explain how phosphorus is important to plants and animals.
+* Explain the importance of nitrogenous species to plants and animals.
+2.1.2  Nutrient Procurement by Plants and Animals
+* Describe root structure and function in relation to nutrient procurement.
+* Define xylem and phloem.
+* Recognize and explain the functions of the main classes of compounds considered to be energy sources.
+* Define producer or consumer.
+* Recall an example of one of the nine macronutrients required by plants and describe its function in plant development.
+* Recall one main vitamin required by man, and a possible symptom due to its deficiency.
+2.2  Gas Exchange
+2.2.1  Mechanisms in Animals
+* List the mechanisms animals have evolved to cope with gas exchange.
+* Understand the relationship between respiratory medium and surface.
+* Understand countercurrent exchange across a fish’s gills.
+* Describe breathing and gas exchange in humans.
+* List adaptations of deep diving mammals that allow them to dive for hours.
+2.2.2  Mechanisms in Plants
+* Describe stomata.
+* Describe the function of stomata.
+2.3  Internal Transport
+2.3.1  Transport of Water and Minerals in Vascular Plants
+* List three levels in which transport occurs in plants.
+* Distinguish between apoplastic versus symplastic lateral transport of minerals through the roots of plants.
+* Trace the pathway of water and minerals from roots to leaves.
+* Define xylem and phloem.
+* Distinguish between transpiration, adhesion and cohesion of water molecules in plants.
+2.3.2  Circulation in Higher Animals
+* Distinguish between open and closed circulatory systems.
+* Trace the movement of blood through the human circulatory system.
+
+* Distinguish between arteries, veins and capillaries.
+* Distinguish between pulmonary and systemic circulations.
+2.4  Filtration
+2.4.1  The Role of the Vertebrate Liver
+* List the main functions of the vertebrate liver.
+* Define homeostasis.
+2.4.2  The Problem of Vertebrate Kidney.
+* List the main functions of the vertebrate kidney.
+* Recall that the nephron is the individual sub-unit of the vertebrate kidney.
+2.5  Chemical Control
+2.5.1  Plant Hormones
+* Define hormones.
+* Distinguish between the five general types of hormones in plants.
+2.5.2  Hormones in Vertebrate Animals
+* Based on structure and function, distinguish between the three chemical classes of hormones.
+* Distinguish between endocrine and exocrine glands.
+* Recognize that hormones are under control of the endocrine system.
+* Distinguish between hormones produced in the anterior and posterior pituitary glands.
+* Define pheromones.
+2.6  Nervous Control
+2.6.1  Nervous Pathways in Vertebrates
+* Differentiate between stimulus, sensation, response, and perception.
+* Define neuron.
+* Differentiate between axon and dendrite.
+* Explain the organization of the central and peripheral nervous systems.
+2.6.2  Transmission of Nervous Impulses
+* Define polarization and distinguish between polarization, depolarization, and repolarization.
+* Define neurotransmitter and recall the four chemical classes of neurotransmitters.
+2.6.3  Sensory Reception
+* List the functions of the cornea, retina, lens, or retina.
+* List the hearing sequence of sound detection in the ear.
+* List the types of touch receptors.
+2.7  Effectors
+2.7.1  Plant Effectors
+* Define effectors and tropisms.
+* Understand that plants have effector cells that respond to hormones and/or a stimulus from the environment.
+* Describe the three types of tropisms in plants.
+* Understand the difference between turgor and "sleep” movements.
+2.7.2  Animal Effectors
+* Recall the makeup of vertebrate muscle anatomy.
+* Distinguish between the two types of myofilaments.
+
+* Define sarcomere.
+* Describe the sliding filament mechanism.
+2.8  Animal Behaviour
+2.8.1  The Nature of Behaviour
+* Define anthropomorphism or ethology.
+* Compare and contrast instinctive and learned behaviour.
+* Explain a diagram about the proportions of instinctive vs learned behaviour in organisms.
+* List the different types learning exhibited by animals.
+2.8.2  Animal Communication
+* Understand the different types of animal communication.
+2.8.3  Biological Clocks
+* Understand the concept of circadian rhythms in plants and animals.
+
+3.0  The Perpetuation of Life
+3.1  Cellular Reproduction
+3.1.1  The Central Importance of the Nucleus
+* Discuss why the nucleus is the control center of the cell.
+3.1.2  Nucleotides
+* Define gene.
+* List the two types of nucleic acids.
+* List the components that make up nucleotides.
+3.1.3  The Cell Cycle
+* List the DNA/RNA base pairing rules.
+* Describe the process of DNA replication.
+* Describe the stages of protein synthesis.
+* Understand how to use the amino acid mRNA dictionary.
+* Describe the purpose of mitosis.
+* List the stages of mitotic cell division.
+* Recognize the stages of mitosis in plants and animals using images or microscope slides.
+3.1.4  Meiotic Cell Division
+* Distinguish between asexual and sexual reproduction.
+* Describe the purpose of meiosis.
+* List the phases of meiosis 1 and meiosis 2 and describe the events characteristic of each phase.
+* Recognize the phases of meiosis from diagrams or images.
+* Compare the similarities and differences between mitosis and meiosis.
+3.2  Patterns of Inheritance
+3.2.1  Mendel and the Gene Idea
+* List Mendel's laws of genetic inheritance.
+3.2.2  From Genotype to Phenotype
+* Define genotype and phenotype.
+* Use a Punnet Square to perform a single and a double-factor hybrid cross.
+* Understand the difference between heterozygous and homozygous and dominant and recessive.
+* Understand the difference between co-dominance and incomplete dominance.
+3.2.3  Genetic Variation
+* Define allele.
+* Define a homologous pair of chromosomes.
+* List the sources of genetic variation in humans.
+* Recognize the different types of mutations.
+
+4.0  Evolution and Ecosystems
+4.1  Evolution
+4.1.1  Evolution as Change in the Genetic Make-up of Populations.
+* Define evolution.
+* List the five tenants of the Darwin-Wallace theory of evolution by natural selection.
+* List the processes that effect the gene frequency in a population.
+* Discuss how genetic variation is the base material for evolution.
+* Distinguish between divergent and convergent evolution.
+4.2  Ecosystems
+4.2.1  Introduction to Ecology
+* Define ecology.
+* Describe the basic components that make up ecology.
+* List the levels of ecological hierarchy.
+* Define population, community, and ecosystem.
+* Understand limiting factors within ecosystems.
+4.2.2  Population Ecology
+* List the most important characteristics of populations of organisms.
+* Describe the factors that limit population sizes.
+* Label a population growth curve.
+* Distinguish between density dependent and density independent factors that affect populations.
+4.2.3  Defining Ecosystems
+* Characterize ecosystems as food webs or food chains based on feeding relationships.
+* Understand the difference between number, biomass, and energy pyramids.
+
+5.0  Taxonomy, Classification, and the Scientific Method
+5.1  Taxonomy
+* Define taxonomy.
+* List the eight major taxonomic levels.
+* Recognize and use binomial system of nomenclature.
+5.2  Classification
+* Recall the three-domain system of life.
+* Give examples of organisms from the three Domains of Life.
+5.3  The Scientific Method
+* Define Scientific Method.
+* List the key steps in the Scientific Method.
+* Understand the difference between correlation and cause and effect.©Marine Institute	School of Fisheries
+	UGSC Approved – Rev. May/2023
+
