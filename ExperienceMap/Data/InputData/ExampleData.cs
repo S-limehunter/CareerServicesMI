@@ -149,7 +149,7 @@ public static class Seed{
     }
 
     public static void AddCourseToTerm(this Program p, CourseContext db, TermNo t, string CourseNo){
-        Course? toAdd = db.Courses.Find(CourseNo);
+        Course toAdd = db.Courses.Find(CourseNo) ?? new() {ID = CourseNo, Title = "(NOT FOUND IN DB)"};
         var termQuery = p.Terms.Where(x => x.TermNo == t);
 
         if (termQuery is not null && toAdd is not null){
@@ -160,16 +160,14 @@ public static class Seed{
 
     public static void SeededInit(CourseContext db){
         TextToCourse.ParseCourseText("AQUA0006.txt", db);
-        db.Degrees.Add(new() {
+        TextToCourse.ParseProgramText("schmeletron2.txt", db);
+        /*db.Degrees.Add(new() {
             ID = "ExampleDegree",
             Programs = [new(9) {
                 ID = "ExampleProgram",
                 }]
             });
-        db.SaveChanges();
-
-        Program toMod = db.Degrees.ToList()[0].Programs[0];
-        toMod.AddCourseToTerm(db, TermNo.T6, "AQUA 0006");
+        db.SaveChanges();*/
         db.SaveChanges();
     }
 }

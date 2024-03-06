@@ -11,7 +11,7 @@ public class Term
     public TermNo TermNo { get; set;}
     public List<Course> Courses { get; set; } = [];
 
-    public static int termCount = 0;
+    private static int termCount = 0;
 
     public Term() {
         termCount++;
