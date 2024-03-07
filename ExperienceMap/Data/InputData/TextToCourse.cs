@@ -29,6 +29,11 @@ public class TextToCourse
                     currentLine = file.ReadLine(); 
                     if (!String.IsNullOrWhiteSpace(currentLine) && currentLine.Length > 1) {
                         if (char.IsDigit(currentLine[0]) && currentLine[1] == ')') {
+
+                            if (currentLine.Substring(2).Length <= 0){
+                                continue;
+                            }
+
                             OutcomeString += currentLine.Remove(0, 5);
                             string s = OutcomeString.Substring(0, 1).ToLower() + OutcomeString.Substring(1);
                             OutcomeString = s;
@@ -142,19 +147,55 @@ public class TextToCourse
                         }
 
                         toAdd.Terms.Add(new() {TermNo = termNo});
+                        
+                        ////
+                        ////
+                        bool flagtwo = false;
+                        while (!flagtwo) {
+                            currentLine = file.ReadLine();
 
-                        currentLine = file.ReadLine();
-                        currentLine = file.ReadLine();
-                        if (currentLine.Contains(" – ")){ //THIS UNICODE CHARACTER is EVIL!!!
-                            currentLine = file.ReadLine();
-                            currentLine = file.ReadLine();
+                            if (currentLine.Length < 4){
+                                continue;
+                            }
+
+                            foreach (var letter in currentLine.Substring(0, 4).ToLower()) {
+                                if (!char.IsAsciiLetterLower(letter)) {
+                                    continue;
+                                } 
+                            }
+
+                            foreach (var number in currentLine.Substring(6, 2)) {
+                                if (!char.IsDigit(number)) {
+                                    continue;
+                                } 
+                            }
+
+                            flagtwo = true;
                         }
+                        ////
+                        ////
 
+                        /*
+                        if (currentLine.Contains(" – ")){ //THIS UNICODE CHARACTER is EVIL!!!  --> –
+                            currentLine = file.ReadLine();
+                            currentLine = file.ReadLine();
+                        } */
+
+                        
                         while (!String.IsNullOrWhiteSpace(currentLine)) {
+                            if (currentLine == "or") {
+                                continue;
+                            }
+
+                            if (currentLine.ToLower().StartsWith("one of:")) {
+                                currentLine = currentLine.Remove(0, 8);
+                            }
+                            
                             courseIDs.Add(currentLine.Substring(0, currentLine.IndexOf('(')-1)); 
                             currentLine = file.ReadLine();
                             // idk how to relate these to the other coursea info 
                         }
+                        
                         
                         foreach (var course in courseIDs) {
                             toAdd.AddCourseToTerm(db, termNo, course);
