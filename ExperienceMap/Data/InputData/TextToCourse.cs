@@ -153,24 +153,23 @@ public class TextToCourse
                         bool flagtwo = false;
                         while (!flagtwo) {
                             currentLine = file.ReadLine();
+                            bool breakflag = false;
 
                             if (currentLine.Length < 4){
                                 continue;
                             }
 
                             foreach (var letter in currentLine.Substring(0, 4).ToLower()) {
-                                if (!char.IsAsciiLetterLower(letter)) {
-                                    continue;
-                                } 
+                                breakflag = !char.IsAsciiLetterLower(letter); 
                             }
 
                             foreach (var number in currentLine.Substring(6, 2)) {
-                                if (!char.IsDigit(number)) {
-                                    continue;
-                                } 
+                                breakflag = !char.IsDigit(number);
                             }
 
-                            flagtwo = true;
+                            if (!breakflag){
+                                flagtwo = true;
+                            }
                         }
                         ////
                         ////
@@ -184,6 +183,7 @@ public class TextToCourse
                         
                         while (!String.IsNullOrWhiteSpace(currentLine)) {
                             if (currentLine == "or") {
+                                currentLine = file.ReadLine();
                                 continue;
                             }
 

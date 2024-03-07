@@ -59,6 +59,7 @@ public static class Seed{
             "Familiarity with techniques for investigating, confirming and documenting complaints",
         ];*/
 
+        /*
         Course[] courses = (new List<string> {
             "CMSK 1105 (Technical Communications I)",
             "ELTK 1102 (Electrotechnology)",
@@ -145,17 +146,21 @@ public static class Seed{
         );
 
         db.SaveChanges();
-
+        */
     }
 
     public static void AddCourseToTerm(this Program p, CourseContext db, TermNo t, string CourseNo){
-        Course toAdd = db.Courses.Find(CourseNo) ?? new() {ID = CourseNo, Title = "(NOT FOUND IN DB)"};
         var termQuery = p.Terms.Where(x => x.TermNo == t);
 
-        if (termQuery is not null && toAdd is not null){
-            termQuery.ToList()[0].Courses.Add(toAdd);
+        if (termQuery is not null){
+            Term term = termQuery.ToList()[0];
+            Course toAdd = db.Courses.Find(CourseNo) ?? new(db) {ID = CourseNo, Title = "(NOT FOUND IN DB)"};
+
+            TermCourse termCourse = new() {Term = term, Course = toAdd};
+            db.SaveChanges();
+        } else {
+            throw new InvalidDataException();
         }
-        db.SaveChanges();
     }
 
     public static void SeededInit(CourseContext db){

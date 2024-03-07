@@ -9,7 +9,7 @@ public class Term
 {
     public int ID { get; set; }
     public TermNo TermNo { get; set;}
-    public List<Course> Courses { get; set; } = [];
+    public List<TermCourse> Courses { get; set; } = [];
 
     private static int termCount = 0;
 

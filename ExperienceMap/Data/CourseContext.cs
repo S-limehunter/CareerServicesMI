@@ -6,4 +6,8 @@ public class CourseContext : DbContext {
 
     public DbSet<Degree> Degrees { get; set; }
     public DbSet<Course> Courses { get; set; }
+
+    protected override void OnModelCreating(ModelBuilder mb){
+        mb.Entity<TermCourse>().HasKey(tc => new {tc.TermID, tc.CourseID});
+    }
 }

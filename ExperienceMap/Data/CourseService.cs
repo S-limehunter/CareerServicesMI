@@ -10,6 +10,7 @@ class CourseService(CourseContext _db)
         .Include(x => x.Programs)
         .ThenInclude(x => x.Terms)
         .ThenInclude(x => x.Courses)
+        .ThenInclude(x => x.Course)
         .ThenInclude(x => x.Outcomes)
         .ToListAsync();
     }
