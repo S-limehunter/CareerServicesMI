@@ -1,3 +1,4 @@
+using Microsoft.EntityFrameworkCore;
 namespace ExperienceMap.Data.Input;
 
 public static class Seed{
@@ -154,10 +155,15 @@ public static class Seed{
 
         if (termQuery is not null){
             Term term = termQuery.ToList()[0];
-            Course toAdd = db.Courses.Find(CourseNo) ?? new(db) {ID = CourseNo, Title = "(NOT FOUND IN DB)"};
 
+            Course? toAdd = db.Courses.Find(CourseNo);
+
+            if (toAdd is null){
+                toAdd = new(db) {ID = CourseNo, Title = "(NOT FOUND IN DB)"};
+                db.Courses.Add(toAdd);
+            }
+            
             TermCourse termCourse = new() {Term = term, Course = toAdd};
-            db.SaveChanges();
         } else {
             throw new InvalidDataException();
         }

@@ -24,7 +24,8 @@ public class TextToCourse
                     string? dud = file.ReadLine();
                     CourseName = file.ReadLine() ?? "NAME_ERR";
                     CourseTitle = file.ReadLine() ?? "TITLE_ERR";
-                }                
+                }
+
                 do {
                     currentLine = file.ReadLine(); 
                     if (!String.IsNullOrWhiteSpace(currentLine) && currentLine.Length > 1) {
@@ -41,6 +42,7 @@ public class TextToCourse
                             OutcomeString = "An understanding of " + OutcomeString;
                             Skills.Add(OutcomeString);
                         }
+
                         if (currentLine[0] == '*') {
 
                             OutcomeString += currentLine.Remove(0,1);
@@ -53,6 +55,7 @@ public class TextToCourse
                 //Console.WriteLine(OutcomeString);
                 //Skills = OutcomeString.Split('*'); 
                 db.Courses.Add(new() {ID = CourseName, Title = CourseTitle, Outcomes = Skills});
+                db.SaveChanges();
             } 
         } catch (NotSupportedException) {
             Console.WriteLine("File format not supprted.");
@@ -74,7 +77,6 @@ public class TextToCourse
                 Program toAdd = new();
 
                 string? currentLine = "";
-
                 
                 {
                     string? dud = file.ReadLine();
@@ -85,6 +87,17 @@ public class TextToCourse
                 }
                 
                 toAdd = new() {ID = programName};
+
+                Degree? d = db.Degrees.Find(degreeName);
+                if (d is not null){
+                    d.Programs.Add(toAdd);
+                } else {
+                    d = new() {ID = degreeName};
+                    d.Programs.Add(toAdd);
+                    db.Degrees.Add(d);
+                }
+
+                //db.SaveChanges();
                 
                 do {
                     currentLine = file.ReadLine();
@@ -147,7 +160,8 @@ public class TextToCourse
                         }
 
                         toAdd.Terms.Add(new() {TermNo = termNo});
-                        
+                        //db.SaveChanges();
+
                         ////
                         ////
                         bool flagtwo = false;
@@ -197,8 +211,10 @@ public class TextToCourse
                         }
                         
                         
+                        //db.SaveChanges();
                         foreach (var course in courseIDs) {
                             toAdd.AddCourseToTerm(db, termNo, course);
+                            //db.SaveChanges();
                         }
                     }
 
@@ -222,14 +238,6 @@ public class TextToCourse
                     }*/
                 } while(currentLine != null);
 
-                Degree? d = db.Degrees.Find(degreeName);
-                if (d is not null){
-                    d.Programs.Add(toAdd);
-                } else {
-                    d = new() {ID = degreeName};
-                    d.Programs.Add(toAdd);
-                    db.Degrees.Add(d);
-                }
             } 
         }
         catch (NotSupportedException) {
