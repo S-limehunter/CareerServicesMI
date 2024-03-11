@@ -8,6 +8,8 @@ public class CourseContext : DbContext {
     public DbSet<Course> Courses { get; set; }
 
     protected override void OnModelCreating(ModelBuilder mb){
-        mb.Entity<TermCourse>().HasKey(tc => new {tc.TermID, tc.CourseID});
+        mb.Entity<Course>()
+        .HasMany(c => c.Terms)
+        .WithMany(t => t.Courses);
     }
 }

@@ -97,7 +97,7 @@ public class TextToCourse
                     db.Degrees.Add(d);
                 }
 
-                //db.SaveChanges();
+                db.SaveChanges();
                 
                 do {
                     currentLine = file.ReadLine();

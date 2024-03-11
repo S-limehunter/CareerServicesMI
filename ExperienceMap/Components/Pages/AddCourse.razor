@@ -66,9 +66,9 @@
           <b>@term.TermLabel</b>
           @foreach (var crs in term.Courses) {
             <Collapse>
-              <Panel Header="@(crs.Course.ID + " " + crs.Course.Title)">
-                <p>Skills for @crs.Course.ID</p>
-                  @foreach (var skls in crs.Course.Outcomes) {
+              <Panel Header="@(crs.ID + " " + crs.Title)">
+                <p>Skills for @crs.ID</p>
+                  @foreach (var skls in crs.Outcomes) {
                   <p>@skls
                     <br/>
                   </p>

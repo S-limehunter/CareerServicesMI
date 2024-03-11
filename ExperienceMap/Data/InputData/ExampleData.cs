@@ -162,8 +162,10 @@ public static class Seed{
                 toAdd = new(db) {ID = CourseNo, Title = "(NOT FOUND IN DB)"};
                 db.Courses.Add(toAdd);
             }
-            
-            TermCourse termCourse = new() {Term = term, Course = toAdd};
+
+            toAdd.Terms.Add(term);
+            term.Courses.Add(toAdd);
+
         } else {
             throw new InvalidDataException();
         }
