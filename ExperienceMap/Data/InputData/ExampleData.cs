@@ -170,6 +170,7 @@ public static class Seed{
         foreach (var file in Directory.GetFiles(Path.Join(TextPath, "CourseDocs"))){
             TextToCourse.ParseCourseText(file, db);
         }
+        db.SaveChanges();
 
         foreach (var file in Directory.GetFiles(Path.Join(TextPath, "ProgramDocs"))){
             TextToCourse.ParseProgramText(file, db);
