@@ -19,6 +19,6 @@ public class TermCourse{
     public string CourseID { get; set; }
     public Course Course { get; set; }
 
-    public string TermID { get; set; }
+    public int TermID { get; set; }
     public Term Term { get; set; }
 }
