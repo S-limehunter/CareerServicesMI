@@ -158,12 +158,11 @@ public static class Seed{
 
             Course? toAdd = db.Courses.Find(CourseNo);
 
-            if (toAdd is null){
+            if (toAdd is null){ //is this wrong
                 toAdd = new(db) {ID = CourseNo, Title = "(NOT FOUND IN DB)"};
-                db.Courses.Add(toAdd);
+                //db.Courses.Add(toAdd); // delete this line
             }
 
-            toAdd.Terms.Add(term);
             term.Courses.Add(toAdd);
 
         } else {
@@ -175,6 +174,7 @@ public static class Seed{
         string TextPath = Path.Join(Directory.GetCurrentDirectory(), "TextFiles");
         Console.WriteLine(TextPath);
 
+        db.SaveChanges(); //I sweat ro gof
         foreach (var file in Directory.GetFiles(Path.Join(TextPath, "CourseDocs"))){
             TextToCourse.ParseCourseText(file, db);
         }

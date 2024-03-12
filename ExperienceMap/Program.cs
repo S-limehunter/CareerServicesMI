@@ -47,6 +47,8 @@ using (var scope = app.Services
 {
     var db = scope.ServiceProvider.GetRequiredService<CourseContext>();
     //TextToCourse.ParseCourseText("MENV1100.txt");
+    var soup = db.Database.EnsureDeleted();
+
     if (db.Database.EnsureCreated()){
         db.ChangeTracker.Clear();
         Seed.SeededInit(db);
