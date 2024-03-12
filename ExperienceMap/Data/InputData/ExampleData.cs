@@ -154,12 +154,12 @@ public static class Seed{
         var termQuery = p.Terms.Where(x => x.TermNo == t);
 
         if (termQuery is not null){
-            Term term = termQuery.ToList()[0];
+            Term term = termQuery.ToList()[0]; //def a better way than index
 
             Course? toAdd = db.Courses.Find(CourseNo);
 
             if (toAdd is null){ //is this wrong
-                toAdd = new(db) {ID = CourseNo, Title = "(NOT FOUND IN DB)"};
+                toAdd = new(db, CourseNo, "(NOT FOUND IN DB)");
                 //db.Courses.Add(toAdd); // delete this line
             }
 

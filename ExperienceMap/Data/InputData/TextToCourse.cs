@@ -96,8 +96,6 @@ public class TextToCourse
                     d.Programs.Add(toAdd);
                     db.Degrees.Add(d);
                 }
-
-                db.SaveChanges();
                 
                 do {
                     currentLine = file.ReadLine();
@@ -237,7 +235,6 @@ public class TextToCourse
                         }
                     }*/
                 } while(currentLine != null);
-
             } 
         }
         catch (NotSupportedException) {

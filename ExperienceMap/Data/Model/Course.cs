@@ -10,7 +10,12 @@ public class Course() {
 
     public virtual List<Term> Terms { get; set; } = [];
 
-    public Course(CourseContext db) : this() {
+    public Course(string _ID, string _title) : this() {
+        ID = _ID;
+        Title = _title;
+    }
+
+    public Course(CourseContext db, string _ID, string _title) : this(_ID, _title) {
         db.Courses.Add(this);
     }
 }

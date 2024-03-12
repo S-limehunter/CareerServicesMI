@@ -4,6 +4,8 @@ public class Program
 {
     public string ID { get; set; } = "defaultID";
     public List<Term> Terms { get; set; } = [];
+
+    public string DegreeID { get; set; }
     public Degree Degree { get; set; } 
     public int TermCount { get; set; }
 
