@@ -2,7 +2,7 @@
 @using AntDesign
 @inject IconService iconService
 
-<div class="page" style="background-color: white;">
+<div class="page" style="background-color: white; width: 100%">
 
         <div style="margin-top: 8px;">
             <GridRow>
@@ -19,7 +19,7 @@
                     </div>
                 </GridCol>
             </GridRow>    
-                <Layout Class="site-layout" style="background-image: url('/image/wave_background.svg'); padding-bottom: 60px; width: 100vw;">
+                <Layout Class="site-layout" style="background-image: url('/image/wave_background.svg'); padding-bottom: 60px; width: 100%;">
                     <Sider @bind-Collapsed=@collapse NoTrigger style="background-color: white;">
                         <Menu DefaultSelectedKeys="@(new[] {"1"})"
                             DefaultOpenKeys="@(new[] {"sub1"})"
@@ -43,7 +43,7 @@
                                  </MenuItem> 
                         </Menu>
                     </Sider>
-                     <div style="margin: 80px; width: 100vw;">  
+                     <div style="margin: 80px; width: 100%;">  
                         <div class="site-layout-background" style="border-radius: 25px; background-color: white; text-align: left; overflow-wrap: break-word; padding: 20px; min-height: 100vh;">
                             <div style="position: absolute; bottom: 0; left: 80%; margin-bottom: 75px;">
                                 <img src="image/seashells.png" style="transform: rotate(270deg); opacity: 0.4; float: right;" width="100"/>
