@@ -68,7 +68,8 @@ public class TextToCourse
 
     public static void ParseProgramText(string path, CourseContext db){
         
-        try {
+        try
+        {
             using var file = new StreamReader(path);
             Console.WriteLine($"Currently Parsing:\n {path}");
 
@@ -81,17 +82,7 @@ public class TextToCourse
             toAdd = new() { ID = programName };
 
             // instantiate degree
-            Degree? d = db.Degrees.Find(degreeName);
-            if (d is not null)
-            {
-                d.Programs.Add(toAdd);
-            }
-            else
-            {
-                d = new() { ID = degreeName };
-                d.Programs.Add(toAdd);
-                db.Degrees.Add(d);
-            }
+            MakeDegree(db, toAdd, degreeName);
 
             //main loop
             bool flag = false;
@@ -110,92 +101,7 @@ public class TextToCourse
                     flag = currentLine.Contains("Year 1");
 
                 //scan for terms
-                if (currentLine.Substring(0, 4).ToUpper() == "TERM" || (currentLine.Contains("Technical Session") && flag))
-                {
-                    TermNo termNo = TermNo.T1;
-
-                    // get term/techsesh number
-                    if (currentLine.ToLower().Contains("term"))
-                    {
-                        switch (termCounter)
-                        {
-                            case 0:
-                                termNo = TermNo.T1;
-                                break;
-                            case 1:
-                                termNo = TermNo.T2;
-                                break;
-                            case 2:
-                                termNo = TermNo.T3;
-                                break;
-                            case 3:
-                                termNo = TermNo.T4;
-                                break;
-                            case 4:
-                                termNo = TermNo.T5;
-                                break;
-                            case 5:
-                                termNo = TermNo.T6;
-                                break;
-                            case 6:
-                                termNo = TermNo.T7;
-                                break;
-                        }
-
-                        termCounter++;
-                    }
-                    else
-                    {
-                        switch (tsCounter)
-                        {
-                            case 0:
-                                termNo = TermNo.TS1;
-                                break;
-                            case 1:
-                                termNo = TermNo.TS2;
-                                break;
-                            case 2:
-                                termNo = TermNo.TS3;
-                                break;
-                        }
-
-                        tsCounter++;
-                    }
-
-                    toAdd.Terms.Add(new() { TermNo = termNo });
-
-                    //go to course block
-                    bool flagtwo = false;
-                    while (!flagtwo)
-                    {
-                        currentLine = file.ReadLine();
-                        bool breakflag = false;
-
-                        if (currentLine.Length < 4)
-                        {
-                            continue;
-                        }
-
-                        foreach (var letter in currentLine.Substring(0, 4).ToLower())
-                        {
-                            breakflag = !char.IsAsciiLetterLower(letter);
-                        }
-
-                        foreach (var number in currentLine.Substring(6, 2))
-                        {
-                            breakflag = !char.IsDigit(number);
-                        }
-
-                        if (!breakflag)
-                        {
-                            flagtwo = true;
-                        }
-                    }
-
-                    currentLine = GetCourseBlock(file, currentLine, out List<string> courseIDs);
-
-                    AddCourses(db, toAdd, courseIDs, termNo);
-                }
+                ScanTerms(db, file, toAdd, ref currentLine, flag, ref termCounter, ref tsCounter);
 
             } while (currentLine != null);
         }
@@ -204,6 +110,123 @@ public class TextToCourse
             Console.WriteLine("File format not supported");
         }
 
+    }
+
+    private static void MakeDegree(CourseContext db, Program toAdd, string degreeName)
+    {
+        Degree? d = db.Degrees.Find(degreeName);
+        if (d is not null)
+        {
+            d.Programs.Add(toAdd);
+        }
+        else
+        {
+            d = new() { ID = degreeName };
+            d.Programs.Add(toAdd);
+            db.Degrees.Add(d);
+        }
+    }
+
+    private static void ScanTerms(CourseContext db, StreamReader file, Program toAdd, ref string? currentLine, bool flag, ref int termCounter, ref int tsCounter)
+    {
+        if (currentLine.Substring(0, 4).ToUpper() == "TERM" || (currentLine.Contains("Technical Session") && flag))
+        {
+
+            // get term/techsesh number
+            TermNo termNo = GetTermNo(currentLine, ref termCounter, ref tsCounter);
+
+            toAdd.Terms.Add(new() { TermNo = termNo });
+
+            //go to course block
+            bool flagtwo = false;
+            BreakBlock(file, ref currentLine, ref flagtwo);
+
+            currentLine = GetCourseBlock(file, currentLine, out List<string> courseIDs);
+
+            AddCourses(db, toAdd, courseIDs, termNo);
+        }
+    }
+
+    private static TermNo GetTermNo(string? currentLine, ref int termCounter, ref int tsCounter)
+    {
+        TermNo termNo = TermNo.T1;
+        if (currentLine.ToLower().Contains("term"))
+        {
+            switch (termCounter)
+            {
+                case 0:
+                    termNo = TermNo.T1;
+                    break;
+                case 1:
+                    termNo = TermNo.T2;
+                    break;
+                case 2:
+                    termNo = TermNo.T3;
+                    break;
+                case 3:
+                    termNo = TermNo.T4;
+                    break;
+                case 4:
+                    termNo = TermNo.T5;
+                    break;
+                case 5:
+                    termNo = TermNo.T6;
+                    break;
+                case 6:
+                    termNo = TermNo.T7;
+                    break;
+            }
+
+            termCounter++;
+        }
+        else
+        {
+            switch (tsCounter)
+            {
+                case 0:
+                    termNo = TermNo.TS1;
+                    break;
+                case 1:
+                    termNo = TermNo.TS2;
+                    break;
+                case 2:
+                    termNo = TermNo.TS3;
+                    break;
+            }
+
+            tsCounter++;
+        }
+
+        return termNo;
+    }
+
+    private static void BreakBlock(StreamReader file, ref string? currentLine, ref bool flagtwo)
+    {
+        while (!flagtwo)
+        {
+            currentLine = file.ReadLine();
+            bool breakflag = false;
+
+            if (currentLine.Length < 4)
+            {
+                continue;
+            }
+
+            foreach (var letter in currentLine.Substring(0, 4).ToLower())
+            {
+                breakflag = !char.IsAsciiLetterLower(letter);
+            }
+
+            foreach (var number in currentLine.Substring(6, 2))
+            {
+                breakflag = !char.IsDigit(number);
+            }
+
+            if (!breakflag)
+            {
+                flagtwo = true;
+            }
+        }
     }
 
     private static string? GetCourseBlock(StreamReader file, string? currentLine, out List<string> courseIDs)
