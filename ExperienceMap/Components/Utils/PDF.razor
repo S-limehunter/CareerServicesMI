@@ -1,0 +1,29 @@
+@namespace ExperienceMap
+@using AntDesign
+@rendermode InteractiveServer
+
+<Button @onclick="() => showHide = !showHide" style="margin: 20px 0px 20px 0px">
+    @if (showHide){
+        <p>hide PDF</p>
+    } else {
+        <p>show PDF</p>
+    }
+</Button>
+
+@if (showHide){
+<div>
+    <center>
+    <object data=@path
+    width="850"
+    height="1100">
+
+    </object>
+    </center>
+</div>
+}
+
+@code {
+    [Parameter]
+    public string path { get; set; }
+    bool showHide = false;
+}

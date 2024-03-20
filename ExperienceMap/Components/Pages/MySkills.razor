@@ -5,6 +5,7 @@
 @inject HttpClient HttpClient
 @inject CourseService CService
 
+@using ExperienceMap
 @using ExperienceMap.Data
 
   <h1>Resources</h1>
@@ -23,9 +24,11 @@
         </p>
     </div>
 </div>
-<br/><br/>
+<br/>
+<br/>
 
-
-
-    
-
+<div id="example-resumes">
+    <h2>Example Resumes</h2>
+    <br/>
+    <PDF path="AKhan_resume.pdf"/> <!-- change to list of resumes, give instructional header -->
+</div>

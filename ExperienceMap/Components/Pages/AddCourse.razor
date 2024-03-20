@@ -61,6 +61,14 @@
     <GridCol Span="16">
       <div style="overflow-wrap: break-word; padding: 10px; border: 1px solid #ececf2; border-radius: 15px; margin-top: 10px; min-height: 100vh; background-color: #ececf2;">
         <h3 style="color: rgb(69, 69, 70)"><center>Selected Terms</center></h3>
+        
+        @if (addedTerms.Count == 0) {
+          @foreach (var part in instructions) {
+          <p>@part</p>
+          }
+        }
+        else{}
+
         @foreach (var term in addedTerms) {
           <Button Size="large" icon="close" @onclick="() => Delete(term)" style="margin: 20px 10px 20px 0px" />
           <b>@term.TermLabel</b>
@@ -84,6 +92,9 @@
 
   
   @code{
+
+    public List<string> instructions = ["Select your Degree, Program, and Terms in the dropdown menu to the left to view the technical skills for your courses.",
+                                  "TIP: Hit ctrl + f to search for possible keywords based on job descriptions."];
 
     public List<string> names = new() {"oeb", "tro", "tree"};
     public List<bool> isChecked = new() {true, true, false};

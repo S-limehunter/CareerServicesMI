@@ -36,11 +36,23 @@
                                         Program Review
                                     </MenuLink>
                                  </MenuItem> 
-                                 <MenuItem Key="3" Icon="paper-clip">
-                                    <MenuLink Href="/myskills">
-                                        Resources
+                                
+                                 <SubMenu TitleTemplate=@sub1Title> 
+                                 <MenuItem Key="3">
+                                    <MenuLink Href="/myskills"> 
+                                    Soft Skills Quizzes
                                     </MenuLink>
                                  </MenuItem> 
+                                 <MenuItem Key="4">
+                                    <MenuLink Href="/myskills#example-resumes"> 
+                                    Example Resumes
+                                    </MenuLink>
+                                 </MenuItem> 
+                                 </SubMenu>
+                                 
+
+                                   
+                                
                         </Menu>
                     </Sider>
                      <div style="margin: 80px; width: 100vw;">  
@@ -63,7 +75,6 @@
     </Footer>
 </div>
 
-
 <div id="blazor-error-ui">
     An unhandled error has occurred.
     <a href="" class="reload">Reload</a>
@@ -72,6 +83,17 @@
 
 @code {
     bool collapse = true;
+
+    RenderFragment sub1Title =
+    @<span> 
+        <Icon Type="paper-clip"></Icon>
+        <span> 
+            <a href="/myskills">
+            Resources
+            </a>
+
+        </span>
+    </span>;
 
     void ToggleCollapsed(){
         collapse = !collapse;
